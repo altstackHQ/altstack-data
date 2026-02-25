@@ -1,0 +1,40 @@
+name: Add New Alternative Tool
+description: Propose a new open-source alternative to a popular SaaS product.
+title: "[New Tool]: "
+labels: ["add-tool", "needs-review"]
+body:
+  - type: input
+    id: proprietary_tool
+    attributes:
+      label: Proprietary Tool (Parent)
+      description: What proprietary tool does this replace? (e.g., Slack, Notion)
+    validations:
+      required: true
+  - type: input
+    id: alternative_name
+    attributes:
+      label: Open Source Alternative Name
+      description: What is the name of the OSS alternative?
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website or GitHub URL
+      description: Link to the alternative's main page.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief paragraph describing what it does.
+    validations:
+      required: true
+  - type: textarea
+    id: pros_cons
+    attributes:
+      label: Pros and Cons
+      description: List a few pros and cons for using this alternative.
+    validations:
+      required: true

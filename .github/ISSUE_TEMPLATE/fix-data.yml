@@ -1,0 +1,26 @@
+name: Fix Data Error
+description: Report a bug, broken link, or incorrect data point in the open-source dataset.
+title: "[Data Fix]: "
+labels: ["fix-data", "needs-review"]
+body:
+  - type: input
+    id: alternative_name
+    attributes:
+      label: Open Source Alternative Name
+      description: What is the name of the OSS alternative that needs fixing?
+    validations:
+      required: true
+  - type: textarea
+    id: what_is_wrong
+    attributes:
+      label: What is Wrong?
+      description: Please describe the incorrect data point (e.g., pricing link is a 404).
+    validations:
+      required: true
+  - type: textarea
+    id: what_is_right
+    attributes:
+      label: Expected Fix
+      description: What should the data be corrected to? Provide links to evidence if possible.
+    validations:
+      required: true

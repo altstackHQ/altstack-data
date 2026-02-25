@@ -1,0 +1,19 @@
+name: Add Deployment Guide
+description: Propose to add a new self-hosted deployment guide for an alternative tool.
+title: "[New Guide]: "
+labels: ["new-guide", "needs-review", "docs"]
+body:
+  - type: input
+    id: alternative_name
+    attributes:
+      label: Open Source Alternative Name
+      description: What is the name of the OSS alternative?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Guide Outline
+      description: Briefly describe what the self-host guide will cover (e.g., Docker Compose, CapRover integration).
+    validations:
+      required: true

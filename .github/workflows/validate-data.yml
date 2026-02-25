@@ -1,0 +1,28 @@
+name: Validate JSON Data
+
+on:
+  push:
+    paths:
+      - 'data/**/*.json'
+  pull_request:
+    paths:
+      - 'data/**/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Check JSON Validity
+        run: |
+          for file in $(find data -name "*.json"); do
+            echo "Validating $file..."
+            jq empty "$file" || exit 1
+          done
+          echo "All JSON files are valid."
