@@ -1,0 +1,56 @@
+---
+title: "SSL/TLS for Self-Hosters"
+description: "HTTPS for your self-hosted tools. How SSL works, why you need it, and how to set it up with Caddy or Let's Encrypt."
+---
+
+# SSL/TLS for Self-Hosters
+
+**SSL/TLS** is what makes the padlock appear in your browser. It encrypts traffic between your users and your server so nobody can snoop on it.
+
+Every self-hosted tool accessible from the internet **must** have HTTPS. No exceptions.
+
+## The Easy Way: Caddy (Automatic)
+
+If you followed our [reverse proxy guide](/concepts/reverse-proxies) and are using Caddy, **you already have SSL**. Caddy obtains and renews Let's Encrypt certificates automatically for every domain in your Caddyfile.
+
+No config needed. No cron jobs. No certbot. It just works.
+
+> 🔥 **Pro Tip:** This is the #1 reason we recommend Caddy over Nginx.
+
+## The Manual Way: Let's Encrypt + Certbot
+
+If you're using raw Nginx, you'll need certbot:
+
+```bash
+# Install certbot
+apt install certbot python3-certbot-nginx -y
+
+# Obtain a certificate
+certbot --nginx -d plausible.yourdomain.com
+
+# Verify auto-renewal
+certbot renew --dry-run
+```
+
+Certbot will modify your Nginx config automatically and set up a cron job for renewal.
+
+## SSL Checklist
+
+After setting up SSL, verify:
+
+- [ ] Site loads on `https://` (padlock visible)
+- [ ] `http://` redirects to `https://` automatically
+- [ ] Certificate is from Let's Encrypt (click padlock → "Certificate")
+- [ ] No mixed-content warnings in browser console
+
+## Common Gotchas
+
+**"Certificate not found"** → Your DNS hasn't propagated yet. Wait 5–10 minutes and try again.
+
+**"Too many requests"** → Let's Encrypt rate-limits to 50 certificates/week per domain. If you're testing, use `--staging` flag first.
+
+**"Connection refused on port 443"** → Port 443 isn't open in your firewall. Run: `ufw allow 443/tcp`
+
+## Next Steps
+
+→ [Backups That Actually Work](/concepts/backups) — Protect the data you're securing with SSL

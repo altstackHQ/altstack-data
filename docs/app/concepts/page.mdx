@@ -1,0 +1,56 @@
+---
+title: "Concepts"
+description: "The foundational knowledge for self-hosting. Docker, networking, security, backups — explained like you're a human, not a sysadmin."
+---
+
+# Concepts
+
+Before you deploy anything, understand the building blocks. These guides cover the **why** and **how** behind self-hosting infrastructure — no fluff, no PhD required.
+
+> 📖 **Reading order matters.** Start from the top and work down. Each article builds on the one before it.
+
+---
+
+## The Foundations
+
+These four are non-negotiable. Read them before your first deploy.
+
+| # | Guide | What You'll Learn |
+|---|---|---|
+| 1 | [Docker in 10 Minutes](/concepts/docker-basics) | Images, containers, volumes, Docker Compose — the only 4 concepts you need |
+| 2 | [Networking for Self-Hosters](/concepts/networking) | Ports, DNS, firewalls, and why your tool isn't accessible from the internet |
+| 3 | [Reverse Proxies Explained](/concepts/reverse-proxies) | Map `app.yourdomain.com` to your containers with Caddy |
+| 4 | [SSL/TLS for Self-Hosters](/concepts/ssl-tls) | HTTPS, Let's Encrypt, and why it matters |
+
+---
+
+## Running in Production
+
+Once your tools are deployed, keep them alive and healthy.
+
+| # | Guide | What You'll Learn |
+|---|---|---|
+| 5 | [Environment Variables & Secrets](/concepts/env-secrets) | `.env` files, Docker secrets, and never hardcoding passwords again |
+| 6 | [Monitoring & Observability](/concepts/monitoring) | Know when things break before your users do |
+| 7 | [Updating & Maintaining Containers](/concepts/updates) | Safe update workflows, rollbacks, and automating the boring parts |
+| 8 | [Backups That Actually Work](/concepts/backups) | Database dumps, volume backups, and the 3-2-1 rule |
+
+---
+
+## Planning & Scaling
+
+Before you buy a server (or a bigger one).
+
+| # | Guide | What You'll Learn |
+|---|---|---|
+| 9 | [Hardware & VPS Sizing](/concepts/hardware) | How much RAM/CPU you actually need, and which providers are worth it |
+
+---
+
+## Ready to Deploy?
+
+You've got the knowledge. Now put it to work:
+
+→ [Deploy Guides](/deploy) — 65+ tools with Docker Compose configs
+→ [Quick Start](/quick-start) — Your first deployment in 5 minutes
+→ [Curated Stacks](/stacks) — Pre-built tool bundles for specific use cases

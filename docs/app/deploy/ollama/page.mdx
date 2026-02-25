@@ -1,0 +1,137 @@
+---
+title: "Deploy Ollama Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Ollama with Docker Compose. "
+---
+
+# Deploy Ollama
+
+Get up and running with Llama 3, Mistral, Gemma, and other large language models locally.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 60.0k stars</span>
+  <span className="deploy-hero-item">📜 MIT License</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Ollama instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Ollama and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Ollama
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama:latest # Official image is highly recommended for GPU support
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # For GPU support (NVIDIA), uncomment the following:
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+    networks:
+      - ollama_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:11434/api/tags" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+networks:
+  ollama_net:
+    driver: bridge
+
+volumes:
+  ollama_data:
+    name: ollama_data
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/ollama && cd /opt/ollama
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs ollama | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Ollama on AltStack Directory](https://thealtstack.com/alternative-to/ollama)
+- [Ollama Self-Hosted Guide](https://thealtstack.com/self-hosted/ollama)
+- [Official Documentation](https://ollama.com)
+- [GitHub Repository](https://github.com/ollama/ollama)

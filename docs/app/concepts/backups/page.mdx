@@ -1,0 +1,103 @@
+---
+title: Backups That Actually Work
+description: "How to back up your self-hosted tools. Docker volumes, database dumps, and automated backup scripts that run while you sleep."
+---
+
+# Backups That Actually Work
+
+Self-hosting means *you're* responsible for your data. No "Contact Support to restore from backup." **You are the support.**
+
+The good news: backing up Docker-based tools is simple once you set up a system.
+
+## What to Back Up
+
+| Component | Where It Lives | How to Back Up |
+|---|---|---|
+| **Docker volumes** | `/var/lib/docker/volumes/` | Volume export or rsync |
+| **Databases (Postgres)** | Inside a Docker container | `pg_dump` |
+| **Config files** | Your `docker-compose.yml` and `.env` | Git or file copy |
+
+> ⚠️ **Heads Up:** `docker-compose.yml` files are easy to recreate. Database data is not. Prioritize database backups above everything else.
+
+## Method 1: Database Dumps (Essential)
+
+Most self-hosted tools use PostgreSQL. Here's how to dump it:
+
+```bash
+# Dump a Postgres database running in a container
+docker exec your-db-container \
+  pg_dump -U postgres your_database > backup_$(date +%Y%m%d).sql
+```
+
+To restore:
+
+```bash
+cat backup_20260218.sql | docker exec -i your-db-container \
+  psql -U postgres your_database
+```
+
+## Method 2: Volume Backup
+
+For tools that store data in Docker volumes:
+
+```bash
+# Find your volumes
+docker volume ls
+
+# Backup a volume to a tar file
+docker run --rm \
+  -v my_volume:/data \
+  -v $(pwd)/backups:/backup \
+  alpine tar czf /backup/my_volume_backup.tar.gz /data
+```
+
+## Method 3: Automated Script
+
+Create a backup script that runs daily via cron:
+
+```bash
+#!/bin/bash
+# /opt/backup.sh
+
+BACKUP_DIR="/opt/backups"
+DATE=$(date +%Y%m%d_%H%M)
+mkdir -p $BACKUP_DIR
+
+# Dump Postgres databases
+docker exec supabase-db pg_dump -U postgres postgres > $BACKUP_DIR/supabase_$DATE.sql
+docker exec plausible_db pg_dump -U postgres plausible_db > $BACKUP_DIR/plausible_$DATE.sql
+
+# Clean backups older than 7 days
+find $BACKUP_DIR -name "*.sql" -mtime +7 -delete
+
+echo "Backup complete: $DATE"
+```
+
+Add to cron:
+
+```bash
+# Run at 3 AM every day
+crontab -e
+# Add this line:
+0 3 * * * /opt/backup.sh >> /var/log/backup.log 2>&1
+```
+
+## The 3-2-1 Rule
+
+For serious setups, follow the **3-2-1 backup rule**:
+
+- **3** copies of your data
+- **2** different storage types (local + remote)
+- **1** offsite copy (rsync to another server, or upload to B2/S3)
+
+```bash
+# Sync backups to a remote server
+rsync -avz /opt/backups/ user@backup-server:/backups/
+```
+
+## Next Steps
+
+You now have the four foundational concepts: Docker, reverse proxies, SSL, and backups. Time to build:
+
+→ [Deploy Guides](/deploy) — 65+ tools ready to deploy
+→ [The Bootstrapper Stack](/stacks/bootstrapper) — A complete SaaS toolkit

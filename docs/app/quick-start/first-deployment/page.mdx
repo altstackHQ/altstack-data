@@ -1,0 +1,69 @@
+---
+title: Your First Deployment
+description: "Deploy Uptime Kuma in under 5 minutes with a single Docker command. Your first taste of self-hosting freedom."
+---
+
+# Your First Deployment
+
+**By the end of this page**, you'll have [Uptime Kuma](https://thealtstack.com/alternative-to/uptime-kuma) — a beautiful uptime monitor — running on your machine. It takes about 5 minutes.
+
+We're starting with Uptime Kuma because:
+- It's a single Docker command (no compose file needed)
+- It has a gorgeous UI you'll actually enjoy using
+- It's immediately useful — it monitors your other self-hosted tools
+- It proves that self-hosting isn't scary
+
+## Prerequisites
+
+- Docker installed on your machine ([install guide](https://docs.docker.com/get-docker/))
+- A terminal (Terminal on Mac, PowerShell on Windows, or any Linux terminal)
+
+> 💡 **Why?** Docker is how we package and run software without dependency hell. If you haven't installed it yet, the link above takes 3 minutes.
+
+## Let's Ship It
+
+Open your terminal and run this single command:
+
+```bash
+docker run -d \
+  --restart=unless-stopped \
+  -p 3001:3001 \
+  -v uptime-kuma:/app/data \
+  --name uptime-kuma \
+  louislam/uptime-kuma:1
+```
+
+That's it. Not kidding.
+
+### What just happened?
+
+| Flag | What it does |
+|---|---|
+| `-d` | Runs in the background (detached) |
+| `--restart=unless-stopped` | Auto-restarts if your server reboots |
+| `-p 3001:3001` | Makes it accessible on port 3001 |
+| `-v uptime-kuma:/app/data` | Saves your data in a Docker volume (survives restarts) |
+| `--name uptime-kuma` | Gives the container a human-readable name |
+
+## See It Live
+
+Open your browser and go to:
+
+```
+http://localhost:3001
+```
+
+You should see the Uptime Kuma setup screen. Create an admin account, add a monitor for `https://google.com` to test it, and watch the green dots roll in.
+
+**Congratulations. You just self-hosted your first tool.** 🎉
+
+## You Did It. Now What?
+
+You just proved to yourself that self-hosting works. Here's where to go next:
+
+1. **[Choosing a Server](/quick-start/choosing-a-server)** — Move from localhost to a real VPS so others can access your tools
+2. **[Docker Basics](/concepts/docker-basics)** — Understand what Docker Compose is (spoiler: it's the next level)
+3. **[Deploy Plausible](/deploy/plausible)** — Replace Google Analytics entirely
+4. **[The Bootstrapper Stack](/stacks/bootstrapper)** — Deploy an entire SaaS toolkit for $0/mo
+
+> 🏆 **The Verdict:** If this felt easy, that's because it *is* easy. The rest of our guides follow the same pattern: copy a config, run a command, own your software.

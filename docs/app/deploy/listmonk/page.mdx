@@ -1,0 +1,138 @@
+---
+title: "Deploy Listmonk Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Listmonk with Docker Compose. "
+---
+
+# Deploy Listmonk
+
+High performance, self-hosted newsletter and mailing list manager with a modern dashboard.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 19.0k stars</span>
+  <span className="deploy-hero-item">📜 AGPL-3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Listmonk instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Listmonk and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  listmonk:
+    image: listmonk/listmonk:latest
+    container_name: listmonk
+    restart: unless-stopped
+    command: sh -c './listmonk --install --yes --idempotent && ./listmonk'
+    depends_on:
+      - listmonk-db
+    ports:
+      - "9000:9000"
+    volumes:
+      - ./config.toml:/listmonk/config.toml
+
+  listmonk-db:
+    image: postgres:13-alpine
+    container_name: listmonk-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=listmonk
+      - POSTGRES_PASSWORD=listmonk
+      - POSTGRES_DB=listmonk
+    volumes:
+      - listmonk_db_data:/var/lib/postgresql/data
+
+volumes:
+  listmonk_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/listmonk && cd /opt/listmonk
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `POSTGRES_USER` | `listmonk` | No |
+| `POSTGRES_PASSWORD` | `listmonk` | No |
+| `POSTGRES_DB` | `listmonk` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs listmonk | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Listmonk on AltStack Directory](https://thealtstack.com/alternative-to/listmonk)
+- [Listmonk Self-Hosted Guide](https://thealtstack.com/self-hosted/listmonk)
+- [Official Documentation](https://listmonk.app)
+- [GitHub Repository](https://github.com/knadh/listmonk)

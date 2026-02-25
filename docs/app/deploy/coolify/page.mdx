@@ -1,0 +1,171 @@
+---
+title: "Deploy Coolify Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Coolify with Docker Compose. "
+---
+
+# Deploy Coolify
+
+An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 50.4k stars</span>
+  <span className="deploy-hero-item">📜 Apache License 2.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+A fully operational Coolify instance. Think of Coolify as a self-hosted Vercel or Heroku. Once installed, it manages your other Docker containers, handles deployments from GitHub/GitLab, and provides an integrated reverse proxy.
+
+> 🚀 **Self-Hosting Level:** If you only deploy one thing, let it be Coolify. It makes deploying everything else 10x easier.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Coolify and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Coolify
+# Note: Coolify is a self-hosted PaaS.
+version: '3.8'
+
+services:
+  coolify:
+    image: ghcr.io/coollabsio/coolify:latest
+    container_name: coolify
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=production
+      - DB_CONNECTION=pgsql
+      - DB_HOST=db
+      - DB_DATABASE=coolify
+      - DB_USERNAME=coolify
+      - DB_PASSWORD=${DB_PASSWORD:-password}
+    volumes:
+      - coolify_data:/var/www/html/storage
+      - /var/run/docker.sock:/var/run/docker.sock # Essential for controlling Docker
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - coolify_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8000/api/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  db:
+    image: postgres:15-alpine
+    container_name: coolify-db
+    environment:
+      POSTGRES_USER: coolify
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-password}
+      POSTGRES_DB: coolify
+    volumes:
+      - coolify_db_data:/var/lib/postgresql/data
+    networks:
+      - coolify_net
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U coolify" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+networks:
+  coolify_net:
+    driver: bridge
+
+volumes:
+  coolify_data:
+    name: coolify_data
+  coolify_db_data:
+    name: coolify_db_data
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/coolify && cd /opt/coolify
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `APP_ENV` | `production` | No |
+| `DB_CONNECTION` | `pgsql` | No |
+| `DB_HOST` | `db` | No |
+| `DB_DATABASE` | `coolify` | No |
+| `DB_USERNAME` | `coolify` | No |
+| `DB_PASSWORD` | `${DB_PASSWORD:-password}` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs coolify | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Coolify on AltStack Directory](https://thealtstack.com/alternative-to/coolify)
+- [Coolify Self-Hosted Guide](https://thealtstack.com/self-hosted/coolify)
+- [Official Documentation](https://coolify.io)
+- [GitHub Repository](https://github.com/coollabsio/coolify)

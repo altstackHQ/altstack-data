@@ -1,0 +1,160 @@
+---
+title: "Deploy Plane Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Plane with Docker Compose. "
+---
+
+# Deploy Plane
+
+🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 45.5k stars</span>
+  <span className="deploy-hero-item">📜 GNU Affero General Public License v3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Plane instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Plane and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  plane-web:
+    image: makeplane/plane-frontend:latest
+    container_name: plane-frontend
+    restart: unless-stopped
+    depends_on:
+      - plane-backend
+    ports:
+      - "3000:80"
+
+  plane-backend:
+    image: makeplane/plane-backend:latest
+    container_name: plane-backend
+    restart: unless-stopped
+    depends_on:
+      - plane-db
+      - plane-redis
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgres://plane:plane@plane-db:5432/plane
+      - REDIS_URL=redis://plane-redis:6379/
+      - SECRET_KEY=replace-me-with-a-secure-key
+
+  plane-db:
+    image: postgres:15-alpine
+    container_name: plane-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=plane
+      - POSTGRES_PASSWORD=plane
+      - POSTGRES_DB=plane
+    volumes:
+      - plane_db_data:/var/lib/postgresql/data
+
+  plane-redis:
+    image: redis:7-alpine
+    container_name: plane-redis
+    restart: unless-stopped
+    volumes:
+      - plane_redis_data:/data
+
+volumes:
+  plane_db_data:
+  plane_redis_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/plane && cd /opt/plane
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `DATABASE_URL` | `postgres://plane:plane@plane-db:5432/plane` | No |
+| `REDIS_URL` | `redis://plane-redis:6379/` | No |
+| `SECRET_KEY` | `replace-me-with-a-secure-key` | No |
+| `POSTGRES_USER` | `plane` | No |
+| `POSTGRES_PASSWORD` | `plane` | No |
+| `POSTGRES_DB` | `plane` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs plane | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Plane on AltStack Directory](https://thealtstack.com/alternative-to/plane)
+- [Plane Self-Hosted Guide](https://thealtstack.com/self-hosted/plane)
+- [Official Documentation](https://plane.so)
+- [GitHub Repository](https://github.com/makeplane/plane)

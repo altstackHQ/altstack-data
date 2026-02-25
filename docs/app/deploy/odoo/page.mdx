@@ -1,0 +1,161 @@
+---
+title: "Deploy Odoo Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Odoo with Docker Compose. "
+---
+
+# Deploy Odoo
+
+A suite of open source business apps: CRM, eCommerce, accounting, manufacturing, warehouse, and more.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 48.9k stars</span>
+  <span className="deploy-hero-item">📜 LGPL-3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Odoo instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Odoo and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Odoo
+version: '3.8'
+
+services:
+  odoo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: odoo
+    ports:
+      - "8069:8069"
+    environment:
+      - HOST=db
+      - USER=odoo
+      - PASSWORD=odoo
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - odoo_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8069/" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  db:
+    image: postgres:15-alpine
+    container_name: odoo-db
+    environment:
+      POSTGRES_USER: odoo
+      POSTGRES_PASSWORD: odoo
+      POSTGRES_DB: postgres
+    volumes:
+      - odoo_db_data:/var/lib/postgresql/data
+    networks:
+      - odoo_net
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U odoo" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+networks:
+  odoo_net:
+    driver: bridge
+
+volumes:
+  odoo_db_data:
+    name: odoo_db_data
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/odoo && cd /opt/odoo
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `HOST` | `db` | No |
+| `USER` | `odoo` | No |
+| `PASSWORD` | `odoo` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs odoo | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Odoo on AltStack Directory](https://thealtstack.com/alternative-to/odoo)
+- [Odoo Self-Hosted Guide](https://thealtstack.com/self-hosted/odoo)
+- [Official Documentation](https://www.odoo.com)
+- [GitHub Repository](https://github.com/odoo/odoo)

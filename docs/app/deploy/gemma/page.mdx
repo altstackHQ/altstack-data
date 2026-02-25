@@ -1,0 +1,117 @@
+---
+title: "Deploy Google Gemma 2 Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Google Gemma 2 with Docker Compose. "
+---
+
+# Deploy Google Gemma 2
+
+Google's open-weight models (9B, 27B) with class-leading performance and efficient architecture.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 20.0k stars</span>
+  <span className="deploy-hero-item">📜 Gemma License</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Google Gemma 2 instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Google Gemma 2 and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  ollama-gemma:
+    image: ollama/ollama:latest
+    container_name: ollama-gemma
+    restart: unless-stopped
+    ports:
+      - "11437:11434"
+    volumes:
+      - ollama_gemma:/root/.ollama
+
+volumes:
+  ollama_gemma:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/gemma && cd /opt/gemma
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs gemma | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Google Gemma 2 on AltStack Directory](https://thealtstack.com/alternative-to/gemma)
+- [Google Gemma 2 Self-Hosted Guide](https://thealtstack.com/self-hosted/gemma)
+- [Official Documentation](https://ai.google.dev/gemma)
+- [GitHub Repository](https://github.com/google/gemma-2)

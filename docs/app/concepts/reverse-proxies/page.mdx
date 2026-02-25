@@ -1,0 +1,113 @@
+---
+title: Reverse Proxies Explained
+description: "What a reverse proxy does and why you need one. Set up Caddy or Nginx to serve your self-hosted tools on proper domains with automatic HTTPS."
+---
+
+# Reverse Proxies Explained
+
+Right now your tools run on ports like `:3001`, `:8000`, `:8080`. That's fine for testing, but you don't want users visiting `http://your-ip:8000`.
+
+A **reverse proxy** maps clean domains to those ugly ports:
+
+```
+plausible.yourdomain.com  →  localhost:8000
+uptime.yourdomain.com     →  localhost:3001
+supabase.yourdomain.com   →  localhost:8443
+```
+
+It also handles **HTTPS** (SSL certificates) automatically.
+
+## Which One to Use?
+
+| Proxy | Our Take |
+|---|---|
+| **Caddy** ✅ | **Use this.** Automatic HTTPS, zero-config SSL, human-readable config. Built for self-hosters. |
+| **Nginx Proxy Manager** | GUI-first option. Great if you hate config files. Slightly more resource-heavy. |
+| **Traefik** | Powerful but complex. Built for Kubernetes. Overkill for most self-hosting setups. |
+| **Nginx (raw)** | The classic. Fine but verbose. No auto-SSL without certbot scripts. |
+
+> 🏆 **The Verdict:** Start with Caddy. Seriously. The config file is 6 lines.
+
+## Setting Up Caddy (Recommended)
+
+### Step 1: Deploy Caddy
+
+```yaml
+# docker-compose.yml
+version: '3.8'
+
+services:
+  caddy:
+    image: caddy:2-alpine
+    container_name: caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  caddy_data:
+  caddy_config:
+```
+
+### Step 2: Configure Your Domains
+
+Create a `Caddyfile` in the same directory:
+
+```
+plausible.yourdomain.com {
+    reverse_proxy localhost:8000
+}
+
+uptime.yourdomain.com {
+    reverse_proxy localhost:3001
+}
+
+git.yourdomain.com {
+    reverse_proxy localhost:3000
+}
+```
+
+That's the entire config. Caddy automatically obtains and renews Let's Encrypt SSL certificates for every domain listed.
+
+### Step 3: Point DNS
+
+In your domain registrar (Cloudflare, Namecheap, etc.), add A records:
+
+| Type | Name | Value |
+|---|---|---|
+| A | `plausible` | `your-server-ip` |
+| A | `uptime` | `your-server-ip` |
+| A | `git` | `your-server-ip` |
+
+### Step 4: Start
+
+```bash
+docker compose up -d
+```
+
+Within 60 seconds, Caddy will obtain SSL certificates and your tools will be live on proper HTTPS domains.
+
+## How It Works (Simplified)
+
+```
+User visits plausible.yourdomain.com
+           ↓
+      DNS resolves to your server IP
+           ↓
+      Caddy receives the request on port 443
+           ↓
+      Caddy reads Caddyfile: "plausible.yourdomain.com → localhost:8000"
+           ↓
+      Caddy forwards the request to your Plausible container
+           ↓
+      User sees Plausible dashboard over HTTPS 🔒
+```
+
+→ [Setting Up a Reverse Proxy (Practical Guide)](/quick-start/reverse-proxy) — Get Nginx, Caddy, or Traefik running now
+→ [SSL/TLS for Self-Hosters](/concepts/ssl-tls) — Deep dive into certificates and security
+→ [Deploy Guides](/deploy) — All our guides include reverse proxy config

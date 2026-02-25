@@ -1,0 +1,172 @@
+---
+title: "Deploy Taiga Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Taiga with Docker Compose. "
+---
+
+# Deploy Taiga
+
+Self-host Taiga on your own server.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 0.8k stars</span>
+  <span className="deploy-hero-item">📜 Mozilla Public License 2.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Taiga instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Taiga and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  taiga-front:
+    image: taigaio/taiga-front:latest
+    container_name: taiga-front
+    restart: unless-stopped
+    depends_on:
+      - taiga-back
+    ports:
+      - "9000:80"
+    environment:
+      - TAIGA_URL=http://localhost:9000
+      - TAIGA_WEBSOCKETS_URL=ws://localhost:9000
+
+  taiga-back:
+    image: taigaio/taiga-back:latest
+    container_name: taiga-back
+    restart: unless-stopped
+    depends_on:
+      - taiga-db
+      - taiga-redis
+      - taiga-async-rabbitmq
+    environment:
+      - POSTGRES_DB=taiga
+      - POSTGRES_USER=taiga
+      - POSTGRES_PASSWORD=taiga
+      - TAIGA_SECRET_KEY=exe3quu8Su2wohx0uNgo0eif4wohphah
+
+  taiga-db:
+    image: postgres:13-alpine
+    container_name: taiga-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=taiga
+      - POSTGRES_USER=taiga
+      - POSTGRES_PASSWORD=taiga
+    volumes:
+      - taiga_db_data:/var/lib/postgresql/data
+
+  taiga-async-rabbitmq:
+    image: rabbitmq:3.8-management-alpine
+    container_name: taiga-rabbitmq
+    restart: unless-stopped
+    environment:
+      - RABBITMQ_ERLANG_COOKIE=secret-cookie
+      - RABBITMQ_DEFAULT_USER=taiga
+      - RABBITMQ_DEFAULT_PASS=taiga
+
+  taiga-redis:
+    image: redis:6-alpine
+    container_name: taiga-redis
+    restart: unless-stopped
+
+volumes:
+  taiga_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/taiga && cd /opt/taiga
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `TAIGA_URL` | `http://localhost:9000` | No |
+| `TAIGA_WEBSOCKETS_URL` | `ws://localhost:9000` | No |
+| `POSTGRES_DB` | `taiga` | No |
+| `POSTGRES_USER` | `taiga` | No |
+| `POSTGRES_PASSWORD` | `taiga` | No |
+| `TAIGA_SECRET_KEY` | `exe3quu8Su2wohx0uNgo0eif4wohphah` | No |
+| `RABBITMQ_ERLANG_COOKIE` | `secret-cookie` | No |
+| `RABBITMQ_DEFAULT_USER` | `taiga` | No |
+| `RABBITMQ_DEFAULT_PASS` | `taiga` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs taiga | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Taiga on AltStack Directory](https://thealtstack.com/alternative-to/taiga)
+- [Taiga Self-Hosted Guide](https://thealtstack.com/self-hosted/taiga)
+- [Official Documentation](https://taiga.io)
+- [GitHub Repository](https://github.com/taigaio/taiga-back)

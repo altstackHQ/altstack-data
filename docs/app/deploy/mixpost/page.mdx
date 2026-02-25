@@ -1,0 +1,156 @@
+---
+title: "Deploy Mixpost Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Mixpost with Docker Compose. "
+---
+
+# Deploy Mixpost
+
+Self-hosted social media management software.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 3.0k stars</span>
+  <span className="deploy-hero-item">📜 Other</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Mixpost instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Mixpost and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  mixpost:
+    image: inovector/mixpost:latest
+    container_name: mixpost
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    ports:
+      - "80:80"
+    environment:
+      - APP_URL=http://localhost
+      - DB_HOST=db
+      - DB_DATABASE=mixpost
+      - DB_USERNAME=mixpost
+      - DB_PASSWORD=mixpost
+      - REDIS_HOST=redis
+
+  db:
+    image: mysql:8.0
+    container_name: mixpost-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_DATABASE=mixpost
+      - MYSQL_USER=mixpost
+      - MYSQL_PASSWORD=mixpost
+      - MYSQL_ROOT_PASSWORD=root
+    volumes:
+      - mixpost_db_data:/var/lib/mysql
+
+  redis:
+    image: redis:alpine
+    container_name: mixpost-redis
+    restart: unless-stopped
+
+volumes:
+  mixpost_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/mixpost && cd /opt/mixpost
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `APP_URL` | `http://localhost` | No |
+| `DB_HOST` | `db` | No |
+| `DB_DATABASE` | `mixpost` | No |
+| `DB_USERNAME` | `mixpost` | No |
+| `DB_PASSWORD` | `mixpost` | No |
+| `REDIS_HOST` | `redis` | No |
+| `MYSQL_DATABASE` | `mixpost` | No |
+| `MYSQL_USER` | `mixpost` | No |
+| `MYSQL_PASSWORD` | `mixpost` | No |
+| `MYSQL_ROOT_PASSWORD` | `root` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs mixpost | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Mixpost on AltStack Directory](https://thealtstack.com/alternative-to/mixpost)
+- [Mixpost Self-Hosted Guide](https://thealtstack.com/self-hosted/mixpost)
+- [Official Documentation](https://mixpost.app)
+- [GitHub Repository](https://github.com/inovector/mixpost)

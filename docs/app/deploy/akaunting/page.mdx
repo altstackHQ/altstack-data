@@ -1,0 +1,146 @@
+---
+title: "Deploy Akaunting Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Akaunting with Docker Compose. "
+---
+
+# Deploy Akaunting
+
+Free and open source online accounting software for small businesses and freelancers.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 12.0k stars</span>
+  <span className="deploy-hero-item">📜 GPL-3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Akaunting instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Akaunting and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  akaunting:
+    image: akaunting/akaunting:latest
+    container_name: akaunting
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "8080:80"
+    environment:
+      - DB_HOST=db
+      - DB_DATABASE=akaunting
+      - DB_USERNAME=akaunting
+      - DB_PASSWORD=akaunting
+
+  db:
+    image: mariadb:10.6
+    container_name: akaunting-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_DATABASE=akaunting
+      - MYSQL_USER=akaunting
+      - MYSQL_PASSWORD=akaunting
+      - MYSQL_ROOT_PASSWORD=root
+    volumes:
+      - akaunting_db_data:/var/lib/mysql
+
+volumes:
+  akaunting_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/akaunting && cd /opt/akaunting
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `DB_HOST` | `db` | No |
+| `DB_DATABASE` | `akaunting` | No |
+| `DB_USERNAME` | `akaunting` | No |
+| `DB_PASSWORD` | `akaunting` | No |
+| `MYSQL_DATABASE` | `akaunting` | No |
+| `MYSQL_USER` | `akaunting` | No |
+| `MYSQL_PASSWORD` | `akaunting` | No |
+| `MYSQL_ROOT_PASSWORD` | `root` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs akaunting | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Akaunting on AltStack Directory](https://thealtstack.com/alternative-to/akaunting)
+- [Akaunting Self-Hosted Guide](https://thealtstack.com/self-hosted/akaunting)
+- [Official Documentation](https://akaunting.com)
+- [GitHub Repository](https://github.com/akaunting/akaunting)

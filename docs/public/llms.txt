@@ -1,0 +1,41 @@
+# AltStack Docs
+
+> The World's First Sovereign Infrastructure Engine. Self-hosting guides that actually work.
+
+AltStack Docs (https://docs.thealtstack.com) provides step-by-step deployment guides for 65+ open source tools. Every guide includes tested Docker Compose configs, honest verdicts, and zero filler.
+
+## Sections
+
+- Quick Start: https://docs.thealtstack.com/quick-start
+- Deploy Guides (65+ tools): https://docs.thealtstack.com/deploy
+- Curated Stacks: https://docs.thealtstack.com/stacks
+- Concepts: https://docs.thealtstack.com/concepts
+- Why These Docs Exist: https://docs.thealtstack.com/why
+
+## Quick Start Path
+
+- What is Self-Hosting: https://docs.thealtstack.com/quick-start/what-is-self-hosting
+- First Deployment: https://docs.thealtstack.com/quick-start/first-deployment
+- Choosing a Server: https://docs.thealtstack.com/quick-start/choosing-a-server
+- Reverse Proxy Setup: https://docs.thealtstack.com/quick-start/reverse-proxy
+- Starter Kit: https://docs.thealtstack.com/quick-start/starter-kit
+
+## Curated Stacks
+
+- Bootstrapper Stack: https://docs.thealtstack.com/stacks/bootstrapper
+- Designer Stack: https://docs.thealtstack.com/stacks/designer
+- DevOps Stack: https://docs.thealtstack.com/stacks/devops
+- Privacy Stack: https://docs.thealtstack.com/stacks/privacy
+- AI-First Stack: https://docs.thealtstack.com/stacks/ai-first
+
+## Concepts
+
+- Docker Basics: https://docs.thealtstack.com/concepts/docker-basics
+- Reverse Proxies: https://docs.thealtstack.com/concepts/reverse-proxies
+- SSL/TLS: https://docs.thealtstack.com/concepts/ssl-tls
+- Backups: https://docs.thealtstack.com/concepts/backups
+
+## Optional
+
+- Full tool list: https://docs.thealtstack.com/llms-full.txt
+- Main directory: https://thealtstack.com

@@ -1,0 +1,46 @@
+---
+title: The AltStack Starter Kit
+description: "The recommended first 3 tools to self-host: Uptime Kuma, Plausible, and Coolify. Your foundation for software independence."
+---
+
+# The AltStack Starter Kit
+
+If you're new to self-hosting, don't try to replace your entire SaaS stack on day one. Start with three tools that are immediately useful, easy to deploy, and will teach you how everything works.
+
+## The Stack
+
+| Tool | Replaces | Why It's First |
+|---|---|---|
+| [**Uptime Kuma**](/deploy/uptime-kuma) | Pingdom, UptimeRobot ($15/mo) | Monitors everything else you deploy. Set it up first. |
+| [**Plausible**](/deploy/plausible) | Google Analytics (free but creepy) | Privacy-respecting analytics. You'll see results immediately. |
+| [**Coolify**](/deploy/coolify) | Vercel, Heroku ($20+/mo) | Deploy future apps with git push. Your own PaaS. |
+
+**Total monthly cost:** ~$6 (one small VPS)
+**Total SaaS cost replaced:** ~$35+/mo
+
+## Deploy Order
+
+This order matters:
+
+### 1. Uptime Kuma (5 min)
+Your monitoring dashboard. Once it's running, add monitors for everything else you deploy. You'll always know if something goes down.
+
+→ [Deploy Uptime Kuma](/deploy/uptime-kuma)
+
+### 2. Plausible Analytics (10 min)
+Lightweight, cookie-free analytics. Add the tracking script to your site and immediately start seeing real visitor data — without the privacy guilt.
+
+→ [Deploy Plausible](/deploy/plausible)
+
+### 3. Coolify (15 min)
+This is the game-changer. Coolify turns your server into a self-hosted Vercel/Netlify. Git push → auto deploy. It'll become the foundation for everything you build.
+
+→ [Deploy Coolify](/deploy/coolify)
+
+## After the Starter Kit
+
+Once you're comfortable, explore the [Curated Stacks](/stacks) — pre-built bundles of tools designed for specific use cases:
+
+- 🚀 [The Bootstrapper Stack](/stacks/bootstrapper) — Full SaaS toolkit for $0/mo
+- 🔒 [The Privacy Stack](/stacks/privacy) — Maximum data sovereignty
+- 🤖 [The AI-First Stack](/stacks/ai-first) — Run LLMs and image gen locally

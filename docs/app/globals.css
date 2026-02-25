@@ -1,0 +1,378 @@
+@import "tailwindcss";
+
+/* ============================================
+   AltStack Docs — Custom Theme Overrides
+   ============================================ */
+
+/* ---- Font Stack ---- */
+:root {
+    --font-sans: var(--font-outfit), 'Outfit', system-ui, -apple-system, sans-serif;
+    --font-mono: var(--font-mono), 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* ---- AltStack Brand Colors ---- */
+:root {
+    --altstack-red: #ef4444;
+    --altstack-orange: #f97316;
+    --altstack-bg: #050505;
+    --altstack-surface: #0a0a0a;
+    --altstack-surface-elevated: #111111;
+    --altstack-border: rgba(255, 255, 255, 0.08);
+    --altstack-glass: rgba(10, 10, 10, 0.7);
+    --altstack-text-dim: rgba(255, 255, 255, 0.5);
+    --hero-from: #ffffff;
+    --hero-to: #94a3b8;
+}
+
+/* ---- Dark mode as default feel ---- */
+html {
+    color-scheme: dark;
+}
+
+:root {
+    --nextra-primary-hue: 10deg;
+}
+
+/* Light mode overrides for high contrast */
+html[class~="light"] {
+    --nextra-bg: #ffffff;
+    --altstack-bg: #ffffff;
+    --altstack-surface: #f8fafc;
+    --altstack-surface-elevated: #f1f5f9;
+    --altstack-border: rgba(0, 0, 0, 0.08);
+    --altstack-text-dim: #64748b;
+    --altstack-glass: rgba(255, 255, 255, 0.8);
+    --hero-from: #0f172a;
+    --hero-to: #334155;
+}
+
+html[class~="dark"] {
+    --nextra-bg: var(--altstack-bg);
+}
+
+/* ---- Logo Styling & Animations ---- */
+@keyframes float-red {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-8px);
+    }
+}
+
+@keyframes float-glass {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-5px);
+    }
+}
+
+@keyframes float-slate {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-2px);
+    }
+}
+
+.animate-float-red {
+    animation: float-red 3s ease-in-out infinite;
+}
+
+.animate-float-glass {
+    animation: float-glass 3.5s ease-in-out infinite;
+}
+
+.animate-float-slate {
+    animation: float-slate 4s ease-in-out infinite;
+}
+
+.altstack-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-weight: 900;
+    font-size: 1.3rem;
+    letter-spacing: -0.03em;
+    color: white;
+}
+
+html[class~="light"] .altstack-logo {
+    color: #0f172a;
+}
+
+/* ---- Navbar & Sidebar Glassmorphism ---- */
+.nextra-nav-container {
+    background-color: var(--altstack-glass) !important;
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    border-bottom: 1px solid var(--altstack-border);
+}
+
+.nextra-sidebar-container {
+    background-color: transparent !important;
+}
+
+/* ---- Home Page Card Overrides (Legacy for now) ---- */
+.nextra-cards {
+    margin-top: 2rem !important;
+}
+
+/* ---- Custom Grid Classes ---- */
+.premium-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+}
+
+.premium-card {
+    position: relative;
+    padding: 1.75rem;
+    background: var(--altstack-surface);
+    border: 1px solid var(--altstack-border);
+    border-radius: 20px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    text-decoration: none !important;
+    overflow: hidden;
+}
+
+.premium-card:hover {
+    background: var(--altstack-surface-elevated);
+    border-color: rgba(259, 68, 68, 0.3);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px -12px rgba(0, 0, 0, 0.5);
+}
+
+.premium-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--altstack-red), var(--altstack-orange));
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.premium-card:hover::before {
+    opacity: 1;
+}
+
+.premium-card-title {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 0.75rem;
+}
+
+html[class~="light"] .premium-card-title {
+    color: #0f172a;
+}
+
+.premium-card-description {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--altstack-text-dim);
+}
+
+/* ---- Footer ---- */
+.altstack-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 0 2rem;
+    font-size: 0.85rem;
+    color: var(--altstack-text-dim);
+    border-top: 1px solid var(--altstack-border);
+    margin-top: 4rem;
+}
+
+.altstack-footer a {
+    color: var(--altstack-red);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.altstack-footer a:hover {
+    text-decoration: underline;
+}
+
+.footer-header {
+    color: #0f172a;
+    /* slate-900 */
+}
+
+html[class~="dark"] .footer-header {
+    color: #ffffff !important;
+}
+
+html[class~="light"] .footer-header {
+    color: #0f172a !important;
+}
+
+/* ---- Difficulty badges ---- */
+.badge-beginner {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.15rem 0.6rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #22c55e;
+    background: rgba(34, 197, 94, 0.1);
+    border: 1px solid rgba(34, 197, 94, 0.2);
+    border-radius: 9999px;
+}
+
+.badge-intermediate {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.15rem 0.6rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #eab308;
+    background: rgba(234, 179, 8, 0.1);
+    border: 1px solid rgba(234, 179, 8, 0.2);
+    border-radius: 9999px;
+}
+
+.badge-advanced {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.15rem 0.6rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    border-radius: 9999px;
+}
+
+/* ---- Hero info bar for deploy guides ---- */
+.deploy-hero {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 1rem 0 1.5rem;
+    padding: 1rem 1.25rem;
+    background: var(--altstack-surface);
+    border: 1px solid var(--altstack-border);
+    border-radius: 16px;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.deploy-hero-item {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+/* ---- Manual Logo Fix (Robust Override) ---- */
+html[class~="dark"] .manual-logo-text {
+    color: #ffffff !important;
+}
+
+html[class~="light"] .manual-logo-text {
+    color: #0f172a !important;
+    /* slate-900 */
+}
+
+/* Fill overrides */
+html[class~="dark"] .manual-logo-fill {
+    fill: rgba(255, 255, 255, 0.1) !important;
+}
+
+html[class~="light"] .manual-logo-fill {
+    fill: rgba(15, 23, 42, 0.1) !important;
+}
+
+html[class~="dark"] .manual-logo-fill-secondary {
+    fill: rgba(255, 255, 255, 0.2) !important;
+}
+
+html[class~="light"] .manual-logo-fill-secondary {
+    fill: rgba(15, 23, 42, 0.2) !important;
+}
+
+/* Stroke overrides */
+html[class~="dark"] .manual-logo-stroke {
+    stroke: rgba(255, 255, 255, 0.2) !important;
+}
+
+html[class~="light"] .manual-logo-stroke {
+    stroke: rgba(15, 23, 42, 0.2) !important;
+}
+
+html[class~="dark"] .manual-logo-stroke-secondary {
+    stroke: rgba(255, 255, 255, 0.3) !important;
+}
+
+html[class~="light"] .manual-logo-stroke-secondary {
+    stroke: rgba(15, 23, 42, 0.3) !important;
+}
+
+html[class~="dark"] .manual-logo-stroke-tertiary {
+    stroke: rgba(255, 255, 255, 0.4) !important;
+}
+
+html[class~="light"] .manual-logo-stroke-tertiary {
+    stroke: rgba(15, 23, 42, 0.4) !important;
+}
+
+/* ============================================
+   Mobile UI Fixes
+   ============================================ */
+
+/* Fix mobile menu z-index issues to ensure it sits above content */
+.nextra-nav-container,
+.nextra-navbar {
+    z-index: 60 !important;
+}
+
+/* Ensure search and other elements don't overlap the menu */
+.nextra-search-container {
+    z-index: 40;
+}
+
+/* Adjust mobile menu spacing to prevent overlap with navbar */
+@media (max-width: 768px) {
+    .nextra-menu-mobile {
+        padding-top: 4rem;
+        z-index: 45;
+    }
+
+    /* Ensure the mobile menu content is scrollable and visible */
+    .nextra-menu-mobile .nextra-scrollbar {
+        padding-bottom: 5rem;
+    }
+}
+
+/* Force solid background on mobile menu */
+@media (max-width: 768px) {
+
+    .nextra-menu-mobile,
+    .nextra-mobile-nav {
+        background-color: var(--altstack-bg) !important;
+        z-index: 50 !important;
+    }
+}

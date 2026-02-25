@@ -1,0 +1,112 @@
+---
+title: "Deploy Kdenlive Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Kdenlive with Docker Compose. "
+---
+
+# Deploy Kdenlive
+
+Open source video editing software based on the MLT Framework and KDE.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 3.5k stars</span>
+  <span className="deploy-hero-item">📜 GPL-3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Kdenlive instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Kdenlive and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  kdenlive:
+    image: lscr.io/linuxserver/kdenlive:latest
+    container_name: kdenlive
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/kdenlive && cd /opt/kdenlive
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs kdenlive | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Kdenlive on AltStack Directory](https://thealtstack.com/alternative-to/kdenlive)
+- [Kdenlive Self-Hosted Guide](https://thealtstack.com/self-hosted/kdenlive)
+- [Official Documentation](https://kdenlive.org)
+- [GitHub Repository](https://github.com/KDE/kdenlive)

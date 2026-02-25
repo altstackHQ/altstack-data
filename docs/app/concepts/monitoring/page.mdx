@@ -1,0 +1,163 @@
+---
+title: "Monitoring & Observability"
+description: "Know when things break before your users do. Uptime monitoring, disk alerts, log aggregation, and observability for self-hosters."
+---
+
+# Monitoring & Observability
+
+You deployed 5 tools. They're running great. You go to bed. At 3 AM, the disk fills up, Postgres crashes, and everything dies. You find out at 9 AM when a user emails you.
+
+**Monitoring prevents this.**
+
+## The Three Layers
+
+| Layer | What It Watches | Tool |
+|---|---|---|
+| **Uptime** | "Is the service responding?" | Uptime Kuma |
+| **System** | CPU, RAM, disk, network | Node Exporter + Grafana |
+| **Logs** | What's actually happening inside | Docker logs, Dozzle, SigNoz |
+
+You need **at least** the first layer. The other two are for when you get serious.
+
+## Layer 1: Uptime Monitoring (Essential)
+
+[Uptime Kuma](/deploy/uptime-kuma) is the single best tool for self-hosters. Deploy it first, always.
+
+```yaml
+# docker-compose.yml
+services:
+  uptime-kuma:
+    image: louislam/uptime-kuma:1
+    container_name: uptime-kuma
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    volumes:
+      - uptime_data:/app/data
+
+volumes:
+  uptime_data:
+```
+
+### What to Monitor
+
+Add a monitor for **every** service you run:
+
+| Type | Target | Check Interval |
+|---|---|---|
+| HTTP(s) | `https://plausible.yourdomain.com` | 60s |
+| HTTP(s) | `https://uptime.yourdomain.com` | 60s |
+| TCP Port | `localhost:5432` (Postgres) | 120s |
+| Docker Container | Container name | 60s |
+| DNS | `yourdomain.com` | 300s |
+
+### Notifications
+
+Uptime Kuma supports 90+ notification channels. Set up **at least two**:
+
+- **Email** — For non-urgent alerts
+- **Telegram/Discord/Slack** — For instant mobile alerts
+
+> 🔥 **Pro Tip:** Monitor your monitoring. Set up an external free ping service (like [UptimeRobot](https://uptimerobot.com)) to watch your Uptime Kuma instance.
+
+## Layer 2: System Metrics
+
+### Quick Disk Alert Script
+
+The #1 cause of self-hosting outages is **running out of disk space**. This script sends an alert when disk usage exceeds 80%:
+
+```bash
+#!/bin/bash
+# /opt/scripts/disk-alert.sh
+
+THRESHOLD=80
+USAGE=$(df / | tail -1 | awk '{print $5}' | sed 's/%//')
+
+if [ "$USAGE" -gt "$THRESHOLD" ]; then
+    echo "⚠️ Disk usage is at ${USAGE}% on $(hostname)" | \
+    mail -s "Disk Alert: ${USAGE}%" you@yourdomain.com
+fi
+```
+
+Add to cron:
+
+```bash
+# Check every hour
+0 * * * * /opt/scripts/disk-alert.sh
+```
+
+### What to Watch
+
+| Metric | Warning Threshold | Critical Threshold |
+|---|---|---|
+| Disk usage | 70% | 85% |
+| RAM usage | 80% | 95% |
+| CPU sustained | 80% for 5 min | 95% for 5 min |
+| Container restarts | 3 in 1 hour | 10 in 1 hour |
+
+### Docker Resource Monitoring
+
+Quick commands to check what's eating your resources:
+
+```bash
+# Live resource usage per container
+docker stats
+
+# Show container sizes (disk)
+docker system df -v
+
+# Find large volumes
+du -sh /var/lib/docker/volumes/*/
+```
+
+## Layer 3: Log Aggregation
+
+Docker captures all stdout/stderr from your containers. Use it:
+
+```bash
+# Live logs for a service
+docker compose logs -f plausible
+
+# Last 100 lines
+docker compose logs --tail=100 plausible
+
+# Logs since a specific time
+docker compose logs --since="2h" plausible
+```
+
+### Dozzle (Docker Log Viewer)
+
+For a beautiful web-based log viewer:
+
+```yaml
+services:
+  dozzle:
+    image: amir20/dozzle:latest
+    container_name: dozzle
+    ports:
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+```
+
+### For Serious Setups: SigNoz
+
+If you need traces, metrics, **and** logs in one place, deploy [SigNoz](/deploy/signoz). It's an open-source Datadog alternative built on OpenTelemetry.
+
+## Maintenance Routine
+
+Set a weekly calendar reminder:
+
+```
+☐ Check Uptime Kuma — all green?
+☐ Run `docker stats` — anything hogging resources?
+☐ Run `df -h` — disk space OK?
+☐ Run `docker system prune -f` — clean unused images
+☐ Check logs for any errors — `docker compose logs --since=168h | grep -i error`
+```
+
+## Next Steps
+
+→ [Updating & Maintaining Containers](/concepts/updates) — Keep your tools up to date safely
+→ [Backups That Actually Work](/concepts/backups) — Protect your data
+→ [Deploy Uptime Kuma](/deploy/uptime-kuma) — Set up monitoring now

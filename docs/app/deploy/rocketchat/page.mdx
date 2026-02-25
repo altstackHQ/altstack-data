@@ -1,0 +1,144 @@
+---
+title: "Deploy Rocket.Chat Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Rocket.Chat with Docker Compose. "
+---
+
+# Deploy Rocket.Chat
+
+The Secure CommsOS™ for mission-critical operations
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 44.5k stars</span>
+  <span className="deploy-hero-item">📜 Other</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Rocket.Chat instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Rocket.Chat and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  rocketchat:
+    image: registry.rocket.chat/rocketchat/rocket.chat:latest
+    container_name: rocketchat
+    restart: unless-stopped
+    depends_on:
+      - mongo
+    ports:
+      - "3002:3000"
+    environment:
+      - MONGO_URL=mongodb://mongo:27017/rocketchat
+      - ROOT_URL=http://localhost:3002
+      - PORT=3000
+
+  mongo:
+    image: mongo:5.0
+    container_name: rocketchat-mongo
+    restart: unless-stopped
+    command: mongod --oplogSize 128 --replSet rs0 --storageEngine=wiredTiger
+    volumes:
+      - ./data/db:/data/db
+
+  mongo-init-replica:
+    image: mongo:5.0
+    container_name: mongo-init-replica
+    restart: unless-stopped
+    command: bash /init-replica.sh
+    depends_on:
+      - mongo
+    volumes:
+      - ./init-replica.sh:/init-replica.sh
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/rocketchat && cd /opt/rocketchat
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `MONGO_URL` | `mongodb://mongo:27017/rocketchat` | No |
+| `ROOT_URL` | `http://localhost:3002` | No |
+| `PORT` | `3000` | No |
+| `storageEngine` | `wiredTiger` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs rocketchat | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Rocket.Chat on AltStack Directory](https://thealtstack.com/alternative-to/rocketchat)
+- [Rocket.Chat Self-Hosted Guide](https://thealtstack.com/self-hosted/rocketchat)
+- [Official Documentation](https://rocket.chat)
+- [GitHub Repository](https://github.com/RocketChat/Rocket.Chat)

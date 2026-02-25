@@ -1,0 +1,153 @@
+---
+title: "Deploy Mautic Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Mautic with Docker Compose. "
+---
+
+# Deploy Mautic
+
+World's largest open source marketing automation project.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 7.0k stars</span>
+  <span className="deploy-hero-item">📜 GPL-3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Mautic instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Mautic and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  mautic:
+    image: mautic/mautic:latest
+    container_name: mautic
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "8080:80"
+    environment:
+      - MAUTIC_DB_HOST=db
+      - MAUTIC_DB_USER=mautic
+      - MAUTIC_DB_PASSWORD=mautic
+      - MAUTIC_DB_NAME=mautic
+      - MAUTIC_RUN_CRON_JOBS=true
+    volumes:
+      - mautic_data:/var/www/html
+
+  db:
+    image: mysql:5.7
+    container_name: mautic-db
+    restart: unless-stopped
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_USER=mautic
+      - MYSQL_PASSWORD=mautic
+      - MYSQL_DATABASE=mautic
+    volumes:
+      - mautic_db_data:/var/lib/mysql
+
+volumes:
+  mautic_data:
+  mautic_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/mautic && cd /opt/mautic
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `MAUTIC_DB_HOST` | `db` | No |
+| `MAUTIC_DB_USER` | `mautic` | No |
+| `MAUTIC_DB_PASSWORD` | `mautic` | No |
+| `MAUTIC_DB_NAME` | `mautic` | No |
+| `MAUTIC_RUN_CRON_JOBS` | `true` | No |
+| `plugin` | `mysql_native_password` | No |
+| `MYSQL_ROOT_PASSWORD` | `root` | No |
+| `MYSQL_USER` | `mautic` | No |
+| `MYSQL_PASSWORD` | `mautic` | No |
+| `MYSQL_DATABASE` | `mautic` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs mautic | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Mautic on AltStack Directory](https://thealtstack.com/alternative-to/mautic)
+- [Mautic Self-Hosted Guide](https://thealtstack.com/self-hosted/mautic)
+- [Official Documentation](https://www.mautic.org)
+- [GitHub Repository](https://github.com/mautic/mautic)

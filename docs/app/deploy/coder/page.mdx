@@ -1,0 +1,144 @@
+---
+title: "Deploy Coder Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Coder with Docker Compose. "
+---
+
+# Deploy Coder
+
+Provision software development environments as code on your infrastructure.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 20.0k stars</span>
+  <span className="deploy-hero-item">📜 AGPL-3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Coder instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Coder and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  coder:
+    image: ghcr.io/coder/coder:latest
+    container_name: coder
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "7080:7080"
+    environment:
+      - CODER_PG_CONNECTION_URL=postgresql://coder:coder@db:5432/coder
+      - CODER_ACCESS_URL=http://localhost:7080
+      - CODER_HTTP_ADDRESS=0.0.0.0:7080
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  db:
+    image: postgres:13
+    container_name: coder-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=coder
+      - POSTGRES_PASSWORD=coder
+      - POSTGRES_DB=coder
+    volumes:
+      - coder_db_data:/var/lib/postgresql/data
+
+volumes:
+  coder_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/coder && cd /opt/coder
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `CODER_PG_CONNECTION_URL` | `postgresql://coder:coder@db:5432/coder` | No |
+| `CODER_ACCESS_URL` | `http://localhost:7080` | No |
+| `CODER_HTTP_ADDRESS` | `0.0.0.0:7080` | No |
+| `POSTGRES_USER` | `coder` | No |
+| `POSTGRES_PASSWORD` | `coder` | No |
+| `POSTGRES_DB` | `coder` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs coder | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Coder on AltStack Directory](https://thealtstack.com/alternative-to/coder)
+- [Coder Self-Hosted Guide](https://thealtstack.com/self-hosted/coder)
+- [Official Documentation](https://coder.com)
+- [GitHub Repository](https://github.com/coder/coder)

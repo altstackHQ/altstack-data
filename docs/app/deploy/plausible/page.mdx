@@ -1,0 +1,179 @@
+---
+title: "Deploy Plausible Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Plausible with Docker Compose. "
+---
+
+# Deploy Plausible
+
+Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 24.2k stars</span>
+  <span className="deploy-hero-item">📜 GNU Affero General Public License v3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+A production-ready Plausible Analytics instance. Note that Plausible uses a two-database architecture:
+
+- **PostgreSQL:** Stores your users, sites, and metadata.
+- **ClickHouse:** A high-performance columnar database that stores the millions of raw events (pageviews) you'll be collecting.
+
+> 🌍 **Geolocation Tip:** To see where your visitors are coming from, you'll need to download the free MaxMind GeoLite2 database after deployment and place it in the `./geoip` folder.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Plausible and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  plausible:
+    image: plausible/analytics:latest
+    container_name: plausible
+    restart: unless-stopped
+    command: sh -c "sleep 10 && /entrypoint.sh db createdb && /entrypoint.sh db migrate && /entrypoint.sh run"
+    depends_on:
+      - plausible_db
+      - plausible_events_db
+      - mail
+    ports:
+      - "8000:8000"
+    environment:
+      - BASE_URL=http://localhost:8000
+      - SECRET_KEY_BASE=ChangeMeChangeMeChangeMeChangeMeChangeMeChangeMeChangeMeChangeMe
+      - DATABASE_URL=postgres://postgres:postgres@plausible_db:5432/plausible_db
+      - CLICKHOUSE_DATABASE_URL=http://plausible_events_db:8123/plausible_events_db
+      - MAILER_EMAIL=admin@example.com
+      - SMTP_HOST_ADDR=mail
+      - SMTP_HOST_PORT=25
+      - SMTP_USER_NAME=
+      - SMTP_USER_PWD=
+      - SMTP_SSL_Enabled=false
+    volumes:
+      - ./geoip:/geoip:ro
+
+  plausible_db:
+    image: postgres:14-alpine
+    container_name: plausible_db
+    restart: unless-stopped
+    volumes:
+      - plausible_db_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=plausible_db
+
+  plausible_events_db:
+    image: clickhouse/clickhouse-server:24.3.3.102-alpine
+    container_name: plausible_events_db
+    restart: unless-stopped
+    volumes:
+      - plausible_events_data:/var/lib/clickhouse
+      - ./clickhouse/clickhouse-config.xml:/etc/clickhouse-server/config.d/logging.xml:ro
+      - ./clickhouse/clickhouse-user-config.xml:/etc/clickhouse-server/users.d/logging.xml:ro
+    ulimits:
+      nofile:
+        soft: 262144
+        hard: 262144
+
+  mail:
+    image: bytemark/smtp
+    container_name: plausible_mail
+    restart: unless-stopped
+
+volumes:
+  plausible_db_data:
+  plausible_events_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/plausible && cd /opt/plausible
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `BASE_URL` | `http://localhost:8000` | No |
+| `SECRET_KEY_BASE` | `ChangeMeChangeMeChangeMeChangeMeChangeMeChangeMeChangeMeChangeMe` | No |
+| `DATABASE_URL` | `postgres://postgres:postgres@plausible_db:5432/plausible_db` | No |
+| `CLICKHOUSE_DATABASE_URL` | `http://plausible_events_db:8123/plausible_events_db` | No |
+| `MAILER_EMAIL` | `admin@example.com` | No |
+| `SMTP_HOST_ADDR` | `mail` | No |
+| `SMTP_HOST_PORT` | `25` | No |
+| `SMTP_SSL_Enabled` | `false` | No |
+| `POSTGRES_PASSWORD` | `postgres` | No |
+| `POSTGRES_DB` | `plausible_db` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs plausible | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Plausible on AltStack Directory](https://thealtstack.com/alternative-to/plausible)
+- [Plausible Self-Hosted Guide](https://thealtstack.com/self-hosted/plausible)
+- [Official Documentation](https://plausible.io)
+- [GitHub Repository](https://github.com/plausible/analytics)

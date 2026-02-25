@@ -1,0 +1,171 @@
+---
+title: "Deploy AppFlowy Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting AppFlowy with Docker Compose. "
+---
+
+# Deploy AppFlowy
+
+Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 68.0k stars</span>
+  <span className="deploy-hero-item">📜 GNU Affero General Public License v3.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working AppFlowy instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for AppFlowy and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for AppFlowy Cloud
+version: '3.8'
+
+services:
+  appflowy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: appflowy-cloud
+    ports:
+      - "8080:8080"
+    environment:
+      - DATABASE_URL=postgres://postgres:${POSTGRES_PASSWORD:-password}@db:5432/appflowy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - appflowy_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8080/health" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  db:
+    image: postgres:15-alpine
+    container_name: appflowy-db
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-password}
+      POSTGRES_DB: appflowy
+    volumes:
+      - appflowy_db_data:/var/lib/postgresql/data
+    networks:
+      - appflowy_net
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: appflowy-redis
+    networks:
+      - appflowy_net
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+networks:
+  appflowy_net:
+    driver: bridge
+
+volumes:
+  appflowy_db_data:
+    name: appflowy_db_data
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/appflowy && cd /opt/appflowy
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `DATABASE_URL` | `postgres://postgres:${POSTGRES_PASSWORD:-password}@db:5432/appflowy` | No |
+| `REDIS_URL` | `redis://redis:6379` | No |
+| `POSTGRES_PASSWORD` | `password` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs appflowy | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [AppFlowy on AltStack Directory](https://thealtstack.com/alternative-to/appflowy)
+- [AppFlowy Self-Hosted Guide](https://thealtstack.com/self-hosted/appflowy)
+- [Official Documentation](https://www.appflowy.io)
+- [GitHub Repository](https://github.com/AppFlowy-IO/AppFlowy)

@@ -1,0 +1,153 @@
+---
+title: "Environment Variables & Secrets"
+description: "How to manage .env files, Docker secrets, and sensitive configuration for self-hosted tools. Stop hardcoding passwords."
+---
+
+# Environment Variables & Secrets
+
+Every self-hosted tool needs configuration: database passwords, API keys, admin emails. The **wrong** way is hardcoding them in `docker-compose.yml`. The **right** way is environment variables.
+
+## The Basics: `.env` Files
+
+Docker Compose automatically reads a `.env` file in the same directory as your `docker-compose.yml`:
+
+```bash
+# .env
+POSTGRES_PASSWORD=super_secret_password_123
+ADMIN_EMAIL=you@yourdomain.com
+SECRET_KEY=a1b2c3d4e5f6g7h8i9j0
+```
+
+```yaml
+# docker-compose.yml
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+```
+
+Docker Compose substitutes `${POSTGRES_PASSWORD}` with the value from `.env`. Your secrets stay out of your Compose file.
+
+> ⚠️ **Critical:** Add `.env` to your `.gitignore` immediately. Never commit secrets to Git.
+
+```bash
+echo ".env" >> .gitignore
+```
+
+## Generating Strong Passwords
+
+Don't use `password123`. Generate proper secrets:
+
+```bash
+# Generate a 32-character random string
+openssl rand -base64 32
+
+# Generate a hex string (great for SECRET_KEY)
+openssl rand -hex 32
+
+# Generate a URL-safe string
+python3 -c "import secrets; print(secrets.token_urlsafe(32))"
+```
+
+### Template for Common Tools
+
+Most self-hosted tools need similar variables. Here's a reusable `.env` template:
+
+```bash
+# .env template — generate all values before first run
+
+# Database
+POSTGRES_USER=app
+POSTGRES_PASSWORD=          # openssl rand -base64 32
+POSTGRES_DB=app_db
+
+# App
+SECRET_KEY=                 # openssl rand -hex 32
+ADMIN_EMAIL=you@yourdomain.com
+ADMIN_PASSWORD=             # openssl rand -base64 24
+BASE_URL=https://app.yourdomain.com
+
+# SMTP (for email notifications)
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=you@gmail.com
+SMTP_PASSWORD=              # Use app-specific password
+```
+
+## Default Values (Fallbacks)
+
+Use the `:-` syntax for non-sensitive defaults:
+
+```yaml
+environment:
+  NODE_ENV: ${NODE_ENV:-production}        # Defaults to "production"
+  LOG_LEVEL: ${LOG_LEVEL:-info}            # Defaults to "info"
+  POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}  # No default — MUST be set
+```
+
+## Docker Secrets (Advanced)
+
+For production setups, Docker Secrets are more secure than environment variables — they're stored encrypted and mounted as files:
+
+```yaml
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_PASSWORD_FILE: /run/secrets/db_password
+    secrets:
+      - db_password
+
+secrets:
+  db_password:
+    file: ./secrets/db_password.txt
+```
+
+```bash
+# Create the secret file
+mkdir -p secrets
+openssl rand -base64 32 > secrets/db_password.txt
+chmod 600 secrets/db_password.txt
+```
+
+> 💡 Not all images support `_FILE` suffix variables. Check the image's documentation on Docker Hub.
+
+## Multiple Environments
+
+Keep separate `.env` files for different environments:
+
+```bash
+.env              # Production (default)
+.env.local        # Local development
+.env.staging      # Staging server
+```
+
+Use them explicitly:
+
+```bash
+# Use a specific env file
+docker compose --env-file .env.staging up -d
+```
+
+## Security Checklist
+
+- [ ] `.env` is in `.gitignore`
+- [ ] No secrets are hardcoded in `docker-compose.yml`
+- [ ] All passwords are randomly generated (32+ characters)
+- [ ] Database ports are NOT exposed to the internet
+- [ ] Secret files have `chmod 600` permissions
+- [ ] Default passwords from docs have been changed
+
+## Common Mistakes
+
+**"Variable is empty in the container"** → Check for typos. Variable names are case-sensitive. `POSTGRES_password` ≠ `POSTGRES_PASSWORD`.
+
+**"Changes to .env aren't applying"** → You need to recreate the container: `docker compose up -d --force-recreate`.
+
+**"I committed my .env to Git"** → Even after removing it, it's in Git history. Rotate ALL secrets immediately and use `git filter-branch` or BFG Repo Cleaner.
+
+## Next Steps
+
+→ [Monitoring & Observability](/concepts/monitoring) — Know when things break
+→ [Docker in 10 Minutes](/concepts/docker-basics) — Review the fundamentals

@@ -1,0 +1,62 @@
+---
+title: What is Self-Hosting?
+description: "Self-hosting explained without the gatekeeping. What it is, why you'd do it, and what you actually need to get started."
+---
+
+# What is Self-Hosting?
+
+**In one sentence:** Self-hosting means running software on a server *you* control, instead of paying someone else to run it for you.
+
+That's it. That's the whole concept.
+
+When you use Gmail, Google runs the email server. When you use Notion, Notion Inc runs the database. When you self-host, **you** run these things — on a cheap VPS, a spare laptop, or even a Raspberry Pi.
+
+## Why Would You Do This?
+
+| Reason | What It Means |
+|---|---|
+| **💰 Cost** | Most open source tools are free. A $5/mo server can replace $200+/mo in SaaS subscriptions. |
+| **🔒 Privacy** | Your data lives on your server. No one mines it, sells it, or trains AI on it. |
+| **🎛️ Control** | No surprise feature removals. No price hikes. No "we're sunsetting this product" emails. |
+| **🧠 Learning** | You'll actually understand how software works. This makes you a better developer, designer, or founder. |
+
+## What You Actually Need
+
+Here's the brutal truth: **self-hosting requires effort**. Not *genius-level* effort, but *following-a-recipe* effort.
+
+You need three things:
+
+1. **A server** — A $4–6/mo VPS from Hetzner, [DigitalOcean](https://m.do.co/c/2ed27757a361), or similar. [We compare them →](/quick-start/choosing-a-server)
+2. **Docker** — The tool that packages software into neat, runnable containers. [Docker basics →](/concepts/docker-basics)
+3. **20 minutes of patience** — Most tools deploy in under 20 minutes if you follow our guides.
+
+> 🔥 **Pro Tip:** You don't need to know Linux commands by heart. You need to know how to copy-paste. Seriously.
+
+## The Self-Hosting Spectrum
+
+Not all self-hosting is equal. Here's where most people land:
+
+```
+Easy ─────────────────────────────────────── Hard
+
+Docker run     Docker Compose     Kubernetes
+(1 command)    (1 YAML file)      (for masochists)
+```
+
+**Good news:** 95% of the tools in our directory work with Docker Compose — a single file that describes your entire setup. Our guides always give you that file, ready to go.
+
+## Common Fears (Debunked)
+
+**"I'll get hacked"** → You're more likely to get breached through a SaaS provider's data leak than through a properly configured VPS with a firewall and SSH keys.
+
+**"I can't handle maintenance"** → Docker makes updates a two-command affair: `docker-compose pull && docker-compose up -d`. That's it.
+
+**"What if it breaks at 3 AM?"** → Set up [Uptime Kuma](/deploy/uptime-kuma) (takes 5 minutes) and you'll know before your users do.
+
+**"I don't have time"** → You don't have time to submit GDPR data requests to 47 SaaS vendors either. Pick your battles.
+
+## Next Steps
+
+Ready? Let's deploy something real.
+
+→ [Your First Deployment](/quick-start/first-deployment) — Get a tool running in 5 minutes flat.

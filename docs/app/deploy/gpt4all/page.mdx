@@ -1,0 +1,132 @@
+---
+title: "Deploy GPT4All Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting GPT4All with Docker Compose. "
+---
+
+# Deploy GPT4All
+
+Run open-source LLMs locally on your CPU and GPU. No internet required.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 65.0k stars</span>
+  <span className="deploy-hero-item">📜 Apache License 2.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working GPT4All instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for GPT4All and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for GPT4All
+version: '3.8'
+
+services:
+  gpt4all:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gpt4all-server
+    ports:
+      - "4891:4891"
+    volumes:
+      - gpt4all_models:/app/models
+    networks:
+      - gpt4all_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:4891/v1/models" ] # GPT4All local API endpoint
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+networks:
+  gpt4all_net:
+    driver: bridge
+
+volumes:
+  gpt4all_models:
+    name: gpt4all_models
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/gpt4all && cd /opt/gpt4all
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs gpt4all | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [GPT4All on AltStack Directory](https://thealtstack.com/alternative-to/gpt4all)
+- [GPT4All Self-Hosted Guide](https://thealtstack.com/self-hosted/gpt4all)
+- [Official Documentation](https://gpt4all.io)
+- [GitHub Repository](https://github.com/nomic-ai/gpt4all)

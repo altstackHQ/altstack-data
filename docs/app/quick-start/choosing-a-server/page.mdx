@@ -1,0 +1,113 @@
+---
+title: Choosing a Server
+description: "A no-nonsense comparison of VPS providers for self-hosting. Hetzner, DigitalOcean, Linode, and more — which one to pick and why."
+---
+
+# Choosing a Server
+
+You need a place to run your tools. That place is a **VPS** (Virtual Private Server) — basically a computer in a data center that you rent by the month.
+
+> ⚠️ **Heads Up:** You *can* self-host on a Raspberry Pi or old laptop at home. But a VPS gives you a static IP, proper uptime, and you don't need to worry about your ISP blocking ports. Start with a VPS. Go homelab later.
+
+## The Short Answer
+
+**Just get a Hetzner CX22.** €4.50/mo, 2 vCPUs, 4GB RAM, 40GB SSD, 20TB traffic. It'll run 5–10 Docker containers comfortably.
+
+If Hetzner isn't available in your region, get a [DigitalOcean $6/mo Droplet](https://m.do.co/c/2ed27757a361).
+
+That's the recommendation. Below is the reasoning.
+
+## The Comparison
+
+| Provider | Cheapest Plan | CPU | RAM | Storage | Best For |
+|---|---|---|---|---|---|
+| **Hetzner** | €3.79/mo | 2 shared | 4 GB | 40 GB | Best value overall, EU & US |
+| [**DigitalOcean**](https://m.do.co/c/2ed27757a361) | $6/mo | 1 vCPU | 1 GB | 25 GB | Beginners, great docs |
+| **Linode (Akamai)** | $5/mo | 1 vCPU | 1 GB | 25 GB | Solid alternative to DO |
+| **Vultr** | $5/mo | 1 vCPU | 1 GB | 25 GB | Global edge locations |
+| **OVH** | €3.50/mo | 1 vCPU | 2 GB | 20 GB | Budget EU hosting |
+| **Oracle Cloud** | Free tier | 4 ARM | 24 GB | 200 GB | Can't beat free (if you qualify) |
+
+## What Specs Do You Need?
+
+Here's a rough guide based on what you want to run:
+
+| Use Case | RAM | CPU | Storage | Monthly Cost |
+|---|---|---|---|---|
+| 1–3 lightweight tools (Plausible, Uptime Kuma, Listmonk) | 2 GB | 1 vCPU | 20 GB | ~$5 |
+| An entire Bootstrapper Stack (Supabase, Coolify, Plausible, etc.) | 4 GB | 2 vCPU | 40 GB | ~$6 |
+| AI models (Ollama, Stable Diffusion) | 8+ GB | 4+ vCPU | 80+ GB | ~$15+ |
+| "I self-host everything" | 16 GB | 4 vCPU | 160 GB | ~$25 |
+
+> 🔥 **Pro Tip:** Start small. You can upgrade a VPS in about 30 seconds. It's way harder to downgrade. Get a 4GB plan and upgrade when you actually feel it.
+
+Once you have a VPS, the setup is the same everywhere. Don't just install Docker and leave it open; follow these steps to secure your investment.
+
+### 1. Hardening SSH (Don't skip this)
+Root password login is a magnet for brute-force attacks. Use SSH keys.
+
+```bash
+# On your local machine:
+ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-copy-id root@your-server-ip
+
+# Now SSH back into the server:
+ssh root@your-server-ip
+```
+
+Disable password login:
+```bash
+nano /etc/ssh/sshd_config
+# Find and set: PasswordAuthentication no
+# Restart SSH: systemctl restart ssh
+```
+
+### 2. Configure the Firewall (UFW)
+Only open the ports you actually need.
+
+```bash
+# Allow SSH, HTTP, and HTTPS
+ufw allow ssh
+ufw allow 80/tcp
+ufw allow 443/tcp
+
+# Enable firewall
+ufw enable
+```
+
+### 3. Install Docker & Compose
+The easiest way is the official convenience script.
+
+```bash
+# Update the system
+apt update && apt upgrade -y
+
+# Install Docker
+curl -fsSL https://get.docker.com | sh
+
+# Install Docker Compose plugin
+apt install docker-compose-plugin -y
+
+# Verify
+docker --version
+docker compose version
+```
+
+### 4. Create a Non-Root User (Optional but Good)
+Running everything as root is risky. Create a user with sudo privileges.
+
+```bash
+adduser dev
+usermod -aG sudo dev
+usermod -aG docker dev
+# Now log in as 'dev' for future work
+```
+
+That's your server ready and secured. Every deploy guide in these docs assumes you've done this.
+
+## Next Steps
+
+Your server is ready. Time to deploy something real:
+
+→ [The AltStack Starter Kit](/quick-start/starter-kit) — Our recommended first set of tools
+→ [Deploy Guides](/deploy) — Pick any tool and deploy it

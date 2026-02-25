@@ -1,0 +1,150 @@
+---
+title: "Deploy Medusa.js Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Medusa.js with Docker Compose. "
+---
+
+# Deploy Medusa.js
+
+The open-source alternative to Shopify. Building blocks for digital commerce.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 24.0k stars</span>
+  <span className="deploy-hero-item">📜 MIT</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Medusa.js instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Medusa.js and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  medusa:
+    image: medusajs/medusa:latest
+    container_name: medusa
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    ports:
+      - "9000:9000"
+    environment:
+      - DATABASE_URL=postgres://medusa:medusa@db:5432/medusa
+      - REDIS_URL=redis://redis:6379
+      - JWT_SECRET=supersecret
+      - COOKIE_SECRET=supersecret
+
+  db:
+    image: postgres:15-alpine
+    container_name: medusa-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=medusa
+      - POSTGRES_PASSWORD=medusa
+      - POSTGRES_DB=medusa
+    volumes:
+      - medusa_db_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:alpine
+    container_name: medusa-redis
+    restart: unless-stopped
+
+volumes:
+  medusa_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/medusa && cd /opt/medusa
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `DATABASE_URL` | `postgres://medusa:medusa@db:5432/medusa` | No |
+| `REDIS_URL` | `redis://redis:6379` | No |
+| `JWT_SECRET` | `supersecret` | No |
+| `COOKIE_SECRET` | `supersecret` | No |
+| `POSTGRES_USER` | `medusa` | No |
+| `POSTGRES_PASSWORD` | `medusa` | No |
+| `POSTGRES_DB` | `medusa` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs medusa | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Medusa.js on AltStack Directory](https://thealtstack.com/alternative-to/medusa)
+- [Medusa.js Self-Hosted Guide](https://thealtstack.com/self-hosted/medusa)
+- [Official Documentation](https://medusajs.com)
+- [GitHub Repository](https://github.com/medusajs/medusa)

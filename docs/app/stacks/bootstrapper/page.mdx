@@ -1,0 +1,70 @@
+---
+title: "The Bootstrapper Stack"
+description: "Launch your SaaS for $0/mo. The complete open source stack with database, auth, deployment, analytics, project management, and design."
+---
+
+# 🚀 The Bootstrapper Stack
+
+**Launch for $0/mo.** Everything you need to build, ship, and manage a SaaS product without spending a dime on software.
+
+| What | Tool | Monthly SaaS Cost Replaced |
+|---|---|---|
+| Database & Auth | [Supabase](/deploy/supabase) | ~$25/mo (Firebase) |
+| Project Management | [Plane](/deploy/plane) | ~$10/mo (Jira) |
+| Team Chat | [Rocket.Chat](/deploy/rocketchat) | ~$7/mo (Slack) |
+| Deployment PaaS | [Coolify](/deploy/coolify) | ~$20/mo (Vercel Pro) |
+| Web Analytics | [Plausible](/deploy/plausible) | ~$9/mo (Plausible Cloud) |
+| UI/UX Design | [Penpot](/deploy/penpot) | ~$15/mo (Figma) |
+
+**Total saved: ~$310/mo** · **Your cost: ~$6/mo (one VPS)**
+
+## Deploy Order
+
+Deploy in this order — each tool builds on the previous:
+
+### 1. Coolify (your PaaS)
+Coolify turns your VPS into a self-hosted Vercel. Once it's running, you can deploy everything else *through it*.
+
+→ [Deploy Coolify](/deploy/coolify)
+
+### 2. Supabase (your backend)
+Database, authentication, storage, and realtime — all in one. This is your app's backbone.
+
+→ [Deploy Supabase](/deploy/supabase)
+
+### 3. Plausible (your analytics)
+Drop Google Analytics. Plausible is lightweight, cookie-free, and respects your users' privacy.
+
+→ [Deploy Plausible](/deploy/plausible)
+
+### 4. Plane (your project board)
+Jira without the Jira experience. Clean, fast, issue tracking that doesn't make you want to quit.
+
+→ [Deploy Plane](/deploy/plane)
+
+### 5. Rocket.Chat (your team chat)
+Slack without the $7/user/mo. Self-hosted, full-featured, and it doesn't sell your conversations.
+
+→ [Deploy Rocket.Chat](/deploy/rocketchat)
+
+### 6. Penpot (your design tool)
+open source Figma alternative. Real-time collaboration, SVG-based, and free forever.
+
+→ [Deploy Penpot](/deploy/penpot)
+
+## Server Requirements
+
+| Spec | Recommended |
+|---|---|
+| RAM | 4 GB minimum (8 GB ideal) |
+| CPU | 2 vCPU |
+| Storage | 40 GB SSD |
+| OS | Ubuntu 22.04+ or Debian 12+ |
+| Monthly cost | ~$6 (Hetzner CX22) |
+
+## Who This Is For
+
+- Solo founders building a SaaS MVP
+- Early-stage startups that refuse to burn cash on software
+- Developers who want to control their entire stack
+- Anyone tired of the "free tier" → "pay us now" bait-and-switch

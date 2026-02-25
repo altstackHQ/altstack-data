@@ -1,0 +1,185 @@
+---
+title: "Deploy Penpot Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Penpot with Docker Compose. "
+---
+
+# Deploy Penpot
+
+Penpot: The open-source design tool for design and code collaboration
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 44.2k stars</span>
+  <span className="deploy-hero-item">📜 Mozilla Public License 2.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Penpot instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Penpot and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  penpot-frontend:
+    image: penpotapp/frontend:latest
+    container_name: penpot-frontend
+    restart: unless-stopped
+    depends_on:
+      - penpot-backend
+      - penpot-exporter
+    ports:
+      - "9010:80"
+    environment:
+      - PENPOT_FLAGS=disable-registration disable-login-with-password
+    volumes:
+      - penpot_assets:/opt/data/assets
+
+  penpot-backend:
+    image: penpotapp/backend:latest
+    container_name: penpot-backend
+    restart: unless-stopped
+    depends_on:
+      - penpot-postgres
+      - penpot-redis
+    environment:
+      - PENPOT_FLAGS=disable-registration disable-login-with-password
+      - PENPOT_DATABASE_URI=postgresql://penpot-postgres/penpot
+      - PENPOT_DATABASE_USERNAME=penpot
+      - PENPOT_DATABASE_PASSWORD=penpot
+      - PENPOT_REDIS_URI=redis://penpot-redis/0
+      - PENPOT_ASSETS_STORAGE_BACKEND=assets-fs
+      - PENPOT_STORAGE_ASSETS_FS_DIRECTORY=/opt/data/assets
+      - PENPOT_TELEMETRY_ENABLED=false
+    volumes:
+      - penpot_assets:/opt/data/assets
+
+  penpot-exporter:
+    image: penpotapp/exporter:latest
+    container_name: penpot-exporter
+    restart: unless-stopped
+    environment:
+      - PENPOT_DATABASE_URI=postgresql://penpot-postgres/penpot
+      - PENPOT_DATABASE_USERNAME=penpot
+      - PENPOT_DATABASE_PASSWORD=penpot
+      - PENPOT_REDIS_URI=redis://penpot-redis/0
+
+  penpot-postgres:
+    image: postgres:15
+    container_name: penpot-postgres
+    restart: unless-stopped
+    environment:
+      - POSTGRES_INITDB_ARGS=--data-checksums
+      - POSTGRES_DB=penpot
+      - POSTGRES_USER=penpot
+      - POSTGRES_PASSWORD=penpot
+    volumes:
+      - penpot_postgres_v15:/var/lib/postgresql/data
+
+  penpot-redis:
+    image: redis:7
+    container_name: penpot-redis
+    restart: unless-stopped
+
+volumes:
+  penpot_postgres_v15:
+  penpot_assets:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/penpot && cd /opt/penpot
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `PENPOT_FLAGS` | `disable-registration disable-login-with-password` | No |
+| `PENPOT_DATABASE_URI` | `postgresql://penpot-postgres/penpot` | No |
+| `PENPOT_DATABASE_USERNAME` | `penpot` | No |
+| `PENPOT_DATABASE_PASSWORD` | `penpot` | No |
+| `PENPOT_REDIS_URI` | `redis://penpot-redis/0` | No |
+| `PENPOT_ASSETS_STORAGE_BACKEND` | `assets-fs` | No |
+| `PENPOT_STORAGE_ASSETS_FS_DIRECTORY` | `/opt/data/assets` | No |
+| `PENPOT_TELEMETRY_ENABLED` | `false` | No |
+| `POSTGRES_INITDB_ARGS` | `--data-checksums` | No |
+| `POSTGRES_DB` | `penpot` | No |
+| `POSTGRES_USER` | `penpot` | No |
+| `POSTGRES_PASSWORD` | `penpot` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs penpot | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Penpot on AltStack Directory](https://thealtstack.com/alternative-to/penpot)
+- [Penpot Self-Hosted Guide](https://thealtstack.com/self-hosted/penpot)
+- [Official Documentation](https://penpot.app)
+- [GitHub Repository](https://github.com/penpot/penpot)

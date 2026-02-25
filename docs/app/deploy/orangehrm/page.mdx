@@ -1,0 +1,146 @@
+---
+title: "Deploy OrangeHRM Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting OrangeHRM with Docker Compose. "
+---
+
+# Deploy OrangeHRM
+
+The world's most popular open source human resource management software.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 1.2k stars</span>
+  <span className="deploy-hero-item">📜 GPLv2</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working OrangeHRM instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for OrangeHRM and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  orangehrm:
+    image: orangehrm/orangehrm:latest
+    container_name: orangehrm
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "80:80"
+    environment:
+      - ORANGEHRM_DATABASE_HOST=db
+      - ORANGEHRM_DATABASE_USER=orangehrm
+      - ORANGEHRM_DATABASE_PASSWORD=orangehrm
+      - ORANGEHRM_DATABASE_NAME=orangehrm
+
+  db:
+    image: mariadb:10.6
+    container_name: orangehrm-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_USER=orangehrm
+      - MYSQL_PASSWORD=orangehrm
+      - MYSQL_DATABASE=orangehrm
+    volumes:
+      - orangehrm_db_data:/var/lib/mysql
+
+volumes:
+  orangehrm_db_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/orangehrm && cd /opt/orangehrm
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `ORANGEHRM_DATABASE_HOST` | `db` | No |
+| `ORANGEHRM_DATABASE_USER` | `orangehrm` | No |
+| `ORANGEHRM_DATABASE_PASSWORD` | `orangehrm` | No |
+| `ORANGEHRM_DATABASE_NAME` | `orangehrm` | No |
+| `MYSQL_ROOT_PASSWORD` | `root` | No |
+| `MYSQL_USER` | `orangehrm` | No |
+| `MYSQL_PASSWORD` | `orangehrm` | No |
+| `MYSQL_DATABASE` | `orangehrm` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs orangehrm | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [OrangeHRM on AltStack Directory](https://thealtstack.com/alternative-to/orangehrm)
+- [OrangeHRM Self-Hosted Guide](https://thealtstack.com/self-hosted/orangehrm)
+- [Official Documentation](https://www.orangehrm.com)
+- [GitHub Repository](https://github.com/orangehrm/orangehrm)

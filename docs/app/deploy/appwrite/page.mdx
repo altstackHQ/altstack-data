@@ -1,0 +1,181 @@
+---
+title: "Deploy Appwrite Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Appwrite with Docker Compose. "
+---
+
+# Deploy Appwrite
+
+Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 54.7k stars</span>
+  <span className="deploy-hero-item">📜 BSD 3-Clause "New" or "Revised" License</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working Appwrite instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Appwrite and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Appwrite
+# Note: Appwrite is a complex multi-service system. 
+# This is a production-ready configuration for the core services.
+version: '3.8'
+
+services:
+  appwrite:
+    image: appwrite/appwrite:1.5.4
+    container_name: appwrite
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      - _APP_ENV=production
+      - _APP_DB_HOST=db
+      - _APP_DB_USER=appwrite
+      - _APP_DB_PASS=${DB_PASSWORD:-password}
+      - _APP_REDIS_HOST=redis
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - appwrite_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost/v1/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  db:
+    image: mariadb:10.11 # Appwrite uses MariaDB by default
+    container_name: appwrite-db
+    environment:
+      MARIADB_USER: appwrite
+      MARIADB_PASSWORD: ${DB_PASSWORD:-password}
+      MARIADB_DATABASE: appwrite
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:-rootpassword}
+    volumes:
+      - appwrite_db_data:/var/lib/mysql
+    networks:
+      - appwrite_net
+    healthcheck:
+      test: [ "CMD-SHELL", "mysqladmin ping -h localhost -u root -p${DB_ROOT_PASSWORD:-rootpassword}" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: appwrite-redis
+    networks:
+      - appwrite_net
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+networks:
+  appwrite_net:
+    driver: bridge
+
+volumes:
+  appwrite_db_data:
+    name: appwrite_db_data
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/appwrite && cd /opt/appwrite
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `_APP_ENV` | `production` | No |
+| `_APP_DB_HOST` | `db` | No |
+| `_APP_DB_USER` | `appwrite` | No |
+| `_APP_DB_PASS` | `${DB_PASSWORD:-password}` | No |
+| `_APP_REDIS_HOST` | `redis` | No |
+| `DB_PASSWORD` | `password` | No |
+| `DB_ROOT_PASSWORD` | `rootpassword` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs appwrite | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Appwrite on AltStack Directory](https://thealtstack.com/alternative-to/appwrite)
+- [Appwrite Self-Hosted Guide](https://thealtstack.com/self-hosted/appwrite)
+- [Official Documentation](https://appwrite.io)
+- [GitHub Repository](https://github.com/appwrite/appwrite)

@@ -1,0 +1,160 @@
+---
+title: "Networking for Self-Hosters"
+description: "Ports, DNS, firewalls, and private networks — the networking basics every self-hoster needs to know."
+---
+
+# Networking for Self-Hosters
+
+You deployed a tool. It works on `localhost:3000`. You try to access it from your phone. Nothing. Welcome to networking.
+
+This guide covers the **four things** standing between your server and the outside world.
+
+## 1. Ports
+
+Every network service listens on a **port** — a numbered door on your server. Some well-known ones:
+
+| Port | Service |
+|---|---|
+| `22` | SSH |
+| `80` | HTTP |
+| `443` | HTTPS |
+| `5432` | PostgreSQL |
+| `3000–9000` | Where most self-hosted tools live |
+
+When Docker maps `-p 8080:3000`, it's saying: "When traffic hits port 8080 on the host, send it to port 3000 inside the container."
+
+```yaml
+# In docker-compose.yml
+ports:
+  - "8080:3000"  # host:container
+```
+
+> ⚠️ **Never expose database ports** (5432, 3306, 27017) to the internet. Keep them internal to Docker networks.
+
+## 2. DNS (Domain Name System)
+
+DNS translates human-readable names to IP addresses:
+
+```
+plausible.yourdomain.com  →  203.0.113.42
+```
+
+### Setting Up DNS Records
+
+In your domain registrar (Cloudflare, Namecheap, etc.):
+
+| Type | Name | Value | What it does |
+|---|---|---|---|
+| **A** | `@` | `203.0.113.42` | Points root domain to your server |
+| **A** | `plausible` | `203.0.113.42` | Points subdomain to your server |
+| **CNAME** | `www` | `yourdomain.com` | Aliases `www` to root |
+| **A** | `*` | `203.0.113.42` | Wildcard — catch-all for any subdomain |
+
+> 💡 **Pro Tip:** A wildcard `*` A record + Caddy reverse proxy = unlimited subdomains with zero DNS management. Just add entries to your Caddyfile.
+
+### DNS Propagation
+
+After changing DNS records, it can take **5 minutes to 48 hours** to propagate globally. Use [dnschecker.org](https://dnschecker.org) to verify.
+
+## 3. Firewalls (UFW)
+
+A firewall controls which ports are open to the internet. On Ubuntu/Debian, use **UFW** (Uncomplicated Firewall):
+
+```bash
+# Check current status
+ufw status
+
+# Allow essential ports
+ufw allow 22/tcp      # SSH — DON'T lock yourself out
+ufw allow 80/tcp      # HTTP
+ufw allow 443/tcp     # HTTPS
+
+# Enable the firewall
+ufw enable
+
+# Deny everything else by default
+ufw default deny incoming
+ufw default allow outgoing
+```
+
+### The Golden Rule
+
+Only open three ports to the internet: **22** (SSH), **80** (HTTP), **443** (HTTPS).
+
+Your reverse proxy (Caddy/Nginx) handles port 80/443 and routes traffic internally to your containers. Individual tool ports (3000, 8080, etc.) should **never** be exposed publicly.
+
+```
+Internet → Port 443 → Caddy → Internal Docker Network → Your Tools
+```
+
+### Common Mistakes
+
+**"I can't SSH into my server"** → You blocked port 22 before enabling UFW. Contact your hosting provider for console access.
+
+**"My tool works locally but not remotely"** → Port 80/443 isn't open. Run `ufw allow 80/tcp && ufw allow 443/tcp`.
+
+**"I opened port 8080 and got hacked"** → Never expose app ports directly. Use a reverse proxy instead.
+
+## 4. Docker Networks
+
+Docker creates isolated **networks** for your containers. By default, containers in the same `docker-compose.yml` can talk to each other by service name:
+
+```yaml
+services:
+  app:
+    image: myapp:latest
+    depends_on:
+      - db  # Can reach the database at "db:5432"
+
+  db:
+    image: postgres:16
+    # No "ports:" = not accessible from outside Docker
+```
+
+### When to Create Custom Networks
+
+If you need containers from **different** Compose files to communicate (e.g., a shared Caddy reverse proxy):
+
+```yaml
+# In your Caddyfile's docker-compose.yml
+networks:
+  proxy:
+    external: true
+
+# In your app's docker-compose.yml
+networks:
+  default:
+    name: proxy
+    external: true
+```
+
+Create the shared network first:
+
+```bash
+docker network create proxy
+```
+
+Now all containers on the `proxy` network can reach each other by service name — across different Compose files.
+
+## Quick Reference
+
+```bash
+# See what's listening on which port
+ss -tlnp
+
+# Test if a port is open from outside
+nc -zv your-server-ip 443
+
+# See Docker networks
+docker network ls
+
+# Check DNS resolution
+dig plausible.yourdomain.com
+nslookup plausible.yourdomain.com
+```
+
+## Next Steps
+
+→ [Reverse Proxies Explained](/concepts/reverse-proxies) — Route traffic from domains to containers
+→ [SSL/TLS for Self-Hosters](/concepts/ssl-tls) — Encrypt your traffic
+→ [Environment Variables & Secrets](/concepts/env-secrets) — Secure your configuration

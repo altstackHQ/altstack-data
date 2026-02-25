@@ -1,0 +1,208 @@
+---
+title: "Deploy Supabase Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting Supabase with Docker Compose. "
+---
+
+# Deploy Supabase
+
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 97.4k stars</span>
+  <span className="deploy-hero-item">📜 Apache License 2.0</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+A fully working Supabase instance running on your server. This isn't just a database; it's a full backend-as-a-service including:
+
+- **PostgreSQL:** The world's most advanced relational database.
+- **GoTrue:** User management and JWT-based authentication.
+- **PostgREST:** Turns your database into a RESTful API automatically.
+- **Realtime:** Listen to database changes via WebSockets.
+- **Storage:** S3-compatible file storage.
+
+> ⚠️ **Critical Security Note:** The default configuration uses "postgres" as the password and a temporary JWT secret. You MUST change these in your `.env` file before exposing this to the internet.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for Supabase and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Supabase Production-Ready Docker Compose
+# Note: Supabase is a collection of services. Official images are the standard.
+# This setup includes the core services: PostgREST, GoTrue, Realtime, Storage, and PostgreSQL.
+
+version: '3.8'
+
+services:
+  db:
+    container_name: supabase-db
+    image: supabase/postgres:15.1.1.78
+    command: postgres -c config_file=/etc/postgresql/postgresql.conf -c log_min_messages=fatal
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 3
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - supabase_db_data:/var/lib/postgresql/data
+    networks:
+      - supabase_net
+
+  auth:
+    container_name: supabase-auth
+    image: supabase/gotrue:v2.143.0
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9999/health"]
+      interval: 5s
+      timeout: 5s
+      retries: 3
+    environment:
+      GOTRUE_DB_DRIVER: postgres
+      GOTRUE_DB_DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD:-postgres}@db:5432/postgres?sslmode=disable
+      GOTRUE_SITE_URL: ${SITE_URL:-http://localhost:3000}
+      GOTRUE_JWT_SECRET: ${JWT_SECRET:-super-secret-jwt-token-don-not-use-in-prod}
+    networks:
+      - supabase_net
+
+  rest:
+    container_name: supabase-rest
+    image: postgrest/postgrest:v11.2.2
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      PGRST_DB_URI: postgres://postgres:${POSTGRES_PASSWORD:-postgres}@db:5432/postgres
+      PGRST_DB_SCHEMA: public
+      PGRST_DB_ANON_ROLE: anon
+    networks:
+      - supabase_net
+
+  realtime:
+    container_name: supabase-realtime
+    image: supabase/realtime:v2.25.56
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST: db
+      DB_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      JWT_SECRET: ${JWT_SECRET:-super-secret-jwt-token-don-not-use-in-prod}
+    networks:
+      - supabase_net
+
+  storage:
+    container_name: supabase-storage
+    image: supabase/storage-api:v0.43.12
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ANON_KEY: ${ANON_KEY}
+      SERVICE_KEY: ${SERVICE_KEY}
+      PGRST_JWT_SECRET: ${JWT_SECRET:-super-secret-jwt-token-don-not-use-in-prod}
+      DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD:-postgres}@db:5432/postgres
+    networks:
+      - supabase_net
+
+networks:
+  supabase_net:
+    driver: bridge
+
+volumes:
+  supabase_db_data:
+    name: supabase_db_data
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/supabase && cd /opt/supabase
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `POSTGRES_PASSWORD` | `postgres` | No |
+| `SITE_URL` | `http://localhost:3000` | No |
+| `JWT_SECRET` | `super-secret-jwt-token-don-not-use-in-prod` | No |
+| `ANON_KEY` | `—` | ✅ Yes |
+| `SERVICE_KEY` | `—` | ✅ Yes |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs supabase | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [Supabase on AltStack Directory](https://thealtstack.com/alternative-to/supabase)
+- [Supabase Self-Hosted Guide](https://thealtstack.com/self-hosted/supabase)
+- [Official Documentation](https://supabase.com)
+- [GitHub Repository](https://github.com/supabase/supabase)

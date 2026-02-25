@@ -1,0 +1,153 @@
+---
+title: "Updating & Maintaining Containers"
+description: "How to safely update self-hosted tools running in Docker. Update workflows, rollbacks, and optional automation with Watchtower."
+---
+
+# Updating & Maintaining Containers
+
+Your tools need updates — security patches, bug fixes, new features. But updating a self-hosted tool isn't like clicking "Update" in an app store. You need a process.
+
+## The Safe Update Workflow
+
+Follow this **every time** you update a tool:
+
+```bash
+# 1. Backup first (ALWAYS)
+docker exec my-db pg_dump -U postgres mydb > backup_$(date +%Y%m%d).sql
+
+# 2. Pull the new image
+docker compose pull
+
+# 3. Recreate containers with new image
+docker compose up -d
+
+# 4. Check logs for errors
+docker compose logs -f --tail=50
+
+# 5. Verify the tool works
+curl -I https://app.yourdomain.com
+```
+
+> ⚠️ **Golden Rule:** Never update without a backup. If something breaks, you can roll back in 60 seconds.
+
+## Rolling Back
+
+Something went wrong? Here's how to revert to the previous version:
+
+### Option 1: Pin to Previous Version
+
+```yaml
+# docker-compose.yml — change the tag
+services:
+  app:
+    image: plausible/analytics:v2.0.0  # Was :v2.1.0
+```
+
+```bash
+docker compose up -d
+```
+
+### Option 2: Restore From Backup
+
+```bash
+# Stop the broken service
+docker compose down
+
+# Restore the database backup
+cat backup_20260218.sql | docker exec -i my-db psql -U postgres mydb
+
+# Start with the old image
+docker compose up -d
+```
+
+## Image Tags: `latest` vs Pinned Versions
+
+| Approach | Pros | Cons |
+|---|---|---|
+| `image: app:latest` | Always gets newest | Can break unexpectedly |
+| `image: app:v2.1.0` | Predictable, reproducible | Manual updates required |
+| `image: app:2` | Gets patches within major version | Some risk of breaking changes |
+
+> 🏆 **Our Recommendation:** Use **major version tags** (`image: postgres:16`) for databases and **pinned versions** (`image: plausible/analytics:v2.1.0`) for applications. Avoid `latest` in production.
+
+## Automated Updates with Watchtower
+
+If you want hands-off updates (with some risk), **Watchtower** watches your containers and auto-updates them:
+
+```yaml
+services:
+  watchtower:
+    image: containrrr/watchtower
+    container_name: watchtower
+    restart: unless-stopped
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      WATCHTOWER_CLEANUP: "true"
+      WATCHTOWER_SCHEDULE: "0 0 4 * * *"  # 4 AM daily
+      WATCHTOWER_NOTIFICATIONS: "email"
+    command: --include-restarting
+```
+
+### Watchtower Caveats
+
+- It updates **all** containers by default. Use labels to control which ones:
+
+```yaml
+services:
+  plausible:
+    image: plausible/analytics:latest
+    labels:
+      - "com.centurylinklabs.watchtower.enable=true"
+
+  database:
+    image: postgres:16
+    labels:
+      - "com.centurylinklabs.watchtower.enable=false"  # NEVER auto-update databases
+```
+
+- It doesn't run migrations. Some tools need `docker exec app migrate` after updates.
+- It can't roll back automatically.
+
+> ⚠️ **Never auto-update databases.** Postgres, MySQL, and Redis major version upgrades require manual migration steps. Always pin database images.
+
+## Cleanup: Reclaiming Disk Space
+
+Old images pile up. Docker doesn't clean them automatically:
+
+```bash
+# See how much space Docker is using
+docker system df
+
+# Remove unused images (safe)
+docker image prune -f
+
+# Nuclear option: remove ALL unused data
+docker system prune -a -f --volumes
+# ⚠️ This deletes stopped containers, unused images, AND orphaned volumes
+```
+
+### Automate Cleanup
+
+Add to your crontab:
+
+```bash
+# Weekly cleanup at 3 AM Sunday
+0 3 * * 0 docker image prune -f >> /var/log/docker-cleanup.log 2>&1
+```
+
+## Update Checklist
+
+Before updating any tool:
+
+- [ ] Database backed up
+- [ ] Current version noted (in case of rollback)
+- [ ] Changelog reviewed for breaking changes
+- [ ] `.env` file backed up
+- [ ] Update applied and logs checked
+- [ ] Service verified working
+
+## Next Steps
+
+→ [Backups That Actually Work](/concepts/backups) — Make sure you can actually roll back
+→ [Monitoring & Observability](/concepts/monitoring) — Catch failed updates automatically

@@ -1,0 +1,38 @@
+---
+title: "The AI-First Stack"
+description: "Own your AI. Run LLMs, image generation, and code assistants locally with zero API keys, zero usage limits, and zero data leaving your machine."
+---
+
+# 🤖 The AI-First Stack
+
+**Own your AI.** Run powerful AI locally. No API keys, no usage limits, no data leaving your machine.
+
+| What | Tool | Replaces |
+|---|---|---|
+| LLM Inference | [Llama](/deploy/llama) | ChatGPT ($20/mo) |
+| Coding Model | [DeepSeek](/deploy/deepseek) | GitHub Copilot ($10/mo) |
+| Image Generation | [Stable Diffusion](/deploy/stable-diffusion) | Midjourney ($10/mo) |
+| IDE Assistant | [Continue.dev](/deploy/continue-dev) | Copilot extension ($10/mo) |
+| Code Autocomplete | [Tabby](/deploy/tabby) | Tabnine ($12/mo) |
+
+**Total saved: ~$69/mo** (nice)
+
+## Hardware Requirements
+
+Running AI locally requires GPU horsepower. Here's what you need:
+
+| Model Type | Minimum VRAM | Recommended GPU |
+|---|---|---|
+| Small LLMs (7B params) | 6 GB | RTX 3060, RTX 4060 |
+| Large LLMs (70B params) | 48 GB | 2× RTX 3090, A6000 |
+| Image Generation (SDXL) | 8 GB | RTX 3070+ |
+| Code Models (DeepSeek) | 8 GB | RTX 4060+ |
+
+> 🔥 **Pro Tip:** Start with Ollama + Llama 3. It runs well on an 8GB GPU and gives you a local ChatGPT replacement in under 5 minutes.
+
+## Deploy Guides
+
+→ [Deploy Ollama (LLM Runner)](/deploy/ollama)
+→ [Deploy Stable Diffusion](/deploy/stable-diffusion)
+→ [Deploy Tabby (Code AI)](/deploy/tabby)
+→ [Deploy Continue.dev](/deploy/continue-dev)

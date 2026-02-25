@@ -1,0 +1,88 @@
+---
+title: Quick Start
+description: "Your roadmap to self-hosting independence. Go from zero to a running infrastructure in under an hour."
+---
+
+import { Clock, Server, Shield, Rocket, ArrowRight, CheckCircle } from 'lucide-react'
+
+# Quick Start
+
+**Go from "I've never self-hosted anything" to "I'm running my own infrastructure" in under an hour.** This guide is your roadmap — follow it in order.
+
+<div className="mt-12 space-y-6">
+  <div className="relative pl-12 pb-8 border-l-2 border-red-500/20">
+    <div className="absolute -left-4 top-0 w-8 h-8 rounded-full bg-red-500 flex items-center justify-center text-white font-bold text-sm">{"1"}</div>
+    <h3 className="text-lg font-bold mb-1">{"Understand the Basics"}</h3>
+    <div className="flex items-center gap-2 text-sm text-[var(--altstack-text-dim)] mb-3">
+      <Clock size={14} /><span>{" 5 min read"}</span>
+    </div>
+    <span className="block text-[var(--altstack-text-dim)] mb-3">{"What self-hosting actually means, why you'd do it, and the three things you need. No jargon, no gatekeeping."}</span>
+    <a href="/quick-start/what-is-self-hosting" className="inline-flex items-center gap-2 text-red-500 font-semibold text-sm hover:underline">
+      <span>{"What is Self-Hosting?"}</span> <ArrowRight size={14} />
+    </a>
+  </div>
+  <div className="relative pl-12 pb-8 border-l-2 border-red-500/20">
+    <div className="absolute -left-4 top-0 w-8 h-8 rounded-full bg-red-500 flex items-center justify-center text-white font-bold text-sm">{"2"}</div>
+    <h3 className="text-lg font-bold mb-1">{"Deploy Your First Tool"}</h3>
+    <div className="flex items-center gap-2 text-sm text-[var(--altstack-text-dim)] mb-3">
+      <Clock size={14} /><span>{" 5 min hands-on"}</span>
+    </div>
+    <span className="block text-[var(--altstack-text-dim)] mb-3">{"One Docker command. One running tool. Prove to yourself that self-hosting works. We start with Uptime Kuma — it's beautiful, useful, and takes 30 seconds."}</span>
+    <a href="/quick-start/first-deployment" className="inline-flex items-center gap-2 text-red-500 font-semibold text-sm hover:underline">
+      <span>{"Your First Deployment"}</span> <ArrowRight size={14} />
+    </a>
+  </div>
+  <div className="relative pl-12 pb-8 border-l-2 border-red-500/20">
+    <div className="absolute -left-4 top-0 w-8 h-8 rounded-full bg-red-500 flex items-center justify-center text-white font-bold text-sm">{"3"}</div>
+    <h3 className="text-lg font-bold mb-1">{"Get a Real Server"}</h3>
+    <div className="flex items-center gap-2 text-sm text-[var(--altstack-text-dim)] mb-3">
+      <Clock size={14} /><span>{" 15 min hands-on"}</span>
+    </div>
+    <span className="block text-[var(--altstack-text-dim)] mb-3">{"Move from localhost to a VPS. We compare providers, recommend the best value, and walk you through SSH hardening, firewalls, and Docker installation."}</span>
+    <a href="/quick-start/choosing-a-server" className="inline-flex items-center gap-2 text-red-500 font-semibold text-sm hover:underline">
+      <span>{"Choosing a Server"}</span> <ArrowRight size={14} />
+    </a>
+  </div>
+  <div className="relative pl-12 pb-8 border-l-2 border-red-500/20">
+    <div className="absolute -left-4 top-0 w-8 h-8 rounded-full bg-red-500 flex items-center justify-center text-white font-bold text-sm">{"4"}</div>
+    <h3 className="text-lg font-bold mb-1">{"Set Up Domains & SSL"}</h3>
+    <div className="flex items-center gap-2 text-sm text-[var(--altstack-text-dim)] mb-3">
+      <Clock size={14} /><span>{" 10 min hands-on"}</span>
+    </div>
+    <span className="block text-[var(--altstack-text-dim)] mb-3">{"Give your tools proper domains like "}<code>{"uptime.yourdomain.com"}</code>{" with automatic HTTPS. We cover Caddy, Nginx Proxy Manager, and Traefik."}</span>
+    <a href="/quick-start/reverse-proxy" className="inline-flex items-center gap-2 text-red-500 font-semibold text-sm hover:underline">
+      <span>{"Setting Up a Reverse Proxy"}</span> <ArrowRight size={14} />
+    </a>
+  </div>
+  <div className="relative pl-12">
+    <div className="absolute -left-4 top-0 w-8 h-8 rounded-full bg-green-500 flex items-center justify-center text-white font-bold text-sm">{"✓"}</div>
+    <h3 className="text-lg font-bold mb-1">{"Deploy Your Starter Kit"}</h3>
+    <div className="flex items-center gap-2 text-sm text-[var(--altstack-text-dim)] mb-3">
+      <Clock size={14} /><span>{" 20 min hands-on"}</span>
+    </div>
+    <span className="block text-[var(--altstack-text-dim)] mb-3">{"Your first real stack: Uptime Kuma + Plausible + Coolify. Three tools that replace ~$35/mo in SaaS, all running on a $6/mo server."}</span>
+    <a href="/quick-start/starter-kit" className="inline-flex items-center gap-2 text-green-500 font-semibold text-sm hover:underline">
+      <span>{"The AltStack Starter Kit"}</span> <ArrowRight size={14} />
+    </a>
+  </div>
+</div>
+
+---
+
+## Prerequisites
+
+Before you start, you need:
+
+- **A computer with a terminal** — Mac Terminal, Windows PowerShell, or any Linux shell
+- **Docker installed** — [Get Docker](https://docs.docker.com/get-docker/) (3 minutes)
+- **$0–6/mo budget** — Free for localhost experiments, ~$6/mo for a real VPS
+
+That's genuinely it. No Kubernetes. No cloud certifications. No weekend-long setup marathons.
+
+## Fast Track (Experienced Users)
+
+Already comfortable with Docker and have a VPS? Skip straight to the good stuff:
+
+1. **[The Starter Kit](/quick-start/starter-kit)** — Deploy Uptime Kuma + Plausible + Coolify in 20 minutes
+2. **[Deploy Guides](/deploy)** — Pick any of our 65+ tools and ship it
+3. **[Curated Stacks](/stacks)** — Grab a complete toolkit for your use case

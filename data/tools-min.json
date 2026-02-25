@@ -1,0 +1,1653 @@
+[
+  {
+    "slug": "firebase",
+    "name": "Firebase",
+    "category": "Backend as a Service",
+    "is_open_source": false,
+    "description": "Google's app development platform.",
+    "logo_url": "/logos/firebase.svg",
+    "pricing_model": "Paid/Freemium",
+    "avg_monthly_cost": 25,
+    "alternatives": [
+      "supabase",
+      "appwrite",
+      "pocketbase"
+    ],
+    "tags": [
+      "Cloud",
+      "Database",
+      "Auth"
+    ],
+    "website": "https://firebase.google.com"
+  },
+  {
+    "slug": "supabase",
+    "name": "Supabase",
+    "category": "Backend as a Service",
+    "is_open_source": true,
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "logo_url": "/logos/supabase.svg",
+    "alternatives": [],
+    "tags": [
+      "Database",
+      "Realtime",
+      "Postgres"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://supabase.com"
+  },
+  {
+    "slug": "appwrite",
+    "name": "Appwrite",
+    "category": "Backend as a Service",
+    "is_open_source": true,
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+    "logo_url": "/logos/appwrite.svg",
+    "alternatives": [],
+    "tags": [
+      "Database",
+      "Auth",
+      "Self-Hosted"
+    ],
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "website": "https://appwrite.io"
+  },
+  {
+    "slug": "pocketbase",
+    "name": "PocketBase",
+    "category": "Backend as a Service",
+    "is_open_source": true,
+    "description": "Open Source realtime backend in 1 file",
+    "logo_url": "/logos/pocketbase.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT License",
+    "website": "https://pocketbase.io"
+  },
+  {
+    "slug": "salesforce",
+    "name": "Salesforce",
+    "category": "CRM",
+    "is_open_source": false,
+    "description": "The world's #1 CRM.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=salesforce.com",
+    "pricing_model": "Paid",
+    "avg_monthly_cost": 25,
+    "alternatives": [
+      "odoo",
+      "erpnext"
+    ],
+    "tags": [],
+    "website": "https://salesforce.com"
+  },
+  {
+    "slug": "slack",
+    "name": "Slack",
+    "category": "Communication",
+    "is_open_source": false,
+    "description": "Team communication platform.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=slack.com",
+    "pricing_model": "Paid/Freemium",
+    "avg_monthly_cost": 12,
+    "alternatives": [
+      "mattermost",
+      "rocketchat"
+    ],
+    "tags": [],
+    "website": "https://slack.com"
+  },
+  {
+    "slug": "mattermost",
+    "name": "Mattermost",
+    "category": "Communication",
+    "is_open_source": true,
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "logo_url": "/logos/mattermost.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://mattermost.com"
+  },
+  {
+    "slug": "rocketchat",
+    "name": "Rocket.Chat",
+    "category": "Communication",
+    "is_open_source": true,
+    "description": "The Secure CommsOS™ for mission-critical operations",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=rocket.chat",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://rocket.chat"
+  },
+  {
+    "slug": "jira",
+    "name": "Jira",
+    "category": "Project Management",
+    "is_open_source": false,
+    "description": "Issue tracking and project management tool.",
+    "logo_url": "/logos/jira.svg",
+    "pricing_model": "Paid",
+    "avg_monthly_cost": 15,
+    "alternatives": [
+      "plane",
+      "taiga"
+    ],
+    "tags": [],
+    "website": "https://www.atlassian.com/software/jira"
+  },
+  {
+    "slug": "plane",
+    "name": "Plane",
+    "category": "Project Management",
+    "is_open_source": true,
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "logo_url": "/logos/plane.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "GNU Affero General Public License v3.0",
+    "website": "https://plane.so"
+  },
+  {
+    "slug": "taiga",
+    "name": "Taiga",
+    "category": "Project Management",
+    "is_open_source": true,
+    "description": null,
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=taiga.io",
+    "alternatives": [],
+    "tags": [],
+    "license": "Mozilla Public License 2.0",
+    "website": "https://taiga.io"
+  },
+  {
+    "slug": "zoom",
+    "name": "Zoom",
+    "category": "Communication",
+    "is_open_source": false,
+    "description": "Video conferencing platform, cloud phone, webinars, and chat.",
+    "logo_url": "/logos/zoom.svg",
+    "pricing_model": "Paid/Freemium",
+    "avg_monthly_cost": 15,
+    "alternatives": [
+      "jitsi-meet"
+    ],
+    "tags": [],
+    "website": "https://zoom.us"
+  },
+  {
+    "slug": "jitsi-meet",
+    "name": "Jitsi Meet",
+    "category": "Communication",
+    "is_open_source": true,
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "logo_url": "/logos/jitsi-meet.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Apache License 2.0",
+    "website": "https://jitsi.org"
+  },
+  {
+    "slug": "photoshop",
+    "name": "Adobe Photoshop",
+    "category": "Design",
+    "is_open_source": false,
+    "description": "Industry standard image editing software.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.adobe.com",
+    "pricing_model": "Paid (Monthly)",
+    "avg_monthly_cost": 60,
+    "alternatives": [
+      "gimp",
+      "krita"
+    ],
+    "tags": [],
+    "website": "https://www.adobe.com/products/photoshop.html"
+  },
+  {
+    "slug": "gimp",
+    "name": "GIMP",
+    "category": "Design",
+    "is_open_source": true,
+    "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/gimp",
+    "logo_url": "/logos/gimp.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://www.gimp.org"
+  },
+  {
+    "slug": "krita",
+    "name": "Krita",
+    "category": "Design",
+    "is_open_source": true,
+    "description": "Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.",
+    "logo_url": "/logos/krita.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "GNU General Public License v3.0",
+    "website": "https://krita.org"
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "category": "Design",
+    "is_open_source": false,
+    "description": "Collaborative interface design tool.",
+    "logo_url": "/logos/figma.svg",
+    "pricing_model": "Freemium/Paid",
+    "avg_monthly_cost": 15,
+    "alternatives": [
+      "penpot"
+    ],
+    "tags": [],
+    "website": "https://www.figma.com"
+  },
+  {
+    "slug": "penpot",
+    "name": "Penpot",
+    "category": "Design",
+    "is_open_source": true,
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "logo_url": "/logos/penpot.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Mozilla Public License 2.0",
+    "website": "https://penpot.app"
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "category": "Productivity",
+    "is_open_source": false,
+    "description": "All-in-one workspace.",
+    "logo_url": "/logos/notion.svg",
+    "pricing_model": "Freemium/Paid",
+    "avg_monthly_cost": 10,
+    "alternatives": [
+      "appflowy",
+      "affine"
+    ],
+    "tags": [],
+    "website": "https://www.notion.so"
+  },
+  {
+    "slug": "appflowy",
+    "name": "AppFlowy",
+    "category": "Productivity",
+    "is_open_source": true,
+    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.appflowy.io",
+    "alternatives": [],
+    "tags": [],
+    "license": "GNU Affero General Public License v3.0",
+    "website": "https://www.appflowy.io"
+  },
+  {
+    "slug": "affine",
+    "name": "AFFiNE",
+    "category": "Productivity",
+    "is_open_source": true,
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=affine.pro",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://affine.pro"
+  },
+  {
+    "slug": "google-analytics",
+    "name": "Google Analytics",
+    "category": "Analytics",
+    "is_open_source": false,
+    "description": "Web analytics service.",
+    "logo_url": "/logos/google-analytics.svg",
+    "pricing_model": "Free/Paid",
+    "avg_monthly_cost": 150,
+    "alternatives": [
+      "plausible",
+      "posthog",
+      "matomo"
+    ],
+    "tags": [],
+    "website": "https://analytics.google.com"
+  },
+  {
+    "slug": "plausible",
+    "name": "Plausible",
+    "category": "Analytics",
+    "is_open_source": true,
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
+    "logo_url": "/logos/plausible.svg",
+    "alternatives": [],
+    "tags": [
+      "Analytics",
+      "Privacy",
+      "GDPR"
+    ],
+    "license": "GNU Affero General Public License v3.0",
+    "website": "https://plausible.io"
+  },
+  {
+    "slug": "posthog",
+    "name": "PostHog",
+    "category": "Analytics",
+    "is_open_source": true,
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "logo_url": "/logos/posthog.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://posthog.com"
+  },
+  {
+    "slug": "matomo",
+    "name": "Matomo",
+    "category": "Analytics",
+    "is_open_source": true,
+    "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+    "logo_url": "/logos/matomo.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "GNU General Public License v3.0",
+    "website": "https://matomo.org"
+  },
+  {
+    "slug": "1password",
+    "name": "1Password",
+    "category": "Security",
+    "is_open_source": false,
+    "description": "Password manager.",
+    "logo_url": "/logos/1password.svg",
+    "pricing_model": "Paid",
+    "avg_monthly_cost": 8,
+    "alternatives": [
+      "bitwarden",
+      "keepassxc"
+    ],
+    "tags": [],
+    "website": "https://1password.com"
+  },
+  {
+    "slug": "bitwarden",
+    "name": "Bitwarden",
+    "category": "Security",
+    "is_open_source": true,
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+    "logo_url": "/logos/bitwarden.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://bitwarden.com"
+  },
+  {
+    "slug": "keepassxc",
+    "name": "KeePassXC",
+    "category": "Security",
+    "is_open_source": true,
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+    "logo_url": "/logos/keepassxc.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://keepassxc.org"
+  },
+  {
+    "slug": "heroku",
+    "name": "Heroku",
+    "category": "DevOps",
+    "is_open_source": false,
+    "description": "Platform as a service.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=heroku.com",
+    "pricing_model": "Paid",
+    "avg_monthly_cost": 8,
+    "alternatives": [
+      "coolify",
+      "dokku"
+    ],
+    "tags": [],
+    "website": "https://heroku.com"
+  },
+  {
+    "slug": "coolify",
+    "name": "Coolify",
+    "category": "DevOps",
+    "is_open_source": true,
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=coolify.io",
+    "alternatives": [],
+    "tags": [
+      "DevOps",
+      "PaaS",
+      "Self-Hosted"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://coolify.io"
+  },
+  {
+    "slug": "sap",
+    "name": "SAP S/4HANA",
+    "category": "ERP",
+    "is_open_source": false,
+    "description": "The world leader in enterprise resource planning software.",
+    "logo_url": "/logos/sap.svg",
+    "pricing_model": "Paid (Enterprise)",
+    "avg_monthly_cost": 100,
+    "alternatives": [
+      "odoo",
+      "erpnext"
+    ],
+    "tags": [],
+    "website": "https://www.sap.com"
+  },
+  {
+    "slug": "odoo",
+    "name": "Odoo",
+    "category": "ERP",
+    "is_open_source": true,
+    "description": "A suite of open source business apps: CRM, eCommerce, accounting, manufacturing, warehouse, and more.",
+    "logo_url": "/logos/odoo.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "LGPL-3.0",
+    "website": "https://www.odoo.com"
+  },
+  {
+    "slug": "erpnext",
+    "name": "ERPNext",
+    "category": "ERP",
+    "is_open_source": true,
+    "description": "A free and open-source integrated Enterprise Resource Planning (ERP) software.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=erpnext.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "GNU General Public License v3.0",
+    "website": "https://erpnext.com"
+  },
+  {
+    "slug": "autocad",
+    "name": "AutoCAD",
+    "category": "CAD",
+    "is_open_source": false,
+    "description": "Professional computer-aided design (CAD) and drafting software.",
+    "logo_url": "/logos/autocad.svg",
+    "pricing_model": "Paid (Subscription)",
+    "avg_monthly_cost": 75,
+    "alternatives": [
+      "librecad",
+      "freecad"
+    ],
+    "tags": [],
+    "website": "https://www.autodesk.com/products/autocad"
+  },
+  {
+    "slug": "librecad",
+    "name": "LibreCAD",
+    "category": "CAD",
+    "is_open_source": true,
+    "description": "A mature, feature-rich 2D CAD application with a loyal user community.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=librecad.org",
+    "alternatives": [],
+    "tags": [],
+    "license": "GPLv2",
+    "website": "https://librecad.org"
+  },
+  {
+    "slug": "freecad",
+    "name": "FreeCAD",
+    "category": "CAD",
+    "is_open_source": true,
+    "description": "A general-purpose parametric 3D CAD modeler and a BIM software application.",
+    "logo_url": "/logos/freecad.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "LGPLv2+",
+    "website": "https://www.freecad.org"
+  },
+  {
+    "slug": "zapier",
+    "name": "Zapier",
+    "category": "Automation",
+    "is_open_source": false,
+    "description": "The pioneer in workflow automation for everyone.",
+    "logo_url": "/logos/zapier.svg",
+    "pricing_model": "Paid (Task-based)",
+    "avg_monthly_cost": 20,
+    "alternatives": [
+      "n8n",
+      "activepieces"
+    ],
+    "tags": [],
+    "website": "https://zapier.com"
+  },
+  {
+    "slug": "n8n",
+    "name": "n8n",
+    "category": "Automation",
+    "is_open_source": true,
+    "description": "Fair-code workflow automation tool. Easily automate tasks across different services.",
+    "logo_url": "/logos/n8n.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "Sustainable Use License",
+    "website": "https://n8n.io"
+  },
+  {
+    "slug": "activepieces",
+    "name": "Activepieces",
+    "category": "Automation",
+    "is_open_source": true,
+    "description": "Open source alternative to Zapier. Automate your work with 200+ apps.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=activepieces.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://www.activepieces.com"
+  },
+  {
+    "slug": "tableau",
+    "name": "Tableau",
+    "category": "Analytics",
+    "is_open_source": false,
+    "description": "Powerful data visualization and business intelligence platform.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=tableau.com",
+    "pricing_model": "Paid (Seat-based)",
+    "avg_monthly_cost": 70,
+    "alternatives": [
+      "metabase",
+      "superset"
+    ],
+    "tags": [],
+    "website": "https://www.tableau.com"
+  },
+  {
+    "slug": "metabase",
+    "name": "Metabase",
+    "category": "Analytics",
+    "is_open_source": true,
+    "description": "The simplest, fastest way to get business intelligence and analytics throughout your company.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=metabase.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPLv3",
+    "website": "https://www.metabase.com"
+  },
+  {
+    "slug": "superset",
+    "name": "Apache Superset",
+    "category": "Analytics",
+    "is_open_source": true,
+    "description": "Enterprise-ready business intelligence web application.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=superset.apache.org",
+    "alternatives": [],
+    "tags": [],
+    "license": "Apache 2.0",
+    "website": "https://superset.apache.org"
+  },
+  {
+    "slug": "auth0",
+    "name": "Auth0",
+    "category": "Security",
+    "is_open_source": false,
+    "description": "The leading authentication and authorization platform.",
+    "logo_url": "/logos/auth0.svg",
+    "pricing_model": "Paid (MAU-based)",
+    "avg_monthly_cost": 23,
+    "alternatives": [
+      "keycloak",
+      "authentik"
+    ],
+    "tags": [],
+    "website": "https://auth0.com"
+  },
+  {
+    "slug": "keycloak",
+    "name": "Keycloak",
+    "category": "Security",
+    "is_open_source": true,
+    "description": "Open source identity and access management for modern applications and services.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=keycloak.org",
+    "alternatives": [],
+    "tags": [],
+    "license": "Apache 2.0",
+    "website": "https://www.keycloak.org"
+  },
+  {
+    "slug": "okta",
+    "name": "Okta",
+    "category": "Security",
+    "is_open_source": false,
+    "description": "The World's Identity Company, providing enterprise-grade IAM.",
+    "logo_url": "/logos/okta.svg",
+    "pricing_model": "Paid (User-based)",
+    "avg_monthly_cost": 6,
+    "alternatives": [
+      "authentik",
+      "keycloak"
+    ],
+    "tags": [],
+    "website": "https://okta.com"
+  },
+  {
+    "slug": "authentik",
+    "name": "Authentik",
+    "category": "Security",
+    "is_open_source": true,
+    "description": "The overall-best open-source identity provider, focused on flexibility and versatility.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=goauthentik.io",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://goauthentik.io"
+  },
+  {
+    "slug": "s3",
+    "name": "Amazon S3",
+    "category": "Cloud Infrastructure",
+    "is_open_source": false,
+    "description": "Object storage built to retrieve any amount of data from anywhere.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=aws.amazon.com",
+    "pricing_model": "Paid (Usage-based)",
+    "avg_monthly_cost": 23,
+    "alternatives": [
+      "minio"
+    ],
+    "tags": [],
+    "website": "https://aws.amazon.com/s3"
+  },
+  {
+    "slug": "minio",
+    "name": "MinIO",
+    "category": "Cloud Infrastructure",
+    "is_open_source": true,
+    "description": "High-performance, S3-compatible object storage for AI and enterprise data.",
+    "logo_url": "/logos/minio.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPLv3",
+    "website": "https://min.io"
+  },
+  {
+    "slug": "zendesk",
+    "name": "Zendesk",
+    "category": "Support",
+    "is_open_source": false,
+    "description": "The leader in customer service and engagement software.",
+    "logo_url": "/logos/zendesk.svg",
+    "pricing_model": "Paid (Agent-based)",
+    "avg_monthly_cost": 19,
+    "alternatives": [
+      "zammad"
+    ],
+    "tags": [],
+    "website": "https://www.zendesk.com"
+  },
+  {
+    "slug": "zammad",
+    "name": "Zammad",
+    "category": "Support",
+    "is_open_source": true,
+    "description": "A web-based, open source helpdesk/customer support system with many features.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zammad.org",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPLv3",
+    "website": "https://zammad.org"
+  },
+  {
+    "slug": "workday",
+    "name": "Workday",
+    "category": "HR",
+    "is_open_source": false,
+    "description": "Enterprise management cloud for finance and human resources.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=workday.com",
+    "pricing_model": "Paid (Enterprise)",
+    "avg_monthly_cost": 45,
+    "alternatives": [
+      "orangehrm"
+    ],
+    "tags": [],
+    "website": "https://www.workday.com"
+  },
+  {
+    "slug": "orangehrm",
+    "name": "OrangeHRM",
+    "category": "HR",
+    "is_open_source": true,
+    "description": "The world's most popular open source human resource management software.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=orangehrm.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "GPLv2",
+    "website": "https://www.orangehrm.com"
+  },
+  {
+    "slug": "m365",
+    "name": "Microsoft 365",
+    "category": "Productivity",
+    "is_open_source": false,
+    "description": "The world's most popular office suite and cloud collaboration platform.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=office.com",
+    "pricing_model": "Paid (Subscription)",
+    "avg_monthly_cost": 12,
+    "alternatives": [
+      "onlyoffice",
+      "nextcloud"
+    ],
+    "tags": [],
+    "website": "https://www.office.com"
+  },
+  {
+    "slug": "onlyoffice",
+    "name": "ONLYOFFICE",
+    "category": "Productivity",
+    "is_open_source": true,
+    "description": "Powerful online document editors for text, spreadsheets, and presentations. Highly compatible with MS Office.",
+    "logo_url": "/logos/onlyoffice.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPLv3",
+    "website": "https://www.onlyoffice.com"
+  },
+  {
+    "slug": "shopify",
+    "name": "Shopify",
+    "category": "E-commerce",
+    "is_open_source": false,
+    "description": "Commerical platform that allows anyone to set up an online store.",
+    "logo_url": "/logos/shopify.svg",
+    "pricing_model": "Paid (Subscription)",
+    "avg_monthly_cost": 39,
+    "alternatives": [
+      "medusa",
+      "saleor"
+    ],
+    "tags": [],
+    "website": "https://www.shopify.com"
+  },
+  {
+    "slug": "medusa",
+    "name": "Medusa.js",
+    "category": "E-commerce",
+    "is_open_source": true,
+    "description": "The open-source alternative to Shopify. Building blocks for digital commerce.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=medusajs.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://medusajs.com"
+  },
+  {
+    "slug": "docusign",
+    "name": "DocuSign",
+    "category": "Legal",
+    "is_open_source": false,
+    "description": "The world's #1 way to sign electronically on practically any device, from almost anywhere, at any time.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=docusign.com",
+    "pricing_model": "Paid (Envelope-based)",
+    "avg_monthly_cost": 25,
+    "alternatives": [
+      "documenso"
+    ],
+    "tags": [],
+    "website": "https://www.docusign.com"
+  },
+  {
+    "slug": "documenso",
+    "name": "Documenso",
+    "category": "Legal",
+    "is_open_source": true,
+    "description": "The open-source DocuSign alternative. We aim to be the world's most trusted document signing platform.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=documenso.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPL-3.0",
+    "website": "https://documenso.com"
+  },
+  {
+    "slug": "mailchimp",
+    "name": "Mailchimp",
+    "category": "Marketing",
+    "is_open_source": false,
+    "description": "All-in-one marketing platform that helps you manage and talk to your clients, customers, and other interested parties.",
+    "logo_url": "/logos/mailchimp.svg",
+    "pricing_model": "Paid (Contact-based)",
+    "avg_monthly_cost": 13,
+    "alternatives": [
+      "listmonk",
+      "mautic"
+    ],
+    "tags": [],
+    "website": "https://mailchimp.com"
+  },
+  {
+    "slug": "listmonk",
+    "name": "Listmonk",
+    "category": "Marketing",
+    "is_open_source": true,
+    "description": "High performance, self-hosted newsletter and mailing list manager with a modern dashboard.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=listmonk.app",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPL-3.0",
+    "website": "https://listmonk.app"
+  },
+  {
+    "slug": "mautic",
+    "name": "Mautic",
+    "category": "Marketing",
+    "is_open_source": true,
+    "description": "World's largest open source marketing automation project.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=mautic.org",
+    "alternatives": [],
+    "tags": [],
+    "license": "GPL-3.0",
+    "website": "https://www.mautic.org"
+  },
+  {
+    "slug": "statuspage",
+    "name": "Statuspage",
+    "category": "Monitoring",
+    "is_open_source": false,
+    "description": "The best way to communicate status and downtime to your customers.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=atlassian.com",
+    "pricing_model": "Paid (Atlassian)",
+    "avg_monthly_cost": 29,
+    "alternatives": [
+      "uptime-kuma"
+    ],
+    "tags": [],
+    "website": "https://www.atlassian.com/software/statuspage"
+  },
+  {
+    "slug": "uptime-kuma",
+    "name": "Uptime Kuma",
+    "category": "Monitoring",
+    "is_open_source": true,
+    "description": "A fancy self-hosted monitoring tool.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=uptime.kuma.pet",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://uptime.kuma.pet"
+  },
+  {
+    "slug": "datadog",
+    "name": "Datadog",
+    "category": "Monitoring",
+    "is_open_source": false,
+    "description": "Modern monitoring and security that gives you full visibility into your applications and infrastructure.",
+    "logo_url": "/logos/datadog.svg",
+    "pricing_model": "Paid (Usage-based)",
+    "avg_monthly_cost": 23,
+    "alternatives": [
+      "signoz"
+    ],
+    "tags": [],
+    "website": "https://www.datadoghq.com"
+  },
+  {
+    "slug": "signoz",
+    "name": "SigNoz",
+    "category": "Monitoring",
+    "is_open_source": true,
+    "description": "Open source observability platform. SigNoz helps developers monitor applications and troubleshoot problems.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=signoz.io",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://signoz.io"
+  },
+  {
+    "slug": "typeform",
+    "name": "Typeform",
+    "category": "Productivity",
+    "is_open_source": false,
+    "description": "Build beautiful, interactive forms, surveys, quizzes, and something else entirely.",
+    "logo_url": "/logos/typeform.svg",
+    "pricing_model": "Paid (Response-based)",
+    "avg_monthly_cost": 25,
+    "alternatives": [
+      "tally"
+    ],
+    "tags": [],
+    "website": "https://www.typeform.com"
+  },
+  {
+    "slug": "tally",
+    "name": "Tally",
+    "category": "Productivity",
+    "is_open_source": false,
+    "description": "The simplest way to create forms. Tally is a new type of form builder that works like a doc.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=tally.so",
+    "pricing_model": "Free/Paid",
+    "alternatives": [],
+    "tags": [
+      "Forms",
+      "Surveys",
+      "No-code"
+    ],
+    "website": "https://tally.so"
+  },
+  {
+    "slug": "confluence",
+    "name": "Confluence",
+    "category": "Productivity",
+    "is_open_source": false,
+    "description": "Your remote-friendly team workspace where knowledge and collaboration meet.",
+    "logo_url": "/logos/confluence.svg",
+    "pricing_model": "Paid (Atlassian)",
+    "avg_monthly_cost": 10,
+    "alternatives": [
+      "outline"
+    ],
+    "tags": [],
+    "website": "https://www.atlassian.com/software/confluence"
+  },
+  {
+    "slug": "outline",
+    "name": "Outline",
+    "category": "Productivity",
+    "is_open_source": true,
+    "description": "Fast, collaborative, knowledge base for your team built using React and Markdown.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=getoutline.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://www.getoutline.com"
+  },
+  {
+    "slug": "hootsuite",
+    "name": "Hootsuite",
+    "category": "Marketing",
+    "is_open_source": false,
+    "description": "Social media marketing and management dashboard.",
+    "logo_url": "/logos/hootsuite.svg",
+    "pricing_model": "Paid (Seat-based)",
+    "avg_monthly_cost": 49,
+    "alternatives": [
+      "mixpost"
+    ],
+    "tags": [],
+    "website": "https://www.hootsuite.com"
+  },
+  {
+    "slug": "mixpost",
+    "name": "Mixpost",
+    "category": "Marketing",
+    "is_open_source": true,
+    "description": "Self-hosted social media management software.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=mixpost.app",
+    "alternatives": [],
+    "tags": [],
+    "license": "Other",
+    "website": "https://mixpost.app"
+  },
+  {
+    "slug": "codespaces",
+    "name": "GitHub Codespaces",
+    "category": "DevOps",
+    "is_open_source": false,
+    "description": "Fast, cloud-hosted developer environments.",
+    "logo_url": "/logos/codespaces.svg",
+    "pricing_model": "Paid (Usage-based)",
+    "avg_monthly_cost": 15,
+    "alternatives": [
+      "coder"
+    ],
+    "tags": [],
+    "website": "https://github.com/features/codespaces"
+  },
+  {
+    "slug": "coder",
+    "name": "Coder",
+    "category": "DevOps",
+    "is_open_source": true,
+    "description": "Provision software development environments as code on your infrastructure.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=coder.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPL-3.0",
+    "website": "https://coder.com"
+  },
+  {
+    "slug": "quickbooks",
+    "name": "QuickBooks",
+    "category": "Financial",
+    "is_open_source": false,
+    "description": "Smart, simple online accounting software for small businesses.",
+    "logo_url": "/logos/quickbooks.svg",
+    "pricing_model": "Paid (Monthly Subscription)",
+    "avg_monthly_cost": 25,
+    "alternatives": [
+      "akaunting",
+      "erpnext"
+    ],
+    "tags": [],
+    "website": "https://quickbooks.intuit.com"
+  },
+  {
+    "slug": "akaunting",
+    "name": "Akaunting",
+    "category": "Financial",
+    "is_open_source": true,
+    "description": "Free and open source online accounting software for small businesses and freelancers.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=akaunting.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "GPL-3.0",
+    "website": "https://akaunting.com"
+  },
+  {
+    "slug": "premiere",
+    "name": "Adobe Premiere Pro",
+    "category": "Creative",
+    "is_open_source": false,
+    "description": "Industry-leading video editing software for film, TV, and the web.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=adobe.com",
+    "pricing_model": "Paid (Creative Cloud)",
+    "avg_monthly_cost": 35,
+    "alternatives": [
+      "kdenlive"
+    ],
+    "tags": [],
+    "website": "https://www.adobe.com/products/premiere.html"
+  },
+  {
+    "slug": "kdenlive",
+    "name": "Kdenlive",
+    "category": "Creative",
+    "is_open_source": true,
+    "description": "Open source video editing software based on the MLT Framework and KDE.",
+    "logo_url": "/logos/kdenlive.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "GPL-3.0",
+    "website": "https://kdenlive.org"
+  },
+  {
+    "slug": "dashlane",
+    "name": "Dashlane",
+    "category": "Security",
+    "is_open_source": false,
+    "description": "Cloud-based password manager and digital wallet.",
+    "logo_url": "/logos/dashlane.svg",
+    "pricing_model": "Paid (Subscription)",
+    "avg_monthly_cost": 8,
+    "alternatives": [
+      "vaultwarden",
+      "bitwarden"
+    ],
+    "tags": [],
+    "website": "https://www.dashlane.com"
+  },
+  {
+    "slug": "vaultwarden",
+    "name": "Vaultwarden",
+    "category": "Security",
+    "is_open_source": true,
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=bitwarden.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPL-3.0",
+    "website": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
+    "slug": "pipedrive",
+    "name": "Pipedrive",
+    "category": "CRM",
+    "is_open_source": false,
+    "description": "Sales CRM & pipeline management software that helps you get more organized.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=pipedrive.com",
+    "pricing_model": "Paid (Seat-based)",
+    "avg_monthly_cost": 15,
+    "alternatives": [
+      "twenty"
+    ],
+    "tags": [],
+    "website": "https://www.pipedrive.com"
+  },
+  {
+    "slug": "twenty",
+    "name": "Twenty",
+    "category": "CRM",
+    "is_open_source": true,
+    "description": "A modern open-source CRM alternative to Salesforce and Pipedrive.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=twenty.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPL-3.0",
+    "website": "https://twenty.com"
+  },
+  {
+    "slug": "sentry",
+    "name": "Sentry",
+    "category": "Monitoring",
+    "is_open_source": false,
+    "description": "Developer-first error tracking and performance monitoring.",
+    "logo_url": "/logos/sentry.svg",
+    "pricing_model": "Paid (Usage-based)",
+    "avg_monthly_cost": 26,
+    "alternatives": [
+      "glitchtip"
+    ],
+    "tags": [],
+    "website": "https://sentry.io"
+  },
+  {
+    "slug": "glitchtip",
+    "name": "GlitchTip",
+    "category": "Monitoring",
+    "is_open_source": true,
+    "description": "Open source error tracking that's compatible with Sentry SDKs.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=glitchtip.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://glitchtip.com"
+  },
+  {
+    "slug": "calendly",
+    "name": "Calendly",
+    "category": "Productivity",
+    "is_open_source": false,
+    "description": "The modern scheduling platform that makes 'finding time' a breeze.",
+    "logo_url": "/logos/calendly.svg",
+    "pricing_model": "Paid (Seat-based)",
+    "avg_monthly_cost": 10,
+    "alternatives": [
+      "calcom"
+    ],
+    "tags": [],
+    "website": "https://calendly.com"
+  },
+  {
+    "slug": "calcom",
+    "name": "Cal.com",
+    "category": "Productivity",
+    "is_open_source": true,
+    "description": "The open-source Calendly alternative. Take control of your scheduling.",
+    "logo_url": "/logos/calcom.svg",
+    "alternatives": [],
+    "tags": [],
+    "license": "AGPL-3.0",
+    "website": "https://cal.com"
+  },
+  {
+    "slug": "intercom",
+    "name": "Intercom",
+    "category": "Support",
+    "is_open_source": false,
+    "description": "The business messenger that builds real-time connections.",
+    "logo_url": "/logos/intercom.svg",
+    "pricing_model": "Paid (Seat-based)",
+    "avg_monthly_cost": 39,
+    "alternatives": [
+      "chaskiq",
+      "chatwoot"
+    ],
+    "tags": [],
+    "website": "https://www.intercom.com"
+  },
+  {
+    "slug": "chaskiq",
+    "name": "Chaskiq",
+    "category": "Support",
+    "is_open_source": true,
+    "description": "Open source conversational marketing platform alternative to Intercom and Drift.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=chaskiq.io",
+    "alternatives": [],
+    "tags": [],
+    "license": "GPL-3.0",
+    "website": "https://chaskiq.io"
+  },
+  {
+    "slug": "mailgun",
+    "name": "Mailgun",
+    "category": "Marketing",
+    "is_open_source": false,
+    "description": "Electronic mail delivery service for developers.",
+    "logo_url": "/logos/mailgun.svg",
+    "pricing_model": "Paid (Usage-based)",
+    "avg_monthly_cost": 15,
+    "alternatives": [
+      "postal"
+    ],
+    "tags": [],
+    "website": "https://www.mailgun.com"
+  },
+  {
+    "slug": "postal",
+    "name": "Postal",
+    "category": "Marketing",
+    "is_open_source": true,
+    "description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=postalserver.io",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://postalserver.io"
+  },
+  {
+    "slug": "segment",
+    "name": "Segment",
+    "category": "Marketing",
+    "is_open_source": false,
+    "description": "The leading customer data platform (CDP).",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=segment.com",
+    "pricing_model": "Paid (Usage-based)",
+    "avg_monthly_cost": 120,
+    "alternatives": [
+      "jitsu"
+    ],
+    "tags": [],
+    "website": "https://segment.com"
+  },
+  {
+    "slug": "jitsu",
+    "name": "Jitsu",
+    "category": "Marketing",
+    "is_open_source": true,
+    "description": "High-performance data collection platform and open-source Segment alternative.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=jitsu.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT",
+    "website": "https://jitsu.com"
+  },
+  {
+    "slug": "dokku",
+    "name": "Dokku",
+    "category": "DevOps",
+    "is_open_source": true,
+    "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=dokku.com",
+    "alternatives": [],
+    "tags": [],
+    "license": "MIT License",
+    "website": "https://dokku.com"
+  },
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT / OpenAI",
+    "category": "AI Models",
+    "is_open_source": false,
+    "description": "The leading commercial AI assistant and API platform (GPT-4o, o1).",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openai.com",
+    "pricing_model": "Paid/Freemium",
+    "avg_monthly_cost": 20,
+    "alternatives": [
+      "llama",
+      "deepseek",
+      "mistral"
+    ],
+    "tags": [
+      "AI",
+      "LLM",
+      "Chat"
+    ],
+    "website": "https://openai.com"
+  },
+  {
+    "slug": "llama",
+    "name": "Meta Llama 3.1",
+    "category": "AI Models",
+    "is_open_source": true,
+    "description": "Meta's flagship open-weight model with 128K context. Supports 8B, 70B, and 405B parameters.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=meta.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "LLM",
+      "128K Context"
+    ],
+    "license": "Llama 3.1 Community License",
+    "ai_metadata": {
+      "vram_inference_gb": 8,
+      "context_window_tokens": 128000,
+      "parameters_total_b": 405,
+      "is_multimodal": false
+    },
+    "website": "https://llama.meta.com"
+  },
+  {
+    "slug": "deepseek",
+    "name": "DeepSeek-V3 / R1",
+    "category": "AI Models",
+    "is_open_source": true,
+    "description": "Powerful open-source models including V3 (671B) and R1 (Reasoning). Rivals GPT-4o and o1.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=deepseek.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "LLM",
+      "Reasoning"
+    ],
+    "license": "MIT License",
+    "ai_metadata": {
+      "vram_inference_gb": 160,
+      "context_window_tokens": 128000,
+      "parameters_total_b": 671,
+      "parameters_active_b": 37,
+      "is_multimodal": false
+    },
+    "website": "https://deepseek.com"
+  },
+  {
+    "slug": "mistral",
+    "name": "Mistral Large 2",
+    "category": "AI Models",
+    "is_open_source": true,
+    "description": "Flagship 123B model from Mistral AI. Optimized for multilingual, reasoning, and coding tasks.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=mistral.ai",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "LLM",
+      "EU"
+    ],
+    "license": "Mistral Research License",
+    "ai_metadata": {
+      "vram_inference_gb": 80,
+      "context_window_tokens": 128000,
+      "parameters_total_b": 123,
+      "is_multimodal": false
+    },
+    "website": "https://mistral.ai"
+  },
+  {
+    "slug": "gemma",
+    "name": "Google Gemma 2",
+    "category": "AI Models",
+    "is_open_source": true,
+    "description": "Google's open-weight models (9B, 27B) with class-leading performance and efficient architecture.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=google.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "LLM",
+      "Google"
+    ],
+    "license": "Gemma License",
+    "ai_metadata": {
+      "vram_inference_gb": 18,
+      "context_window_tokens": 8192,
+      "parameters_total_b": 27,
+      "is_multimodal": false
+    },
+    "website": "https://ai.google.dev/gemma"
+  },
+  {
+    "slug": "qwen",
+    "name": "Qwen 2.5",
+    "category": "AI Models",
+    "is_open_source": true,
+    "description": "Comprehensive LLM series from Alibaba Cloud, excelling in coding, math, and multilingual support.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=alibaba.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "LLM",
+      "Coding"
+    ],
+    "license": "Apache License 2.0",
+    "ai_metadata": {
+      "vram_inference_gb": 40,
+      "context_window_tokens": 128000,
+      "parameters_total_b": 72,
+      "is_multimodal": false
+    },
+    "website": "https://qwenlm.github.io"
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "category": "AI Image Generation",
+    "is_open_source": false,
+    "description": "Leading AI image generation tool, known for artistic and photorealistic outputs.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=midjourney.com",
+    "pricing_model": "Paid (Subscription)",
+    "avg_monthly_cost": 10,
+    "alternatives": [
+      "stable-diffusion",
+      "flux"
+    ],
+    "tags": [
+      "AI",
+      "Image",
+      "Art"
+    ],
+    "website": "https://midjourney.com"
+  },
+  {
+    "slug": "stable-diffusion",
+    "name": "Stable Diffusion 3.5",
+    "category": "AI Image Generation",
+    "is_open_source": true,
+    "description": "The latest open-weights image generation model from Stability AI, offering superior prompt adherence.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=stability.ai",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Image",
+      "Prompt Adherence"
+    ],
+    "license": "Stability Community License",
+    "website": "https://stability.ai"
+  },
+  {
+    "slug": "mochi-1",
+    "name": "Mochi-1",
+    "category": "AI Video Generation",
+    "is_open_source": true,
+    "description": "High-fidelity open-weights video generation model from Genmo, rivaling closed-source alternatives.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=genmo.ai",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Video",
+      "Motion"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://www.genmo.ai"
+  },
+  {
+    "slug": "hunyuan-video",
+    "name": "HunyuanVideo 1.5",
+    "category": "AI Video Generation",
+    "is_open_source": true,
+    "description": "Tencent's state-of-the-art open-source video generation model with 13B parameters.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=tencent.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Video",
+      "HD"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://github.com/Tencent/HunyuanVideo"
+  },
+  {
+    "slug": "flux",
+    "name": "FLUX",
+    "category": "AI Image Generation",
+    "is_open_source": true,
+    "description": "Next-gen open image generation model from Black Forest Labs. State-of-the-art quality rivaling Midjourney.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=blackforestlabs.ai",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Image",
+      "New"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://blackforestlabs.ai"
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "category": "AI Coding",
+    "is_open_source": false,
+    "description": "AI pair programmer by GitHub/OpenAI. Integrates into VS Code and JetBrains.",
+    "logo_url": "/logos/github-copilot.svg",
+    "pricing_model": "Paid (Subscription)",
+    "avg_monthly_cost": 10,
+    "alternatives": [
+      "continue-dev",
+      "tabby"
+    ],
+    "tags": [
+      "AI",
+      "Coding",
+      "IDE"
+    ],
+    "website": "https://github.com/features/copilot"
+  },
+  {
+    "slug": "continue-dev",
+    "name": "Continue",
+    "category": "AI Coding",
+    "is_open_source": true,
+    "description": "Open-source AI code assistant for VS Code and JetBrains. Use any model (local or API).",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=continue.dev",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Coding",
+      "IDE"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://continue.dev"
+  },
+  {
+    "slug": "tabby",
+    "name": "TabbyML",
+    "category": "AI Coding",
+    "is_open_source": true,
+    "description": "Self-hosted AI coding assistant. An open-source, self-hosted alternative to GitHub Copilot.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=tabby.tabbyml.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Coding",
+      "Self-Hosted"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://tabby.tabbyml.com"
+  },
+  {
+    "slug": "ollama",
+    "name": "Ollama",
+    "category": "AI Runners",
+    "is_open_source": true,
+    "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models locally.",
+    "logo_url": "/logos/ollama.svg",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Local",
+      "Runner"
+    ],
+    "license": "MIT License",
+    "website": "https://ollama.com"
+  },
+  {
+    "slug": "open-webui",
+    "name": "Open WebUI",
+    "category": "AI Interfaces",
+    "is_open_source": true,
+    "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI). Supports Ollama and OpenAI-compatible APIs.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openwebui.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "UI",
+      "Chat"
+    ],
+    "license": "MIT License",
+    "website": "https://openwebui.com"
+  },
+  {
+    "slug": "jan",
+    "name": "Jan",
+    "category": "AI Interfaces",
+    "is_open_source": true,
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=jan.ai",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Desktop",
+      "Offline"
+    ],
+    "license": "AGPL-3.0",
+    "website": "https://jan.ai"
+  },
+  {
+    "slug": "lm-studio",
+    "name": "LM Studio",
+    "category": "AI Runners",
+    "is_open_source": false,
+    "description": "Discover, download, and run local LLMs. Easy GUI for GGUF models.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=lmstudio.ai",
+    "pricing_model": "Free (Proprietary)",
+    "alternatives": [
+      "ollama",
+      "gpt4all"
+    ],
+    "tags": [
+      "AI",
+      "Desktop",
+      "GUI"
+    ],
+    "website": "https://lmstudio.ai"
+  },
+  {
+    "slug": "gpt4all",
+    "name": "GPT4All",
+    "category": "AI Runners",
+    "is_open_source": true,
+    "description": "Run open-source LLMs locally on your CPU and GPU. No internet required.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=gpt4all.io",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Desktop",
+      "CPU"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://gpt4all.io"
+  },
+  {
+    "slug": "localai",
+    "name": "LocalAI",
+    "category": "AI Runners",
+    "is_open_source": true,
+    "description": "The specific build of LocalAI, the free, Open Source OpenAI alternative. Drop-in replacement for OpenAI API.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=localai.io",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "API",
+      "Backend"
+    ],
+    "license": "MIT License",
+    "website": "https://localai.io"
+  },
+  {
+    "slug": "flowise",
+    "name": "Flowise",
+    "category": "AI Tools",
+    "is_open_source": true,
+    "description": "Drag & drop UI to build your customized LLM flow using LangChainJS.",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=flowiseai.com",
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Low-Code",
+      "LangChain"
+    ],
+    "license": "Apache License 2.0",
+    "website": "https://flowiseai.com"
+  }
+]

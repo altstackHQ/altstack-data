@@ -1,0 +1,121 @@
+# AltStack Docs — Complete Page Index
+
+> The World's First Sovereign Infrastructure Engine. Self-hosting guides that actually work.
+
+AltStack Docs (https://docs.thealtstack.com) is the documentation hub for The AltStack — a curated directory of 400+ open source alternatives to expensive proprietary software. Every guide includes tested Docker Compose configs, honest verdicts, and zero filler.
+
+---
+
+## Home
+- https://docs.thealtstack.com
+
+## Why These Docs Exist
+- https://docs.thealtstack.com/why
+
+---
+
+## Quick Start
+
+- What is Self-Hosting: https://docs.thealtstack.com/quick-start/what-is-self-hosting
+- Your First Deployment: https://docs.thealtstack.com/quick-start/first-deployment
+- Choosing a Server: https://docs.thealtstack.com/quick-start/choosing-a-server
+- Setting Up a Reverse Proxy: https://docs.thealtstack.com/quick-start/reverse-proxy
+- The AltStack Starter Kit: https://docs.thealtstack.com/quick-start/starter-kit
+
+---
+
+## Deploy Guides (65+ Tools)
+
+- Activepieces: https://docs.thealtstack.com/deploy/activepieces
+- Affine: https://docs.thealtstack.com/deploy/affine
+- Akaunting: https://docs.thealtstack.com/deploy/akaunting
+- AppFlowy: https://docs.thealtstack.com/deploy/appflowy
+- Appwrite: https://docs.thealtstack.com/deploy/appwrite
+- Authentik: https://docs.thealtstack.com/deploy/authentik
+- Bitwarden: https://docs.thealtstack.com/deploy/bitwarden
+- Cal.com: https://docs.thealtstack.com/deploy/calcom
+- Chaskiq: https://docs.thealtstack.com/deploy/chaskiq
+- Coder: https://docs.thealtstack.com/deploy/coder
+- Continue.dev: https://docs.thealtstack.com/deploy/continue-dev
+- Coolify: https://docs.thealtstack.com/deploy/coolify
+- DeepSeek: https://docs.thealtstack.com/deploy/deepseek
+- Documenso: https://docs.thealtstack.com/deploy/documenso
+- Dokku: https://docs.thealtstack.com/deploy/dokku
+- ERPNext: https://docs.thealtstack.com/deploy/erpnext
+- Flux: https://docs.thealtstack.com/deploy/flux
+- FreeCAD: https://docs.thealtstack.com/deploy/freecad
+- Gemma: https://docs.thealtstack.com/deploy/gemma
+- GIMP: https://docs.thealtstack.com/deploy/gimp
+- GlitchTip: https://docs.thealtstack.com/deploy/glitchtip
+- GPT4All: https://docs.thealtstack.com/deploy/gpt4all
+- Hunyuan Video: https://docs.thealtstack.com/deploy/hunyuan-video
+- Jitsi Meet: https://docs.thealtstack.com/deploy/jitsi-meet
+- Jitsu: https://docs.thealtstack.com/deploy/jitsu
+- Kdenlive: https://docs.thealtstack.com/deploy/kdenlive
+- KeePassXC: https://docs.thealtstack.com/deploy/keepassxc
+- Keycloak: https://docs.thealtstack.com/deploy/keycloak
+- Krita: https://docs.thealtstack.com/deploy/krita
+- LibreCAD: https://docs.thealtstack.com/deploy/librecad
+- Listmonk: https://docs.thealtstack.com/deploy/listmonk
+- Llama: https://docs.thealtstack.com/deploy/llama
+- Matomo: https://docs.thealtstack.com/deploy/matomo
+- Mattermost: https://docs.thealtstack.com/deploy/mattermost
+- Mautic: https://docs.thealtstack.com/deploy/mautic
+- Medusa: https://docs.thealtstack.com/deploy/medusa
+- Metabase: https://docs.thealtstack.com/deploy/metabase
+- MinIO: https://docs.thealtstack.com/deploy/minio
+- Mistral: https://docs.thealtstack.com/deploy/mistral
+- Mixpost: https://docs.thealtstack.com/deploy/mixpost
+- Mochi-1: https://docs.thealtstack.com/deploy/mochi-1
+- n8n: https://docs.thealtstack.com/deploy/n8n
+- Odoo: https://docs.thealtstack.com/deploy/odoo
+- Ollama: https://docs.thealtstack.com/deploy/ollama
+- ONLYOFFICE: https://docs.thealtstack.com/deploy/onlyoffice
+- OrangeHRM: https://docs.thealtstack.com/deploy/orangehrm
+- Outline: https://docs.thealtstack.com/deploy/outline
+- Penpot: https://docs.thealtstack.com/deploy/penpot
+- Plane: https://docs.thealtstack.com/deploy/plane
+- Plausible: https://docs.thealtstack.com/deploy/plausible
+- PocketBase: https://docs.thealtstack.com/deploy/pocketbase
+- Postal: https://docs.thealtstack.com/deploy/postal
+- PostHog: https://docs.thealtstack.com/deploy/posthog
+- Qwen: https://docs.thealtstack.com/deploy/qwen
+- Rocket.Chat: https://docs.thealtstack.com/deploy/rocketchat
+- SigNoz: https://docs.thealtstack.com/deploy/signoz
+- Stable Diffusion: https://docs.thealtstack.com/deploy/stable-diffusion
+- Supabase: https://docs.thealtstack.com/deploy/supabase
+- Superset: https://docs.thealtstack.com/deploy/superset
+- Tabby: https://docs.thealtstack.com/deploy/tabby
+- Taiga: https://docs.thealtstack.com/deploy/taiga
+- Twenty: https://docs.thealtstack.com/deploy/twenty
+- Uptime Kuma: https://docs.thealtstack.com/deploy/uptime-kuma
+- Vaultwarden: https://docs.thealtstack.com/deploy/vaultwarden
+- Zammad: https://docs.thealtstack.com/deploy/zammad
+
+---
+
+## Curated Stacks
+
+- Bootstrapper Stack: https://docs.thealtstack.com/stacks/bootstrapper
+- Designer Stack: https://docs.thealtstack.com/stacks/designer
+- DevOps Stack: https://docs.thealtstack.com/stacks/devops
+- Privacy Stack: https://docs.thealtstack.com/stacks/privacy
+- AI-First Stack: https://docs.thealtstack.com/stacks/ai-first
+
+---
+
+## Concepts
+
+- Docker Basics: https://docs.thealtstack.com/concepts/docker-basics
+- Reverse Proxies: https://docs.thealtstack.com/concepts/reverse-proxies
+- SSL/TLS: https://docs.thealtstack.com/concepts/ssl-tls
+- Backups: https://docs.thealtstack.com/concepts/backups
+
+---
+
+## Related
+
+- Main Directory (400+ tools): https://thealtstack.com
+- AI Model Matrix: https://thealtstack.com/ai
+- Savings Calculator: https://thealtstack.com/calculator
+- About: https://thealtstack.com/about

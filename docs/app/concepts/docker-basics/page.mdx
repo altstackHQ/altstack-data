@@ -1,0 +1,127 @@
+---
+title: Understanding Docker in 10 Minutes
+description: "Docker explained for self-hosters. No CS degree required. Containers, images, volumes, and Docker Compose — the only concepts you actually need."
+---
+
+# Understanding Docker in 10 Minutes
+
+Docker is the reason self-hosting went from "sysadmin hobby" to "anyone can do it." It packages software into neat, isolated containers that run the same everywhere.
+
+You don't need to become a Docker expert. You need to understand **four concepts**.
+
+## Concept 1: Images
+
+An **image** is a snapshot of software — pre-built, pre-configured, ready to run. Think of it like an `.iso` file, but for apps.
+
+```bash
+# Download the Plausible Analytics image
+docker pull plausible/analytics:latest
+```
+
+Images live on [Docker Hub](https://hub.docker.com) — a public registry of 100,000+ images. When our deploy guides say `image: plausible/analytics:latest`, they're pulling from here.
+
+## Concept 2: Containers
+
+A **container** is a running instance of an image. Image = blueprint. Container = the actual building.
+
+```bash
+# Start a container from an image
+docker run -d --name my-plausible plausible/analytics:latest
+
+# See running containers
+docker ps
+
+# Stop a container
+docker stop my-plausible
+
+# Remove a container (data in volumes is safe)
+docker rm my-plausible
+```
+
+> 💡 **Why?** Containers are isolated from each other and from your host system. Breaking one container doesn't break anything else.
+
+## Concept 3: Volumes
+
+**Volumes** store your data *outside* the container. This is critical because containers are disposable — when you update an image, you destroy the old container and create a new one. Volumes survive this process.
+
+```bash
+# Mount a volume called "plausible-data"
+docker run -v plausible-data:/var/lib/clickhouse plausible/analytics
+```
+
+Without volumes, your data dies when the container dies. **Always use volumes.**
+
+```bash
+# List all volumes
+docker volume ls
+
+# Backup a volume (copy to local tar)
+docker run --rm -v plausible-data:/data -v $(pwd):/backup alpine \
+  tar czf /backup/plausible-backup.tar.gz /data
+```
+
+## Concept 4: Docker Compose
+
+This is the big one. **Docker Compose** lets you define multi-container setups in a single YAML file. Most real-world tools need multiple containers (app + database + cache), and Docker Compose handles that.
+
+```yaml
+# docker-compose.yml
+version: '3.8'
+
+services:
+  app:
+    image: plausible/analytics:latest
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+
+  db:
+    image: postgres:14-alpine
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: supersecret
+
+volumes:
+  db_data:
+```
+
+Then run it:
+
+```bash
+# Start everything
+docker compose up -d
+
+# See logs
+docker compose logs -f
+
+# Stop everything
+docker compose down
+
+# Update to latest images
+docker compose pull && docker compose up -d
+```
+
+That's the pattern for **every single deploy guide** in these docs:
+1. Copy the `docker-compose.yml`
+2. Tweak the environment variables
+3. Run `docker compose up -d`
+4. Done.
+
+## The 5 Commands You'll Actually Use
+
+| Command | What it does |
+|---|---|
+| `docker compose up -d` | Start all services in the background |
+| `docker compose down` | Stop all services |
+| `docker compose logs -f` | Watch live logs (Ctrl+C to exit) |
+| `docker compose pull` | Download latest images |
+| `docker ps` | List running containers |
+
+That's it. That's Docker for self-hosters.
+
+## Next Steps
+
+→ [Reverse Proxies Explained](/concepts/reverse-proxies) — How to access your tools via `app.yourdomain.com`
+→ [Your First Deployment](/quick-start/first-deployment) — Put this knowledge to use

@@ -1,0 +1,46 @@
+---
+title: "The DevOps Stack"
+description: "Self-host your entire infrastructure. Backend, hosting, deployment, analytics, and monitoring — zero vendor lock-in."
+---
+
+# ⚙️ The DevOps Stack
+
+**Self-host everything.** From backend to hosting to monitoring — deploy and manage your entire infrastructure on your own terms.
+
+| What | Tool | Replaces |
+|---|---|---|
+| Backend as a Service | [Supabase](/deploy/supabase) | Firebase ($25+/mo) |
+| PaaS (Deployment) | [Coolify](/deploy/coolify) | Vercel Pro ($20/mo) |
+| Git Deployment | [Dokku](/deploy/dokku) | Heroku ($25/mo) |
+| Web Analytics | [Plausible](/deploy/plausible) | Google Analytics (free, but your data) |
+| Product Analytics | [PostHog](/deploy/posthog) | Amplitude ($49/mo) |
+
+**Total saved: ~$375/mo**
+
+## The Philosophy
+
+The DevOps Stack is for teams that refuse to be dependent on any single vendor. Every tool here:
+
+- **Runs on standard Docker** — migrate anywhere in minutes
+- **Uses Postgres** — your data is in an open format
+- **Has an active community** — you're never truly on your own
+- **Scales horizontally** — grows with you without pricing tiers
+
+## Server Requirements
+
+This is the most resource-intensive stack. You need a proper server:
+
+| Spec | Recommended |
+|---|---|
+| RAM | 8 GB minimum (16 GB ideal) |
+| CPU | 4 vCPU |
+| Storage | 80 GB SSD |
+| Cost | ~$15/mo (Hetzner CX32) |
+
+## Deploy Guides
+
+→ [Deploy Supabase](/deploy/supabase)
+→ [Deploy Coolify](/deploy/coolify)
+→ [Deploy Dokku](/deploy/dokku)
+→ [Deploy Plausible](/deploy/plausible)
+→ [Deploy PostHog](/deploy/posthog)

@@ -1,0 +1,79 @@
+---
+title: Why These Docs Exist
+description: "The AltStack Docs manifesto. Why we built these guides, what makes them different, and the rules we follow."
+---
+
+# Why These Docs Exist
+
+**Most self-hosting documentation is terrible.** Not because the tools are bad — because the docs are written by developers who already understand everything, for developers who already understand everything.
+
+We built these docs to fix that.
+
+## The Problem
+
+Go try to self-host any popular open-source tool right now. Here's what you'll find:
+
+- **Incomplete `docker-compose.yml` files** that reference environment variables nobody explains
+- **"Getting Started" guides** that skip the 3 steps where you actually get stuck
+- **Documentation written in 2019** for a codebase that's been rewritten twice since
+- **The dreaded "see the wiki"** link that leads to 47 half-finished pages
+
+You're not stupid for finding this confusing. The documentation is genuinely bad.
+
+## Our Philosophy
+
+Every guide in these docs follows a simple principle:
+
+> **If you can't go from zero to a working deployment by following this page alone, the page is broken.**
+
+We don't write theoretical explanations of how Docker networking works and then wish you luck. We give you the config file. We explain what each line does. We tell you where it'll probably break and how to fix it.
+
+## The 4 Rules
+
+These aren't suggestions — they're the editorial standard every page must meet.
+
+### 1. Every guide ends with a working deployment
+
+Not "and then configure it to your needs." Not "refer to the upstream docs for advanced configuration." You will have a running tool by the end of the page. Period.
+
+### 2. Every config is tested and copy-pasteable
+
+We don't write configs from memory. Every `docker-compose.yml` in these docs has been deployed, broken, fixed, and deployed again. You can copy-paste them and they will work.
+
+### 3. Every tool gets an honest verdict
+
+We'll tell you when a tool is incredible. We'll also tell you when it's buggy, when the mobile app is unusable, or when you should just pay for the SaaS version. We don't have sponsors. We don't have affiliate deals. We have opinions.
+
+### 4. We don't waste your time with filler
+
+No "Introduction to What This Tool Is" sections that restate the tool's homepage copy. No "Prerequisites: a computer with an internet connection." If you're reading this, you know what a terminal is. Let's deploy something.
+
+## What Makes Us Different
+
+| Typical Docs | AltStack Docs |
+|---|---|
+| "Configure the environment variables as needed" | Here's every variable, what it does, and the sane default |
+| "Deploy using Docker" (no compose file provided) | Full `docker-compose.yml` ready to copy |
+| Written by the tool's maintainer (biased) | Written by users who deploy these tools (honest) |
+| Assumes you've read 12 other pages first | Self-contained. One page = one working deployment |
+| Last updated 2 years ago | Actively maintained with version-specific notes |
+
+## Who's Behind This
+
+These docs are part of [The AltStack](https://thealtstack.com) — **The World's First Sovereign Infrastructure Engine**. We're a curated directory that helps you find, compare, and deploy alternatives to proprietary tools.
+
+We believe in software independence: the right to run your own tools, on your own servers, under your own terms. These docs are how we make that practical, not just philosophical.
+
+## Where to Start
+
+If you're brand new to self-hosting:
+
+→ **[Quick Start](/quick-start)** — From zero to your first deployment in under 20 minutes
+
+If you know what you're doing and want a config:
+
+→ **[Deploy Guides](/deploy)** — 65+ tools with tested Docker Compose files
+
+If you want a complete toolkit:
+
+→ **[Curated Stacks](/stacks)** — Pre-built bundles for bootstrappers, designers, DevOps, AI, and privacy

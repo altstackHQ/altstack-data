@@ -1,0 +1,145 @@
+---
+title: "Hardware & VPS Sizing"
+description: "How much RAM, CPU, and disk you actually need for self-hosting. VPS provider comparison and scaling strategies."
+---
+
+# Hardware & VPS Sizing
+
+The #1 question new self-hosters ask: **"What server do I need?"**
+
+Short answer: less than you think to start, more than you think once you're hooked.
+
+## Quick Sizing Guide
+
+### How Much RAM Do I Need?
+
+| Setup | RAM | What You Can Run |
+|---|---|---|
+| **Starter** | 2 GB | 1–2 lightweight tools (Uptime Kuma, Plausible) |
+| **Hobbyist** | 4 GB | 3–5 tools + a database + reverse proxy |
+| **Power User** | 8 GB | 8–12 tools + multiple databases |
+| **Homelab** | 16 GB | Everything + AI models (small ones) |
+| **AI Workloads** | 32+ GB | LLMs, image generation, video AI |
+
+> 💡 **Start with 4 GB.** You can always upgrade. Most VPS providers let you resize without downtime.
+
+### CPU Guidelines
+
+| Workload | vCPUs Needed |
+|---|---|
+| Static tools (Uptime Kuma, PocketBase) | 1 vCPU |
+| Web apps (Plausible, Outline, n8n) | 2 vCPUs |
+| Heavy apps (PostHog, Supabase, Metabase) | 4 vCPUs |
+| AI inference (Ollama, Stable Diffusion) | 4+ vCPUs + GPU |
+
+### Disk Space
+
+| Component | Typical Usage |
+|---|---|
+| Base OS + Docker | 5–8 GB |
+| Each Docker image | 100 MB – 2 GB |
+| PostgreSQL database (small app) | 500 MB – 5 GB |
+| Log files (unmanaged) | 1–10 GB |
+| AI models (per model) | 4–70 GB |
+
+**Minimum recommended:** 50 GB SSD.
+**Comfortable:** 80–160 GB SSD.
+**AI workloads:** 200+ GB NVMe.
+
+## VPS Provider Comparison
+
+| Provider | Starting At | Pros | Best For |
+|---|---|---|---|
+| [**DigitalOcean**](https://m.do.co/c/2ed27757a361) | $6/mo (1 GB) | Simple UI, great docs, predictable pricing | Beginners |
+| **Hetzner** | €3.79/mo (2 GB) | Best price-to-performance in EU | Power users, EU hosting |
+| **Contabo** | €5.99/mo (4 GB) | Cheapest for RAM-heavy setups | Budget homelab |
+| **Linode (Akamai)** | $5/mo (1 GB) | Reliable, good network | Small projects |
+| **Vultr** | $5/mo (1 GB) | Global locations, hourly billing | Testing and experimentation |
+| **Oracle Cloud** | Free (4 vCPUs, 24 GB ARM) | Unbeatable free tier | Zero-budget hosting |
+| **Home Server** | One-time cost | Full control, unlimited bandwidth | Privacy maximalists |
+
+> 🏆 **Our Pick:** [DigitalOcean](https://m.do.co/c/2ed27757a361) for beginners (simple, reliable, [$200 free credit](https://m.do.co/c/2ed27757a361)). **Hetzner** for best value. **Oracle Cloud free tier** if you want to pay nothing.
+
+## Real-World Stack Sizing
+
+Here's what actual AltStack setups typically need:
+
+### The Bootstrapper Stack (4 GB RAM)
+- Coolify (deployment platform)
+- Plausible (analytics)
+- Uptime Kuma (monitoring)
+- Listmonk (newsletters)
+- Caddy (reverse proxy)
+
+### The Privacy Stack (4 GB RAM)
+- Vaultwarden (passwords)
+- Jitsi Meet (video calls)
+- Mattermost (messaging)
+- Caddy (reverse proxy)
+
+### The AI Stack (16–32 GB RAM)
+- Ollama (LLM inference)
+- Stable Diffusion (image generation)
+- TabbyML (code completion)
+- Continue.dev (AI coding)
+
+## Scaling Strategies
+
+### Vertical Scaling (Bigger Server)
+
+The simplest approach. Just resize your VPS:
+
+- **DigitalOcean:** Resize droplet (takes ~1 minute)
+- **Hetzner:** Rescale server (may require reboot)
+- **Home server:** Add RAM sticks
+
+### Horizontal Scaling (More Servers)
+
+When one server isn't enough:
+
+```
+Server 1: Databases (Postgres, Redis)
+Server 2: Application containers
+Server 3: AI workloads (GPU)
+```
+
+Connect them with a private network (most VPS providers offer this for free) or a VPN like WireGuard.
+
+### The "Start Small" Strategy
+
+1. **Month 1:** $6/mo droplet (1 GB) — Deploy 1–2 tools
+2. **Month 3:** Resize to $12/mo (2 GB) — Add more tools
+3. **Month 6:** Resize to $24/mo (4 GB) — Running your full stack
+4. **Month 12+:** Add a second server or move to Hetzner for better value
+
+## Monitoring Your Resources
+
+Always know how much headroom you have:
+
+```bash
+# Quick resource check
+free -h          # RAM usage
+df -h            # Disk usage
+nproc            # CPU cores
+uptime           # Load average
+
+# Docker resource usage
+docker stats     # Live container metrics
+docker system df # Docker disk usage
+```
+
+## Red Flags
+
+🚩 **RAM constantly above 90%** → Resize or move a service to another server.
+
+🚩 **Disk above 80%** → Clean Docker images (`docker system prune -f`) or resize disk.
+
+🚩 **CPU at 100% for extended periods** → Check which container is the culprit with `docker stats`.
+
+🚩 **Swap usage above 1 GB** → You need more RAM. Swap is a band-aid, not a solution.
+
+## Next Steps
+
+→ [Quick Start](/quick-start) — Deploy your first tool
+→ [Deploy Guides](/deploy) — Browse 65+ tools
+→ [Docker in 10 Minutes](/concepts/docker-basics) — Foundation knowledge

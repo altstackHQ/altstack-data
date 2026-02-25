@@ -1,0 +1,226 @@
+{
+    "Communication": {
+        "industry": [
+            "Team communication is the backbone of every modern organization. Whether your team is remote, hybrid, or co-located, the tools you choose to communicate shape how quickly decisions get made, how aligned people stay, and ultimately, how fast you can ship. A poorly configured messaging setup leads to scattered conversations, missed updates, and the kind of context-switching that quietly erodes productivity over weeks and months.",
+            "The dominant players in this space have built their products around a simple bet: once a team adopts a communication platform, switching costs are high enough to justify annual price increases. And for the most part, that bet has paid off — Slack's per-seat pricing has become one of the most debated line items in SaaS budgets, especially at companies north of 50 employees. Microsoft Teams bundles itself into the Microsoft 365 suite, making the true cost harder to isolate but no less real.",
+            "What's changed in recent years is the maturity of open-source alternatives. Self-hosted messaging platforms now offer threaded conversations, video calling, file sharing, integrations with CI/CD pipelines, and the kind of compliance certifications (SOC2, HIPAA) that used to be exclusive to enterprise vendors. The real unlock isn't just cost savings — it's the ability to own your communication infrastructure the same way you own your code."
+        ],
+        "oss_benefits_title": "Why Open-Source Communication Tools Make Sense",
+        "oss_benefits": [
+            "**Full data sovereignty** — every message, file, and call recording stays on your infrastructure. Essential for regulated industries, government contracts, and teams handling sensitive IP.",
+            "**No per-seat pricing** — most open-source communication platforms charge nothing regardless of team size. Even those with enterprise tiers charge a fraction of proprietary alternatives.",
+            "**Deep customization** — white-label the interface, build custom integrations, modify notification behavior, or integrate directly with your internal tools via open APIs.",
+            "**Community-driven roadmaps** — feature development is driven by actual users, not product managers optimizing for upsell opportunities."
+        ]
+    },
+    "AI Models": {
+        "industry": [
+            "Large language models have become foundational infrastructure for a growing number of companies — powering everything from customer support automation and code generation to legal document analysis and creative workflows. The pace of improvement has been relentless: models that would have been considered state-of-the-art six months ago are routinely surpassed by newer releases that are both more capable and more efficient to run.",
+            "For most of 2023 and 2024, the landscape was dominated by proprietary APIs — OpenAI's GPT series and Anthropic's Claude set the benchmarks, and building on top of them was the path of least resistance. But the economics of API-based inference don't scale well. At production volumes, per-token costs can easily reach five or six figures monthly. And once you factor in data privacy requirements, latency constraints, and the operational risk of depending on a single vendor, the calculus shifts significantly toward self-hosted alternatives.",
+            "The open-weight movement has delivered models that genuinely compete with proprietary offerings across most practical benchmarks. Meta's Llama series, DeepSeek's reasoning models, Mistral's efficient architectures, and Qwen's multilingual capabilities have collectively proven that you don't need to pay per token to get frontier-level performance. The remaining gap, which narrows with each release cycle, is increasingly a matter of fine-tuning and deployment infrastructure rather than raw model quality."
+        ],
+        "oss_benefits_title": "The Case for Open-Weight Models",
+        "oss_benefits": [
+            "**Zero marginal cost at scale** — once you've invested in inference hardware, every additional query is essentially free. This transforms the economics of AI-powered features from variable cost to fixed cost.",
+            "**Complete data privacy** — your prompts, context, and outputs never leave your network. Critical for healthcare, finance, legal, and any business handling PII.",
+            "**Full customization** — fine-tune on your domain data, adjust system prompts without restrictions, modify tokenizers, or quantize for your specific hardware profile.",
+            "**No vendor lock-in** — swap models as better ones emerge without rewriting integration code. Most open-weight models converge on compatible APIs and inference formats."
+        ]
+    },
+    "AI Runners": {
+        "industry": [
+            "Running AI models locally has gone from a hobbyist curiosity to a legitimate infrastructure choice. The shift was driven by three converging forces: rapidly improving open-weight models, dramatic reductions in quantization quality loss, and the rising cost consciousness around API-based inference. What was once a weekend experiment — getting a model to respond on your laptop — is now a production deployment pattern used by companies that need predictable costs and absolute data privacy.",
+            "The tooling around local inference has matured to match. Modern AI runners handle model downloading, quantization, context management, GPU memory allocation, and API serving with minimal configuration. Many offer OpenAI-compatible endpoints, which means existing application code that was built against commercial APIs can switch to self-hosted inference with a single URL change.",
+            "The hardware requirements have also dropped significantly. GGUF quantization, mixed-precision inference, and speculative decoding techniques mean that capable 7B-13B models run comfortably on consumer GPUs, and even larger 70B models are practical on workstation-grade hardware. For teams that don't need frontier-scale reasoning on every query, local inference is now the more economical choice by a wide margin."
+        ],
+        "oss_benefits_title": "Why Self-Hosted Inference Matters",
+        "oss_benefits": [
+            "**Predictable, fixed costs** — no per-token billing, no usage spikes, no surprise invoices. Your inference cost is your hardware amortization, period.",
+            "**Complete privacy and compliance** — prompts and outputs never leave your premises. Non-negotiable for legal, medical, and classified workloads.",
+            "**Latency control** — local inference eliminates network round-trips. Sub-100ms time-to-first-token is achievable for many model sizes.",
+            "**Model flexibility** — swap, fine-tune, or quantize models to match your exact performance-cost trade-off without waiting for a vendor to add support."
+        ]
+    },
+    "Monitoring": {
+        "industry": [
+            "Monitoring is one of those infrastructure investments that only gets appreciated after something goes wrong. Every minute of undetected downtime translates directly to lost revenue, eroded user trust, and cascading failures that are exponentially harder to debug the longer they persist. For modern web applications with distributed architectures, monitoring isn't optional — it's the difference between catching a degradation at 2% error rate versus discovering it at 20% when customers start complaining on social media.",
+            "The commercial monitoring landscape has consolidated around a few major players — Datadog, New Relic, and Splunk — that offer comprehensive platforms with enterprise features. But their pricing models, which typically scale with data ingestion volume, create a perverse incentive: the more you instrument your application (which you should), the more you pay. Teams routinely find themselves reducing log verbosity or sampling metrics just to stay within budget, which defeats the purpose of monitoring in the first place.",
+            "Open-source monitoring has matured to the point where self-hosted stacks built on Prometheus, Grafana, and OpenTelemetry can match commercial platforms in capability. The trade-off is operational overhead — you're responsible for keeping the monitoring infrastructure itself running. But for teams with the DevOps muscle to maintain it, the cost savings at scale are substantial, and the absence of data ingestion limits means you can instrument without compromise."
+        ],
+        "oss_benefits_title": "Why Open-Source Monitoring Wins at Scale",
+        "oss_benefits": [
+            "**No data ingestion limits** — instrument everything without worrying about per-GB pricing that punishes thoroughness.",
+            "**Full stack visibility** — combine metrics, logs, traces, and alerting in a single self-hosted stack with complete control over retention policies.",
+            "**Community-maintained integrations** — Prometheus exporters exist for virtually every database, message queue, web server, and cloud service you're running.",
+            "**Customizable alerting** — define alert rules, escalation policies, and notification channels that match your operational workflow exactly."
+        ]
+    },
+    "Analytics": {
+        "industry": [
+            "Understanding how users interact with your product is fundamental to making good decisions — about which features to build, where friction exists, and what's actually driving growth. Analytics tooling has become ubiquitous, but the way most teams implement it creates a quiet tension between insight and privacy. Every pageview, click, and scroll event sent to a third-party analytics service is data about your users that lives on someone else's infrastructure.",
+            "Google Analytics dominated this space for over a decade by being free and comprehensive. But the shift to GA4, growing regulatory pressure from GDPR and CCPA, and increasing user awareness of tracking have created an opening for alternatives that respect privacy by default. The question has moved from 'Should we track user behavior?' to 'Can we understand our users without compromising their privacy?'",
+            "The answer, increasingly, is yes. Privacy-first analytics platforms — both commercial and open-source — have proven that you can get actionable insights from aggregate data without building individual user profiles, dropping cookies, or sending behavioral data to third-party ad networks. For many teams, the switch isn't just about compliance; it's about building trust with users who are increasingly aware of how their data is being used."
+        ],
+        "oss_benefits_title": "Why Privacy-First Analytics is the Future",
+        "oss_benefits": [
+            "**GDPR compliant without banners** — no cookies means no consent dialogs interrupting your users' experience.",
+            "**Lightweight by design** — most open-source analytics scripts are under 5KB, versus 40-70KB for Google Analytics, directly improving page load times.",
+            "**Complete data ownership** — your analytics data stays on your servers. No data mining, no profile building, no third-party data sharing.",
+            "**Transparent methodology** — open-source means you can audit exactly how metrics are calculated and ensure the numbers are trustworthy."
+        ]
+    },
+    "Backend as a Service": {
+        "industry": [
+            "Building a backend from scratch — authentication, database, file storage, realtime subscriptions, serverless functions — is weeks or months of work before you ship a single user-facing feature. Backend-as-a-service platforms compress that timeline by providing these building blocks as managed services with SDKs for every major frontend framework. Firebase showed the industry what's possible; Supabase proved it could be done with open-source technology.",
+            "The trade-off with managed BaaS has always been control. Firebase's real-time database is fast to get started with but notoriously difficult to migrate away from. Pricing structures that charge per read/write operation create anxiety at scale. And for applications that need to comply with data residency requirements, the inability to choose where your data lives is a non-starter.",
+            "Self-hosted BaaS platforms have reached the point where the developer experience is genuinely comparable to managed alternatives. PostgreSQL-backed platforms like Supabase offer SQL access, row-level security, and realtime subscriptions. Appwrite and PocketBase provide complete backend stacks that deploy with a single Docker command. The infrastructure complexity that once made self-hosting impractical has been abstracted away by mature tooling."
+        ],
+        "oss_benefits_title": "Why Self-Hosted Backends Make Sense",
+        "oss_benefits": [
+            "**Zero vendor lock-in** — your data lives in standard PostgreSQL or SQLite databases. Migration is a pg_dump away.",
+            "**Predictable costs** — no per-operation billing. Your costs scale with your infrastructure, not your traffic patterns.",
+            "**Data residency control** — deploy wherever compliance requires, from EU data centers to air-gapped environments.",
+            "**Full stack access** — extend functionality at the database level, not just through vendor-defined SDKs and rules."
+        ]
+    },
+    "Project Management": {
+        "industry": [
+            "Project management tools are the operating system for how teams plan, prioritize, and track work. Get it right and you have visibility into what's happening across the organization, clear ownership of tasks, and a shared source of truth for deadlines. Get it wrong — or outgrow your tooling — and you end up with scattered context across Slack threads, Google Docs, and someone's mental model of what 'in progress' means.",
+            "Jira has been the default choice in enterprise settings for years, but its complexity has become its own kind of cost. Teams routinely spend more time configuring workflows, maintaining custom fields, and navigating a UI that feels designed for administrators rather than the people doing the actual work. Linear's success proved there's massive demand for tools that are fast, opinionated, and pleasant to use — but Linear's pricing and closed-source nature aren't for everyone.",
+            "Open-source project management tools have learned from both extremes. The current generation offers clean, modern interfaces inspired by Linear's speed and simplicity, while providing the flexibility to customize workflows that Jira users expect. Self-hosting means your planning data — which often contains sensitive roadmap and strategy information — stays within your infrastructure."
+        ],
+        "oss_benefits_title": "Why Open-Source Project Management",
+        "oss_benefits": [
+            "**No per-seat tax on growth** — add team members without budget conversations with finance.",
+            "**Sensitive roadmap data stays internal** — product strategy, timelines, and resource allocation don't leave your network.",
+            "**Customizable workflows** — modify issue types, states, and automation rules at the code level, not through limited configuration UIs.",
+            "**Integration freedom** — connect with your CI/CD, Slack, Git, and custom internal tools through open APIs."
+        ]
+    },
+    "Security": {
+        "industry": [
+            "Security infrastructure — password management, identity providers, authentication services, and encryption tooling — sits at the foundation of every application. A breach in any of these layers doesn't just affect one feature; it compromises the entire trust relationship with your users. The stakes are high enough that many teams default to commercial security products, reasoning that the cost of a vendor is trivial compared to the cost of a security incident.",
+            "But trusting a security vendor also means trusting their infrastructure, their access controls, their employee vetting, and their incident response. After high-profile breaches at LastPass and Okta, more teams are asking whether the convenience of managed security services justifies the concentration of risk. When your password vault or identity provider is a single vendor's cloud service, a compromise at that vendor becomes your compromise too.",
+            "Open-source security tools offer an alternative model: trust through transparency. When the source code is public, security researchers worldwide can audit it. When the data stays on your infrastructure, a vendor breach doesn't affect you. The trade-off is operational responsibility — but for teams that already manage their own infrastructure, self-hosting a password manager or identity provider is a natural extension."
+        ],
+        "oss_benefits_title": "Why Open-Source Security Infrastructure",
+        "oss_benefits": [
+            "**Auditable code** — the source is public, reviewed by the community, and regularly audited by independent security researchers.",
+            "**Zero-knowledge architecture** — your secrets never leave your infrastructure. No vendor employees can access your vaults or tokens.",
+            "**Air-gap capability** — deploy in fully isolated environments when compliance or classification requirements demand it.",
+            "**No subscription for essential security** — password management and authentication shouldn't be a recurring cost per user."
+        ]
+    },
+    "DevOps": {
+        "industry": [
+            "The promise of DevOps was simple: developers should be able to deploy their code without filing tickets, waiting for ops teams, or configuring infrastructure by hand. Platforms like Heroku, Vercel, and Railway delivered on that promise beautifully — git push and your app is live. But the convenience comes with constraints: vendor-specific build systems, pricing that scales with compute time, and the nagging awareness that your deployment pipeline is someone else's product decision.",
+            "Self-hosted Platform-as-a-Service alternatives have closed the experience gap significantly. Tools like Coolify, Dokku, and CapRover provide the same git-push deployment workflow on your own servers, with the added benefit of running on hardware you control. The pricing model shifts from per-project or per-build-minute to a flat monthly VPS cost that supports as many projects as your server can handle.",
+            "For freelancers and small teams running multiple projects, the economics are especially compelling. A $20/month VPS running a self-hosted PaaS can handle workloads that would cost $200+ across managed platforms. For larger teams, the value proposition shifts toward control: custom build pipelines, deployment policies, and the ability to integrate with internal infrastructure that cloud PaaS providers don't support."
+        ],
+        "oss_benefits_title": "Why Self-Hosted Deployment Platforms",
+        "oss_benefits": [
+            "**Flat infrastructure costs** — one server, unlimited projects. No per-app or per-build pricing.",
+            "**Full pipeline control** — customize build, test, and deployment steps without platform constraints.",
+            "**Infrastructure portability** — move between cloud providers or on-prem without rewriting deployment configurations.",
+            "**Multi-service support** — deploy databases, message queues, and background workers alongside your apps on the same platform."
+        ]
+    },
+    "Productivity": {
+        "industry": [
+            "Productivity software — document editors, note-taking apps, knowledge bases, wikis — is the digital workspace where ideas become artifacts. Notion's success proved that people want more than just a text editor; they want tools that can organize information spatially, link concepts together, and serve as both a writing surface and a lightweight database. But Notion and its commercial peers store every thought, draft, and internal document on their servers.",
+            "For companies, that means proprietary knowledge, strategic planning documents, and sensitive internal communications live on third-party infrastructure. For individuals, it means personal notes, journals, and creative work exist at the mercy of a subscription billing cycle. When your knowledge base is someone else's SaaS product, they have leverage over your most important asset: your accumulated knowledge.",
+            "Open-source productivity tools have evolved from basic Markdown editors into full workspace platforms. AppFlowy and AFFiNE offer Notion-like block editors with local-first architectures. Outline provides team knowledge bases with Slack integration. ONLYOFFICE delivers collaborative document editing that genuinely competes with Google Workspace. The common thread is data ownership — your documents, your server, your rules."
+        ],
+        "oss_benefits_title": "Why Open-Source Productivity Tools",
+        "oss_benefits": [
+            "**Local-first architecture** — your data exists on your device first, synced on your terms. No internet required to access your own notes.",
+            "**No content lock-in** — export everything in standard formats. Your knowledge base shouldn't be trapped in a proprietary database.",
+            "**Collaborative without compromise** — real-time editing and sharing without routing every keystroke through a third-party server.",
+            "**Offline-capable** — work anywhere, sync when you're ready. Perfect for environments with intermittent connectivity."
+        ]
+    },
+    "Design": {
+        "industry": [
+            "Design tools shape how products look and feel. For the last decade, Adobe's Creative Suite and Figma have defined what professional design tooling looks like — and what it costs. Adobe's subscription model transformed perpetual licenses into recurring revenue, while Figma proved that browser-based collaboration could rival native application performance. Both are excellent tools. Both also represent significant ongoing costs and deep vendor dependencies.",
+            "The open-source design ecosystem has expanded beyond GIMP as the sole Photoshop alternative. Krita has become the tool of choice for digital painters and illustrators, with a brush engine that many artists prefer over Photoshop's. Penpot offers browser-based collaborative design with SVG-native output. Inkscape handles vector graphics with a feature set that covers 90% of what Illustrator does. Each has carved out a niche where it genuinely excels rather than trying to replicate commercial tools feature-for-feature.",
+            "For teams considering a switch, the question isn't whether open-source design tools are 'good enough' — several are genuinely better for specific workflows. The question is whether your existing asset libraries, plugins, and team workflows can adapt. The answer, increasingly, is yes."
+        ],
+        "oss_benefits_title": "Why Open-Source Design Tools",
+        "oss_benefits": [
+            "**No subscription treadmill** — professional design capability without monthly fees that increase every year.",
+            "**Standard file formats** — SVG, PNG, PSD, and OpenRaster support means your assets aren't locked into one vendor's format.",
+            "**Extensible through plugins** — customize your workflow with community-built extensions, scripts, and brush packs.",
+            "**Cross-platform freedom** — run the same tool on Linux, macOS, and Windows without feature disparity."
+        ]
+    },
+    "CRM": {
+        "industry": [
+            "Customer relationship management sits at the heart of revenue operations. Every interaction — from first touchpoint through closed deal to ongoing account management — flows through the CRM. That centrality is exactly why CRM vendors can charge premium prices: once your sales process, reporting, and integrations are built around a platform, the switching cost feels enormous.",
+            "Salesforce perfected this dynamic. Its ecosystem of apps, consultants, and certifications creates gravitational pull that's hard to escape. HubSpot offered a friendlier on-ramp but follows the same playbook: free tier to get you in, premium features to keep you paying. For growing companies, CRM costs can quietly become one of the largest line items in the tools budget.",
+            "Open-source CRM alternatives approach the problem differently. Platforms like Twenty and Odoo offer modern interfaces with full control over your customer data. The functionality gap has narrowed — pipeline management, email tracking, activity logging, and reporting are all available. What's changed is the recognition that customer data is too strategically important to store on someone else's servers."
+        ],
+        "oss_benefits_title": "Why Open-Source CRM",
+        "oss_benefits": [
+            "**Your customer data, your servers** — sales intelligence and customer communications are among the most sensitive data a company has.",
+            "**No per-seat sales tax** — add SDRs, AEs, and CSMs without budget negotiations for each headcount.",
+            "**Deep customization** — modify deal stages, fields, automations, and reporting at the code level.",
+            "**Integration on your terms** — connect to your email, calendar, and internal tools without marketplace surcharges."
+        ]
+    },
+    "Marketing": {
+        "industry": [
+            "Marketing technology — email automation, newsletter platforms, campaign management, and transactional email — has become a critical layer in how businesses communicate with their audiences. The volume of email sent by companies has grown year over year, and with it, the bills from platforms like Mailchimp, SendGrid, and HubSpot. What starts as $50/month for a small list can grow to thousands as your subscriber base expands.",
+            "The economics of email marketing have a unique quirk: the value of your list compounds over time, but so does the cost of maintaining it on a managed platform. Switching providers means migrating subscriber data, rebuilding templates, re-verifying domains, and potentially losing engagement history. This lock-in is subtle but expensive — many teams continue paying premium prices simply because migration is daunting.",
+            "Self-hosted email and marketing tools fundamentally change this equation. Platforms like Listmonk can handle millions of subscribers on a single server. Mautic provides marketing automation comparable to HubSpot. Postal handles transactional email delivery at scale. The infrastructure cost is a fraction of managed alternatives, and the data — your subscriber lists, engagement metrics, and campaign history — stays entirely within your control."
+        ],
+        "oss_benefits_title": "Why Self-Hosted Marketing Infrastructure",
+        "oss_benefits": [
+            "**Scale without per-subscriber pricing** — your list can grow to millions without your bill growing proportionally.",
+            "**Full deliverability control** — manage your own IP reputation, DKIM, SPF, and DMARC settings.",
+            "**No data sharing with ad platforms** — your subscriber data isn't being used to train ad targeting models.",
+            "**Campaign data ownership** — engagement metrics, A/B test results, and audience segments stay on your infrastructure."
+        ]
+    },
+    "Support": {
+        "industry": [
+            "Customer support tooling directly impacts how quickly and effectively you can help your users. The experience of submitting a ticket, chatting with support, or reading documentation shapes perception of your entire product. Zendesk and Intercom have set the baseline for what teams expect from support platforms, but their per-agent pricing means that scaling your support team scales your tooling costs linearly.",
+            "The support space has also seen significant feature creep in pricing. Chatbots, knowledge bases, analytics dashboards, and multichannel inboxes are increasingly gated behind higher-tier plans. Teams frequently find themselves paying for an 'enterprise' plan not because they need enterprise features, but because the one specific capability they need was strategically placed in that tier.",
+            "Open-source helpdesk platforms offer the core functionality — ticketing, live chat, knowledge bases, and multichannel support — without per-agent pricing or feature gating. Tools like Zammad and Chaskiq provide mature platforms that can be self-hosted and customized to match your support workflow exactly."
+        ],
+        "oss_benefits_title": "Why Open-Source Support Platforms",
+        "oss_benefits": [
+            "**No per-agent pricing** — scale your support team without scaling your tooling costs.",
+            "**Omnichannel without upsells** — email, chat, social, and phone support in one platform, included by default.",
+            "**Complete conversation history ownership** — support interactions contain valuable product feedback. Keep that data accessible on your terms.",
+            "**Customizable workflows** — build escalation rules, SLA tracking, and routing logic that matches your specific support process."
+        ]
+    },
+    "Automation": {
+        "industry": [
+            "Workflow automation connects the tools your team already uses, eliminating the repetitive manual work that consumes hours every week. When a new lead fills out a form, automation can create a CRM record, send a welcome email, notify the sales team, and update a spreadsheet — all without human intervention. Zapier and Make have made this accessible to non-technical users, but at $20-50+ per month for serious usage, the cost adds up.",
+            "The real cost of managed automation isn't just the subscription — it's the per-task or per-operation pricing that makes complex workflows expensive. A workflow that triggers 10,000 times per month might cost $100+ on Zapier. Run that same workflow on a self-hosted platform like n8n, and the cost is whatever you're already paying for your server.",
+            "Open-source automation platforms have reached the point where they offer comparable visual builders, similar integration libraries, and the added benefit of running custom code nodes for anything the pre-built integrations don't cover. For technical teams, the ability to add JavaScript or Python logic directly into a workflow is a significant advantage over the more constrained no-code approaches."
+        ],
+        "oss_benefits_title": "Why Open-Source Automation",
+        "oss_benefits": [
+            "**No per-execution pricing** — run workflows as often as needed without counting operations.",
+            "**Code when you need it** — drop into JavaScript or Python for custom logic that no-code builders can't handle.",
+            "**Data stays local** — sensitive business data flowing through automation workflows doesn't leave your infrastructure.",
+            "**Custom integrations** — build connectors for internal APIs that managed platforms will never support."
+        ]
+    },
+    "E-commerce": {
+        "industry": [
+            "E-commerce platforms are the foundation of online retail. Shopify has made launching a store remarkably simple, but that simplicity comes with trade-offs: transaction fees on every sale, limited customization depth, and a dependency on Shopify's infrastructure for your entire business. When the platform decides to change its API, adjust its pricing, or deprecate a feature you rely on, you adapt or you scramble.",
+            "The headless commerce movement has shifted the conversation from 'which all-in-one platform' to 'which best-of-breed components.' By decoupling the storefront from the commerce engine, teams can use any frontend framework while plugging into a commerce backend for product management, orders, payments, and fulfillment. Open-source headless platforms like Medusa.js make this architecture accessible without enterprise licensing fees.",
+            "For brands that have outgrown template-based storefronts or need multi-market support, self-hosted commerce infrastructure offers the flexibility to build exactly the shopping experience their customers expect, without the constraints and costs of managed platforms."
+        ],
+        "oss_benefits_title": "Why Open-Source Commerce",
+        "oss_benefits": [
+            "**No transaction fees** — zero percent commission on every sale, regardless of volume.",
+            "**Complete storefront control** — build any frontend experience without template limitations.",
+            "**Multi-region and multi-currency** — handle international commerce without per-market licensing fees.",
+            "**Plugin architecture** — extend functionality with community-built modules for payments, fulfillment, and CMS integrations."
+        ]
+    }
+}

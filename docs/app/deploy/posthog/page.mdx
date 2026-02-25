@@ -1,0 +1,199 @@
+---
+title: "Deploy PostHog Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting PostHog with Docker Compose. "
+---
+
+# Deploy PostHog
+
+🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">⭐ 31.2k stars</span>
+  <span className="deploy-hero-item">📜 Other</span>
+  <span className="deploy-hero-item">🔴 Advanced</span>
+  <span className="deploy-hero-item">⏱ ~20 minutes</span>
+  
+</div>
+
+<div className="mt-8 mb-4">
+  <a 
+    href="https://m.do.co/c/2ed27757a361" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+
+## What You'll Get
+
+A fully working PostHog instance running on your server. Your data stays on your hardware — no third-party access, no usage limits, no surprise invoices.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed to your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for PostHog and add this `docker-compose.yml`:
+
+```yaml
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  db:
+    image: postgres:14-alpine
+    container_name: posthog-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_PASSWORD=posthog
+      - POSTGRES_DB=posthog
+      - POSTGRES_USER=posthog
+    volumes:
+      - posthog_postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:6-alpine
+    container_name: posthog-redis
+    restart: unless-stopped
+    volumes:
+      - posthog_redis_data:/data
+
+  clickhouse:
+    image: clickhouse/clickhouse-server:22.3-alpine
+    container_name: posthog-clickhouse
+    restart: unless-stopped
+    environment:
+      - CLICKHOUSE_DB=posthog
+      - CLICKHOUSE_USER=default
+      - CLICKHOUSE_PASSWORD=
+    volumes:
+      - posthog_clickhouse_data:/var/lib/clickhouse
+
+  kafka:
+    image: confluentinc/cp-kafka:7.5.3
+    container_name: posthog-kafka
+    restart: unless-stopped
+    depends_on:
+      - zookeeper
+    environment:
+      - KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181
+      - KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
+      - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.3
+    container_name: posthog-zookeeper
+    restart: unless-stopped
+    environment:
+      - ZOOKEEPER_CLIENT_PORT=2181
+      - ZOOKEEPER_TICK_TIME=2000
+
+  posthog:
+    image: posthog/posthog:release-1.40.0
+    container_name: posthog
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+      - clickhouse
+      - kafka
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgres://posthog:posthog@db:5432/posthog
+      - REDIS_URL=redis://redis:6379/
+      - CLICKHOUSE_HOST=clickhouse
+      - KAFKA_HOSTS=kafka:9092
+      - SECRET_KEY=please-change-this-secret-key-in-production-12345
+      - SKIP_SERVICE_VERSION_REQUIREMENTS=1
+    volumes:
+      - ./uploads:/app/static/uploads
+
+volumes:
+  posthog_postgres_data:
+  posthog_redis_data:
+  posthog_clickhouse_data:
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/posthog && cd /opt/posthog
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull images and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+## Environment Variables
+
+| Variable | Default | Required |
+|---|---|---|
+| `POSTGRES_PASSWORD` | `posthog` | No |
+| `POSTGRES_DB` | `posthog` | No |
+| `POSTGRES_USER` | `posthog` | No |
+| `CLICKHOUSE_DB` | `posthog` | No |
+| `CLICKHOUSE_USER` | `default` | No |
+| `KAFKA_ZOOKEEPER_CONNECT` | `zookeeper:2181` | No |
+| `KAFKA_ADVERTISED_LISTENERS` | `PLAINTEXT://kafka:9092` | No |
+| `KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR` | `1` | No |
+| `ZOOKEEPER_CLIENT_PORT` | `2181` | No |
+| `ZOOKEEPER_TICK_TIME` | `2000` | No |
+| `DATABASE_URL` | `postgres://posthog:posthog@db:5432/posthog` | No |
+| `REDIS_URL` | `redis://redis:6379/` | No |
+| `CLICKHOUSE_HOST` | `clickhouse` | No |
+| `KAFKA_HOSTS` | `kafka:9092` | No |
+| `SECRET_KEY` | `please-change-this-secret-key-in-production-12345` | No |
+| `SKIP_SERVICE_VERSION_REQUIREMENTS` | `1` | No |
+
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Admin account created (if applicable)
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backup script set up ([backup guide](/concepts/backups))
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+```bash
+docker compose logs posthog | tail -50
+```
+
+**Port already in use?**
+```bash
+# Find what's using the port
+lsof -i :PORT_NUMBER
+```
+
+**Need to start fresh?**
+```bash
+docker compose down -v  # ⚠️ This deletes volumes/data!
+docker compose up -d
+```
+
+## Going Further
+
+- [PostHog on AltStack Directory](https://thealtstack.com/alternative-to/posthog)
+- [PostHog Self-Hosted Guide](https://thealtstack.com/self-hosted/posthog)
+- [Official Documentation](https://posthog.com)
+- [GitHub Repository](https://github.com/PostHog/posthog)

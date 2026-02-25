@@ -1,0 +1,145 @@
+---
+title: Setting Up a Reverse Proxy
+description: "How to use Caddy, Nginx Proxy Manager, or Traefik to give your self-hosted tools proper domains and automatic SSL."
+---
+
+import { Tabs } from 'nextra/components'
+
+# Setting Up a Reverse Proxy
+
+Right now your tools are running on ports like `:3001` or `:8080`. A **reverse proxy** is the traffic cop that maps a domain like `uptime.yourdomain.com` to your server's local port and handles SSL automatically.
+
+## Which one should I pick?
+
+- **Caddy:** Best for 99% of people. Zero-config SSL, human-readable config, extremely fast.
+- **Nginx Proxy Manager:** Best if you want a web UI to click and manage your domains.
+- **Traefik:** Best if you want a "hands-off" approach that auto-discovers new containers as you spin them up (complex but powerful).
+
+---
+
+<Tabs items={['Caddy (Recommended)', 'Nginx Proxy Manager', 'Traefik']}>
+  <Tabs.Tab>
+    ### Caddy Setup
+    Caddy is the "batteries included" proxy. It just works.
+
+    #### 1. The Docker Compose
+    Create a folder for Caddy and add this `docker-compose.yml`:
+
+    ```yaml
+    version: '3.8'
+    services:
+      caddy:
+        image: caddy:2-alpine
+        restart: unless-stopped
+        ports:
+          - "80:80"
+          - "443:443"
+          - "443:443/udp"
+        volumes:
+          - ./Caddyfile:/etc/caddy/Caddyfile
+          - caddy_data:/data
+          - caddy_config:/config
+
+    volumes:
+      caddy_data:
+      caddy_config:
+    ```
+
+    #### 2. The Caddyfile
+    In the same folder, create a file named `Caddyfile`:
+
+    ```caddy
+    uptime.yourdomain.com {
+        reverse_proxy localhost:3001
+    }
+
+    plausible.yourdomain.com {
+        reverse_proxy localhost:8000
+    }
+    ```
+
+    #### 3. Start it
+    ```bash
+    docker compose up -d
+    ```
+  </Tabs.Tab>
+
+  <Tabs.Tab>
+    ### Nginx Proxy Manager (NPM) Setup
+    NPM gives you a beautiful web interface to manage your SSL and proxy hosts.
+
+    #### 1. The Docker Compose
+    ```yaml
+    version: '3.8'
+    services:
+      app:
+        image: 'jc21/nginx-proxy-manager:latest'
+        restart: unless-stopped
+        ports:
+          - '80:80'
+          - '81:81'
+          - '443:443'
+        volumes:
+          - ./data:/data
+          - ./letsencrypt:/etc/letsencrypt
+    ```
+
+    #### 2. Access the UI
+    1. Visit `http://your-server-ip:81`
+    2. Default credentials:
+       - Email: `admin@example.com`
+       - Password: `changeme`
+    3. Change your login info immediately.
+    4. Click **Proxy Hosts** -> **Add Proxy Host** to point your domain to your tool's port.
+  </Tabs.Tab>
+
+  <Tabs.Tab>
+    ### Traefik Setup
+    Traefik uses "labels" on your other containers to automatically route traffic.
+
+    #### 1. The Traefik Container
+    ```yaml
+    version: '3.8'
+    services:
+      traefik:
+        image: traefik:v3.0
+        command:
+          - "--api.insecure=true"
+          - "--providers.docker=true"
+          - "--entrypoints.web.address=:80"
+          - "--entrypoints.websecure.address=:443"
+          - "--certificatesresolvers.myresolver.acme.tlschallenge=true"
+          - "--certificatesresolvers.myresolver.acme.email=your-email@example.com"
+          - "--certificatesresolvers.myresolver.acme.storage=/letsencrypt/acme.json"
+        ports:
+          - "80:80"
+          - "443:443"
+          - "8080:8080"
+        volumes:
+          - "/var/run/docker.sock:/var/run/docker.sock:ro"
+          - "./letsencrypt:/letsencrypt"
+    ```
+
+    #### 2. Routing a container
+    Add these labels to any *other* container you want to proxy:
+
+    ```yaml
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.mytool.rule=Host(`mytool.yourdomain.com`)"
+      - "traefik.http.routers.mytool.entrypoints=websecure"
+      - "traefik.http.routers.mytool.tls.certresolver=myresolver"
+    ```
+  </Tabs.Tab>
+</Tabs>
+
+---
+
+## 🔒 A Note on SSL/TLS
+Every proxy above handles SSL certificates via **Let's Encrypt** automatically.
+
+**Crucial Step:** Before you start your proxy, your domain's **DNS A Record** must point to your server's public IP address. If the DNS isn't pointing correctly, Let's Encrypt will fail to issue a certificate.
+
+## Next Steps
+→ [Your First Deployment](/quick-start/first-deployment) — Connect your tools to your new proxy.
+→ [SSL/TLS Deep Dive](/concepts/ssl-tls) — How it works under the hood.
