@@ -1,0 +1,38 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "3000:3000"
+    environment:
+      - MB_DB_TYPE=postgres
+      - MB_DB_DBNAME=metabase
+      - MB_DB_PORT=5432
+      - MB_DB_USER=metabase
+      - MB_DB_PASS=metabase
+      - MB_DB_HOST=db
+
+  db:
+    image: postgres:14-alpine
+    container_name: metabase-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=metabase
+      - POSTGRES_PASSWORD=metabase
+      - POSTGRES_DB=metabase
+    volumes:
+      - metabase_db_data:/var/lib/postgresql/data
+
+volumes:
+  metabase_db_data:

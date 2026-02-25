@@ -1,0 +1,16 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  sd-webui:
+    image: automatic1111/stable-diffusion-webui:latest
+    container_name: sd-webui
+    restart: unless-stopped
+    ports:
+      - "7860:7860"
+

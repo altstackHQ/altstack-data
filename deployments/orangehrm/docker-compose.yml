@@ -1,0 +1,37 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  orangehrm:
+    image: orangehrm/orangehrm:latest
+    container_name: orangehrm
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "80:80"
+    environment:
+      - ORANGEHRM_DATABASE_HOST=db
+      - ORANGEHRM_DATABASE_USER=orangehrm
+      - ORANGEHRM_DATABASE_PASSWORD=orangehrm
+      - ORANGEHRM_DATABASE_NAME=orangehrm
+
+  db:
+    image: mariadb:10.6
+    container_name: orangehrm-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_USER=orangehrm
+      - MYSQL_PASSWORD=orangehrm
+      - MYSQL_DATABASE=orangehrm
+    volumes:
+      - orangehrm_db_data:/var/lib/mysql
+
+volumes:
+  orangehrm_db_data:

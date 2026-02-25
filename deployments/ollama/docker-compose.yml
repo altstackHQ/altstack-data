@@ -1,0 +1,39 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Ollama
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama:latest # Official image is highly recommended for GPU support
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # For GPU support (NVIDIA), uncomment the following:
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+    networks:
+      - ollama_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:11434/api/tags" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+networks:
+  ollama_net:
+    driver: bridge
+
+volumes:
+  ollama_data:
+    name: ollama_data

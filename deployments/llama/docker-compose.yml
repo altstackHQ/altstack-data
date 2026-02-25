@@ -1,0 +1,21 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  ollama-llama:
+    image: ollama/ollama:latest
+    container_name: ollama-llama
+    restart: unless-stopped
+    command: serve
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama:/root/.ollama
+
+volumes:
+  ollama:

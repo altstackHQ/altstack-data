@@ -1,0 +1,16 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  postal:
+    image: postalserver/postal:latest
+    container_name: postal
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+

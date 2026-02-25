@@ -1,0 +1,35 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  documenso:
+    image: documenso/documenso:latest
+    container_name: documenso
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=postgresql://documenso:documenso@db:5432/documenso
+      - NEXTAUTH_URL=http://localhost:3000
+      - NEXTAUTH_SECRET=supersecret
+
+  db:
+    image: postgres:15-alpine
+    container_name: documenso-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=documenso
+      - POSTGRES_PASSWORD=documenso
+      - POSTGRES_DB=documenso
+    volumes:
+      - documenso_db_data:/var/lib/postgresql/data
+
+volumes:
+  documenso_db_data:

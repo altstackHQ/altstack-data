@@ -1,0 +1,63 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Coolify
+# Note: Coolify is a self-hosted PaaS.
+version: '3.8'
+
+services:
+  coolify:
+    image: ghcr.io/coollabsio/coolify:latest
+    container_name: coolify
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=production
+      - DB_CONNECTION=pgsql
+      - DB_HOST=db
+      - DB_DATABASE=coolify
+      - DB_USERNAME=coolify
+      - DB_PASSWORD=${DB_PASSWORD:-password}
+    volumes:
+      - coolify_data:/var/www/html/storage
+      - /var/run/docker.sock:/var/run/docker.sock # Essential for controlling Docker
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - coolify_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8000/api/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  db:
+    image: postgres:15-alpine
+    container_name: coolify-db
+    environment:
+      POSTGRES_USER: coolify
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-password}
+      POSTGRES_DB: coolify
+    volumes:
+      - coolify_db_data:/var/lib/postgresql/data
+    networks:
+      - coolify_net
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U coolify" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+networks:
+  coolify_net:
+    driver: bridge
+
+volumes:
+  coolify_data:
+    name: coolify_data
+  coolify_db_data:
+    name: coolify_db_data

@@ -1,0 +1,62 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  taiga-front:
+    image: taigaio/taiga-front:latest
+    container_name: taiga-front
+    restart: unless-stopped
+    depends_on:
+      - taiga-back
+    ports:
+      - "9000:80"
+    environment:
+      - TAIGA_URL=http://localhost:9000
+      - TAIGA_WEBSOCKETS_URL=ws://localhost:9000
+
+  taiga-back:
+    image: taigaio/taiga-back:latest
+    container_name: taiga-back
+    restart: unless-stopped
+    depends_on:
+      - taiga-db
+      - taiga-redis
+      - taiga-async-rabbitmq
+    environment:
+      - POSTGRES_DB=taiga
+      - POSTGRES_USER=taiga
+      - POSTGRES_PASSWORD=taiga
+      - TAIGA_SECRET_KEY=exe3quu8Su2wohx0uNgo0eif4wohphah
+
+  taiga-db:
+    image: postgres:13-alpine
+    container_name: taiga-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=taiga
+      - POSTGRES_USER=taiga
+      - POSTGRES_PASSWORD=taiga
+    volumes:
+      - taiga_db_data:/var/lib/postgresql/data
+
+  taiga-async-rabbitmq:
+    image: rabbitmq:3.8-management-alpine
+    container_name: taiga-rabbitmq
+    restart: unless-stopped
+    environment:
+      - RABBITMQ_ERLANG_COOKIE=secret-cookie
+      - RABBITMQ_DEFAULT_USER=taiga
+      - RABBITMQ_DEFAULT_PASS=taiga
+
+  taiga-redis:
+    image: redis:6-alpine
+    container_name: taiga-redis
+    restart: unless-stopped
+
+volumes:
+  taiga_db_data:

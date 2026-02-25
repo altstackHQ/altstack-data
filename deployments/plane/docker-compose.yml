@@ -1,0 +1,53 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  plane-web:
+    image: makeplane/plane-frontend:latest
+    container_name: plane-frontend
+    restart: unless-stopped
+    depends_on:
+      - plane-backend
+    ports:
+      - "3000:80"
+
+  plane-backend:
+    image: makeplane/plane-backend:latest
+    container_name: plane-backend
+    restart: unless-stopped
+    depends_on:
+      - plane-db
+      - plane-redis
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgres://plane:plane@plane-db:5432/plane
+      - REDIS_URL=redis://plane-redis:6379/
+      - SECRET_KEY=replace-me-with-a-secure-key
+
+  plane-db:
+    image: postgres:15-alpine
+    container_name: plane-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=plane
+      - POSTGRES_PASSWORD=plane
+      - POSTGRES_DB=plane
+    volumes:
+      - plane_db_data:/var/lib/postgresql/data
+
+  plane-redis:
+    image: redis:7-alpine
+    container_name: plane-redis
+    restart: unless-stopped
+    volumes:
+      - plane_redis_data:/data
+
+volumes:
+  plane_db_data:
+  plane_redis_data:

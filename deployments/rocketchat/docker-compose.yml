@@ -1,0 +1,40 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  rocketchat:
+    image: registry.rocket.chat/rocketchat/rocket.chat:latest
+    container_name: rocketchat
+    restart: unless-stopped
+    depends_on:
+      - mongo
+    ports:
+      - "3002:3000"
+    environment:
+      - MONGO_URL=mongodb://mongo:27017/rocketchat
+      - ROOT_URL=http://localhost:3002
+      - PORT=3000
+
+  mongo:
+    image: mongo:5.0
+    container_name: rocketchat-mongo
+    restart: unless-stopped
+    command: mongod --oplogSize 128 --replSet rs0 --storageEngine=wiredTiger
+    volumes:
+      - ./data/db:/data/db
+
+  mongo-init-replica:
+    image: mongo:5.0
+    container_name: mongo-init-replica
+    restart: unless-stopped
+    command: bash /init-replica.sh
+    depends_on:
+      - mongo
+    volumes:
+      - ./init-replica.sh:/init-replica.sh
+

@@ -1,0 +1,18 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  dokku:
+    image: dokku/dokku:latest
+    container_name: dokku
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "22:22"
+

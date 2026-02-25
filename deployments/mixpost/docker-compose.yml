@@ -1,0 +1,45 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  mixpost:
+    image: inovector/mixpost:latest
+    container_name: mixpost
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    ports:
+      - "80:80"
+    environment:
+      - APP_URL=http://localhost
+      - DB_HOST=db
+      - DB_DATABASE=mixpost
+      - DB_USERNAME=mixpost
+      - DB_PASSWORD=mixpost
+      - REDIS_HOST=redis
+
+  db:
+    image: mysql:8.0
+    container_name: mixpost-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_DATABASE=mixpost
+      - MYSQL_USER=mixpost
+      - MYSQL_PASSWORD=mixpost
+      - MYSQL_ROOT_PASSWORD=root
+    volumes:
+      - mixpost_db_data:/var/lib/mysql
+
+  redis:
+    image: redis:alpine
+    container_name: mixpost-redis
+    restart: unless-stopped
+
+volumes:
+  mixpost_db_data:

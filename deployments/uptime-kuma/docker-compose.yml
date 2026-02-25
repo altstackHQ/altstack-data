@@ -1,0 +1,32 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Uptime Kuma
+version: '3.8'
+
+services:
+  uptime-kuma:
+    image: louislam/uptime-kuma:1 # Official image is standard
+    container_name: uptime-kuma
+    ports:
+      - "3001:3001"
+    volumes:
+      - uptime_kuma_data:/app/data
+    networks:
+      - uptime_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:3001/" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+networks:
+  uptime_net:
+    driver: bridge
+
+volumes:
+  uptime_kuma_data:
+    name: uptime_kuma_data

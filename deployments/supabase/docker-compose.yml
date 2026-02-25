@@ -1,0 +1,95 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Supabase Production-Ready Docker Compose
+# Note: Supabase is a collection of services. Official images are the standard.
+# This setup includes the core services: PostgREST, GoTrue, Realtime, Storage, and PostgreSQL.
+
+version: '3.8'
+
+services:
+  db:
+    container_name: supabase-db
+    image: supabase/postgres:15.1.1.78
+    command: postgres -c config_file=/etc/postgresql/postgresql.conf -c log_min_messages=fatal
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 3
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - supabase_db_data:/var/lib/postgresql/data
+    networks:
+      - supabase_net
+
+  auth:
+    container_name: supabase-auth
+    image: supabase/gotrue:v2.143.0
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9999/health"]
+      interval: 5s
+      timeout: 5s
+      retries: 3
+    environment:
+      GOTRUE_DB_DRIVER: postgres
+      GOTRUE_DB_DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD:-postgres}@db:5432/postgres?sslmode=disable
+      GOTRUE_SITE_URL: ${SITE_URL:-http://localhost:3000}
+      GOTRUE_JWT_SECRET: ${JWT_SECRET:-super-secret-jwt-token-don-not-use-in-prod}
+    networks:
+      - supabase_net
+
+  rest:
+    container_name: supabase-rest
+    image: postgrest/postgrest:v11.2.2
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      PGRST_DB_URI: postgres://postgres:${POSTGRES_PASSWORD:-postgres}@db:5432/postgres
+      PGRST_DB_SCHEMA: public
+      PGRST_DB_ANON_ROLE: anon
+    networks:
+      - supabase_net
+
+  realtime:
+    container_name: supabase-realtime
+    image: supabase/realtime:v2.25.56
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST: db
+      DB_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      JWT_SECRET: ${JWT_SECRET:-super-secret-jwt-token-don-not-use-in-prod}
+    networks:
+      - supabase_net
+
+  storage:
+    container_name: supabase-storage
+    image: supabase/storage-api:v0.43.12
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ANON_KEY: ${ANON_KEY}
+      SERVICE_KEY: ${SERVICE_KEY}
+      PGRST_JWT_SECRET: ${JWT_SECRET:-super-secret-jwt-token-don-not-use-in-prod}
+      DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD:-postgres}@db:5432/postgres
+    networks:
+      - supabase_net
+
+networks:
+  supabase_net:
+    driver: bridge
+
+volumes:
+  supabase_db_data:
+    name: supabase_db_data

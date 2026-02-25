@@ -1,0 +1,16 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  keepassxc:
+    image: jlesage/keepassxc:latest
+    container_name: keepassxc
+    restart: unless-stopped
+    ports:
+      - "5800:5800"
+

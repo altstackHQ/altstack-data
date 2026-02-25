@@ -1,0 +1,16 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  jitsu:
+    image: jitsu/jitsu:latest
+    container_name: jitsu
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+

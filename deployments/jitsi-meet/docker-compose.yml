@@ -1,0 +1,20 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  jitsi-web:
+    image: jitsi/web:latest
+    container_name: jitsi-web
+    restart: unless-stopped
+    ports:
+      - "8000:80"
+      - "8443:443"
+    environment:
+      - PUBLIC_URL=https://localhost:8443
+      - XMPP_SERVER=xmpp.meet.jitsi
+

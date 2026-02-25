@@ -1,0 +1,64 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  plausible:
+    image: plausible/analytics:latest
+    container_name: plausible
+    restart: unless-stopped
+    command: sh -c "sleep 10 && /entrypoint.sh db createdb && /entrypoint.sh db migrate && /entrypoint.sh run"
+    depends_on:
+      - plausible_db
+      - plausible_events_db
+      - mail
+    ports:
+      - "8000:8000"
+    environment:
+      - BASE_URL=http://localhost:8000
+      - SECRET_KEY_BASE=ChangeMeChangeMeChangeMeChangeMeChangeMeChangeMeChangeMeChangeMe
+      - DATABASE_URL=postgres://postgres:postgres@plausible_db:5432/plausible_db
+      - CLICKHOUSE_DATABASE_URL=http://plausible_events_db:8123/plausible_events_db
+      - MAILER_EMAIL=admin@example.com
+      - SMTP_HOST_ADDR=mail
+      - SMTP_HOST_PORT=25
+      - SMTP_USER_NAME=
+      - SMTP_USER_PWD=
+      - SMTP_SSL_Enabled=false
+    volumes:
+      - ./geoip:/geoip:ro
+
+  plausible_db:
+    image: postgres:14-alpine
+    container_name: plausible_db
+    restart: unless-stopped
+    volumes:
+      - plausible_db_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=plausible_db
+
+  plausible_events_db:
+    image: clickhouse/clickhouse-server:24.3.3.102-alpine
+    container_name: plausible_events_db
+    restart: unless-stopped
+    volumes:
+      - plausible_events_data:/var/lib/clickhouse
+      - ./clickhouse/clickhouse-config.xml:/etc/clickhouse-server/config.d/logging.xml:ro
+      - ./clickhouse/clickhouse-user-config.xml:/etc/clickhouse-server/users.d/logging.xml:ro
+    ulimits:
+      nofile:
+        soft: 262144
+        hard: 262144
+
+  mail:
+    image: bytemark/smtp
+    container_name: plausible_mail
+    restart: unless-stopped
+
+volumes:
+  plausible_db_data:
+  plausible_events_data:

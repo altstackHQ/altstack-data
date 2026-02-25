@@ -1,0 +1,16 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  erpnext:
+    image: frappe/erpnext-worker:latest
+    container_name: erpnext
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+

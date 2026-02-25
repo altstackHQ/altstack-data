@@ -1,0 +1,66 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for AppFlowy Cloud
+version: '3.8'
+
+services:
+  appflowy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: appflowy-cloud
+    ports:
+      - "8080:8080"
+    environment:
+      - DATABASE_URL=postgres://postgres:${POSTGRES_PASSWORD:-password}@db:5432/appflowy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - appflowy_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8080/health" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  db:
+    image: postgres:15-alpine
+    container_name: appflowy-db
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-password}
+      POSTGRES_DB: appflowy
+    volumes:
+      - appflowy_db_data:/var/lib/postgresql/data
+    networks:
+      - appflowy_net
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: appflowy-redis
+    networks:
+      - appflowy_net
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+networks:
+  appflowy_net:
+    driver: bridge
+
+volumes:
+  appflowy_db_data:
+    name: appflowy_db_data

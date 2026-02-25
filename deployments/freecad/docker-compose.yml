@@ -1,0 +1,16 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  freecad:
+    image: lscr.io/linuxserver/freecad:latest
+    container_name: freecad
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+

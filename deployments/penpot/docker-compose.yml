@@ -1,0 +1,72 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  penpot-frontend:
+    image: penpotapp/frontend:latest
+    container_name: penpot-frontend
+    restart: unless-stopped
+    depends_on:
+      - penpot-backend
+      - penpot-exporter
+    ports:
+      - "9010:80"
+    environment:
+      - PENPOT_FLAGS=disable-registration disable-login-with-password
+    volumes:
+      - penpot_assets:/opt/data/assets
+
+  penpot-backend:
+    image: penpotapp/backend:latest
+    container_name: penpot-backend
+    restart: unless-stopped
+    depends_on:
+      - penpot-postgres
+      - penpot-redis
+    environment:
+      - PENPOT_FLAGS=disable-registration disable-login-with-password
+      - PENPOT_DATABASE_URI=postgresql://penpot-postgres/penpot
+      - PENPOT_DATABASE_USERNAME=penpot
+      - PENPOT_DATABASE_PASSWORD=penpot
+      - PENPOT_REDIS_URI=redis://penpot-redis/0
+      - PENPOT_ASSETS_STORAGE_BACKEND=assets-fs
+      - PENPOT_STORAGE_ASSETS_FS_DIRECTORY=/opt/data/assets
+      - PENPOT_TELEMETRY_ENABLED=false
+    volumes:
+      - penpot_assets:/opt/data/assets
+
+  penpot-exporter:
+    image: penpotapp/exporter:latest
+    container_name: penpot-exporter
+    restart: unless-stopped
+    environment:
+      - PENPOT_DATABASE_URI=postgresql://penpot-postgres/penpot
+      - PENPOT_DATABASE_USERNAME=penpot
+      - PENPOT_DATABASE_PASSWORD=penpot
+      - PENPOT_REDIS_URI=redis://penpot-redis/0
+
+  penpot-postgres:
+    image: postgres:15
+    container_name: penpot-postgres
+    restart: unless-stopped
+    environment:
+      - POSTGRES_INITDB_ARGS=--data-checksums
+      - POSTGRES_DB=penpot
+      - POSTGRES_USER=penpot
+      - POSTGRES_PASSWORD=penpot
+    volumes:
+      - penpot_postgres_v15:/var/lib/postgresql/data
+
+  penpot-redis:
+    image: redis:7
+    container_name: penpot-redis
+    restart: unless-stopped
+
+volumes:
+  penpot_postgres_v15:
+  penpot_assets:

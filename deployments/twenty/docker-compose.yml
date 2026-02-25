@@ -1,0 +1,34 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  twenty:
+    image: twentyhq/twenty:latest
+    container_name: twenty
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "3000:3000"
+    environment:
+      - PG_DATABASE_URL=postgres://twenty:twenty@db:5432/twenty
+      - FRONTEND_URL=http://localhost:3000
+
+  db:
+    image: postgres:15-alpine
+    container_name: twenty-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=twenty
+      - POSTGRES_PASSWORD=twenty
+      - POSTGRES_DB=twenty
+    volumes:
+      - twenty_db_data:/var/lib/postgresql/data
+
+volumes:
+  twenty_db_data:

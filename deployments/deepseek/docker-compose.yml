@@ -1,0 +1,20 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  ollama-deepseek:
+    image: ollama/ollama:latest
+    container_name: ollama-deepseek
+    restart: unless-stopped
+    ports:
+      - "11435:11434"
+    volumes:
+      - ollama_deepseek:/root/.ollama
+
+volumes:
+  ollama_deepseek:

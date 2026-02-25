@@ -1,0 +1,34 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  listmonk:
+    image: listmonk/listmonk:latest
+    container_name: listmonk
+    restart: unless-stopped
+    command: sh -c './listmonk --install --yes --idempotent && ./listmonk'
+    depends_on:
+      - listmonk-db
+    ports:
+      - "9000:9000"
+    volumes:
+      - ./config.toml:/listmonk/config.toml
+
+  listmonk-db:
+    image: postgres:13-alpine
+    container_name: listmonk-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=listmonk
+      - POSTGRES_PASSWORD=listmonk
+      - POSTGRES_DB=listmonk
+    volumes:
+      - listmonk_db_data:/var/lib/postgresql/data
+
+volumes:
+  listmonk_db_data:

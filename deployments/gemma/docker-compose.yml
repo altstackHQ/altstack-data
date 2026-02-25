@@ -1,0 +1,20 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  ollama-gemma:
+    image: ollama/ollama:latest
+    container_name: ollama-gemma
+    restart: unless-stopped
+    ports:
+      - "11437:11434"
+    volumes:
+      - ollama_gemma:/root/.ollama
+
+volumes:
+  ollama_gemma:

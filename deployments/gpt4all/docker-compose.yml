@@ -1,0 +1,34 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for GPT4All
+version: '3.8'
+
+services:
+  gpt4all:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gpt4all-server
+    ports:
+      - "4891:4891"
+    volumes:
+      - gpt4all_models:/app/models
+    networks:
+      - gpt4all_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:4891/v1/models" ] # GPT4All local API endpoint
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+networks:
+  gpt4all_net:
+    driver: bridge
+
+volumes:
+  gpt4all_models:
+    name: gpt4all_models

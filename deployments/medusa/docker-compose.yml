@@ -1,0 +1,42 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  medusa:
+    image: medusajs/medusa:latest
+    container_name: medusa
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    ports:
+      - "9000:9000"
+    environment:
+      - DATABASE_URL=postgres://medusa:medusa@db:5432/medusa
+      - REDIS_URL=redis://redis:6379
+      - JWT_SECRET=supersecret
+      - COOKIE_SECRET=supersecret
+
+  db:
+    image: postgres:15-alpine
+    container_name: medusa-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=medusa
+      - POSTGRES_PASSWORD=medusa
+      - POSTGRES_DB=medusa
+    volumes:
+      - medusa_db_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:alpine
+    container_name: medusa-redis
+    restart: unless-stopped
+
+volumes:
+  medusa_db_data:

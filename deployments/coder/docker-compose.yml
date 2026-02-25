@@ -1,0 +1,37 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  coder:
+    image: ghcr.io/coder/coder:latest
+    container_name: coder
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "7080:7080"
+    environment:
+      - CODER_PG_CONNECTION_URL=postgresql://coder:coder@db:5432/coder
+      - CODER_ACCESS_URL=http://localhost:7080
+      - CODER_HTTP_ADDRESS=0.0.0.0:7080
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  db:
+    image: postgres:13
+    container_name: coder-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=coder
+      - POSTGRES_PASSWORD=coder
+      - POSTGRES_DB=coder
+    volumes:
+      - coder_db_data:/var/lib/postgresql/data
+
+volumes:
+  coder_db_data:

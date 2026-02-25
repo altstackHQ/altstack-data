@@ -1,0 +1,37 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  akaunting:
+    image: akaunting/akaunting:latest
+    container_name: akaunting
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "8080:80"
+    environment:
+      - DB_HOST=db
+      - DB_DATABASE=akaunting
+      - DB_USERNAME=akaunting
+      - DB_PASSWORD=akaunting
+
+  db:
+    image: mariadb:10.6
+    container_name: akaunting-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_DATABASE=akaunting
+      - MYSQL_USER=akaunting
+      - MYSQL_PASSWORD=akaunting
+      - MYSQL_ROOT_PASSWORD=root
+    volumes:
+      - akaunting_db_data:/var/lib/mysql
+
+volumes:
+  akaunting_db_data:

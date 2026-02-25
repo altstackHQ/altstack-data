@@ -1,0 +1,72 @@
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+# Docker Compose for Appwrite
+# Note: Appwrite is a complex multi-service system. 
+# This is a production-ready configuration for the core services.
+version: '3.8'
+
+services:
+  appwrite:
+    image: appwrite/appwrite:1.5.4
+    container_name: appwrite
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      - _APP_ENV=production
+      - _APP_DB_HOST=db
+      - _APP_DB_USER=appwrite
+      - _APP_DB_PASS=${DB_PASSWORD:-password}
+      - _APP_REDIS_HOST=redis
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - appwrite_net
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost/v1/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  db:
+    image: mariadb:10.11 # Appwrite uses MariaDB by default
+    container_name: appwrite-db
+    environment:
+      MARIADB_USER: appwrite
+      MARIADB_PASSWORD: ${DB_PASSWORD:-password}
+      MARIADB_DATABASE: appwrite
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:-rootpassword}
+    volumes:
+      - appwrite_db_data:/var/lib/mysql
+    networks:
+      - appwrite_net
+    healthcheck:
+      test: [ "CMD-SHELL", "mysqladmin ping -h localhost -u root -p${DB_ROOT_PASSWORD:-rootpassword}" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: appwrite-redis
+    networks:
+      - appwrite_net
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+networks:
+  appwrite_net:
+    driver: bridge
+
+volumes:
+  appwrite_db_data:
+    name: appwrite_db_data

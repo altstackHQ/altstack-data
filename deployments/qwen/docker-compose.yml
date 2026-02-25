@@ -1,0 +1,20 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  ollama-qwen:
+    image: ollama/ollama:latest
+    container_name: ollama-qwen
+    restart: unless-stopped
+    ports:
+      - "11438:11434"
+    volumes:
+      - ollama_qwen:/root/.ollama
+
+volumes:
+  ollama_qwen:

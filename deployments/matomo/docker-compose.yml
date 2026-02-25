@@ -1,0 +1,18 @@
+
+# -------------------------------------------------------------------------
+# 🚀 Created and distributed by The AltStack
+# 🌍 https://thealtstack.com
+# -------------------------------------------------------------------------
+
+version: '3.8'
+
+services:
+  matomo:
+    image: matomo:latest
+    container_name: matomo
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    environment:
+      - MATOMO_DATABASE_HOST=db
+
