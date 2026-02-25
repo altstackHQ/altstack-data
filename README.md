@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://thealtstack.com/logo.png" alt="The Alt Stack" width="80" />
+  <img src="assets/logo.png" alt="The Alt Stack" width="80" />
 </p>
 
 <h1 align="center">The Alt Stack</h1>
