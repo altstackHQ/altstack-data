@@ -94,6 +94,23 @@ print(f"{len(open_source)} open source tools available")
 
 ---
 
+## 🐳 Self-Hosted Deployments
+
+The `deployments/` directory contains **65+ production-ready Docker Compose configurations** for the tools in our directory. 
+
+These are the exact configurations and install scripts used in the [Self-Hosted Guides](https://thealtstack.com/self-hosted) on our main site.
+
+Instead of writing infrastructure code from scratch, you can deploy tools in minutes:
+1. Clone this repository (`git clone https://github.com/altstackHQ/altstack-data.git`)
+2. Navigate to a tool's folder: `cd altstack-data/deployments/supabase`
+3. Run the automated setup script: `./install.sh` 
+*(Alternatively, just run `docker compose up -d` if you don't need the setup script)*
+4. You're live!
+
+**Contribute to Deployments:** If you have an optimized `docker-compose.yml` or a custom `install.sh` sequence (e.g., generating required passwords, running migrations) for a tool we haven't covered, or you want to improve an existing one, please open a PR!
+
+---
+
 ## 🤝 Contributing
 
 We love contributions! Whether it's adding a tool you discovered, fixing a broken link, or writing a deployment guide — every contribution makes the ecosystem better.
@@ -136,17 +153,3 @@ All tool logos in `assets/logos/` are the property of their respective trademark
 <p align="center">
   <sub>Built with ❤️ by the <a href="https://thealtstack.com/about">Alt Stack team</a></sub>
 </p>
-
-## 🐳 Self-Hosted Deployments
-
-The `deployments/` directory contains **65+ production-ready Docker Compose configurations** for the tools in our directory. 
-
-These are the exact configurations used in the [Self-Hosted Guides](https://thealtstack.com/self-hosted) on our main site.
-
-Instead of writing infrastructure code from scratch, you can:
-1. Clone this repository
-2. Navigate to a tool's folder: `cd deployments/supabase`
-3. Run `docker compose up -d`
-4. You're live!
-
-**Contribute to Deployments:** If you have an optimized `docker-compose.yml` for a tool we haven't covered, or an improvement to an existing one, please open a PR! All configs must follow best practices, use official images where possible, and avoid hardcoding sensitive secrets.
