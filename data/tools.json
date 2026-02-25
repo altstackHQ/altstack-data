@@ -18076,5 +18076,64 @@
     },
     "referral_url": "https://m.do.co/c/2ed27757a361",
     "id": "svara-tts-v1"
+  },
+  {
+    "slug": "postman",
+    "name": "Postman",
+    "category": "API Development",
+    "is_open_source": false,
+    "pricing_model": "Freemium",
+    "website": "https://www.postman.com/",
+    "description": "An API platform for building and using APIs.",
+    "alternatives": [
+      "hoppscotch"
+    ],
+    "tags": [
+      "API",
+      "Testing",
+      "Developer Tools"
+    ],
+    "logo_url": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+    "avg_monthly_cost": 15,
+    "pros": [
+      "Comprehensive feature set for API development",
+      "Excellent collaboration tools",
+      "Extensive integrations with CI/CD"
+    ],
+    "cons": [
+      "Can be resource-heavy and slow",
+      "Requires an account for core collaboration features",
+      "Some advanced features are locked behind expensive subscriptions"
+    ]
+  },
+  {
+    "slug": "hoppscotch",
+    "name": "Hoppscotch",
+    "category": "API Development",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "website": "https://hoppscotch.io/",
+    "description": "An open-source API development ecosystem.",
+    "github_repo": "hoppscotch/hoppscotch",
+    "alternatives": [
+      "postman"
+    ],
+    "tags": [
+      "API",
+      "Testing",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "logo_url": "https://hoppscotch.io/_nuxt/logo.6d552ca3.svg",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Lightweight and runs directly in the browser",
+      "Fully open-source and self-hostable",
+      "Real-time collaboration and history syncing"
+    ],
+    "cons": [
+      "Browser extensions sometimes required for certain requests",
+      "Fewer enterprise integrations compared to commercial alternatives"
+    ]
   }
-]
+]\n
