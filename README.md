@@ -17,6 +17,7 @@
 
 <p align="center">
   <a href="https://thealtstack.com"><strong>Explore the Directory</strong></a> •
+  <a href="https://thealtstack.com/self-hosted"><strong>Self-Hosted Configurator</strong></a> •
   <a href="https://docs.thealtstack.com"><strong>Self-Hosting Guides</strong></a> •
   <a href="https://github.com/altstackHQ/altstack-data/issues"><strong>Request a Tool</strong></a>
 </p>
@@ -47,7 +48,7 @@ services:
       - ./pb_data:/pb_data
     restart: unless-stopped
 ```
-👉 [Get the Production-Hardened Guide & Best Practices](https://docs.thealtstack.com/deployments/pocketbase)
+👉 [Open in Self-Hosted Configurator](https://thealtstack.com/self-hosted/pocketbase) • [Deployment Guide](https://docs.thealtstack.com/deployments/pocketbase)
 
 ### 📊 Plausible Analytics (Privacy-First)
 Lightweight, open-source analytics.
@@ -61,7 +62,7 @@ services:
     env_file: .env
 ...
 ```
-👉 [Full Self-Hosting Guide with ClickHouse Setup](https://docs.thealtstack.com/deployments/plausible)
+👉 [Open in Self-Hosted Configurator](https://thealtstack.com/self-hosted/plausible) • [Full Self-Hosting Guide](https://docs.thealtstack.com/deployments/plausible)
 
 ---
 
