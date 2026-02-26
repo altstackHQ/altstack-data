@@ -1,0 +1,70 @@
+name: "🚀 New Tool Submission"
+description: Suggest a new open-source alternative to be added to The AltStack.
+title: "[TOOL]: "
+labels: ["enhancement", "tool-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a new tool! We appreciate your help in building the Sovereign Infrastructure Engine.
+  - type: input
+    id: name
+    attributes:
+      label: Tool Name
+      placeholder: e.g., Supabase
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+      placeholder: https://supabase.com
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub Repository
+      placeholder: supabase/supabase
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Backend as a Service
+        - Analytics
+        - Communication
+        - Project Management
+        - Design
+        - Productivity
+        - Security
+        - DevOps
+        - Infrastructure
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short Description
+      placeholder: Why is this tool a great alternative?
+    validations:
+      required: true
+  - type: textarea
+    id: alternative_to
+    attributes:
+      label: Alternative To
+      placeholder: Which SaaS product does this replace? (e.g., Firebase, Slack)
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Verification
+      options:
+        - label: Is this tool Open Source?
+          required: true
+        - label: Is it self-hostable?
+          required: true

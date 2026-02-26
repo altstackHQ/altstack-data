@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/altstackHQ/altstack-data/stargazers"><img src="https://img.shields.io/github/stars/altstackHQ/altstack-data?color=ffdd00&label=Stars&logo=github&style=for-the-badge" alt="GitHub stars" /></a>
+  <a href="https://github.com/altstackHQ/altstack-data/blob/main/LICENSE"><img src="https://img.shields.io/github/license/altstackHQ/altstack-data?color=blue&label=License&style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/altstackHQ/altstack-data/issues"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="PRs Welcome" /></a>
+</p>
+
+<p align="center">
   <a href="https://thealtstack.com"><strong>Explore the Directory</strong></a> •
   <a href="https://docs.thealtstack.com"><strong>Self-Hosting Guides</strong></a> •
   <a href="https://github.com/altstackHQ/altstack-data/issues"><strong>Request a Tool</strong></a>
@@ -17,9 +23,56 @@
 
 ---
 
-## 🚀 Why This List?
+## 🚀 Why Sovereign Infrastructure?
 
-AltStack's mission is to help you own your data and infrastructure. This repository serves as the **Data HQ** for [The AltStack](https://thealtstack.com), powering our searchable directory and self-hosting guides. Every tool listed here is vetted for quality, activity, and self-hostability.
+Every SaaS you pay for is a piece of your sovereign control you are leasing. The mission of **AltStack** is to provide the data and deployment configurations necessary to replace the "Big Tech" stack with a **Sovereign Stack** you own.
+
+This repository serves as the **Data HQ** for [The AltStack](https://thealtstack.com). Every tool listed here is vetted for quality, activity, and self-hostability.
+
+## 🚀 Quick Start (Mini-Stacks)
+
+Get up and running in under 2 minutes. These are "Development Mode" snippets. For production-hardened setups (SSL, Backups, Auth), follow the links to The AltStack Documentation.
+
+### 📦 PocketBase (BaaS)
+The fastest way to get a backend with Auth, Database, and Admin UI.
+```yaml
+# docker-compose.yml
+services:
+  pocketbase:
+    image: mujo-code/pocketbase:latest
+    container_name: pocketbase
+    ports:
+      - "8090:8080"
+    volumes:
+      - ./pb_data:/pb_data
+    restart: unless-stopped
+```
+👉 [Get the Production-Hardened Guide & Best Practices](https://docs.thealtstack.com/deployments/pocketbase)
+
+### 📊 Plausible Analytics (Privacy-First)
+Lightweight, open-source analytics.
+```yaml
+# docker-compose.yml (Simplified)
+services:
+  plausible:
+    image: plausible/analytics:latest
+    ports:
+      - "8000:8000"
+    env_file: .env
+...
+```
+👉 [Full Self-Hosting Guide with ClickHouse Setup](https://docs.thealtstack.com/deployments/plausible)
+
+---
+
+## 🛠️ Browse by Category
+
+- [🏗️ Backend as a Service](#-backend-as-a-service-baas) → [Compare all on thealtstack.com](https://thealtstack.com/category/backend-as-a-service)
+- [💬 Communication](#-communication--collaboration) → [Compare all on thealtstack.com](https://thealtstack.com/category/communication)
+- [📊 Analytics & BI](#-analytics--bi) → [Compare all on thealtstack.com](https://thealtstack.com/category/analytics)
+- [📁 Project Management](#-project-management) → [Compare all on thealtstack.com](https://thealtstack.com/category/project-management)
+
+---
 
 ## 📂 The Awesome Alternatives List
 
@@ -96,11 +149,14 @@ AltStack's mission is to help you own your data and infrastructure. This reposit
 Most tools in this list can be deployed in minutes using Docker. Here is how to get started with the AltStack approach:
 
 1. **Clone this repo**: `git clone https://github.com/altstackHQ/altstack-data.git`
-2. **Explore `/deploy-configs`**: Find the Docker Compose file for the tool you want.
-3. **Follow the Guide**: Visit [docs.thealtstack.com](https://docs.thealtstack.com) for step-by-step instructions.
+2. **Explore `/deployments`**: Find the Docker Compose file for the tool you want.
+3. **Go Sovereign**: Visit [docs.thealtstack.com](https://docs.thealtstack.com) for production-hardened guides (SSL, backups, and reverse proxies).
+
+> [!TIP]
+> This repository contains basic community configs. For commercial-grade Sovereign Infrastructure setup, always refer to our [Official Documentation](https://thealtstack.com/docs).
 
 ```bash
-cd deploy-configs/plausible
+cd deployments/plausible
 docker-compose up -d
 ```
 
