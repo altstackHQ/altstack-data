@@ -1,155 +1,134 @@
 <p align="center">
-  <img src="assets/logo.png" alt="The Alt Stack" width="80" />
+  <img src="assets/logo.png" alt="The Alt Stack" width="120" />
 </p>
 
-<h1 align="center">The Alt Stack</h1>
+<h1 align="center">Awesome Open Source Alternatives - The AltStack Data HQ</h1>
 
 <p align="center">
-  <strong>The open-source directory of alternatives to every popular SaaS tool.</strong>
-</p>
-
-<p align="center">
-  <a href="https://thealtstack.com">🌐 Website</a> · <a href="https://docs.thealtstack.com">📖 Docs</a> · <a href="https://github.com/altstackHQ/altstack-data/issues/new?template=add-tool.yml">➕ Submit a Tool</a>
+  <strong>A curated list of the best open-source alternatives to popular SaaS products.</strong><br />
+  Stop paying for what you can host yourself. Build sovereign infrastructure with AltStack.
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0%20%2B%20CC%20BY%204.0-blue" alt="License" /></a>
-  <img src="https://img.shields.io/badge/tools-459-green" alt="Tools" />
-  <img src="https://img.shields.io/badge/categories-28-orange" alt="Categories" />
-  <img src="https://img.shields.io/badge/deploy%20guides-66-blueviolet" alt="Guides" />
+  <a href="https://thealtstack.com"><strong>Explore the Directory</strong></a> •
+  <a href="https://docs.thealtstack.com"><strong>Self-Hosting Guides</strong></a> •
+  <a href="https://github.com/altstackHQ/altstack-data/issues"><strong>Request a Tool</strong></a>
 </p>
 
 ---
 
-## What is The Alt Stack?
+## 🚀 Why This List?
 
-**The Alt Stack** is a curated, community-driven directory that helps developers and teams discover open-source and self-hosted alternatives to popular SaaS products — across **28 categories** including Project Management, Analytics, CRM, AI, DevOps, Communication, and more.
+AltStack's mission is to help you own your data and infrastructure. This repository serves as the **Data HQ** for [The AltStack](https://thealtstack.com), powering our searchable directory and self-hosting guides. Every tool listed here is vetted for quality, activity, and self-hostability.
 
-This repository is the heart of the project. It contains:
+## 📂 The Awesome Alternatives List
 
-- 🗂️ **The Dataset** — 459+ tools with metadata, pricing, pros/cons, deployment info, and links.
-- 📖 **66+ Deployment Guides** — Step-by-step self-hosting guides for tools like Plausible, Gitea, Rocket.Chat, and more.
-- 📚 **Concepts & Docs** — Guides on topics like server setup, monitoring, backups, and secrets management.
+### 🏗️ Backend as a Service (BaaS)
+*Alternatives to **Firebase** and **AWS Amplify***
+- **[Supabase](https://github.com/supabase/supabase)** - The open source Firebase alternative with a dedicated Postgres database.
+- **[Appwrite](https://github.com/appwrite/appwrite)** - A complete backend for Flutter, Web, and Mobile developers.
+- **[PocketBase](https://github.com/pocketbase/pocketbase)** - Open source realtime backend in 1 file (Go & SQLite).
+- [🔗 **Compare BaaS Alternatives on AltStack**](https://thealtstack.com/category/backend-as-a-service)
+
+### 💬 Communication & Collaboration
+*Alternatives to **Slack**, **Zoom**, and **Microsoft Teams***
+- **[Mattermost](https://github.com/mattermost/mattermost)** - Open source platform for secure collaboration across the SDLC.
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** - The Secure CommsOS™ for mission-critical operations.
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** - Fully encrypted, 100% open source video conferencing.
+- [🔗 **Explore Communication Stacks on AltStack**](https://thealtstack.com/category/communication)
+
+### 📊 Analytics & BI
+*Alternatives to **Google Analytics**, **Mixpanel**, and **Tableau***
+- **[Plausible](https://github.com/plausible/analytics)** - Simple, lightweight, and privacy-friendly web analytics.
+- **[PostHog](https://github.com/PostHog/posthog)** - Product analytics, session recording, and feature flags.
+- **[Matomo](https://github.com/matomo-org/matomo)** - The leading open source Google Analytics alternative.
+- **[Metabase](https://github.com/metabase/metabase)** - The simplest way to get business intelligence throughout your company.
+- **[Apache Superset](https://github.com/apache/superset)** - Modern data exploration and visualization platform.
+- [🔗 **Check Analytics Guides on AltStack**](https://thealtstack.com/category/analytics)
+
+### � Project Management
+*Alternatives to **Jira**, **Asana**, and **Monday.com***
+- **[Plane](https://github.com/makeplane/plane)** - Beautiful open-source Jira/Linear alternative.
+- **[Taiga](https://github.com/taigaio/taiga-back)** - Agile project management for multi-functional teams.
+- **[OpenProject](https://github.com/opf/openproject)** - Powerful classic project management and collaboration.
+- [🔗 **Self-host Project Management on AltStack**](https://thealtstack.com/category/project-management)
+
+### 🎨 Design & Creative
+*Alternatives to **Photoshop**, **Figma**, and **Illustrator***
+- **[Penpot](https://github.com/penpot/penpot)** - The open-source design tool for design and code collaboration (Figma alternative).
+- **[GIMP](https://github.com/GNOME/gimp)** - Professional-grade photo editing tools (Photoshop alternative).
+- **[Krita](https://github.com/KDE/krita)** - Open source digital painting (Illustrator/Corel alternative).
+- [🔗 **Design Stacks on AltStack**](https://thealtstack.com/category/design)
+
+### � Productivity & Knowledge
+*Alternatives to **Notion**, **Microsoft 365**, and **Google Workspace***
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** - Privacy-focused Notion alternative built in Rust.
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** - Next-gen knowledge base that brings planning and creation together.
+- **[ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer)** - Highly compatible MS Office online editors.
+- [🔗 **Productivity Alternatives on AltStack**](https://thealtstack.com/category/productivity)
+
+### 🔐 Security & IAM
+*Alternatives to **1Password**, **Auth0**, and **Okta***
+- **[Bitwarden](https://github.com/bitwarden/server)** - Open source password manager for individuals and teams.
+- **[KeePassXC](https://github.com/keepassxreboot/keepassxc)** - Fully offline, AES-256 password manager.
+- **[Keycloak](https://github.com/keycloak/keycloak)** - Open source identity and access management.
+- **[Authentik](https://github.com/goauthentik/authentik)** - The overall-best open-source identity provider.
+- [🔗 **Security Stacks on AltStack**](https://thealtstack.com/category/security)
+
+### 🛠️ DevOps & Automation
+*Alternatives to **Heroku**, **Zapier**, and **Vercel***
+- **[Coolify](https://github.com/coollabsio/coolify)** - Self-hostable PaaS alternative to Heroku & Netlify.
+- **[n8n](https://github.com/n8n-io/n8n)** - Workflow automation tool with 400+ integrations.
+- **[Activepieces](https://github.com/activepieces/activepieces)** - Open source Zapier alternative.
+- [🔗 **DevOps Guides on AltStack**](https://thealtstack.com/category/devops)
+
+### � Storage & Infrastructure
+*Alternatives to **AWS S3**, **Dropbox**, and **Salesforce***
+- **[MinIO](https://github.com/minio/minio)** - High-performance, S3-compatible object storage.
+- **[Odoo](https://github.com/odoo/odoo)** - All-in-one ERP suite (Salesforce alternative).
+- **[Nextcloud](https://github.com/nextcloud/server)** - Content collaboration platform (Dropbox/Google Drive alternative).
+- [🔗 **Infrastructure Stacks on AltStack**](https://thealtstack.com/category/infrastructure)
 
 ---
 
-## 📁 Repository Structure
+## ⚡ Quick Start: Deploy Your First Alternative
 
-```
-altstack-data/
-├── data/
-│   ├── tools.json              # The core dataset (459+ tools)
-│   ├── tools-min.json          # Minified version
-│   ├── category_editorial.json # Category descriptions & metadata
-│   ├── stacks.ts               # Curated stack combinations
-│   ├── seo.ts                  # SEO metadata
-│   └── schema/
-│       └── types.ts            # TypeScript schema for the data
-│
-├── docs/                       # Full documentation site (Nextra)
-│   └── app/
-│       ├── deploy/             # 66+ deployment guides
-│       ├── concepts/           # Self-hosting concepts
-│       ├── quick-start/        # Getting started guides
-│       └── stacks/             # Curated stack guides
-│
-├── assets/
-│   └── logos/                  # Tool logos
-│
-└── .github/
-    ├── ISSUE_TEMPLATE/         # Templates for submissions
-    └── workflows/              # CI: JSON validation, docs build
-```
+Most tools in this list can be deployed in minutes using Docker. Here is how to get started with the AltStack approach:
 
----
+1. **Clone this repo**: `git clone https://github.com/altstackHQ/altstack-data.git`
+2. **Explore `/deploy-configs`**: Find the Docker Compose file for the tool you want.
+3. **Follow the Guide**: Visit [docs.thealtstack.com](https://docs.thealtstack.com) for step-by-step instructions.
 
-## 🚀 Using the Data
-
-The dataset is just JSON. Use it however you want.
-
-**Fetch it directly:**
 ```bash
-curl -s https://raw.githubusercontent.com/altstackHQ/altstack-data/main/data/tools.json | jq '.[0]'
-```
-
-**Use it in JavaScript/TypeScript:**
-```typescript
-import tools from './data/tools.json';
-import type { Tool } from './data/schema/types';
-
-const analytics = tools.filter(t => t.category === 'Analytics');
-console.log(`Found ${analytics.length} analytics tools`);
-```
-
-**Use it in Python:**
-```python
-import json
-
-with open('data/tools.json') as f:
-    tools = json.load(f)
-
-open_source = [t for t in tools if t.get('is_open_source')]
-print(f"{len(open_source)} open source tools available")
+cd deploy-configs/plausible
+docker-compose up -d
 ```
 
 ---
 
-## 🐳 Self-Hosted Deployments
+## �️ Directory Mapping (The AltStack Bridge)
 
-The `deployments/` directory contains **65+ production-ready Docker Compose configurations** for the tools in our directory. 
+We use the data in this repository to power our [Main Website](https://thealtstack.com). Here is how the categories map:
 
-These are the exact configurations and install scripts used in the [Self-Hosted Guides](https://thealtstack.com/self-hosted) on our main site.
-
-Instead of writing infrastructure code from scratch, you can deploy tools in minutes:
-1. Clone this repository (`git clone https://github.com/altstackHQ/altstack-data.git`)
-2. Navigate to a tool's folder: `cd altstack-data/deployments/supabase`
-3. Run the automated setup script: `./install.sh` 
-*(Alternatively, just run `docker compose up -d` if you don't need the setup script)*
-4. You're live!
-
-**Contribute to Deployments:** If you have an optimized `docker-compose.yml` or a custom `install.sh` sequence (e.g., generating required passwords, running migrations) for a tool we haven't covered, or you want to improve an existing one, please open a PR!
+| UI Directory | Data Source (this repo) | Self-Hosted Guide |
+| :--- | :--- | :--- |
+| [Backend](https://thealtstack.com/category/backend-as-a-service) | `data/baas` | [BaaS Guides](https://docs.thealtstack.com/guides/backend) |
+| [Analytics](https://thealtstack.com/category/analytics) | `data/analytics` | [Analytics Guides](https://docs.thealtstack.com/guides/analytics) |
+| [Project Management](https://thealtstack.com/category/project-management) | `data/pm` | [PM Guides](https://docs.thealtstack.com/guides/pm) |
+| [Communication](https://thealtstack.com/category/communication) | `data/comms` | [Comms Guides](https://docs.thealtstack.com/guides/comms) |
+| [Productivity](https://thealtstack.com/category/productivity) | `data/productivity` | [Prod Guides](https://docs.thealtstack.com/guides/productivity) |
 
 ---
 
 ## 🤝 Contributing
 
-We love contributions! Whether it's adding a tool you discovered, fixing a broken link, or writing a deployment guide — every contribution makes the ecosystem better.
-
-**Quick links:**
-- [➕ Add a new tool](https://github.com/altstackHQ/altstack-data/issues/new?template=add-tool.yml)
-- [🐛 Report a data error](https://github.com/altstackHQ/altstack-data/issues/new?template=fix-data.yml)
-- [📝 Propose a new guide](https://github.com/altstackHQ/altstack-data/issues/new?template=add-guide.yml)
-
-Read the full **[Contributing Guidelines](CONTRIBUTING.md)** before submitting a PR.
-
----
-
-## 📊 Categories
-
-| Category | Category | Category | Category |
-|---|---|---|---|
-| 💬 Communication | 📊 Analytics | 📋 Project Management | 🤖 AI Interfaces |
-| 🧠 AI Models | 💻 AI Coding | 🎨 Creative | 📝 CMS |
-| 📧 Email | ☁️ Cloud Hosting | 🗄️ Databases | 🔐 Security |
-| 📁 File Storage | 💰 CRM | 🛒 E-commerce | 🎫 Support |
-| ⚖️ Legal | 🏗️ ERP | 🔄 DevOps | 📺 Media |
-
-*…and more. Explore the full list at [thealtstack.com](https://thealtstack.com).*
-
----
-
-## 📄 License
-
-| What | License |
-|---|---|
-| Code & Scripts | [Apache License 2.0](LICENSE) |
-| Data (`/data`) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Documentation (`/docs`) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-
-All tool logos in `assets/logos/` are the property of their respective trademark holders and are used for identification purposes only.
+We love contributions! If you know of a great open-source tool we missed:
+1. Check the [Contribution Guidelines](CONTRIBUTING.md).
+2. Open an Issue with the tool details.
+3. Submit a PR to update `data/tools.json`.
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by the <a href="https://thealtstack.com/about">Alt Stack team</a></sub>
+  Built with ❤️ by the <a href="https://thealtstack.com">AltStack Team</a>.
 </p>

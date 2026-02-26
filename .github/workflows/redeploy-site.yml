@@ -1,0 +1,30 @@
+name: Trigger Site Redeploy
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'deployments/**'
+  workflow_dispatch:
+
+jobs:
+  ping-vercel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel Deploy Hook
+        if: env.VERCEL_DEPLOY_HOOK != ''
+        run: |
+          curl -X POST "$VERCEL_DEPLOY_HOOK"
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+
+      - name: Log status
+        run: |
+          if [ -z "${{ secrets.VERCEL_DEPLOY_HOOK }}" ]; then
+            echo "⚠️ VERCEL_DEPLOY_HOOK secret not set. Skipping auto-redeploy."
+            echo "Please add VERCEL_DEPLOY_HOOK to your repository secrets to enable automation."
+          else
+            echo "🚀 Deployment trigger sent successfully."
+          fi
