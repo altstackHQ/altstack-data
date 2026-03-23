@@ -1,5 +1,5 @@
-{
-    "Cloud Infrastructure": {
+{ 
+ 123 456 789    "Cloud Infrastructure": {
         "industry": [
             "Cloud infrastructure is the foundation upon which modern software is built. For over a decade, Amazon Web Services (AWS) set the industry standard with S3, transforming object storage from a complex networking challenge into a simple API call. The convenience was undeniable, but as data volumes moved from gigabytes to terabytes and petabytes, the true cost of that convenience became apparent. Egress fees, API request charges, and complex pricing tiers transformed what should be a straightforward utility into a significant line item on the monthly infrastructure bill.",
             "The lock-in effect of proprietary cloud storage is subtle but powerful. Once your application architecture, backup routines, and data lakes are coupled to a specific vendor's ecosystem, moving that data out becomes prohibitively expensive \u2014 both in terms of engineering effort and the literal cost of bandwidth. This dynamic has left many engineering teams feeling trapped, forced to optimize their architectures around avoiding egress fees rather than building the best product.",
