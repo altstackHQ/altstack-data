@@ -72,10 +72,10 @@
     "github_repo": "appwrite/appwrite",
     "stars": 55282,
     "website": "https://appwrite.io",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+    "description": "Appwrite\u00ae - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
     "pros": [
       "Self-hosted with a single Docker command",
-      "Modular architecture — use only what you need"
+      "Modular architecture \u2014 use only what you need"
     ],
     "cons": [
       "Smaller ecosystem than Firebase or Supabase",
@@ -105,7 +105,7 @@
     "website": "https://pocketbase.io",
     "description": "Open Source realtime backend in 1 file",
     "pros": [
-      "Ships as a single binary — no dependencies",
+      "Ships as a single binary \u2014 no dependencies",
       "Deploy anywhere in seconds with zero config",
       "Embedded SQLite with realtime subscriptions"
     ],
@@ -215,7 +215,7 @@
     "is_open_source": true,
     "github_repo": "RocketChat/Rocket.Chat",
     "website": "https://rocket.chat",
-    "description": "The Secure CommsOS™ for mission-critical operations",
+    "description": "The Secure CommsOS\u2122 for mission-critical operations",
     "pros": [
       "Unified inbox with omnichannel support for live chat, email, and social",
       "Highly customizable with white-labeling options",
@@ -268,10 +268,10 @@
     "is_open_source": true,
     "github_repo": "makeplane/plane",
     "website": "https://plane.so",
-    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
     "pros": [
       "Clean, modern interface inspired by Linear",
-      "Blazing fast — sub-100ms interactions",
+      "Blazing fast \u2014 sub-100ms interactions",
       "Built-in cycles, modules, and views"
     ],
     "cons": [
@@ -390,7 +390,7 @@
     "cons": [
       "Subscription-only pricing ($22.99/mo)",
       "Steep learning curve for beginners",
-      "Resource-heavy — needs powerful hardware"
+      "Resource-heavy \u2014 needs powerful hardware"
     ]
   },
   {
@@ -474,8 +474,8 @@
     "website": "https://penpot.app",
     "description": "Penpot: The open-source design tool for design and code collaboration",
     "pros": [
-      "Runs entirely in the browser — no desktop app needed",
-      "SVG-native design — exports are pixel-perfect at any scale",
+      "Runs entirely in the browser \u2014 no desktop app needed",
+      "SVG-native design \u2014 exports are pixel-perfect at any scale",
       "Real-time multiplayer collaboration"
     ],
     "cons": [
@@ -527,7 +527,7 @@
     "website": "https://www.appflowy.io",
     "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
     "pros": [
-      "Local-first architecture — your data never leaves your machine",
+      "Local-first architecture \u2014 your data never leaves your machine",
       "Privacy-focused alternative to Notion",
       "Built in Rust for native desktop performance"
     ],
@@ -552,7 +552,7 @@
     "is_open_source": true,
     "github_repo": "toeverything/AFFiNE",
     "website": "https://affine.pro",
-    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
     "pros": [
       "Modern block editor with Notion-like feel",
       "Spatial canvas for whiteboarding and visual thinking",
@@ -593,7 +593,7 @@
       "Free tier handles up to 10M hits per month"
     ],
     "cons": [
-      "Privacy concerns — data goes to Google",
+      "Privacy concerns \u2014 data goes to Google",
       "GA4 migration frustrated many users",
       "Blocked by most ad blockers",
       "Complex for beginners"
@@ -609,7 +609,7 @@
     "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
     "pros": [
       "Fully GDPR compliant with no cookies required",
-      "Lightweight script under 1KB — zero impact on page speed",
+      "Lightweight script under 1KB \u2014 zero impact on page speed",
       "Clean dashboard that shows what matters, nothing more"
     ],
     "cons": [
@@ -654,11 +654,11 @@
     "is_open_source": true,
     "github_repo": "PostHog/posthog",
     "website": "https://posthog.com",
-    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "description": "\ud83e\udd94 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
     "pros": [
       "Session recording with heatmaps and click tracking",
       "Built-in feature flags, A/B testing, and surveys",
-      "Warehouse-native — query your data with SQL"
+      "Warehouse-native \u2014 query your data with SQL"
     ],
     "cons": [
       "Complex to self-host"
@@ -681,7 +681,7 @@
     "is_open_source": true,
     "github_repo": "matomo-org/matomo",
     "website": "https://matomo.org",
-    "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+    "description": "Empowering People Ethically \ud83d\ude80 \u2014 Matomo is hiring! Join us \u2192 https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub \u2b50\ufe0f  \u2013 Pull Requests welcome! ",
     "pros": [
       "Feature-rich analytics rivaling Google Analytics",
       "GDPR and CCPA compliant out of the box",
@@ -723,7 +723,7 @@
     ],
     "cons": [
       "No free tier ($2.99/mo minimum)",
-      "Cloud-only — no self-hosting option",
+      "Cloud-only \u2014 no self-hosting option",
       "Subscription model with no lifetime option"
     ]
   },
@@ -761,10 +761,10 @@
     "is_open_source": true,
     "github_repo": "keepassxreboot/keepassxc",
     "website": "https://keepassxc.org",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeePass Password Safe\u201d.",
     "pros": [
-      "Fully offline — database stored locally with AES-256 encryption",
-      "No cloud dependency — you control the sync method",
+      "Fully offline \u2014 database stored locally with AES-256 encryption",
+      "No cloud dependency \u2014 you control the sync method",
       "Browser integration via KeePassXC-Browser extension"
     ],
     "cons": [
@@ -818,7 +818,7 @@
     "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
     "pros": [
       "Polished, beautiful dashboard that rivals Vercel and Netlify",
-      "Deploy anything — Docker, static sites, databases, services",
+      "Deploy anything \u2014 Docker, static sites, databases, services",
       "Automatic SSL, backups, and monitoring included"
     ],
     "cons": [
@@ -879,7 +879,7 @@
     "pros": [
       "All-in-one suite covering CRM, HR, inventory, and accounting",
       "Modular app marketplace with 30,000+ extensions",
-      "Dual licensing — Community (free) and Enterprise"
+      "Dual licensing \u2014 Community (free) and Enterprise"
     ],
     "cons": [
       "Can be complex to customize",
@@ -944,7 +944,7 @@
     "cons": [
       "Expensive subscription ($1,975/yr)",
       "Steep learning curve",
-      "Resource-intensive — needs workstation hardware"
+      "Resource-intensive \u2014 needs workstation hardware"
     ]
   },
   {
@@ -1193,7 +1193,7 @@
     "cons": [
       "Pricing jumps sharply after free tier",
       "Can be complex to configure properly",
-      "Owned by Okta — consolidation concerns"
+      "Owned by Okta \u2014 consolidation concerns"
     ]
   },
   {
@@ -1297,7 +1297,7 @@
       "99.999999999% durability (11 nines)",
       "Scales to virtually unlimited storage",
       "Pay only for what you use",
-      "Industry standard — everything integrates with it"
+      "Industry standard \u2014 everything integrates with it"
     ],
     "cons": [
       "Egress costs can surprise you",
@@ -1456,7 +1456,7 @@
       "Regular AI feature updates (Copilot)"
     ],
     "cons": [
-      "Subscription fatigue — perpetual payments",
+      "Subscription fatigue \u2014 perpetual payments",
       "Teams can be resource-heavy",
       "Complex licensing tiers"
     ]
@@ -1760,7 +1760,7 @@
     "description": "Open source observability platform. SigNoz helps developers monitor applications and troubleshoot problems.",
     "pros": [
       "Unified metrics, traces, and logs in a single platform",
-      "OpenTelemetry native — no proprietary agents required",
+      "OpenTelemetry native \u2014 no proprietary agents required",
       "ClickHouse-powered for fast queries at scale"
     ],
     "cons": [
@@ -1963,7 +1963,7 @@
     "website": "https://coder.com",
     "description": "Provision software development environments as code on your infrastructure.",
     "pros": [
-      "Run dev environments on any infrastructure — cloud, on-prem, or hybrid",
+      "Run dev environments on any infrastructure \u2014 cloud, on-prem, or hybrid",
       "Self-hosted remote development with VS Code and JetBrains support",
       "Ephemeral workspaces with Terraform-based provisioning"
     ],
@@ -2053,7 +2053,7 @@
     ],
     "cons": [
       "Subscription-only ($22.99/mo)",
-      "Resource-intensive — needs powerful hardware",
+      "Resource-intensive \u2014 needs powerful hardware",
       "Steep learning curve"
     ]
   },
@@ -2116,7 +2116,7 @@
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.",
     "pros": [
       "Full Bitwarden API compatibility in a lightweight Rust binary",
-      "Runs on 50MB of RAM — perfect for Raspberry Pi or small VPS",
+      "Runs on 50MB of RAM \u2014 perfect for Raspberry Pi or small VPS",
       "Supports organizations, attachments, and Bitwarden Send"
     ],
     "cons": [
@@ -2272,7 +2272,7 @@
     "website": "https://cal.com",
     "description": "The open-source Calendly alternative. Take control of your scheduling.",
     "pros": [
-      "Self-hosted scheduling — no data leaves your server",
+      "Self-hosted scheduling \u2014 no data leaves your server",
       "Deeply extensible with a plugin architecture and API",
       "Round-robin, collective, and managed event types"
     ],
@@ -2453,7 +2453,7 @@
     "website": "https://dokku.com",
     "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
     "pros": [
-      "Rock-solid stability — battle-tested since 2013",
+      "Rock-solid stability \u2014 battle-tested since 2013",
       "Heroku-compatible buildpacks and Procfile workflow",
       "Zero-downtime deploys with simple git push"
     ],
@@ -2916,7 +2916,7 @@
     "website": "https://continue.dev",
     "description": "Open-source AI code assistant for VS Code and JetBrains. Use any model (local or API).",
     "pros": [
-      "Highly customizable AI coding assistant — bring your own model",
+      "Highly customizable AI coding assistant \u2014 bring your own model",
       "Works with VS Code and JetBrains natively",
       "Context-aware with codebase indexing and retrieval"
     ],
@@ -3088,7 +3088,7 @@
     "referral_url": "https://m.do.co/c/2ed27757a361",
     "pros": [
       "Run LLMs locally with a clean GUI",
-      "No cloud dependency — fully offline",
+      "No cloud dependency \u2014 fully offline",
       "Supports GGUF and other quantized formats",
       "Built-in model discovery and download"
     ],
@@ -3107,9 +3107,9 @@
     "website": "https://gpt4all.io",
     "description": "Run open-source LLMs locally on your CPU and GPU. No internet required.",
     "pros": [
-      "One-click desktop installer — no terminal needed",
+      "One-click desktop installer \u2014 no terminal needed",
       "Built-in RAG for chatting with your local documents",
-      "Runs on CPU — no GPU required for basic models"
+      "Runs on CPU \u2014 no GPU required for basic models"
     ],
     "cons": [
       "Slower on CPU"
@@ -3198,8 +3198,8 @@
     "website": "https://llama.meta.com",
     "description": "The latest generation of Llama. 'Maverick' architecture with 256K context. The new standard for open weights.",
     "pros": [
-      "Next-gen Maverick architecture — faster and smarter than Llama 3",
-      "256K context window — double that of most competitors",
+      "Next-gen Maverick architecture \u2014 faster and smarter than Llama 3",
+      "256K context window \u2014 double that of most competitors",
       "Native multimodal support for images, video, and text"
     ],
     "cons": [
@@ -3308,7 +3308,7 @@
     "description": "Refined V3 architecture with improved instruction following and reduced hallucination rates.",
     "pros": [
       "API pricing 10-50x cheaper than GPT-4 equivalents",
-      "Open weights with full model access — no API lock-in",
+      "Open weights with full model access \u2014 no API lock-in",
       "Top-tier reasoning that rivals closed-source frontier models"
     ],
     "cons": [
@@ -18319,5 +18319,72 @@
     },
     "stars": 47,
     "last_commit": "2026-03-23T10:03:09Z"
+  },
+  {
+    "slug": "baremetrics",
+    "name": "Baremetrics",
+    "category": "Financial",
+    "is_open_source": false,
+    "pricing_model": "Paid (Monthly Subscription)",
+    "website": "https://baremetrics.com",
+    "description": "Subscription analytics and revenue intelligence platform for SaaS businesses. Tracks MRR, churn, LTV, and billing anomalies from Stripe, Braintree, and Recurly.",
+    "alternatives": [
+      "billingwatch"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=baremetrics.com",
+    "avg_monthly_cost": 149,
+    "tags": [
+      "SaaS",
+      "Billing",
+      "Analytics",
+      "Stripe"
+    ],
+    "pros": [
+      "Polished subscription analytics dashboard",
+      "Automatic MRR, churn, and LTV calculations",
+      "Customer segmentation and forecasting",
+      "Integrates with Stripe, Braintree, and Recurly"
+    ],
+    "cons": [
+      "Expensive starting at $149/month",
+      "Overkill for small or early-stage SaaS",
+      "Read-only analytics with no billing control",
+      "Limited anomaly detection and alerting"
+    ]
+  },
+  {
+    "slug": "billingwatch",
+    "name": "BillingWatch",
+    "category": "Financial",
+    "is_open_source": true,
+    "github_repo": "rmbell09-lang/BillingWatch",
+    "website": "https://github.com/rmbell09-lang/BillingWatch",
+    "description": "Automated billing QA and anomaly detection for Stripe-powered SaaS. Catches charge failures, duplicate charges, fraud spikes, and revenue drops in real-time before they impact churn.",
+    "stars": 0,
+    "last_commit": "2026-03-24T00:00:00Z",
+    "language": "Python",
+    "license": "MIT",
+    "tags": [
+      "Stripe",
+      "Billing",
+      "Monitoring",
+      "Anomaly Detection",
+      "SaaS"
+    ],
+    "pros": [
+      "7 built-in anomaly detectors for Stripe billing events",
+      "Real-time alerts via email and webhooks",
+      "Self-hosted so your billing data stays private",
+      "Lightweight FastAPI stack that runs without Docker"
+    ],
+    "cons": [
+      "Stripe-only with no Braintree or Recurly support yet",
+      "No dashboard UI with alerts only",
+      "Requires Redis and Postgres for production"
+    ],
+    "deployment": {
+      "type": "docker-compose",
+      "local_path": "./.docker-deploy/billingwatch"
+    }
   }
 ]
