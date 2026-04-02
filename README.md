@@ -106,6 +106,7 @@ services:
 - **[Taiga](https://github.com/taigaio/taiga-back)** - Agile project management for multi-functional teams.
 - **[OpenProject](https://github.com/opf/openproject)** - Powerful classic project management and collaboration.
 - [🔗 **Self-host Project Management on AltStack**](https://thealtstack.com/best/project-management)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ### 🎨 Design & Creative
 *Alternatives to **Photoshop**, **Figma**, and **Illustrator***
