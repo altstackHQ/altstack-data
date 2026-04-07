@@ -134,6 +134,7 @@ services:
 - **[Coolify](https://github.com/coollabsio/coolify)** - Self-hostable PaaS alternative to Heroku & Netlify.
 - **[n8n](https://github.com/n8n-io/n8n)** - Workflow automation tool with 400+ integrations.
 - **[Activepieces](https://github.com/activepieces/activepieces)** - Open source Zapier alternative.
+- **[RemoteOpenClaw](https://remoteopenclaw.com)** - Open marketplace for AI skills and personas built on OpenClaw.
 - [🔗 **DevOps Tools on AltStack**](https://thealtstack.com/best/devops)
 
 ### 💾 Storage & Infrastructure
