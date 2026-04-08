@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://thealtstack.com"><strong>Explore the Directory</strong></a> •
   <a href="https://thealtstack.com/self-hosted"><strong>Self-Hosted Configurator</strong></a> •
-  <a href="https://docs.thealtstack.com"><strong>Self-Hosting Guides</strong></a> •
+  <a href="https://docs.thealtstack.com"><strong>Self-Hosting Guides</strong></a> •<!-- test action -->
   <a href="https://github.com/altstackHQ/altstack-data/issues"><strong>Request a Tool</strong></a>
 </p>
 
