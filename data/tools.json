@@ -30,7 +30,8 @@
       "Vendor lock-in to Google",
       "Pricing can spike unpredictably at scale",
       "Limited query capabilities vs SQL"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "supabase",
@@ -169,7 +170,8 @@
       "Expensive per-seat licensing",
       "Steep learning curve",
       "Heavy and complex for small teams"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "slack",
@@ -195,7 +197,8 @@
       "Expensive at scale ($8.75+/user/mo)",
       "Can become a constant distraction",
       "Message history limits on free plan"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "mattermost",
@@ -287,7 +290,8 @@
       "Notoriously complex UI",
       "Slow performance with large projects",
       "Expensive for growing teams"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "plane",
@@ -329,7 +333,7 @@
     "is_open_source": true,
     "github_repo": "taigaio/taiga-back",
     "website": "https://taiga.io",
-    "description": null,
+    "description": "Free and open-source project management platform for startups and agile teams.",
     "pros": [
       "Beautiful, kanban and scrum boards with drag-and-drop",
       "Full Agile toolkit: epics, sprints, user stories",
@@ -378,7 +382,8 @@
       "Free plan limited to 40-minute meetings",
       "Privacy concerns and past security issues",
       "Zoom fatigue is real"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "jitsi-meet",
@@ -437,7 +442,8 @@
       "Subscription-only pricing ($22.99/mo)",
       "Steep learning curve for beginners",
       "Resource-heavy — needs powerful hardware"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "gimp",
@@ -529,7 +535,8 @@
       "Owned by Adobe (future pricing concerns)",
       "Offline support is limited",
       "Performance with very large files can lag"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "penpot",
@@ -588,7 +595,8 @@
       "Can be slow with large workspaces",
       "Offline mode is unreliable",
       "No true end-to-end encryption"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "appflowy",
@@ -683,7 +691,8 @@
       "GA4 migration frustrated many users",
       "Blocked by most ad blockers",
       "Complex for beginners"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "plausible",
@@ -814,7 +823,8 @@
       "No free tier ($2.99/mo minimum)",
       "Cloud-only — no self-hosting option",
       "Subscription model with no lifetime option"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "bitwarden",
@@ -907,7 +917,8 @@
       "Expensive at scale vs VPS",
       "Limited container customization",
       "Owned by Salesforce (less innovation)"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "coolify",
@@ -973,7 +984,8 @@
       "Implementation takes months to years",
       "Requires specialized consultants",
       "Overkill for SMBs"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "odoo",
@@ -1066,7 +1078,8 @@
       "Expensive subscription ($1,975/yr)",
       "Steep learning curve",
       "Resource-intensive — needs workstation hardware"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "librecad",
@@ -1158,7 +1171,8 @@
       "Gets expensive fast (per-task pricing)",
       "Limited logic and branching on lower tiers",
       "5-minute polling delay on some triggers"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "n8n",
@@ -1250,7 +1264,8 @@
       "Expensive licensing ($70+/user/mo)",
       "Requires a data warehouse setup",
       "Desktop app feels dated"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "metabase",
@@ -1341,7 +1356,8 @@
       "Pricing jumps sharply after free tier",
       "Can be complex to configure properly",
       "Owned by Okta — consolidation concerns"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "keycloak",
@@ -1401,7 +1417,8 @@
       "Very expensive for small teams",
       "Admin interface has a learning curve",
       "Overkill for simple auth needs"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "authentik",
@@ -1462,7 +1479,8 @@
       "Egress costs can surprise you",
       "Complex IAM/bucket policy configuration",
       "Vendor lock-in to AWS ecosystem"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "garage",
@@ -1519,7 +1537,8 @@
       "Expensive per-agent pricing",
       "UI can feel bloated and slow",
       "Basic plans lack important features"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "zammad",
@@ -1577,7 +1596,8 @@
       "Extremely expensive to implement",
       "Long implementation timelines",
       "Complex for smaller organizations"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "orangehrm",
@@ -1636,7 +1656,8 @@
       "Subscription fatigue — perpetual payments",
       "Teams can be resource-heavy",
       "Complex licensing tiers"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "onlyoffice",
@@ -1694,7 +1715,8 @@
       "Transaction fees unless using Shopify Payments",
       "Monthly costs add up with apps",
       "Limited customization vs self-hosted solutions"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "medusa",
@@ -1752,7 +1774,8 @@
       "Expensive for occasional use",
       "UI feels dated compared to competitors",
       "Limited free tier"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "documenso",
@@ -1811,7 +1834,8 @@
       "Pricing increases steeply with list size",
       "Owned by Intuit (less indie-friendly)",
       "Template editor is limiting"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "listmonk",
@@ -1902,7 +1926,8 @@
       "Expensive for what it does ($29+/mo)",
       "Limited customization options",
       "Overkill if you just need a simple status page"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "uptime-kuma",
@@ -1961,7 +1986,8 @@
       "Notoriously expensive at scale",
       "Complex pricing model (per host, per GB)",
       "Can become a significant budget item"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "signoz",
@@ -2068,7 +2094,8 @@
       "Slow and bloated interface",
       "Search is frustratingly poor",
       "Editing experience lags behind Notion"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "outline",
@@ -2126,7 +2153,8 @@
       "Expensive plans ($99+/mo)",
       "UI feels cluttered and dated",
       "Free plan was eliminated"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "mixpost",
@@ -2183,7 +2211,8 @@
       "Usage-based pricing adds up",
       "Requires stable internet connection",
       "Limited GPU/compute options"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "coder",
@@ -2242,7 +2271,8 @@
       "Subscription pricing keeps increasing",
       "Performance issues with large files",
       "Limited multi-currency support"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "akaunting",
@@ -2299,7 +2329,8 @@
       "Subscription-only ($22.99/mo)",
       "Resource-intensive — needs powerful hardware",
       "Steep learning curve"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "kdenlive",
@@ -2357,7 +2388,8 @@
       "More expensive than competitors",
       "Free tier limited to 25 passwords",
       "Desktop app was discontinued"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "vaultwarden",
@@ -2417,7 +2449,8 @@
       "Limited features vs Salesforce",
       "Reporting could be more powerful",
       "No free tier"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "twenty",
@@ -2475,7 +2508,8 @@
       "Can be noisy without proper filtering",
       "Pricing based on error volume",
       "Self-hosting is complex"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "glitchtip",
@@ -2533,7 +2567,8 @@
       "Free plan limited to one event type",
       "Premium features locked behind $10+/mo",
       "Branding on free tier"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "calcom",
@@ -2591,7 +2626,8 @@
       "Very expensive ($74+/mo starting)",
       "Pricing model is complex and confusing",
       "Can be overkill for small teams"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "chaskiq",
@@ -2649,7 +2685,8 @@
       "No visual email builder",
       "Pricing increased significantly",
       "Support quality has declined"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "postal",
@@ -2707,7 +2744,8 @@
       "Extremely expensive ($120+/mo to start)",
       "Complex to set up properly",
       "Overkill for simple tracking needs"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "jitsu",
@@ -2806,7 +2844,8 @@
       "Can hallucinate confidently",
       "No self-hosting option",
       "Data privacy concerns for sensitive info"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "llama",
@@ -3075,7 +3114,8 @@
       "No free tier ($10/mo minimum)",
       "Limited control over exact outputs",
       "No API for automation"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "stable-diffusion",
@@ -3267,7 +3307,8 @@
       "Can suggest insecure or outdated patterns",
       "Privacy concerns with code telemetry",
       "Dependent on GitHub/Microsoft"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "continue-dev",
@@ -3501,7 +3542,8 @@
       "message": "Insufficient signal. 0 stars, 999d since last activity.",
       "agent": "valkyrie",
       "timestamp": "2026-03-30T15:26:16.816Z"
-    }
+    },
+    "has_deployable_alternative": true
   },
   {
     "slug": "gpt4all",
@@ -20960,7 +21002,8 @@
       "No end-to-end encryption by default",
       "Vendor lock-in with Google ecosystem",
       "Privacy concerns for sensitive communications"
-    ]
+    ],
+    "has_deployable_alternative": true
   },
   {
     "slug": "gitea",
@@ -21707,7 +21750,7 @@
     "github_repo": "xiaolajiaoyyds/regplatformm",
     "stars": 288,
     "website": "https://github.com/xiaolajiaoyyds/regplatformm",
-    "description": "",
+    "description": "A registration platform for managing events and attendee data.",
     "pros": [
       "Open source and self-hostable"
     ],
@@ -21878,9 +21921,6 @@
     ],
     "language": "TypeScript",
     "license": "AGPL-3.0",
-    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com",
-    "deployment": {
-      "type": "docker-compose"
-    }
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
   }
 ]

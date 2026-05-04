@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-18T17:13:10.082Z",
+  "episodes": [
+    {
+      "id": "ep_1776532923974_5h2gn",
+      "timestamp": "2026-04-18T17:22:03.974Z",
+      "agent": "SENTINEL",
+      "type": "test",
+      "decision": "Integration test episode",
+      "lesson": "Cortex integration verified"
+    },
+    {
+      "id": "ep_1776532923976_j3y3y",
+      "timestamp": "2026-04-18T17:22:03.976Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "reddit returned 15 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1776532923976_yhsly",
+      "timestamp": "2026-04-18T17:22:03.976Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 10,
+      "qualified": 3,
+      "forged": 2,
+      "failures": 0,
+      "lessonsExtracted": 1
+    }
+  ],
+  "strategies": {},
+  "worldModel": {
+    "totalTools": 488,
+    "byCategory": {
+      "Backend as a Service": 4,
+      "CRM": 4,
+      "Communication": 5,
+      "Project Management": 3,
+      "Design": 5,
+      "Productivity": 16,
+      "Analytics": 8,
+      "Security": 9,
+      "DevOps": 9,
+      "ERP": 3,
+      "CAD": 3,
+      "Automation": 4,
+      "Cloud Infrastructure": 5,
+      "Support": 4,
+      "HR": 2,
+      "E-commerce": 2,
+      "Legal": 2,
+      "Marketing": 9,
+      "Monitoring": 6,
+      "Financial": 2,
+      "Creative": 2,
+      "AI Models": 352,
+      "AI Image Generation": 3,
+      "AI Video Generation": 2,
+      "AI Coding": 3,
+      "AI Runners": 4,
+      "AI Interfaces": 2,
+      "AI Tools": 2,
+      "API Development": 2,
+      "Email": 2,
+      "Uncategorized": 8,
+      "Photos": 1
+    },
+    "gaps": [
+      "Backend as a Service",
+      "CRM",
+      "Project Management",
+      "ERP",
+      "CAD",
+      "Automation",
+      "Support",
+      "HR",
+      "E-commerce",
+      "Legal",
+      "Financial",
+      "Creative",
+      "AI Image Generation",
+      "AI Video Generation",
+      "AI Coding",
+      "AI Runners",
+      "AI Interfaces",
+      "AI Tools",
+      "API Development",
+      "Email",
+      "Photos"
+    ],
+    "saturated": [
+      "AI Models"
+    ],
+    "avgStars": 6053,
+    "toolsWithDocker": 125,
+    "toolsApproved": 73,
+    "toolsObservation": 175,
+    "lastUpdated": "2026-04-18T17:22:03.971Z",
+    "recentAdditions": [],
+    "healthScore": 65,
+    "priorities": [
+      {
+        "type": "fill_gap",
+        "category": "HR",
+        "count": 2,
+        "urgency": "high",
+        "description": "HR has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "E-commerce",
+        "count": 2,
+        "urgency": "high",
+        "description": "E-commerce has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Legal",
+        "count": 2,
+        "urgency": "high",
+        "description": "Legal has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Financial",
+        "count": 2,
+        "urgency": "high",
+        "description": "Financial has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Creative",
+        "count": 2,
+        "urgency": "high",
+        "description": "Creative has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "AI Video Generation",
+        "count": 2,
+        "urgency": "high",
+        "description": "AI Video Generation has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "AI Interfaces",
+        "count": 2,
+        "urgency": "high",
+        "description": "AI Interfaces has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "AI Tools",
+        "count": 2,
+        "urgency": "high",
+        "description": "AI Tools has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "API Development",
+        "count": 2,
+        "urgency": "high",
+        "description": "API Development has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Email",
+        "count": 2,
+        "urgency": "high",
+        "description": "Email has only 2 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Photos",
+        "count": 1,
+        "urgency": "high",
+        "description": "Photos has only 1 tools. Discovery should target this category."
+      },
+      {
+        "type": "docker_backfill",
+        "count": 363,
+        "urgency": "high",
+        "description": "363 tools lack Docker configurations. Hephaestus should backfill."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Backend as a Service",
+        "count": 4,
+        "urgency": "medium",
+        "description": "Backend as a Service has only 4 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "CRM",
+        "count": 4,
+        "urgency": "medium",
+        "description": "CRM has only 4 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Project Management",
+        "count": 3,
+        "urgency": "medium",
+        "description": "Project Management has only 3 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "ERP",
+        "count": 3,
+        "urgency": "medium",
+        "description": "ERP has only 3 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "CAD",
+        "count": 3,
+        "urgency": "medium",
+        "description": "CAD has only 3 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Automation",
+        "count": 4,
+        "urgency": "medium",
+        "description": "Automation has only 4 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "Support",
+        "count": 4,
+        "urgency": "medium",
+        "description": "Support has only 4 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "AI Image Generation",
+        "count": 3,
+        "urgency": "medium",
+        "description": "AI Image Generation has only 3 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "AI Coding",
+        "count": 3,
+        "urgency": "medium",
+        "description": "AI Coding has only 3 tools. Discovery should target this category."
+      },
+      {
+        "type": "fill_gap",
+        "category": "AI Runners",
+        "count": 4,
+        "urgency": "medium",
+        "description": "AI Runners has only 4 tools. Discovery should target this category."
+      },
+      {
+        "type": "review_observations",
+        "count": 175,
+        "urgency": "low",
+        "description": "175 tools are under observation. Schedule re-evaluation."
+      }
+    ]
+  },
+  "failurePatterns": {},
+  "sourceIntelligence": {
+    "github": {
+      "totalYield": 80,
+      "qualifiedYield": 20,
+      "runs": 2,
+      "lastRun": "2026-04-18T17:22:03.975Z",
+      "lastQualifiedRate": 0.26666666666666666
+    },
+    "hackernews": {
+      "totalYield": 0,
+      "qualifiedYield": 0,
+      "runs": 0
+    },
+    "reddit": {
+      "totalYield": 35,
+      "qualifiedYield": 1,
+      "runs": 2,
+      "lastRun": "2026-04-18T17:22:03.975Z",
+      "lastQualifiedRate": 0
+    },
+    "producthunt": {
+      "totalYield": 0,
+      "qualifiedYield": 0,
+      "runs": 0
+    },
+    "dockerhub": {
+      "totalYield": 0,
+      "qualifiedYield": 0,
+      "runs": 0
+    }
+  },
+  "agentPerformance": {
+    "hephaestus": {
+      "totalTasks": 1,
+      "successes": 1,
+      "failures": 0,
+      "byTaskType": {
+        "forge": {
+          "total": 1,
+          "successes": 1
+        }
+      },
+      "successRate": 1,
+      "lastUpdated": "2026-04-18T17:22:03.976Z"
+    },
+    "orion": {
+      "totalTasks": 1,
+      "successes": 1,
+      "failures": 0,
+      "byTaskType": {
+        "discovery": {
+          "total": 1,
+          "successes": 1
+        }
+      },
+      "successRate": 1,
+      "lastUpdated": "2026-04-18T17:22:03.976Z"
+    },
+    "valkyrie": {
+      "totalTasks": 1,
+      "successes": 1,
+      "failures": 0,
+      "byTaskType": {
+        "filtering": {
+          "total": 1,
+          "successes": 1
+        }
+      },
+      "successRate": 1,
+      "lastUpdated": "2026-04-18T17:22:03.976Z"
+    }
+  },
+  "lastSaved": "2026-04-18T17:22:03.976Z"
+}
