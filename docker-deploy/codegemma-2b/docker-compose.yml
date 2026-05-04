@@ -1,0 +1,19 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  codegemma-2b:
+    image: huggingface/transformers-pytorch-gpu
+    container_name: codegemma-2b
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - MODEL_NAME=CodeGemma/2B
+
