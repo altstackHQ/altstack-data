@@ -28,6 +28,600 @@
       "forged": 2,
       "failures": 0,
       "lessonsExtracted": 1
+    },
+    {
+      "id": "ep_1777902550955_34mdh",
+      "timestamp": "2026-05-04T13:49:10.955Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 127/488\n- Tools under observation: 175\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 25% qualified rate (2 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (0 runs)\n- producthunt: 0% qualified rate (0 runs)\n- dockerhub: 0% qualified rate (0 runs)\n\nRECENT ACTIVITY:\n- [SENTINEL] test: Integration test episode\n- [ORION] source_performance: reddit returned 15 candidates but ZERO qualified. Consider deprioritizing this source.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "**Patrol Plan**\n\n```json\n{\n  \"operations\": [\"heal\", \"discover\", \"filter\", \"forge\", \"update\"],\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. The 'discover → filter → forge' chain is included to target the high-priority categories.\",\n  \"skipReason\": \"\"\n}\n```\n\n**Decision: Discovery Targeting**\n\n```json\n{\n  \"decision\": \"Target the HR, E-commerce, Legal, Financial, and Creative categories for discovery\",\n  \"reasoning\": \"These categories have only 2 tools each, making them high-priority targets for discovery to improve the directory's coverage and health score.\",\n  \"confidence\": 0.9,\n  \"details\": {\n    \"categories\": [\"HR\", \"E-commerce\", \"Legal\", \"Financial\", \"Creative\"],\n    \"source\": \"github\"\n  }\n}\n```\n\nAs Sentinel, I have determined that the current state of the directory requires a focus on discovery to address the gaps in multiple categories. The 'discover → filter → forge' chain is included in the patrol plan to target the high-priority categories, and the 'update' operation is included to refresh metadata on existing tools. The 'heal' operation is always included to maintain data cleanliness. I am confident in this decision, with a confidence level of 0.9.",
+      "reasoning": "Unstructured response",
+      "confidence": 0.5
+    },
+    {
+      "id": "ep_1777903077448_rzz74",
+      "timestamp": "2026-05-04T13:57:57.448Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 30 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777903077448_82dn9",
+      "timestamp": "2026-05-04T13:57:57.448Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 29 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777903077448_q2hra",
+      "timestamp": "2026-05-04T13:57:57.448Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 42 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777903077449_id42k",
+      "timestamp": "2026-05-04T13:57:57.449Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/106 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1777903077450_2s3my",
+      "timestamp": "2026-05-04T13:57:57.450Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 106,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 4
+    },
+    {
+      "id": "ep_1777922668557_k1rga",
+      "timestamp": "2026-05-04T19:24:28.557Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 127/488\n- Tools under observation: 175\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 18% qualified rate (3 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (1 runs)\n- producthunt: 0% qualified rate (1 runs)\n- dockerhub: 0% qualified rate (1 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: github returned 30 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: hackernews returned 29 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 42 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/106 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "**Patrol Plan**\n\n```json\n{\n  \"operations\": [\"heal\", \"discover\", \"filter\", \"forge\", \"update\"],\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. The 'discover → filter → forge' chain is included to target the high-priority categories.\",\n  \"skipReason\": \"\"\n}\n```\n\n**Decision: Discovery Targeting and Source Selection**\n\n```json\n{\n  \"decision\": \"Target the HR, E-commerce, Legal, Financial, and Creative categories for discovery using the github source, and consider deprioritizing hackernews, dockerhub, and producthunt sources due to their low qualified rates.\",\n  \"reasoning\": \"The HR, E-commerce, Legal, Financial, and Creative categories have only 2 tools each, making them high-priority targets for discovery to improve the directory's coverage and health score. Github has the highest qualified rate among the sources, making it the best choice for discovery.\",\n  \"confidence\": 0.9,\n  \"details\": {\n    \"categories\": [\"HR\", \"E-commerce\", \"Legal\", \"Financial\", \"Creative\"],\n    \"source\": \"github\",\n    \"deprioritized_sources\": [\"hackernews\", \"dockerhub\", \"producthunt\"]\n  }\n}\n```\n\n**Decision: Docker Coverage Improvement**\n\n```json\n{\n  \"decision\": \"Include the 'backfill_docker' operation in the next patrol to improve Docker coverage, which is currently at 127/488.\",\n  \"reasoning\": \"The Docker coverage is relatively low, and improving it will enhance the directory's overall health and usefulness.\",\n  \"confidence\": 0.8,\n  \"details\": {\n    \"operation\": \"backfill_docker\"\n  }\n}\n```",
+      "reasoning": "Unstructured response",
+      "confidence": 0.5
+    },
+    {
+      "id": "ep_1777923694132_184ws",
+      "timestamp": "2026-05-04T19:41:34.132Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 22 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777923694132_xwny7",
+      "timestamp": "2026-05-04T19:41:34.132Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 36 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777923694133_dyu5j",
+      "timestamp": "2026-05-04T19:41:34.133Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 48 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777923694133_7ah5e",
+      "timestamp": "2026-05-04T19:41:34.133Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/110 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1777923694133_mbt94",
+      "timestamp": "2026-05-04T19:41:34.133Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 110,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 4
+    },
+    {
+      "id": "ep_1777947836619_vcgab",
+      "timestamp": "2026-05-05T02:23:56.619Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 127/488\n- Tools under observation: 175\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 15% qualified rate (4 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (2 runs)\n- producthunt: 0% qualified rate (2 runs)\n- dockerhub: 0% qualified rate (2 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: github returned 22 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: hackernews returned 36 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 48 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/110 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "```json\n{\n  \"operations\": [\"heal\", \"discover\", \"filter\", \"forge\", \"update\"],\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. The 'discover → filter → forge' chain is included to target the high-priority categories.\",\n  \"skipReason\": \"\"\n}\n\n{\n  \"decision\": \"Run the patrol with the operations 'heal', 'discover', 'filter', 'forge', and 'update', targeting the HR, E-commerce, Legal, Financial, and Creative categories for discovery using the github source.\",\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. Github has the highest qualified rate among the sources, making it the best choice for discovery.\",\n  \"confidence\": 0.9,\n  \"details\": {\n    \"categories\": [\"HR\", \"E-commerce\", \"Legal\", \"Financial\", \"Creative\"],\n    \"source\": \"github\",\n    \"deprioritized_sources\": [\"hackernews\", \"dockerhub\", \"producthunt\"]\n  }\n}\n```",
+      "reasoning": "Unstructured response",
+      "confidence": 0.5
+    },
+    {
+      "id": "ep_1777949067680_yd2yl",
+      "timestamp": "2026-05-05T02:44:27.680Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 33 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777949067680_xfq9p",
+      "timestamp": "2026-05-05T02:44:27.680Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 35 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777949067680_juetl",
+      "timestamp": "2026-05-05T02:44:27.680Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 51 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777949067681_2ohei",
+      "timestamp": "2026-05-05T02:44:27.681Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/119 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1777949067681_d2k5d",
+      "timestamp": "2026-05-05T02:44:27.681Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 119,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 4
+    },
+    {
+      "id": "ep_1777968288545_5rnj1",
+      "timestamp": "2026-05-05T08:04:48.545Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 128/488\n- Tools under observation: 175\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 12% qualified rate (5 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (3 runs)\n- producthunt: 0% qualified rate (2 runs)\n- dockerhub: 0% qualified rate (3 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: github returned 33 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: hackernews returned 35 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 51 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/119 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "```json\n{\n  \"operations\": [\"heal\", \"discover\", \"filter\", \"forge\", \"update\"],\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. The 'discover → filter → forge' chain is included to target the high-priority categories.\",\n  \"skipReason\": \"\"\n}\n\n{\n  \"decision\": \"Run the patrol with the operations 'heal', 'discover', 'filter', 'forge', and 'update', targeting the HR, E-commerce, Legal, Financial, and Creative categories for discovery using the github source, and consider deprioritizing hackernews, dockerhub, and producthunt sources due to their low qualified rates.\",\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. Github has the highest qualified rate among the sources, making it the best choice for discovery.\",\n  \"confidence\": 0.9,\n  \"details\": {\n    \"categories\": [\"HR\", \"E-commerce\", \"Legal\", \"Financial\", \"Creative\"],\n    \"source\": \"github\",\n    \"deprioritized_sources\": [\"hackernews\", \"dockerhub\", \"producthunt\"]\n  }\n}\n```",
+      "reasoning": "Unstructured response",
+      "confidence": 0.5
+    },
+    {
+      "id": "ep_1777968898648_mzl0b",
+      "timestamp": "2026-05-05T08:14:58.648Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 21 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777968898648_093jn",
+      "timestamp": "2026-05-05T08:14:58.648Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 33 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777968898649_sifj1",
+      "timestamp": "2026-05-05T08:14:58.649Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 51 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1777968898649_yuccc",
+      "timestamp": "2026-05-05T08:14:58.649Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/109 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1777968898649_dxphf",
+      "timestamp": "2026-05-05T08:14:58.649Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 109,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 4
+    },
+    {
+      "id": "ep_1778008418242_gipvq",
+      "timestamp": "2026-05-05T19:13:38.242Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 129/488\n- Tools under observation: 175\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 11% qualified rate (6 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (4 runs)\n- producthunt: 0% qualified rate (3 runs)\n- dockerhub: 0% qualified rate (4 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: github returned 21 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: hackernews returned 33 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 51 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/109 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "```json\n{\n  \"operations\": [\"heal\", \"discover\", \"filter\", \"forge\", \"update\"],\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. The 'discover → filter → forge' chain is included to target the high-priority categories.\",\n  \"skipReason\": \"\"\n}\n\n{\n  \"decision\": \"Run the patrol with the operations 'heal', 'discover', 'filter', 'forge', and 'update', targeting the HR, E-commerce, Legal, Financial, and Creative categories for discovery using the github source, and consider deprioritizing hackernews, dockerhub, and producthunt sources due to their low qualified rates.\",\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. Github has the highest qualified rate among the sources, making it the best choice for discovery.\",\n  \"confidence\": 0.9,\n  \"details\": {\n    \"categories\": [\"HR\", \"E-commerce\", \"Legal\", \"Financial\", \"Creative\"],\n    \"source\": \"github\",\n    \"deprioritized_sources\": [\"hackernews\", \"dockerhub\", \"producthunt\"]\n  }\n}\n```",
+      "reasoning": "Unstructured response",
+      "confidence": 0.5
+    },
+    {
+      "id": "ep_1778009191221_ptaec",
+      "timestamp": "2026-05-05T19:26:31.221Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 27 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778009191221_t80lo",
+      "timestamp": "2026-05-05T19:26:31.221Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 38 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778009191222_p2liw",
+      "timestamp": "2026-05-05T19:26:31.222Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 46 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778009191222_mnbmy",
+      "timestamp": "2026-05-05T19:26:31.222Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/116 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1778009191223_mvnzi",
+      "timestamp": "2026-05-05T19:26:31.223Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 116,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 4
+    },
+    {
+      "id": "ep_1778034757745_6labt",
+      "timestamp": "2026-05-06T02:32:37.745Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 130/488\n- Tools under observation: 175\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 9% qualified rate (7 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (5 runs)\n- producthunt: 0% qualified rate (4 runs)\n- dockerhub: 0% qualified rate (5 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: github returned 27 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: hackernews returned 38 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 46 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/116 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "No response",
+      "reasoning": "LLM returned null",
+      "confidence": 0
+    },
+    {
+      "id": "ep_1778035824958_uaenn",
+      "timestamp": "2026-05-06T02:50:24.958Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 30 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778035824958_264cj",
+      "timestamp": "2026-05-06T02:50:24.958Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 42 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778035824958_mzw08",
+      "timestamp": "2026-05-06T02:50:24.958Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 42 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778035824959_ma5nd",
+      "timestamp": "2026-05-06T02:50:24.959Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/114 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1778035824959_k946i",
+      "timestamp": "2026-05-06T02:50:24.959Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 114,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 4
+    },
+    {
+      "id": "ep_1778076141294_h8uto",
+      "timestamp": "2026-05-06T14:02:21.294Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 131/488\n- Tools under observation: 175\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 8% qualified rate (8 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (6 runs)\n- producthunt: 0% qualified rate (4 runs)\n- dockerhub: 0% qualified rate (6 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: github returned 30 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: hackernews returned 42 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 42 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/114 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "No response",
+      "reasoning": "LLM returned null",
+      "confidence": 0
+    },
+    {
+      "id": "ep_1778077262966_94dnt",
+      "timestamp": "2026-05-06T14:21:02.966Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 25 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778077262967_pbpmk",
+      "timestamp": "2026-05-06T14:21:02.967Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 35 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778077262968_5o3xq",
+      "timestamp": "2026-05-06T14:21:02.968Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "producthunt returned 8 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778077262968_xggvw",
+      "timestamp": "2026-05-06T14:21:02.968Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 46 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778077262968_aw59b",
+      "timestamp": "2026-05-06T14:21:02.968Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/114 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1778077262969_3ilad",
+      "timestamp": "2026-05-06T14:21:02.969Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 114,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 5
+    },
+    {
+      "id": "ep_1778095976196_ko9ji",
+      "timestamp": "2026-05-06T19:32:56.196Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 132/488\n- Tools under observation: 176\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 7% qualified rate (9 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (7 runs)\n- producthunt: 0% qualified rate (5 runs)\n- dockerhub: 0% qualified rate (7 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: hackernews returned 35 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: producthunt returned 8 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 46 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/114 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "```json\n{\n  \"operations\": [\"heal\", \"discover\", \"filter\", \"forge\", \"update\"],\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. The 'discover → filter → forge' chain is included to target the high-priority categories.\",\n  \"skipReason\": \"\"\n}\n\n{\n  \"decision\": \"Run the patrol with the operations 'heal', 'discover', 'filter', 'forge', and 'update', targeting the HR, E-commerce, Legal, Financial, and Creative categories for discovery using the github source, and consider deprioritizing hackernews, dockerhub, and producthunt sources due to their low qualified rates.\",\n  \"reasoning\": \"The directory has gaps in multiple categories, and the health score is 65/100, indicating a need for new tools and updated metadata. Github has the highest qualified rate among the sources, making it the best choice for discovery.\",\n  \"confidence\": 0.9,\n  \"details\": {\n    \"categories\": [\"HR\", \"E-commerce\", \"Legal\", \"Financial\", \"Creative\"],\n    \"source\": \"github\",\n    \"deprioritized_sources\": [\"hackernews\", \"dockerhub\", \"producthunt\"]\n  }\n}\n```",
+      "reasoning": "Unstructured response",
+      "confidence": 0.5
+    },
+    {
+      "id": "ep_1778096646473_7cacf",
+      "timestamp": "2026-05-06T19:44:06.473Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 23 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778096646474_ymst7",
+      "timestamp": "2026-05-06T19:44:06.474Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 41 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778096646474_qwkth",
+      "timestamp": "2026-05-06T19:44:06.474Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "producthunt returned 9 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778096646475_nkqst",
+      "timestamp": "2026-05-06T19:44:06.475Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 49 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778096646475_41juy",
+      "timestamp": "2026-05-06T19:44:06.475Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/122 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1778096646476_izlsw",
+      "timestamp": "2026-05-06T19:44:06.476Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 122,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 5
+    },
+    {
+      "id": "ep_1778120989262_d1db1",
+      "timestamp": "2026-05-07T02:29:49.262Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 132/488\n- Tools under observation: 176\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 7% qualified rate (10 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (8 runs)\n- producthunt: 0% qualified rate (6 runs)\n- dockerhub: 0% qualified rate (8 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: hackernews returned 41 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: producthunt returned 9 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 49 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/122 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "No response",
+      "reasoning": "LLM returned null",
+      "confidence": 0
+    },
+    {
+      "id": "ep_1778121439257_5mg84",
+      "timestamp": "2026-05-07T02:37:19.257Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 38 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778121439258_uupdm",
+      "timestamp": "2026-05-07T02:37:19.258Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 48 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778121439258_rov3s",
+      "timestamp": "2026-05-07T02:37:19.258Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 1/120 qualified (0.8%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1778121439259_rln1e",
+      "timestamp": "2026-05-07T02:37:19.259Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 120,
+      "qualified": 1,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 3
+    },
+    {
+      "id": "ep_1778142493754_kap2d",
+      "timestamp": "2026-05-07T08:28:13.754Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 132/488\n- Tools under observation: 176\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 6% qualified rate (11 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (9 runs)\n- producthunt: 0% qualified rate (6 runs)\n- dockerhub: 0% qualified rate (9 runs)\n\nRECENT ACTIVITY:\n- [SENTINEL] thought: No response\n- [ORION] source_performance: hackernews returned 38 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 48 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 1/120 qualified (0.8%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "No response",
+      "reasoning": "LLM returned null",
+      "confidence": 0
+    },
+    {
+      "id": "ep_1778142947270_yojyj",
+      "timestamp": "2026-05-07T08:35:47.270Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 26 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778142947271_glskw",
+      "timestamp": "2026-05-07T08:35:47.271Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 36 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778142947272_118ix",
+      "timestamp": "2026-05-07T08:35:47.272Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 42 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778142947272_r30f5",
+      "timestamp": "2026-05-07T08:35:47.272Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 0/106 qualified (0.0%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1778142947273_aq7iu",
+      "timestamp": "2026-05-07T08:35:47.273Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 106,
+      "qualified": 0,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 4
+    },
+    {
+      "id": "ep_1778162156721_25nnh",
+      "timestamp": "2026-05-07T13:55:56.721Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 132/488\n- Tools under observation: 176\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 6% qualified rate (12 runs)\n- reddit: 3% qualified rate (2 runs)\n- hackernews: 0% qualified rate (10 runs)\n- producthunt: 0% qualified rate (7 runs)\n- dockerhub: 0% qualified rate (10 runs)\n\nRECENT ACTIVITY:\n- [ORION] source_performance: github returned 26 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: hackernews returned 36 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] source_performance: dockerhub returned 42 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 0/106 qualified (0.0%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
+      "subject": "patrol_planning",
+      "decision": "No response",
+      "reasoning": "LLM returned null",
+      "confidence": 0
+    },
+    {
+      "id": "ep_1778162614721_7irfi",
+      "timestamp": "2026-05-07T14:03:34.721Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "github returned 22 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778162614722_giuy1",
+      "timestamp": "2026-05-07T14:03:34.722Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "dockerhub returned 47 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1778162614723_j96bz",
+      "timestamp": "2026-05-07T14:03:34.723Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 1/107 qualified (0.9%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1778162614723_73glr",
+      "timestamp": "2026-05-07T14:03:34.723Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 107,
+      "qualified": 1,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 3
     }
   ],
   "strategies": {},
@@ -94,11 +688,16 @@
       "AI Models"
     ],
     "avgStars": 6053,
-    "toolsWithDocker": 125,
-    "toolsApproved": 73,
-    "toolsObservation": 175,
-    "lastUpdated": "2026-04-18T17:22:03.971Z",
-    "recentAdditions": [],
+    "toolsWithDocker": 132,
+    "toolsApproved": 72,
+    "toolsObservation": 176,
+    "lastUpdated": "2026-05-07T14:03:34.731Z",
+    "recentAdditions": [
+      {
+        "slug": "reactive-resume",
+        "category": "Productivity"
+      }
+    ],
     "healthScore": 65,
     "priorities": [
       {
@@ -180,9 +779,9 @@
       },
       {
         "type": "docker_backfill",
-        "count": 363,
+        "count": 356,
         "urgency": "high",
-        "description": "363 tools lack Docker configurations. Hephaestus should backfill."
+        "description": "356 tools lack Docker configurations. Hephaestus should backfill."
       },
       {
         "type": "fill_gap",
@@ -256,25 +855,27 @@
       },
       {
         "type": "review_observations",
-        "count": 175,
+        "count": 176,
         "urgency": "low",
-        "description": "175 tools are under observation. Schedule re-evaluation."
+        "description": "176 tools are under observation. Schedule re-evaluation."
       }
     ]
   },
   "failurePatterns": {},
   "sourceIntelligence": {
     "github": {
-      "totalYield": 80,
-      "qualifiedYield": 20,
-      "runs": 2,
-      "lastRun": "2026-04-18T17:22:03.975Z",
-      "lastQualifiedRate": 0.26666666666666666
+      "totalYield": 373,
+      "qualifiedYield": 21,
+      "runs": 13,
+      "lastRun": "2026-05-07T14:03:34.715Z",
+      "lastQualifiedRate": 0
     },
     "hackernews": {
-      "totalYield": 0,
-      "qualifiedYield": 0,
-      "runs": 0
+      "totalYield": 397,
+      "qualifiedYield": 1,
+      "runs": 11,
+      "lastRun": "2026-05-07T14:03:34.716Z",
+      "lastQualifiedRate": 0.029411764705882353
     },
     "reddit": {
       "totalYield": 35,
@@ -284,56 +885,98 @@
       "lastQualifiedRate": 0
     },
     "producthunt": {
-      "totalYield": 0,
+      "totalYield": 41,
       "qualifiedYield": 0,
-      "runs": 0
+      "runs": 8,
+      "lastRun": "2026-05-07T14:03:34.717Z",
+      "lastQualifiedRate": 0
     },
     "dockerhub": {
-      "totalYield": 0,
+      "totalYield": 512,
       "qualifiedYield": 0,
-      "runs": 0
+      "runs": 11,
+      "lastRun": "2026-05-07T14:03:34.718Z",
+      "lastQualifiedRate": 0
     }
   },
   "agentPerformance": {
     "hephaestus": {
-      "totalTasks": 1,
-      "successes": 1,
+      "totalTasks": 23,
+      "successes": 23,
       "failures": 0,
       "byTaskType": {
         "forge": {
-          "total": 1,
-          "successes": 1
+          "total": 12,
+          "successes": 12
+        },
+        "backfill_docker": {
+          "total": 11,
+          "successes": 11
         }
       },
       "successRate": 1,
-      "lastUpdated": "2026-04-18T17:22:03.976Z"
+      "lastUpdated": "2026-05-07T14:03:24.205Z"
     },
     "orion": {
-      "totalTasks": 1,
-      "successes": 1,
-      "failures": 0,
+      "totalTasks": 23,
+      "successes": 12,
+      "failures": 11,
       "byTaskType": {
         "discovery": {
-          "total": 1,
+          "total": 12,
           "successes": 1
+        },
+        "discover": {
+          "total": 11,
+          "successes": 11
         }
       },
-      "successRate": 1,
-      "lastUpdated": "2026-04-18T17:22:03.976Z"
+      "successRate": 0.5217391304347826,
+      "lastUpdated": "2026-05-07T14:03:34.719Z"
     },
     "valkyrie": {
-      "totalTasks": 1,
-      "successes": 1,
+      "totalTasks": 23,
+      "successes": 23,
       "failures": 0,
       "byTaskType": {
         "filtering": {
-          "total": 1,
-          "successes": 1
+          "total": 12,
+          "successes": 12
+        },
+        "filter": {
+          "total": 11,
+          "successes": 11
         }
       },
       "successRate": 1,
-      "lastUpdated": "2026-04-18T17:22:03.976Z"
+      "lastUpdated": "2026-05-07T14:03:34.720Z"
+    },
+    "aegis": {
+      "totalTasks": 11,
+      "successes": 11,
+      "failures": 0,
+      "byTaskType": {
+        "heal": {
+          "total": 11,
+          "successes": 11
+        }
+      },
+      "successRate": 1,
+      "lastUpdated": "2026-05-07T14:02:15.893Z"
+    },
+    "hermes": {
+      "totalTasks": 11,
+      "successes": 11,
+      "failures": 0,
+      "byTaskType": {
+        "update": {
+          "total": 11,
+          "successes": 11
+        }
+      },
+      "successRate": 1,
+      "lastUpdated": "2026-05-07T14:03:22.903Z"
     }
   },
-  "lastSaved": "2026-04-18T17:22:03.976Z"
+  "lastSaved": "2026-05-07T14:03:34.735Z"
 }

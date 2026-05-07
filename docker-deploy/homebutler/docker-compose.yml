@@ -1,0 +1,21 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  homebutler:
+    image: undefined
+    container_name: homebutler
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - homebutler_data:/data
+
+volumes:
+  homebutler_data:

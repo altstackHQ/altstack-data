@@ -1,0 +1,25 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  phi-3-5-moe:
+    image: huggingface/transformers-pytorch-gpu
+    container_name: phi-3-5-moe
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - MODEL_NAME=phi-3.5-moe
+      - MODEL_TYPE=transformer
+      - CUDA_VISIBLE_DEVICES=0
+    volumes:
+      - phi_3_5_moe_data:/app/data
+
+volumes:
+  phi_3_5_moe_data:

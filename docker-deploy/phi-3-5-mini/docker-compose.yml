@@ -1,0 +1,20 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  phi-3-5-mini:
+    image: huggingface/transformers-pytorch-gpu
+    container_name: phi-3-5-mini
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - MODEL_NAME=microsoft/phi-3-5-mini
+      - MODEL_TYPE=transformers
+

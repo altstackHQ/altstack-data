@@ -1,0 +1,24 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  freebuff2api:
+    image: golang:alpine
+    container_name: freebuff2api
+    restart: unless-stopped
+    command: go run main.go
+    ports:
+      - "8080:8080"
+    environment:
+      - AUTH_TOKENS=your_token_here
+    volumes:
+      - freebuff2api_data:/data
+
+volumes:
+  freebuff2api_data:

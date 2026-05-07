@@ -1,0 +1,41 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  geoflow:
+    image: php:7.4-apache
+    container_name: geoflow
+    restart: unless-stopped
+    depends_on:
+      - postgres
+    ports:
+      - "80:80"
+    environment:
+      - COMPOSER_HOME=app/composer
+      - COMPOSER_CACHE_DIR=app/composer/cache
+    volumes:
+      - geoflow_data:/var/www/html
+      - ./GEOFlow:/var/www/html
+
+  postgres:
+    image: postgres:latest
+    container_name: geoflow_postgres
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=geoflow
+      - POSTGRES_PASSWORD=geoflow
+      - POSTGRES_DB=geoflow
+    volumes:
+      - geoflow_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  geoflow_data:
+  geoflow_postgres_data:

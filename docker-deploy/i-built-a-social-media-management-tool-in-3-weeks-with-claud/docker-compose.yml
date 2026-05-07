@@ -1,0 +1,39 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  brightbean-studio:
+    image: python:3.12
+    container_name: brightbean-studio
+    restart: unless-stopped
+    command: pip install -r requirements.txt && python manage.py migrate && python manage.py runserver 0.0.0.0:8000
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - brightbean-studio_data:/app
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  postgres:
+    image: postgres:latest
+    container_name: brightbean-studio-postgres
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=brightbean
+      - POSTGRES_USER=brightbean
+      - POSTGRES_PASSWORD=brightbean
+    volumes:
+      - brightbean-studio_postgres:/var/lib/postgresql/data
+
+volumes:
+  brightbean-studio_data:
+  brightbean-studio_postgres:

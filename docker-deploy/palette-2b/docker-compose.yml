@@ -1,0 +1,23 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  palette-2b:
+    image: huggingface/transformers-pytorch-gpu
+    container_name: palette-2b
+    restart: unless-stopped
+    ports:
+      - "7860:7860"
+    environment:
+      - MODEL_NAME=nvidia/palette-2b
+    volumes:
+      - palette_2b_data:/app
+
+volumes:
+  palette_2b_data:

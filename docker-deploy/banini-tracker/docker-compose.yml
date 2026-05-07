@@ -1,0 +1,26 @@
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  banini-tracker:
+    image: undefined
+    container_name: banini-tracker
+    restart: unless-stopped
+    environment:
+      - APIFY_TOKEN=${APIFY_TOKEN}
+      - LLM_BASE_URL=${LLM_BASE_URL}
+      - LLM_API_KEY=${LLM_API_KEY}
+      - LLM_MODEL=${LLM_MODEL}
+      - TG_BOT_TOKEN=${TG_BOT_TOKEN}
+      - TG_CHANNEL_ID=${TG_CHANNEL_ID}
+    volumes:
+      - banini-tracker_data:/data
+
+volumes:
+  banini-tracker_data:

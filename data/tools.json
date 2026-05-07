@@ -5579,6 +5579,10 @@
       "message": "Insufficient signal. 0 stars, 999d since last activity.",
       "agent": "valkyrie",
       "timestamp": "2026-03-30T15:26:16.868Z"
+    },
+    "deployment": {
+      "type": "docker-compose",
+      "local_path": "./docker-deploy/codegemma-7b"
     }
   },
   {
@@ -5623,6 +5627,10 @@
       "message": "Insufficient signal. 0 stars, 999d since last activity.",
       "agent": "valkyrie",
       "timestamp": "2026-03-30T15:26:16.869Z"
+    },
+    "deployment": {
+      "type": "docker-compose",
+      "local_path": "./docker-deploy/recurrentgemma-2b"
     }
   },
   {
@@ -5666,6 +5674,10 @@
       "message": "Insufficient signal. 0 stars, 999d since last activity.",
       "agent": "valkyrie",
       "timestamp": "2026-03-30T15:26:16.871Z"
+    },
+    "deployment": {
+      "type": "docker-compose",
+      "local_path": "./docker-deploy/palette-2b"
     }
   },
   {
@@ -5709,6 +5721,10 @@
       "message": "Insufficient signal. 0 stars, 999d since last activity.",
       "agent": "valkyrie",
       "timestamp": "2026-03-30T15:26:16.872Z"
+    },
+    "deployment": {
+      "type": "docker-compose",
+      "local_path": "./docker-deploy/phi-3-5-mini"
     }
   },
   {
@@ -5752,6 +5768,10 @@
       "message": "Insufficient signal. 0 stars, 999d since last activity.",
       "agent": "valkyrie",
       "timestamp": "2026-03-30T15:26:16.874Z"
+    },
+    "deployment": {
+      "type": "docker-compose",
+      "local_path": "./docker-deploy/phi-3-5-moe"
     }
   },
   {
@@ -21304,7 +21324,7 @@
     "is_open_source": true,
     "github_repo": "amruthpillai/reactive-resume",
     "stars": 35922,
-    "website": "https://rxresu.me",
+    "website": null,
     "description": "Self-hostable resume builder with customizable templates and export options, built with TypeScript.",
     "pros": [
       "Built with TypeScript — robust and maintainable codebase",
@@ -21338,10 +21358,10 @@
     "hosting_type": "self-hosted",
     "avg_monthly_cost": 0,
     "sentinel_verdict": {
-      "status": "approved",
-      "message": "High signal. 35,922 stars, active within 7d.",
-      "agent": "sentinel",
-      "timestamp": "2026-03-30T15:26:17.103Z"
+      "status": "observation",
+      "message": "Website vanished. Monitoring remaining activity.",
+      "agent": "aegis",
+      "timestamp": "2026-05-06T14:02:58.032Z"
     },
     "_request_heal": "missing_infrastructure"
   },
