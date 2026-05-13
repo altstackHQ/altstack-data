@@ -80,10 +80,10 @@
     "github_repo": "appwrite/appwrite",
     "stars": 54727,
     "website": "https://appwrite.io",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+    "description": "Appwrite\u00ae - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
     "pros": [
       "Self-hosted with a single Docker command",
-      "Modular architecture — use only what you need"
+      "Modular architecture \u2014 use only what you need"
     ],
     "cons": [
       "Smaller ecosystem than Firebase or Supabase",
@@ -120,7 +120,7 @@
     "website": "https://pocketbase.io",
     "description": "Open Source realtime backend in 1 file",
     "pros": [
-      "Ships as a single binary — no dependencies",
+      "Ships as a single binary \u2014 no dependencies",
       "Deploy anywhere in seconds with zero config",
       "Embedded SQLite with realtime subscriptions"
     ],
@@ -240,7 +240,7 @@
     "is_open_source": true,
     "github_repo": "RocketChat/Rocket.Chat",
     "website": "https://rocket.chat",
-    "description": "The Secure CommsOS™ for mission-critical operations",
+    "description": "The Secure CommsOS\u2122 for mission-critical operations",
     "pros": [
       "Unified inbox with omnichannel support for live chat, email, and social",
       "Highly customizable with white-labeling options",
@@ -300,10 +300,10 @@
     "is_open_source": true,
     "github_repo": "makeplane/plane",
     "website": "https://plane.so",
-    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
     "pros": [
       "Clean, modern interface inspired by Linear",
-      "Blazing fast — sub-100ms interactions",
+      "Blazing fast \u2014 sub-100ms interactions",
       "Built-in cycles, modules, and views"
     ],
     "cons": [
@@ -441,7 +441,7 @@
     "cons": [
       "Subscription-only pricing ($22.99/mo)",
       "Steep learning curve for beginners",
-      "Resource-heavy — needs powerful hardware"
+      "Resource-heavy \u2014 needs powerful hardware"
     ],
     "has_deployable_alternative": true
   },
@@ -547,8 +547,8 @@
     "website": "https://penpot.app",
     "description": "Penpot: The open-source design tool for design and code collaboration",
     "pros": [
-      "Runs entirely in the browser — no desktop app needed",
-      "SVG-native design — exports are pixel-perfect at any scale",
+      "Runs entirely in the browser \u2014 no desktop app needed",
+      "SVG-native design \u2014 exports are pixel-perfect at any scale",
       "Real-time multiplayer collaboration"
     ],
     "cons": [
@@ -607,7 +607,7 @@
     "website": "https://www.appflowy.io",
     "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
     "pros": [
-      "Local-first architecture — your data never leaves your machine",
+      "Local-first architecture \u2014 your data never leaves your machine",
       "Privacy-focused alternative to Notion",
       "Built in Rust for native desktop performance"
     ],
@@ -639,7 +639,7 @@
     "is_open_source": true,
     "github_repo": "toeverything/AFFiNE",
     "website": "https://affine.pro",
-    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
     "pros": [
       "Modern block editor with Notion-like feel",
       "Spatial canvas for whiteboarding and visual thinking",
@@ -687,7 +687,7 @@
       "Free tier handles up to 10M hits per month"
     ],
     "cons": [
-      "Privacy concerns — data goes to Google",
+      "Privacy concerns \u2014 data goes to Google",
       "GA4 migration frustrated many users",
       "Blocked by most ad blockers",
       "Complex for beginners"
@@ -704,7 +704,7 @@
     "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
     "pros": [
       "Fully GDPR compliant with no cookies required",
-      "Lightweight script under 1KB — zero impact on page speed",
+      "Lightweight script under 1KB \u2014 zero impact on page speed",
       "Clean dashboard that shows what matters, nothing more"
     ],
     "cons": [
@@ -740,11 +740,11 @@
     "is_open_source": true,
     "github_repo": "PostHog/posthog",
     "website": "https://posthog.com",
-    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "description": "\ud83e\udd94 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
     "pros": [
       "Session recording with heatmaps and click tracking",
       "Built-in feature flags, A/B testing, and surveys",
-      "Warehouse-native — query your data with SQL"
+      "Warehouse-native \u2014 query your data with SQL"
     ],
     "cons": [
       "Complex to self-host"
@@ -773,7 +773,7 @@
     "is_open_source": true,
     "github_repo": "matomo-org/matomo",
     "website": "https://matomo.org",
-    "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+    "description": "Empowering People Ethically \ud83d\ude80 \u2014 Matomo is hiring! Join us \u2192 https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub \u2b50\ufe0f  \u2013 Pull Requests welcome! ",
     "pros": [
       "Feature-rich analytics rivaling Google Analytics",
       "GDPR and CCPA compliant out of the box",
@@ -821,7 +821,7 @@
     ],
     "cons": [
       "No free tier ($2.99/mo minimum)",
-      "Cloud-only — no self-hosting option",
+      "Cloud-only \u2014 no self-hosting option",
       "Subscription model with no lifetime option"
     ],
     "has_deployable_alternative": true
@@ -866,10 +866,10 @@
     "is_open_source": true,
     "github_repo": "keepassxreboot/keepassxc",
     "website": "https://keepassxc.org",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeePass Password Safe\u201d.",
     "pros": [
-      "Fully offline — database stored locally with AES-256 encryption",
-      "No cloud dependency — you control the sync method",
+      "Fully offline \u2014 database stored locally with AES-256 encryption",
+      "No cloud dependency \u2014 you control the sync method",
       "Browser integration via KeePassXC-Browser extension"
     ],
     "cons": [
@@ -930,7 +930,7 @@
     "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
     "pros": [
       "Polished, beautiful dashboard that rivals Vercel and Netlify",
-      "Deploy anything — Docker, static sites, databases, services",
+      "Deploy anything \u2014 Docker, static sites, databases, services",
       "Automatic SSL, backups, and monitoring included"
     ],
     "cons": [
@@ -999,7 +999,7 @@
     "pros": [
       "All-in-one suite covering CRM, HR, inventory, and accounting",
       "Modular app marketplace with 30,000+ extensions",
-      "Dual licensing — Community (free) and Enterprise"
+      "Dual licensing \u2014 Community (free) and Enterprise"
     ],
     "cons": [
       "Can be complex to customize",
@@ -1077,7 +1077,7 @@
     "cons": [
       "Expensive subscription ($1,975/yr)",
       "Steep learning curve",
-      "Resource-intensive — needs workstation hardware"
+      "Resource-intensive \u2014 needs workstation hardware"
     ],
     "has_deployable_alternative": true
   },
@@ -1355,7 +1355,7 @@
     "cons": [
       "Pricing jumps sharply after free tier",
       "Can be complex to configure properly",
-      "Owned by Okta — consolidation concerns"
+      "Owned by Okta \u2014 consolidation concerns"
     ],
     "has_deployable_alternative": true
   },
@@ -1473,7 +1473,7 @@
       "99.999999999% durability (11 nines)",
       "Scales to virtually unlimited storage",
       "Pay only for what you use",
-      "Industry standard — everything integrates with it"
+      "Industry standard \u2014 everything integrates with it"
     ],
     "cons": [
       "Egress costs can surprise you",
@@ -1653,7 +1653,7 @@
       "Regular AI feature updates (Copilot)"
     ],
     "cons": [
-      "Subscription fatigue — perpetual payments",
+      "Subscription fatigue \u2014 perpetual payments",
       "Teams can be resource-heavy",
       "Complex licensing tiers"
     ],
@@ -2000,7 +2000,7 @@
     "description": "Open source observability platform. SigNoz helps developers monitor applications and troubleshoot problems.",
     "pros": [
       "Unified metrics, traces, and logs in a single platform",
-      "OpenTelemetry native — no proprietary agents required",
+      "OpenTelemetry native \u2014 no proprietary agents required",
       "ClickHouse-powered for fast queries at scale"
     ],
     "cons": [
@@ -2224,7 +2224,7 @@
     "website": "https://coder.com",
     "description": "Provision software development environments as code on your infrastructure.",
     "pros": [
-      "Run dev environments on any infrastructure — cloud, on-prem, or hybrid",
+      "Run dev environments on any infrastructure \u2014 cloud, on-prem, or hybrid",
       "Self-hosted remote development with VS Code and JetBrains support",
       "Ephemeral workspaces with Terraform-based provisioning"
     ],
@@ -2327,7 +2327,7 @@
     ],
     "cons": [
       "Subscription-only ($22.99/mo)",
-      "Resource-intensive — needs powerful hardware",
+      "Resource-intensive \u2014 needs powerful hardware",
       "Steep learning curve"
     ],
     "has_deployable_alternative": true
@@ -2402,7 +2402,7 @@
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.",
     "pros": [
       "Full Bitwarden API compatibility in a lightweight Rust binary",
-      "Runs on 50MB of RAM — perfect for Raspberry Pi or small VPS",
+      "Runs on 50MB of RAM \u2014 perfect for Raspberry Pi or small VPS",
       "Supports organizations, attachments, and Bitwarden Send"
     ],
     "cons": [
@@ -2580,7 +2580,7 @@
     "website": "https://cal.com",
     "description": "The open-source Calendly alternative. Take control of your scheduling.",
     "pros": [
-      "Self-hosted scheduling — no data leaves your server",
+      "Self-hosted scheduling \u2014 no data leaves your server",
       "Deeply extensible with a plugin architecture and API",
       "Round-robin, collective, and managed event types"
     ],
@@ -2788,7 +2788,7 @@
     "website": "https://dokku.com",
     "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
     "pros": [
-      "Rock-solid stability — battle-tested since 2013",
+      "Rock-solid stability \u2014 battle-tested since 2013",
       "Heroku-compatible buildpacks and Procfile workflow",
       "Zero-downtime deploys with simple git push"
     ],
@@ -3319,7 +3319,7 @@
     "website": "https://continue.dev",
     "description": "Open-source AI code assistant for VS Code and JetBrains. Use any model (local or API).",
     "pros": [
-      "Highly customizable AI coding assistant — bring your own model",
+      "Highly customizable AI coding assistant \u2014 bring your own model",
       "Works with VS Code and JetBrains natively",
       "Context-aware with codebase indexing and retrieval"
     ],
@@ -3528,7 +3528,7 @@
     "referral_url": "https://m.do.co/c/2ed27757a361",
     "pros": [
       "Run LLMs locally with a clean GUI",
-      "No cloud dependency — fully offline",
+      "No cloud dependency \u2014 fully offline",
       "Supports GGUF and other quantized formats",
       "Built-in model discovery and download"
     ],
@@ -3554,9 +3554,9 @@
     "website": "https://gpt4all.io",
     "description": "Run open-source LLMs locally on your CPU and GPU. No internet required.",
     "pros": [
-      "One-click desktop installer — no terminal needed",
+      "One-click desktop installer \u2014 no terminal needed",
       "Built-in RAG for chatting with your local documents",
-      "Runs on CPU — no GPU required for basic models"
+      "Runs on CPU \u2014 no GPU required for basic models"
     ],
     "cons": [
       "Slower on CPU"
@@ -3665,8 +3665,8 @@
     "website": "https://llama.meta.com",
     "description": "The latest generation of Llama. 'Maverick' architecture with 256K context. The new standard for open weights.",
     "pros": [
-      "Next-gen Maverick architecture — faster and smarter than Llama 3",
-      "256K context window — double that of most competitors",
+      "Next-gen Maverick architecture \u2014 faster and smarter than Llama 3",
+      "256K context window \u2014 double that of most competitors",
       "Native multimodal support for images, video, and text"
     ],
     "cons": [
@@ -3804,7 +3804,7 @@
     "description": "Refined V3 architecture with improved instruction following and reduced hallucination rates.",
     "pros": [
       "API pricing 10-50x cheaper than GPT-4 equivalents",
-      "Open weights with full model access — no API lock-in",
+      "Open weights with full model access \u2014 no API lock-in",
       "Top-tier reasoning that rivals closed-source frontier models"
     ],
     "cons": [
@@ -21035,9 +21035,9 @@
     "website": "https://gitea.com",
     "description": "Self-hosted Git service with code review, team collaboration, package registry, and CI/CD, written in Go. Provides a lightweight, all-in-one software development platform.",
     "pros": [
-      "Built with Go — lightweight and highly performant",
-      "Single binary — easy to deploy and manage",
-      "Supports code review, team collaboration, and CI/CD — all-in-one platform"
+      "Built with Go \u2014 lightweight and highly performant",
+      "Single binary \u2014 easy to deploy and manage",
+      "Supports code review, team collaboration, and CI/CD \u2014 all-in-one platform"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21129,13 +21129,13 @@
     "website": "https://clickhouse.com",
     "description": "Column-oriented database management system for generating analytical data reports in real-time, optimized for performance with a C++ core.",
     "pros": [
-      "C++ core — optimized for performance",
-      "Column-oriented architecture — ideal for analytical data reports",
-      "Real-time data processing — fast insights"
+      "C++ core \u2014 optimized for performance",
+      "Column-oriented architecture \u2014 ideal for analytical data reports",
+      "Real-time data processing \u2014 fast insights"
     ],
     "cons": [
       "Steep learning curve due to unique architecture",
-      "Resource-intensive — requires significant hardware resources"
+      "Resource-intensive \u2014 requires significant hardware resources"
     ],
     "last_commit": "2026-03-23T11:35:49Z",
     "language": "C++",
@@ -21178,9 +21178,9 @@
     "website": "https://b3log.org/siyuan",
     "description": "Self-hosted personal knowledge management software built with TypeScript and Go, providing a private note-taking platform.",
     "pros": [
-      "Built with TypeScript and Go — high-performance backend",
-      "Self-hosted solution — full control over data",
-      "AGPL-3.0 license — free to use and modify"
+      "Built with TypeScript and Go \u2014 high-performance backend",
+      "Self-hosted solution \u2014 full control over data",
+      "AGPL-3.0 license \u2014 free to use and modify"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21227,9 +21227,9 @@
     "website": "https://www.appsmith.com",
     "description": "Low-code platform to build custom internal tools, admin panels, and dashboards, integrating with 25+ databases and any API, built with TypeScript.",
     "pros": [
-      "Built on TypeScript — robust and maintainable codebase",
-      "Integrates with 25+ databases — seamless data connections",
-      "Low-code platform — rapid development and deployment"
+      "Built on TypeScript \u2014 robust and maintainable codebase",
+      "Integrates with 25+ databases \u2014 seamless data connections",
+      "Low-code platform \u2014 rapid development and deployment"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21277,13 +21277,13 @@
     "website": "https://tooljet.com",
     "description": "Open-source low-code platform for building internal tools, workflows, and business applications. Provides a visual builder, drag-and-drop UI, and integrations with databases, APIs, and SaaS apps.",
     "pros": [
-      "Drag-and-drop UI — rapid development of internal tools",
-      "Visual builder — no extensive coding knowledge required",
-      "Integrates with databases, APIs, and SaaS apps — high versatility"
+      "Drag-and-drop UI \u2014 rapid development of internal tools",
+      "Visual builder \u2014 no extensive coding knowledge required",
+      "Integrates with databases, APIs, and SaaS apps \u2014 high versatility"
     ],
     "cons": [
       "Steep learning curve for complex applications",
-      "AGPL-3.0 license — may not be suitable for all use cases"
+      "AGPL-3.0 license \u2014 may not be suitable for all use cases"
     ],
     "last_commit": "2026-03-23T11:32:52Z",
     "language": "JavaScript",
@@ -21327,9 +21327,9 @@
     "website": null,
     "description": "Self-hostable resume builder with customizable templates and export options, built with TypeScript.",
     "pros": [
-      "Built with TypeScript — robust and maintainable codebase",
-      "Customizable templates — flexible design options",
-      "Self-hostable — full control over data and deployment"
+      "Built with TypeScript \u2014 robust and maintainable codebase",
+      "Customizable templates \u2014 flexible design options",
+      "Self-hostable \u2014 full control over data and deployment"
     ],
     "cons": [
       "Steep learning curve for non-technical users"
@@ -21375,9 +21375,9 @@
     "website": "https://triliumnotes.org",
     "description": "A hierarchical note-taking application built on TypeScript and available for desktop platforms, allowing users to organize and build their personal knowledge base. Supports data synchronization, tagging, and media embedding.",
     "pros": [
-      "Built on TypeScript — ensuring a robust and maintainable architecture",
-      "Supports data synchronization — keeping notes up-to-date across devices",
-      "Hierarchical organization — enabling users to build a structured knowledge base"
+      "Built on TypeScript \u2014 ensuring a robust and maintainable architecture",
+      "Supports data synchronization \u2014 keeping notes up-to-date across devices",
+      "Hierarchical organization \u2014 enabling users to build a structured knowledge base"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21424,9 +21424,9 @@
     "website": "https://filebrowser.org",
     "description": "Single-binary web file manager for uploading, deleting, previewing, and editing files within a specified directory. Built with Go.",
     "pros": [
-      "Single binary — easy to deploy and manage",
-      "Built with Go — fast and lightweight architecture",
-      "Create-your-own-cloud — flexible and customizable"
+      "Single binary \u2014 easy to deploy and manage",
+      "Built with Go \u2014 fast and lightweight architecture",
+      "Create-your-own-cloud \u2014 flexible and customizable"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21473,13 +21473,13 @@
     "website": "https://khoj.dev",
     "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
     "pros": [
-      "**Modular architecture —** supports multiple LLMs like GPT, Claude, and Llama",
-      "**Self-hostable —** gives you full control over your data and AI setup",
-      "**Extensive automation —** schedule tasks and build custom agents with ease"
+      "**Modular architecture \u2014** supports multiple LLMs like GPT, Claude, and Llama",
+      "**Self-hostable \u2014** gives you full control over your data and AI setup",
+      "**Extensive automation \u2014** schedule tasks and build custom agents with ease"
     ],
     "cons": [
-      "**Steep learning curve —** requires some technical expertise to set up and use",
-      "**Resource-intensive —** may require significant computational resources for optimal performance"
+      "**Steep learning curve \u2014** requires some technical expertise to set up and use",
+      "**Resource-intensive \u2014** may require significant computational resources for optimal performance"
     ],
     "last_commit": "2026-03-19T19:28:44Z",
     "language": "Python",
@@ -21511,11 +21511,11 @@
     "github_repo": "dgtlmoon/changedetection.io",
     "stars": 30756,
     "website": "https://changedetection.io",
-    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
     "pros": [
-      "Built on Python — lightweight and easy to deploy",
-      "Single setup process — monitors websites for updates in real-time",
-      "Multi-channel notifications — supports Discord, Email, Slack, Telegram, and more"
+      "Built on Python \u2014 lightweight and easy to deploy",
+      "Single setup process \u2014 monitors websites for updates in real-time",
+      "Multi-channel notifications \u2014 supports Discord, Email, Slack, Telegram, and more"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21551,9 +21551,9 @@
     "website": "https://gethomepage.dev",
     "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
     "pros": [
-      "**Fully static, fast** — optimized for performance",
-      "**Fully proxied** — secure connections to services",
-      "**Easily configured** — via YAML files or Docker label discovery"
+      "**Fully static, fast** \u2014 optimized for performance",
+      "**Fully proxied** \u2014 secure connections to services",
+      "**Easily configured** \u2014 via YAML files or Docker label discovery"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21587,11 +21587,11 @@
     "github_repo": "ArchiveBox/ArchiveBox",
     "stars": 27111,
     "website": "https://archivebox.io",
-    "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+    "description": "\ud83d\uddc3 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
     "pros": [
-      "**Comprehensive data capture** — saves HTML, JS, PDFs, media, and more",
-      "**Flexible input sources** — takes URLs, browser history, bookmarks, Pocket, Pinboard, etc.",
-      "**Customizable and extensible** — written in Python for easy modification"
+      "**Comprehensive data capture** \u2014 saves HTML, JS, PDFs, media, and more",
+      "**Flexible input sources** \u2014 takes URLs, browser history, bookmarks, Pocket, Pinboard, etc.",
+      "**Customizable and extensible** \u2014 written in Python for easy modification"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21625,7 +21625,7 @@
     "github_repo": "Lissy93/dashy",
     "stars": 24311,
     "website": "https://dashy.to",
-    "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+    "description": "\ud83d\ude80 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
     "pros": [
       "Open source and self-hostable"
     ],
@@ -21659,7 +21659,7 @@
     "github_repo": "dou-jiang/codex-console",
     "stars": 631,
     "website": "https://github.com/dou-jiang/codex-console",
-    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+    "description": "codex-console \u662f\u4e00\u4e2a\u96c6\u6210\u5316\u63a7\u5236\u53f0\u9879\u76ee\uff0c\u652f\u6301\u4efb\u52a1\u7ba1\u7406\u3001\u6279\u91cf\u5904\u7406\u3001\u6570\u636e\u5bfc\u51fa\u3001\u81ea\u52a8\u4e0a\u4f20\u3001\u65e5\u5fd7\u67e5\u770b\u4e0e\u6253\u5305\u652f\u6301\u3002",
     "pros": [
       "Open source and self-hostable"
     ],
@@ -21700,7 +21700,7 @@
     "github_repo": "ccbkkb/MicroWARP",
     "stars": 554,
     "website": "https://github.com/ccbkkb/MicroWARP",
-    "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
+    "description": "\ud83d\ude80 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. \u4ec5\u9700 800KB \u5185\u5b58\u7684\u7eaf\u5185\u6838\u6001 Cloudflare WARP \u4ee3\u7406 - Docker",
     "pros": [
       "Open source and self-hostable"
     ],
@@ -21805,11 +21805,11 @@
     "github_repo": "komunite/kalfa",
     "stars": 182,
     "website": "https://komunite.com.tr",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza",
+    "description": "Claude Code i\u00e7in T\u00fcrk\u00e7e profesyonel i\u015fletim sistemi \u2014 10 uzman agent, 22 komut, 993 skill, 6 katmanl\u0131 haf\u0131za",
     "pros": [
-      "Modular architecture — 994 skills in 16 categories",
-      "Persistent memory — 6 layers for session context",
-      "Customizable workflow — 22 commands and 9 security hooks"
+      "Modular architecture \u2014 994 skills in 16 categories",
+      "Persistent memory \u2014 6 layers for session context",
+      "Customizable workflow \u2014 22 commands and 9 security hooks"
     ],
     "cons": [
       "Self-hosting can be complex",
@@ -21850,7 +21850,7 @@
     "website": "https://hub.openilink.com",
     "description": "Self-hosted WeChat Bot management platform built on Go, providing real-time message relay via WebSocket, Webhook, and AI auto-reply. Supports Passkey login and offers 7 language SDKs for integration.",
     "pros": [
-      "Built on Go — high-performance backend",
+      "Built on Go \u2014 high-performance backend",
       "Real-time message relay via WebSocket and Webhook",
       "7 language SDKs for seamless integration"
     ],
@@ -21936,11 +21936,44 @@
       "Modern stack: TypeScript, Next.js, NestJS, PostgreSQL"
     ],
     "cons": [
-      "Early stage — small community",
+      "Early stage \u2014 small community",
       "No mobile app yet"
     ],
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
+  },
+  {
+    "slug": "dakera",
+    "name": "Dakera",
+    "category": "AI Tools",
+    "is_open_source": true,
+    "github_repo": "dakera-ai/dakera-mcp",
+    "website": "https://github.com/dakera-ai/dakera-mcp",
+    "description": "Self-hosted, open-source agent memory server. An alternative to proprietary AI memory services like Mem0 and Zep, with MCP-native integration, decay-weighted recall, and HNSW vector search.",
+    "pros": [
+      "Self-hosted with full data ownership",
+      "MCP-native \u2014 works with any MCP-compatible agent",
+      "Decay-weighted memory for natural forgetting",
+      "Cross-agent knowledge sharing via namespaces"
+    ],
+    "cons": [
+      "Requires self-hosting infrastructure",
+      "Early-stage ecosystem"
+    ],
+    "language": "Rust",
+    "license": "MIT",
+    "tags": [
+      "AI",
+      "Memory",
+      "MCP",
+      "Agent",
+      "Vector Search"
+    ],
+    "hosting_type": "self-hosted",
+    "alternatives": [
+      "khoj"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=github.com"
   }
 ]
