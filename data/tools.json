@@ -21955,7 +21955,7 @@
       "Scores and routes leads from real product-usage signals (PostHog) + CRM",
       "Self-hostable via Docker, billing optional",
       "Modern stack: TypeScript, Next.js, Supabase/PostgreSQL",
-      "Open-source alternative to 6sense and Clearbit Reveal"
+      "Open-source alternative to Pocus and Common Room"
     ],
     "cons": [
       "Early stage — small community",
