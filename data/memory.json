@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-05-25T14:52:23.511Z",
-    "times_seen": 6,
+    "last_seen": "2026-06-01T17:30:09.954Z",
+    "times_seen": 7,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-01T14:52:23.506Z"
+    "cooldown_until": "2026-06-08T17:30:09.949Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -16946,5 +16946,153 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-06-15T11:24:13.424Z"
+  },
+  "stormneonnightraven4640692/deepfake-ai-realtime": {
+    "first_seen": "2026-06-01T17:30:14.595Z",
+    "last_seen": "2026-06-01T17:30:14.595Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-08T17:30:14.595Z"
+  },
+  "gerardapennant96075336582/capc-pro-2": {
+    "first_seen": "2026-06-01T17:30:15.110Z",
+    "last_seen": "2026-06-01T17:30:15.110Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-08T17:30:15.110Z"
+  },
+  "raffaellamattice38362023450/lossless-scaling-git-version-2": {
+    "first_seen": "2026-06-01T17:30:15.689Z",
+    "last_seen": "2026-06-01T17:30:15.689Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-08T17:30:15.689Z"
+  },
+  "c873089902979/ns-fw-ai-image-and-video-generator-uncens": {
+    "first_seen": "2026-06-01T17:30:16.208Z",
+    "last_seen": "2026-06-01T17:30:16.208Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-08T17:30:16.208Z"
+  },
+  "layoutitstudio/polycss": {
+    "first_seen": "2026-06-01T17:30:17.522Z",
+    "last_seen": "2026-06-01T17:30:17.522Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-08T17:30:17.522Z"
+  },
+  "ianm199/valdr": {
+    "first_seen": "2026-06-01T17:30:18.437Z",
+    "last_seen": "2026-06-01T17:30:18.437Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-15T17:30:18.437Z"
+  },
+  "adriandomc/qastor": {
+    "first_seen": "2026-06-01T17:30:18.781Z",
+    "last_seen": "2026-06-01T17:30:18.781Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-15T17:30:18.780Z"
+  },
+  "rashidmya/curtab": {
+    "first_seen": "2026-06-01T17:30:19.120Z",
+    "last_seen": "2026-06-01T17:30:19.120Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-15T17:30:19.120Z"
+  },
+  "cvs-health/uqlm": {
+    "first_seen": "2026-06-01T17:30:19.816Z",
+    "last_seen": "2026-06-01T17:30:19.816Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-08T17:30:19.816Z"
+  },
+  "samjoch/tok": {
+    "first_seen": "2026-06-01T17:30:20.132Z",
+    "last_seen": "2026-06-01T17:30:20.132Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-15T17:30:20.132Z"
+  },
+  "0xjaksun/lithium-core": {
+    "first_seen": "2026-06-01T17:30:20.466Z",
+    "last_seen": "2026-06-01T17:30:20.466Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-06-15T17:30:20.466Z"
+  },
+  "zahraarmantech/zatron": {
+    "first_seen": "2026-06-01T17:30:20.840Z",
+    "last_seen": "2026-06-01T17:30:20.840Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-15T17:30:20.840Z"
+  },
+  "chamuka-inc/vmette": {
+    "first_seen": "2026-06-01T17:30:21.327Z",
+    "last_seen": "2026-06-01T17:30:21.327Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-15T17:30:21.327Z"
+  },
+  "singlr-ai/monolith": {
+    "first_seen": "2026-06-01T17:30:21.692Z",
+    "last_seen": "2026-06-01T17:30:21.692Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-15T17:30:21.692Z"
   }
 }
