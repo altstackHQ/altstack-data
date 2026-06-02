@@ -17431,5 +17431,79 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-06-16T16:14:36.406Z"
+  },
+  "tiantiangpu/reg-factory": {
+    "first_seen": "2026-06-02T20:42:33.315Z",
+    "last_seen": "2026-06-02T20:42:33.315Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T20:42:33.310Z"
+  },
+  "haskaomni/serenity-skill": {
+    "first_seen": "2026-06-02T20:42:33.964Z",
+    "last_seen": "2026-06-02T20:42:33.964Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T20:42:33.964Z"
+  },
+  "krispuckett/swiftuishaders": {
+    "first_seen": "2026-06-02T20:42:34.599Z",
+    "last_seen": "2026-06-02T20:42:34.599Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T20:42:34.599Z"
+  },
+  "shiihaa-app/shiihaa-breath-detection": {
+    "first_seen": "2026-06-02T20:42:35.801Z",
+    "last_seen": "2026-06-02T20:42:35.801Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-16T20:42:35.801Z"
+  },
+  "cashflowyai/safe-pay-stripe": {
+    "first_seen": "2026-06-02T20:42:36.197Z",
+    "last_seen": "2026-06-02T20:42:36.197Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-16T20:42:36.197Z"
+  },
+  "vahidr/bookeeper": {
+    "first_seen": "2026-06-02T20:42:36.709Z",
+    "last_seen": "2026-06-02T20:42:36.709Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-16T20:42:36.709Z"
+  },
+  "terseai/terse": {
+    "first_seen": "2026-06-02T20:42:37.150Z",
+    "last_seen": "2026-06-02T20:42:37.150Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-06-16T20:42:37.150Z"
   }
 }
