@@ -17172,12 +17172,105 @@
   },
   "leochong/migradiff": {
     "first_seen": "2026-06-01T21:28:12.312Z",
-    "last_seen": "2026-06-01T21:28:12.312Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-02T03:31:20.670Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
     "monologues": [],
     "status": "api_failed"
+  },
+  "johnbean393/keytype": {
+    "first_seen": "2026-06-02T03:31:15.814Z",
+    "last_seen": "2026-06-02T03:31:15.814Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T03:31:15.811Z"
+  },
+  "build-poe2/pathofbuilding-poe2": {
+    "first_seen": "2026-06-02T03:31:16.414Z",
+    "last_seen": "2026-06-02T03:31:16.414Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T03:31:16.414Z"
+  },
+  "gothic-remake/gothic-1-remake-release": {
+    "first_seen": "2026-06-02T03:31:16.963Z",
+    "last_seen": "2026-06-02T03:31:16.963Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T03:31:16.963Z"
+  },
+  "rstagit/rstaspoof": {
+    "first_seen": "2026-06-02T03:31:17.552Z",
+    "last_seen": "2026-06-02T03:31:17.552Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T03:31:17.552Z"
+  },
+  "clash-windows-download/clash-for-windows": {
+    "first_seen": "2026-06-02T03:31:18.809Z",
+    "last_seen": "2026-06-02T03:31:18.809Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T03:31:18.809Z"
+  },
+  "eversinc33/mogvmp": {
+    "first_seen": "2026-06-02T03:31:19.427Z",
+    "last_seen": "2026-06-02T03:31:19.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T03:31:19.427Z"
+  },
+  "hanxiao/dataroom": {
+    "first_seen": "2026-06-02T03:31:19.771Z",
+    "last_seen": "2026-06-02T03:31:19.771Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-06-16T03:31:19.771Z"
+  },
+  "gergomiklos/nosleepagent": {
+    "first_seen": "2026-06-02T03:31:20.105Z",
+    "last_seen": "2026-06-02T03:31:20.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-16T03:31:20.105Z"
+  },
+  "akshatvasisht/knotch": {
+    "first_seen": "2026-06-02T03:31:20.420Z",
+    "last_seen": "2026-06-02T03:31:20.420Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-16T03:31:20.420Z"
   }
 }
