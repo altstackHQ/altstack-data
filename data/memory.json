@@ -17335,5 +17335,101 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-06-16T10:15:33.410Z"
+  },
+  "b-nnett/goose": {
+    "first_seen": "2026-06-02T16:14:32.233Z",
+    "last_seen": "2026-06-02T16:14:32.233Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T16:14:32.229Z"
+  },
+  "3x-haust/workshop-wallpaper-bridge": {
+    "first_seen": "2026-06-02T16:14:33.438Z",
+    "last_seen": "2026-06-02T16:14:33.438Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T16:14:33.438Z"
+  },
+  "gordensun/mathvideomaker": {
+    "first_seen": "2026-06-02T16:14:34.225Z",
+    "last_seen": "2026-06-02T16:14:34.225Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-09T16:14:34.225Z"
+  },
+  "opstangit/opstan": {
+    "first_seen": "2026-06-02T16:14:34.607Z",
+    "last_seen": "2026-06-02T16:14:34.607Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-16T16:14:34.607Z"
+  },
+  "ilang-dev/i": {
+    "first_seen": "2026-06-02T16:14:34.998Z",
+    "last_seen": "2026-06-02T16:14:34.998Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-16T16:14:34.998Z"
+  },
+  "paralleliq/piqc": {
+    "first_seen": "2026-06-02T16:14:35.371Z",
+    "last_seen": "2026-06-02T16:14:35.371Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-16T16:14:35.371Z"
+  },
+  "zohaibus/localsheets": {
+    "first_seen": "2026-06-02T16:14:35.707Z",
+    "last_seen": "2026-06-02T16:14:35.707Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-16T16:14:35.707Z"
+  },
+  "ferrislucas/circus-chief": {
+    "first_seen": "2026-06-02T16:14:36.067Z",
+    "last_seen": "2026-06-02T16:14:36.067Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-16T16:14:36.067Z"
+  },
+  "mordechaihadad/rustgate": {
+    "first_seen": "2026-06-02T16:14:36.406Z",
+    "last_seen": "2026-06-02T16:14:36.406Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-16T16:14:36.406Z"
   }
 }
