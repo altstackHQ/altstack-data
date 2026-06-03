@@ -17984,5 +17984,100 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-06-17T16:30:36.019Z"
+  },
+  "boltmerchant/perkinelmer-chemoffice-cracked": {
+    "first_seen": "2026-06-03T20:52:44.144Z",
+    "last_seen": "2026-06-03T20:52:44.144Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T20:52:44.140Z"
+  },
+  "mrdoob/draco.js": {
+    "first_seen": "2026-06-03T20:52:44.552Z",
+    "last_seen": "2026-06-03T20:52:44.552Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T20:52:44.552Z"
+  },
+  "openai/role-specific-plugins": {
+    "first_seen": "2026-06-03T20:52:44.997Z",
+    "last_seen": "2026-06-03T20:52:44.997Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T20:52:44.997Z"
+  },
+  "loadingalias/rscrypto": {
+    "first_seen": "2026-06-03T20:52:45.299Z",
+    "last_seen": "2026-06-03T20:52:45.299Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-06-17T20:52:45.299Z"
+  },
+  "zaydmulani09/mnemo": {
+    "first_seen": "2026-06-03T20:52:46.043Z",
+    "last_seen": "2026-06-03T20:52:46.043Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-17T20:52:46.043Z"
+  },
+  "division-sh/swarm": {
+    "first_seen": "2026-06-03T20:52:46.845Z",
+    "last_seen": "2026-06-03T20:52:46.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-17T20:52:46.845Z"
+  },
+  "lumirlumir/npm-eslint-markdown": {
+    "first_seen": "2026-06-03T20:52:47.135Z",
+    "last_seen": "2026-06-03T20:52:47.135Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-06-17T20:52:47.135Z"
+  },
+  "codybontecou/health-md": {
+    "first_seen": "2026-06-03T20:52:47.564Z",
+    "last_seen": "2026-06-03T20:52:47.564Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T20:52:47.564Z"
+  },
+  "nikitph/awesome-threshold-concepts": {
+    "first_seen": "2026-06-03T20:52:47.862Z",
+    "last_seen": "2026-06-03T20:52:47.862Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-17T20:52:47.862Z"
   }
 }
