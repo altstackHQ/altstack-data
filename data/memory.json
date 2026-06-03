@@ -17838,5 +17838,151 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-06-17T10:51:55.737Z"
+  },
+  "albert-weasker/niubi_guard": {
+    "first_seen": "2026-06-03T16:30:25.583Z",
+    "last_seen": "2026-06-03T16:30:25.583Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:25.580Z"
+  },
+  "albertcheng19/medskillos": {
+    "first_seen": "2026-06-03T16:30:26.178Z",
+    "last_seen": "2026-06-03T16:30:26.178Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:26.178Z"
+  },
+  "openai/role-based-plugins": {
+    "first_seen": "2026-06-03T16:30:26.790Z",
+    "last_seen": "2026-06-03T16:30:26.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:26.790Z"
+  },
+  "thestageai/edge-lm": {
+    "first_seen": "2026-06-03T16:30:27.690Z",
+    "last_seen": "2026-06-03T16:30:27.690Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:27.690Z"
+  },
+  "yaodub/cast": {
+    "first_seen": "2026-06-03T16:30:28.839Z",
+    "last_seen": "2026-06-03T16:30:28.839Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-06-17T16:30:28.839Z"
+  },
+  "ideogram-oss/ideogram4": {
+    "first_seen": "2026-06-03T16:30:29.624Z",
+    "last_seen": "2026-06-03T16:30:29.624Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:29.624Z"
+  },
+  "mochow13/keen-code": {
+    "first_seen": "2026-06-03T16:30:29.977Z",
+    "last_seen": "2026-06-03T16:30:29.977Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-06-17T16:30:29.977Z"
+  },
+  "axelwickm/or-tools-wasm": {
+    "first_seen": "2026-06-03T16:30:31.893Z",
+    "last_seen": "2026-06-03T16:30:31.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-17T16:30:31.893Z"
+  },
+  "ivoputzer/testbump": {
+    "first_seen": "2026-06-03T16:30:32.352Z",
+    "last_seen": "2026-06-03T16:30:32.352Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-17T16:30:32.352Z"
+  },
+  "ant-design/ant-design-cli": {
+    "first_seen": "2026-06-03T16:30:33.090Z",
+    "last_seen": "2026-06-03T16:30:33.090Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:33.090Z"
+  },
+  "zeroecco/nvidia-converge": {
+    "first_seen": "2026-06-03T16:30:33.432Z",
+    "last_seen": "2026-06-03T16:30:33.432Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-17T16:30:33.432Z"
+  },
+  "skawld/skawld-sdk": {
+    "first_seen": "2026-06-03T16:30:34.903Z",
+    "last_seen": "2026-06-03T16:30:34.903Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:34.903Z"
+  },
+  "litellm-labs/lite-harness": {
+    "first_seen": "2026-06-03T16:30:35.612Z",
+    "last_seen": "2026-06-03T16:30:35.612Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-10T16:30:35.612Z"
+  },
+  "pixiebrix/agent-browser-shield": {
+    "first_seen": "2026-06-03T16:30:36.019Z",
+    "last_seen": "2026-06-03T16:30:36.019Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-17T16:30:36.019Z"
   }
 }
