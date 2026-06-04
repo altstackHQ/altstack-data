@@ -12351,14 +12351,14 @@
   },
   "artain-ai/ignite-ms": {
     "first_seen": "2026-05-20T20:16:07.601Z",
-    "last_seen": "2026-05-20T20:16:07.601Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-04T20:00:39.154Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
     "stars": 0,
-    "cooldown_until": "2026-06-03T20:16:07.601Z"
+    "cooldown_until": "2026-06-18T20:00:39.154Z"
   },
   "zero-intelligence/zero-protocol": {
     "first_seen": "2026-05-20T20:16:08.812Z",
@@ -18411,5 +18411,102 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-11T14:48:53.480Z"
+  },
+  "jeff141/meatshell": {
+    "first_seen": "2026-06-04T20:00:36.252Z",
+    "last_seen": "2026-06-04T20:00:36.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T20:00:36.246Z"
+  },
+  "forter/agentic-readiness-guide": {
+    "first_seen": "2026-06-04T20:00:37.029Z",
+    "last_seen": "2026-06-04T20:00:37.029Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-07-04T20:00:37.029Z"
+  },
+  "boona13/sprite-lab": {
+    "first_seen": "2026-06-04T20:00:37.942Z",
+    "last_seen": "2026-06-04T20:00:37.942Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T20:00:37.942Z"
+  },
+  "mattdeeds/pico-10base-t-rs": {
+    "first_seen": "2026-06-04T20:00:38.270Z",
+    "last_seen": "2026-06-04T20:00:38.270Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-18T20:00:38.270Z"
+  },
+  "rccyx/asryx": {
+    "first_seen": "2026-06-04T20:00:38.554Z",
+    "last_seen": "2026-06-04T20:00:38.554Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-06-18T20:00:38.554Z"
+  },
+  "friz-zy/ai-capability-registry": {
+    "first_seen": "2026-06-04T20:00:38.836Z",
+    "last_seen": "2026-06-04T20:00:38.836Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-18T20:00:38.836Z"
+  },
+  "squillo/aph": {
+    "first_seen": "2026-06-04T20:00:39.456Z",
+    "last_seen": "2026-06-04T20:00:39.456Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-18T20:00:39.456Z"
+  },
+  "cjmielke/neuroanswer": {
+    "first_seen": "2026-06-04T20:00:39.735Z",
+    "last_seen": "2026-06-04T20:00:39.735Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-18T20:00:39.735Z"
+  },
+  "opencow42/swift-wasmtime": {
+    "first_seen": "2026-06-04T20:00:40.000Z",
+    "last_seen": "2026-06-04T20:00:40.000Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-18T20:00:40.000Z"
   }
 }
