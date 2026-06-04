@@ -18328,5 +18328,88 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-06-18T09:50:57.862Z"
+  },
+  "jasionf/smart-home-button": {
+    "first_seen": "2026-06-04T14:48:48.881Z",
+    "last_seen": "2026-06-04T14:48:48.881Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T14:48:48.875Z"
+  },
+  "punk2898/wechat-group-stats": {
+    "first_seen": "2026-06-04T14:48:50.811Z",
+    "last_seen": "2026-06-04T14:48:50.811Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T14:48:50.811Z"
+  },
+  "xevrion-v2/agent-playground": {
+    "first_seen": "2026-06-04T14:48:51.294Z",
+    "last_seen": "2026-06-04T14:48:51.294Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T14:48:51.294Z"
+  },
+  "fbeeper/agentkitten": {
+    "first_seen": "2026-06-04T14:48:51.805Z",
+    "last_seen": "2026-06-04T14:48:51.805Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T14:48:51.805Z"
+  },
+  "hypd-ai/openai-ads-mcp": {
+    "first_seen": "2026-06-04T14:48:52.208Z",
+    "last_seen": "2026-06-04T14:48:52.208Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-18T14:48:52.208Z"
+  },
+  "jpajak/ai-gauge": {
+    "first_seen": "2026-06-04T14:48:52.534Z",
+    "last_seen": "2026-06-04T14:48:52.534Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-18T14:48:52.534Z"
+  },
+  "javaid-codes/foodpanda-fruit-order-skill": {
+    "first_seen": "2026-06-04T14:48:52.865Z",
+    "last_seen": "2026-06-04T14:48:52.865Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-18T14:48:52.865Z"
+  },
+  "tilework-tech/nori-skillsets": {
+    "first_seen": "2026-06-04T14:48:53.480Z",
+    "last_seen": "2026-06-04T14:48:53.480Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T14:48:53.480Z"
   }
 }
