@@ -18245,5 +18245,88 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-18T03:34:23.908Z"
+  },
+  "mr-un1k0d3r/azureredops": {
+    "first_seen": "2026-06-04T09:50:54.256Z",
+    "last_seen": "2026-06-04T09:50:54.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T09:50:54.251Z"
+  },
+  "memforks-dev/memforks": {
+    "first_seen": "2026-06-04T09:50:55.145Z",
+    "last_seen": "2026-06-04T09:50:55.145Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T09:50:55.145Z"
+  },
+  "razr001/align-dev": {
+    "first_seen": "2026-06-04T09:50:55.486Z",
+    "last_seen": "2026-06-04T09:50:55.486Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T09:50:55.486Z"
+  },
+  "lifuyue/issue-finder": {
+    "first_seen": "2026-06-04T09:50:55.858Z",
+    "last_seen": "2026-06-04T09:50:55.858Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T09:50:55.858Z"
+  },
+  "stevibe/local-screen-agent": {
+    "first_seen": "2026-06-04T09:50:56.227Z",
+    "last_seen": "2026-06-04T09:50:56.227Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-11T09:50:56.227Z"
+  },
+  "artemnistuley/docrawl": {
+    "first_seen": "2026-06-04T09:50:56.872Z",
+    "last_seen": "2026-06-04T09:50:56.872Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-18T09:50:56.871Z"
+  },
+  "kaiaai/lds2d": {
+    "first_seen": "2026-06-04T09:50:57.574Z",
+    "last_seen": "2026-06-04T09:50:57.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-18T09:50:57.574Z"
+  },
+  "jonimartin27/lookspan": {
+    "first_seen": "2026-06-04T09:50:57.862Z",
+    "last_seen": "2026-06-04T09:50:57.862Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-18T09:50:57.862Z"
   }
 }
