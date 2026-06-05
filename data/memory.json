@@ -18670,5 +18670,65 @@
     "reason": "low_stars",
     "stars": 16,
     "cooldown_until": "2026-06-19T02:56:12.103Z"
+  },
+  "mikubaka88/ccfa-skills": {
+    "first_seen": "2026-06-05T09:39:33.578Z",
+    "last_seen": "2026-06-05T09:39:33.578Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T09:39:33.572Z"
+  },
+  "cellebrite-labs/ghidra-rpc": {
+    "first_seen": "2026-06-05T09:39:34.422Z",
+    "last_seen": "2026-06-05T09:39:34.422Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T09:39:34.422Z"
+  },
+  "ai272/speaker": {
+    "first_seen": "2026-06-05T09:39:35.203Z",
+    "last_seen": "2026-06-05T09:39:35.203Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T09:39:35.203Z"
+  },
+  "fengzi1221/proxy-installer": {
+    "first_seen": "2026-06-05T09:39:35.571Z",
+    "last_seen": "2026-06-05T09:39:35.571Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T09:39:35.571Z"
+  },
+  "pontusab/behindthecode": {
+    "first_seen": "2026-06-05T09:39:35.962Z",
+    "last_seen": "2026-06-05T09:39:35.962Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T09:39:35.962Z"
+  },
+  "denislupookov/altersend": {
+    "first_seen": "2026-06-05T09:39:36.685Z",
+    "last_seen": "2026-06-05T09:39:36.685Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T09:39:36.685Z"
   }
 }
