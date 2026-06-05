@@ -18730,5 +18730,111 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-12T09:39:36.685Z"
+  },
+  "obsidian-trades/polymarket-copy-trading-bot": {
+    "first_seen": "2026-06-05T14:39:31.084Z",
+    "last_seen": "2026-06-05T14:39:31.084Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T14:39:31.079Z"
+  },
+  "best-spicy-ai/ai-naughty-tools": {
+    "first_seen": "2026-06-05T14:39:31.520Z",
+    "last_seen": "2026-06-05T14:39:31.520Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T14:39:31.520Z"
+  },
+  "voidsignals/polymarket-trading-bot": {
+    "first_seen": "2026-06-05T14:39:32.514Z",
+    "last_seen": "2026-06-05T14:39:32.514Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T14:39:32.514Z"
+  },
+  "zdk/lowfat": {
+    "first_seen": "2026-06-05T14:39:32.973Z",
+    "last_seen": "2026-06-05T14:39:32.973Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T14:39:32.973Z"
+  },
+  "typescope/jo": {
+    "first_seen": "2026-06-05T14:39:33.277Z",
+    "last_seen": "2026-06-05T14:39:33.277Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-19T14:39:33.277Z"
+  },
+  "sanctum-origo-systems/patina": {
+    "first_seen": "2026-06-05T14:39:33.597Z",
+    "last_seen": "2026-06-05T14:39:33.597Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-19T14:39:33.597Z"
+  },
+  "jentic/jentic-api-scorecard": {
+    "first_seen": "2026-06-05T14:39:33.912Z",
+    "last_seen": "2026-06-05T14:39:33.912Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-19T14:39:33.912Z"
+  },
+  "pangmo5/tatami": {
+    "first_seen": "2026-06-05T14:39:34.203Z",
+    "last_seen": "2026-06-05T14:39:34.203Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-19T14:39:34.203Z"
+  },
+  "falense/openpaper": {
+    "first_seen": "2026-06-05T14:39:34.478Z",
+    "last_seen": "2026-06-05T14:39:34.478Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-19T14:39:34.478Z"
+  },
+  "fujo930/moss-lang": {
+    "first_seen": "2026-06-05T14:39:34.751Z",
+    "last_seen": "2026-06-05T14:39:34.751Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-19T14:39:34.751Z"
   }
 }
