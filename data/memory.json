@@ -18836,5 +18836,143 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-06-19T14:39:34.751Z"
+  },
+  "cws6206/ai-coding-starter-kit": {
+    "first_seen": "2026-06-05T19:48:59.425Z",
+    "last_seen": "2026-06-05T19:48:59.425Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T19:48:59.420Z"
+  },
+  "forlives/21-day-self-interview": {
+    "first_seen": "2026-06-05T19:49:00.242Z",
+    "last_seen": "2026-06-05T19:49:00.242Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T19:49:00.242Z"
+  },
+  "htx-trading-toolkit/htx-human-elite-copy-trading-bot": {
+    "first_seen": "2026-06-05T19:49:01.136Z",
+    "last_seen": "2026-06-05T19:49:01.136Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T19:49:01.136Z"
+  },
+  "mizuamedesu/reportskills": {
+    "first_seen": "2026-06-05T19:49:01.547Z",
+    "last_seen": "2026-06-05T19:49:01.547Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T19:49:01.547Z"
+  },
+  "rpate97/lich": {
+    "first_seen": "2026-06-05T19:49:01.810Z",
+    "last_seen": "2026-06-05T19:49:01.810Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-19T19:49:01.810Z"
+  },
+  "bmillare/design_in_practice_ui": {
+    "first_seen": "2026-06-05T19:49:02.075Z",
+    "last_seen": "2026-06-05T19:49:02.075Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "EPL-2.0",
+    "cooldown_until": "2026-07-05T19:49:02.075Z"
+  },
+  "rfgplk/micron.cpp": {
+    "first_seen": "2026-06-05T19:49:02.395Z",
+    "last_seen": "2026-06-05T19:49:02.395Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-19T19:49:02.395Z"
+  },
+  "foxfire1st/agents-remember-md": {
+    "first_seen": "2026-06-05T19:49:02.684Z",
+    "last_seen": "2026-06-05T19:49:02.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-06-19T19:49:02.684Z"
+  },
+  "djanogly/fast-android-file-manager": {
+    "first_seen": "2026-06-05T19:49:02.969Z",
+    "last_seen": "2026-06-05T19:49:02.969Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-19T19:49:02.969Z"
+  },
+  "acaracappa/getjobber-cli": {
+    "first_seen": "2026-06-05T19:49:03.234Z",
+    "last_seen": "2026-06-05T19:49:03.234Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-19T19:49:03.234Z"
+  },
+  "fundamental-research-labs/mog": {
+    "first_seen": "2026-06-05T19:49:03.723Z",
+    "last_seen": "2026-06-05T19:49:03.723Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-12T19:49:03.723Z"
+  },
+  "interchecks/bash-lambda-runtime": {
+    "first_seen": "2026-06-05T19:49:03.995Z",
+    "last_seen": "2026-06-05T19:49:03.995Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-19T19:49:03.995Z"
+  },
+  "jonimartin27/inferbench": {
+    "first_seen": "2026-06-05T19:49:04.269Z",
+    "last_seen": "2026-06-05T19:49:04.269Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-19T19:49:04.269Z"
   }
 }
