@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-05-29T20:15:08.849Z",
-    "times_seen": 5,
+    "last_seen": "2026-06-06T02:42:59.621Z",
+    "times_seen": 6,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-05T20:15:08.839Z"
+    "cooldown_until": "2026-06-13T02:42:59.614Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -1757,14 +1757,14 @@
   },
   "awesome-foss/awesome-sysadmin": {
     "first_seen": "2026-04-08T13:45:47.994Z",
-    "last_seen": "2026-05-29T20:15:10.588Z",
-    "times_seen": 5,
+    "last_seen": "2026-06-06T02:43:00.740Z",
+    "times_seen": 6,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-05T20:15:10.588Z"
+    "cooldown_until": "2026-06-13T02:43:00.740Z"
   },
   "dokploy/dokploy": {
     "first_seen": "2026-04-08T13:45:48.345Z",
@@ -1779,14 +1779,14 @@
   },
   "hwdsl2/setup-ipsec-vpn": {
     "first_seen": "2026-04-08T13:45:48.674Z",
-    "last_seen": "2026-05-29T20:15:12.220Z",
-    "times_seen": 5,
+    "last_seen": "2026-06-06T02:43:01.847Z",
+    "times_seen": 6,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-05T20:15:12.220Z"
+    "cooldown_until": "2026-06-13T02:43:01.847Z"
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
@@ -1800,14 +1800,14 @@
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
-    "last_seen": "2026-05-29T20:15:11.111Z",
-    "times_seen": 5,
+    "last_seen": "2026-06-06T02:43:01.104Z",
+    "times_seen": 6,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-05T20:15:11.111Z"
+    "cooldown_until": "2026-06-13T02:43:01.104Z"
   },
   "farzaa/clicky": {
     "first_seen": "2026-04-08T13:45:50.138Z",
@@ -7596,13 +7596,13 @@
   },
   "chojs23/concord": {
     "first_seen": "2026-05-09T13:14:04.905Z",
-    "last_seen": "2026-05-29T20:15:15.426Z",
-    "times_seen": 3,
+    "last_seen": "2026-06-06T02:43:06.823Z",
+    "times_seen": 4,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-05T20:15:15.425Z"
+    "cooldown_until": "2026-06-13T02:43:06.823Z"
   },
   "skorotkiewicz/nanorust": {
     "first_seen": "2026-05-09T13:14:05.194Z",
@@ -18974,5 +18974,179 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-19T19:49:04.269Z"
+  },
+  "trade-of-economics-in-warsaw/market-sniping-trading-bot": {
+    "first_seen": "2026-06-06T02:43:02.892Z",
+    "last_seen": "2026-06-06T02:43:02.892Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:02.892Z"
+  },
+  "jordansalas447/forza-horizon-premium-launcher": {
+    "first_seen": "2026-06-06T02:43:03.523Z",
+    "last_seen": "2026-06-06T02:43:03.523Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:03.523Z"
+  },
+  "aditlfp/hydralauncher-desktop-installer": {
+    "first_seen": "2026-06-06T02:43:03.877Z",
+    "last_seen": "2026-06-06T02:43:03.877Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:03.877Z"
+  },
+  "unicornronote/microsoft-office-activated": {
+    "first_seen": "2026-06-06T02:43:04.242Z",
+    "last_seen": "2026-06-06T02:43:04.242Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:04.242Z"
+  },
+  "djcharliebee/arc-raiders-boosts-2026": {
+    "first_seen": "2026-06-06T02:43:04.577Z",
+    "last_seen": "2026-06-06T02:43:04.577Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:04.576Z"
+  },
+  "ivandhaxxi/forzahorizon-spotify-integration": {
+    "first_seen": "2026-06-06T02:43:04.887Z",
+    "last_seen": "2026-06-06T02:43:04.887Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:04.887Z"
+  },
+  "dasun539/heroicgamelauncher-windows-setup": {
+    "first_seen": "2026-06-06T02:43:05.214Z",
+    "last_seen": "2026-06-06T02:43:05.214Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:05.214Z"
+  },
+  "navigatoruncouple/neverlose-cs2-by-nightcore-team": {
+    "first_seen": "2026-06-06T02:43:05.527Z",
+    "last_seen": "2026-06-06T02:43:05.527Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:05.527Z"
+  },
+  "iampedii/whitedns-wizard": {
+    "first_seen": "2026-06-06T02:43:05.846Z",
+    "last_seen": "2026-06-06T02:43:05.846Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:05.846Z"
+  },
+  "elder-plinius/enthea": {
+    "first_seen": "2026-06-06T02:43:06.180Z",
+    "last_seen": "2026-06-06T02:43:06.180Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:06.180Z"
+  },
+  "chaseai-yt/grill-me-codex": {
+    "first_seen": "2026-06-06T02:43:06.496Z",
+    "last_seen": "2026-06-06T02:43:06.496Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:06.496Z"
+  },
+  "ibl-tools/rawtohdri": {
+    "first_seen": "2026-06-06T02:43:07.465Z",
+    "last_seen": "2026-06-06T02:43:07.465Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-20T02:43:07.465Z"
+  },
+  "tylerjaacks/andkensakuresearch": {
+    "first_seen": "2026-06-06T02:43:07.723Z",
+    "last_seen": "2026-06-06T02:43:07.723Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-20T02:43:07.723Z"
+  },
+  "felixrieseberg/relic": {
+    "first_seen": "2026-06-06T02:43:08.044Z",
+    "last_seen": "2026-06-06T02:43:08.044Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:08.044Z"
+  },
+  "nayjest/gito": {
+    "first_seen": "2026-06-06T02:43:08.375Z",
+    "last_seen": "2026-06-06T02:43:08.375Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T02:43:08.375Z"
+  },
+  "msalsas/amanuensis": {
+    "first_seen": "2026-06-06T02:43:08.631Z",
+    "last_seen": "2026-06-06T02:43:08.631Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-20T02:43:08.631Z"
+  },
+  "studio-saelix/sencho": {
+    "first_seen": "2026-06-06T02:43:08.887Z",
+    "last_seen": "2026-06-06T02:43:08.887Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-20T02:43:08.887Z"
   }
 }
