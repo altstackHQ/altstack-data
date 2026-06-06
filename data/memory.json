@@ -19148,5 +19148,160 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-06-20T02:43:08.887Z"
+  },
+  "lbq110/weread-exporter": {
+    "first_seen": "2026-06-06T08:35:11.237Z",
+    "last_seen": "2026-06-06T08:35:11.237Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:11.231Z"
+  },
+  "aluccard992ad/twitchdropminer-desktop-setup": {
+    "first_seen": "2026-06-06T08:35:11.552Z",
+    "last_seen": "2026-06-06T08:35:11.552Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:11.552Z"
+  },
+  "melojuve31-source/kahoottoolsai-desktop-app": {
+    "first_seen": "2026-06-06T08:35:11.885Z",
+    "last_seen": "2026-06-06T08:35:11.885Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:11.885Z"
+  },
+  "junjie8/robloxaccountmanager-desktop-app": {
+    "first_seen": "2026-06-06T08:35:12.247Z",
+    "last_seen": "2026-06-06T08:35:12.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:12.247Z"
+  },
+  "alfhamdy515-svg/monkemodmanager-windows-installer-2": {
+    "first_seen": "2026-06-06T08:35:12.579Z",
+    "last_seen": "2026-06-06T08:35:12.579Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:12.579Z"
+  },
+  "flavian2222/lunarclientminecraft-windows-installer": {
+    "first_seen": "2026-06-06T08:35:12.954Z",
+    "last_seen": "2026-06-06T08:35:12.954Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:12.954Z"
+  },
+  "dogexxxe/optiscalerclient-desktop-setup": {
+    "first_seen": "2026-06-06T08:35:13.282Z",
+    "last_seen": "2026-06-06T08:35:13.282Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:13.282Z"
+  },
+  "rednote-hilab/dots.tts": {
+    "first_seen": "2026-06-06T08:35:13.675Z",
+    "last_seen": "2026-06-06T08:35:13.675Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:13.675Z"
+  },
+  "raphaelhard/auto-2026": {
+    "first_seen": "2026-06-06T08:35:14.010Z",
+    "last_seen": "2026-06-06T08:35:14.010Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:14.010Z"
+  },
+  "vxris/maante": {
+    "first_seen": "2026-06-06T08:35:14.326Z",
+    "last_seen": "2026-06-06T08:35:14.326Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T08:35:14.326Z"
+  },
+  "patriceckhart/zot-sidekick": {
+    "first_seen": "2026-06-06T08:35:14.566Z",
+    "last_seen": "2026-06-06T08:35:14.566Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-20T08:35:14.566Z"
+  },
+  "louw115/nep-ethereum-compression": {
+    "first_seen": "2026-06-06T08:35:15.244Z",
+    "last_seen": "2026-06-06T08:35:15.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-20T08:35:15.244Z"
+  },
+  "hit9/nanocode": {
+    "first_seen": "2026-06-06T08:35:15.542Z",
+    "last_seen": "2026-06-06T08:35:15.542Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-06-20T08:35:15.542Z"
+  },
+  "codesoda/paxel": {
+    "first_seen": "2026-06-06T08:35:15.782Z",
+    "last_seen": "2026-06-06T08:35:15.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-20T08:35:15.782Z"
+  },
+  "gmlion/turingllm": {
+    "first_seen": "2026-06-06T08:35:16.016Z",
+    "last_seen": "2026-06-06T08:35:16.016Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-20T08:35:16.016Z"
   }
 }
