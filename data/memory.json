@@ -19303,5 +19303,66 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-06-20T08:35:16.016Z"
+  },
+  "hoolulu/deep-research": {
+    "first_seen": "2026-06-06T13:23:01.941Z",
+    "last_seen": "2026-06-06T13:23:01.941Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T13:23:01.936Z"
+  },
+  "mysk-research/loupe": {
+    "first_seen": "2026-06-06T13:23:02.347Z",
+    "last_seen": "2026-06-06T13:23:02.347Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T13:23:02.347Z"
+  },
+  "kryu2002/gothic-1-remake-release": {
+    "first_seen": "2026-06-06T13:23:02.749Z",
+    "last_seen": "2026-06-06T13:23:02.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T13:23:02.749Z"
+  },
+  "dev-krokodile/auto": {
+    "first_seen": "2026-06-06T13:23:03.135Z",
+    "last_seen": "2026-06-06T13:23:03.135Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T13:23:03.135Z"
+  },
+  "leolope-z/crosshairx": {
+    "first_seen": "2026-06-06T13:23:03.525Z",
+    "last_seen": "2026-06-06T13:23:03.525Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T13:23:03.525Z"
+  },
+  "stormaref/sub-agent-mcp": {
+    "first_seen": "2026-06-06T13:23:04.239Z",
+    "last_seen": "2026-06-06T13:23:04.239Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-20T13:23:04.239Z"
   }
 }
