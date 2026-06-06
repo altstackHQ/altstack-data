@@ -7993,14 +7993,14 @@
   },
   "radotsvetkov/akmon": {
     "first_seen": "2026-05-10T13:14:36.451Z",
-    "last_seen": "2026-05-10T13:14:36.451Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-06T19:15:33.548Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 13,
-    "cooldown_until": "2026-05-24T13:14:36.451Z"
+    "stars": 21,
+    "cooldown_until": "2026-06-20T19:15:33.548Z"
   },
   "hash-anu/lightrag-snkv": {
     "first_seen": "2026-05-10T13:14:36.739Z",
@@ -19364,5 +19364,91 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-06-20T13:23:04.239Z"
+  },
+  "iliams2k1/tomodachi-pc": {
+    "first_seen": "2026-06-06T19:15:31.348Z",
+    "last_seen": "2026-06-06T19:15:31.348Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T19:15:31.342Z"
+  },
+  "zackthehack362b/forza-horizon-spotify-radio": {
+    "first_seen": "2026-06-06T19:15:31.688Z",
+    "last_seen": "2026-06-06T19:15:31.688Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-13T19:15:31.688Z"
+  },
+  "ingram-technologies/claude-git-sessions": {
+    "first_seen": "2026-06-06T19:15:32.303Z",
+    "last_seen": "2026-06-06T19:15:32.303Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-20T19:15:32.303Z"
+  },
+  "thgsoft/notespro": {
+    "first_seen": "2026-06-06T19:15:32.556Z",
+    "last_seen": "2026-06-06T19:15:32.556Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-20T19:15:32.556Z"
+  },
+  "yazon/oh-my-wrist": {
+    "first_seen": "2026-06-06T19:15:32.800Z",
+    "last_seen": "2026-06-06T19:15:32.800Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-06-20T19:15:32.800Z"
+  },
+  "sparckix/ztare": {
+    "first_seen": "2026-06-06T19:15:33.043Z",
+    "last_seen": "2026-06-06T19:15:33.043Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-20T19:15:33.043Z"
+  },
+  "sheremetyev/sandfence": {
+    "first_seen": "2026-06-06T19:15:33.277Z",
+    "last_seen": "2026-06-06T19:15:33.277Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-20T19:15:33.277Z"
+  },
+  "lu-wo/apple-contacts-mcp": {
+    "first_seen": "2026-06-06T19:15:33.786Z",
+    "last_seen": "2026-06-06T19:15:33.786Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-20T19:15:33.786Z"
   }
 }
