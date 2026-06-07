@@ -19717,5 +19717,154 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-06-21T08:50:47.840Z"
+  },
+  "phoenixx1202/spectrum-library": {
+    "first_seen": "2026-06-07T13:43:11.852Z",
+    "last_seen": "2026-06-07T13:43:11.852Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T13:43:11.847Z"
+  },
+  "lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay": {
+    "first_seen": "2026-06-07T13:43:12.193Z",
+    "last_seen": "2026-06-07T13:43:12.193Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T13:43:12.193Z"
+  },
+  "shahamat21201839/sims4-dls-unlocker-desktop-2": {
+    "first_seen": "2026-06-07T13:43:12.546Z",
+    "last_seen": "2026-06-07T13:43:12.546Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T13:43:12.546Z"
+  },
+  "itscentralize/hytalepanel-desktop-wizard": {
+    "first_seen": "2026-06-07T13:43:12.901Z",
+    "last_seen": "2026-06-07T13:43:12.901Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T13:43:12.901Z"
+  },
+  "marcandre259/pypolca": {
+    "first_seen": "2026-06-07T13:43:13.456Z",
+    "last_seen": "2026-06-07T13:43:13.456Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-21T13:43:13.456Z"
+  },
+  "giammarco-ferranti/deja": {
+    "first_seen": "2026-06-07T13:43:13.790Z",
+    "last_seen": "2026-06-07T13:43:13.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T13:43:13.790Z"
+  },
+  "heydev-de/pwnc": {
+    "first_seen": "2026-06-07T13:43:14.032Z",
+    "last_seen": "2026-06-07T13:43:14.032Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-21T13:43:14.032Z"
+  },
+  "toyoshi/inbox-beam": {
+    "first_seen": "2026-06-07T13:43:14.271Z",
+    "last_seen": "2026-06-07T13:43:14.271Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-21T13:43:14.271Z"
+  },
+  "teamolimpo/teamolimpo": {
+    "first_seen": "2026-06-07T13:43:14.520Z",
+    "last_seen": "2026-06-07T13:43:14.520Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-21T13:43:14.520Z"
+  },
+  "devenjarvis/lathe": {
+    "first_seen": "2026-06-07T13:43:14.756Z",
+    "last_seen": "2026-06-07T13:43:14.756Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-21T13:43:14.756Z"
+  },
+  "alexander-akhmetov/sigil-hermes": {
+    "first_seen": "2026-06-07T13:43:15.000Z",
+    "last_seen": "2026-06-07T13:43:15.000Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-21T13:43:15.000Z"
+  },
+  "arthur-ficial/bgbgone": {
+    "first_seen": "2026-06-07T13:43:15.256Z",
+    "last_seen": "2026-06-07T13:43:15.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-21T13:43:15.256Z"
+  },
+  "cznorth/winkterm": {
+    "first_seen": "2026-06-07T13:43:15.483Z",
+    "last_seen": "2026-06-07T13:43:15.483Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-06-21T13:43:15.483Z"
+  },
+  "gpdir16/tabyagent": {
+    "first_seen": "2026-06-07T13:43:15.735Z",
+    "last_seen": "2026-06-07T13:43:15.735Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-06-21T13:43:15.735Z"
   }
 }
