@@ -19686,5 +19686,36 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-06-21T03:25:25.751Z"
+  },
+  "jimliu/baoyu-design": {
+    "first_seen": "2026-06-07T08:50:46.608Z",
+    "last_seen": "2026-06-07T08:50:46.608Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T08:50:46.603Z"
+  },
+  "shoreablecorrect/canva-pro-desktop-windows": {
+    "first_seen": "2026-06-07T08:50:47.061Z",
+    "last_seen": "2026-06-07T08:50:47.061Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T08:50:47.061Z"
+  },
+  "janghyun-bin/rune": {
+    "first_seen": "2026-06-07T08:50:47.840Z",
+    "last_seen": "2026-06-07T08:50:47.840Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-21T08:50:47.840Z"
   }
 }
