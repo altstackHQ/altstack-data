@@ -19866,5 +19866,122 @@
     "reason": "low_stars",
     "stars": 10,
     "cooldown_until": "2026-06-21T13:43:15.735Z"
+  },
+  "parcle-ai/parcle-memory": {
+    "first_seen": "2026-06-07T19:15:49.703Z",
+    "last_seen": "2026-06-07T19:15:49.703Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T19:15:49.697Z"
+  },
+  "amelnagdy/guard-skills": {
+    "first_seen": "2026-06-07T19:15:50.027Z",
+    "last_seen": "2026-06-07T19:15:50.027Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T19:15:50.027Z"
+  },
+  "tryproduck/produck-oss": {
+    "first_seen": "2026-06-07T19:15:50.804Z",
+    "last_seen": "2026-06-07T19:15:50.804Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T19:15:50.804Z"
+  },
+  "beijingcao/binance-deribit-btc": {
+    "first_seen": "2026-06-07T19:15:51.289Z",
+    "last_seen": "2026-06-07T19:15:51.289Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T19:15:51.289Z"
+  },
+  "luke8086/gentleos32": {
+    "first_seen": "2026-06-07T19:15:51.854Z",
+    "last_seen": "2026-06-07T19:15:51.854Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-21T19:15:51.854Z"
+  },
+  "rochus-keller/express": {
+    "first_seen": "2026-06-07T19:15:52.093Z",
+    "last_seen": "2026-06-07T19:15:52.093Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-21T19:15:52.093Z"
+  },
+  "eric-cgn/openpayphone": {
+    "first_seen": "2026-06-07T19:15:52.349Z",
+    "last_seen": "2026-06-07T19:15:52.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-21T19:15:52.349Z"
+  },
+  "mlguyyt/agentcrew": {
+    "first_seen": "2026-06-07T19:15:52.586Z",
+    "last_seen": "2026-06-07T19:15:52.586Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-21T19:15:52.586Z"
+  },
+  "reybahl/vithos": {
+    "first_seen": "2026-06-07T19:15:52.797Z",
+    "last_seen": "2026-06-07T19:15:52.797Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-21T19:15:52.797Z"
+  },
+  "hansstam86/wibeos": {
+    "first_seen": "2026-06-07T19:15:53.022Z",
+    "last_seen": "2026-06-07T19:15:53.022Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-21T19:15:53.022Z"
+  },
+  "the-open-memory-initiative-omi/spdr": {
+    "first_seen": "2026-06-07T19:15:53.281Z",
+    "last_seen": "2026-06-07T19:15:53.281Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-21T19:15:53.281Z"
   }
 }
