@@ -19450,5 +19450,241 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-06-20T19:15:33.786Z"
+  },
+  "tupopacherryy9-cloud/metamask-openclaw-desktop": {
+    "first_seen": "2026-06-07T03:25:18.447Z",
+    "last_seen": "2026-06-07T03:25:18.447Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:18.442Z"
+  },
+  "souzazuzucalhlr/sketchfab-downloader-utility": {
+    "first_seen": "2026-06-07T03:25:18.787Z",
+    "last_seen": "2026-06-07T03:25:18.787Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:18.787Z"
+  },
+  "joseflachendro/drfone-screen-unlock-toolkit-2": {
+    "first_seen": "2026-06-07T03:25:19.114Z",
+    "last_seen": "2026-06-07T03:25:19.114Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:19.114Z"
+  },
+  "rolandojesus6666-star/system-repair-tool-2": {
+    "first_seen": "2026-06-07T03:25:19.470Z",
+    "last_seen": "2026-06-07T03:25:19.470Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:19.470Z"
+  },
+  "yuzhworkhard-wq/image-to-code": {
+    "first_seen": "2026-06-07T03:25:19.784Z",
+    "last_seen": "2026-06-07T03:25:19.784Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:19.784Z"
+  },
+  "trueugenee/ai-linux-webapp-wrapper": {
+    "first_seen": "2026-06-07T03:25:20.103Z",
+    "last_seen": "2026-06-07T03:25:20.103Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:20.103Z"
+  },
+  "biplobroy01/kmspisco-v2-portable": {
+    "first_seen": "2026-06-07T03:25:20.452Z",
+    "last_seen": "2026-06-07T03:25:20.452Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:20.452Z"
+  },
+  "petrovicar/rdr-2-menu-26": {
+    "first_seen": "2026-06-07T03:25:20.775Z",
+    "last_seen": "2026-06-07T03:25:20.775Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:20.775Z"
+  },
+  "dodo-reach/hermes-link-curator": {
+    "first_seen": "2026-06-07T03:25:21.109Z",
+    "last_seen": "2026-06-07T03:25:21.109Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:21.109Z"
+  },
+  "realrenatto/take-over": {
+    "first_seen": "2026-06-07T03:25:21.477Z",
+    "last_seen": "2026-06-07T03:25:21.477Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:21.477Z"
+  },
+  "zengxiao-he/tessera": {
+    "first_seen": "2026-06-07T03:25:21.818Z",
+    "last_seen": "2026-06-07T03:25:21.818Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:21.818Z"
+  },
+  "lucifer1004/veloq": {
+    "first_seen": "2026-06-07T03:25:22.164Z",
+    "last_seen": "2026-06-07T03:25:22.164Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:22.164Z"
+  },
+  "oscabriel/skills": {
+    "first_seen": "2026-06-07T03:25:22.475Z",
+    "last_seen": "2026-06-07T03:25:22.475Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:22.475Z"
+  },
+  "forsy-ai/forsy-trace-skill": {
+    "first_seen": "2026-06-07T03:25:22.836Z",
+    "last_seen": "2026-06-07T03:25:22.836Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:22.836Z"
+  },
+  "12britz/awesome-free-models": {
+    "first_seen": "2026-06-07T03:25:23.256Z",
+    "last_seen": "2026-06-07T03:25:23.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:23.256Z"
+  },
+  "m1ckc3s/project-fathom": {
+    "first_seen": "2026-06-07T03:25:23.589Z",
+    "last_seen": "2026-06-07T03:25:23.589Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:23.589Z"
+  },
+  "guycipher/keybench": {
+    "first_seen": "2026-06-07T03:25:23.816Z",
+    "last_seen": "2026-06-07T03:25:23.816Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-21T03:25:23.816Z"
+  },
+  "las7/takovm": {
+    "first_seen": "2026-06-07T03:25:24.444Z",
+    "last_seen": "2026-06-07T03:25:24.444Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-21T03:25:24.444Z"
+  },
+  "w-martin/typedframes": {
+    "first_seen": "2026-06-07T03:25:24.704Z",
+    "last_seen": "2026-06-07T03:25:24.704Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-21T03:25:24.704Z"
+  },
+  "rjpruitt16/aquifer": {
+    "first_seen": "2026-06-07T03:25:24.931Z",
+    "last_seen": "2026-06-07T03:25:24.931Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-21T03:25:24.931Z"
+  },
+  "conchaestradamiguelangel-droid/aegis": {
+    "first_seen": "2026-06-07T03:25:25.168Z",
+    "last_seen": "2026-06-07T03:25:25.168Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-21T03:25:25.168Z"
+  },
+  "water-run/get": {
+    "first_seen": "2026-06-07T03:25:25.489Z",
+    "last_seen": "2026-06-07T03:25:25.489Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-14T03:25:25.489Z"
+  },
+  "kodiqa-solutions/kodiqa-agent": {
+    "first_seen": "2026-06-07T03:25:25.751Z",
+    "last_seen": "2026-06-07T03:25:25.751Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-21T03:25:25.751Z"
   }
 }
