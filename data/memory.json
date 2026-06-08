@@ -20301,5 +20301,70 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-22T10:35:47.269Z"
+  },
+  "pdtpartners/typol": {
+    "first_seen": "2026-06-08T15:47:33.238Z",
+    "last_seen": "2026-06-08T15:47:33.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-22T15:47:33.232Z"
+  },
+  "kronotop/kronotop": {
+    "first_seen": "2026-06-08T15:47:34.247Z",
+    "last_seen": "2026-06-08T15:47:34.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T15:47:34.247Z"
+  },
+  "maikocode/nudgra-oss": {
+    "first_seen": "2026-06-08T15:47:34.524Z",
+    "last_seen": "2026-06-08T15:47:34.524Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-22T15:47:34.524Z"
+  },
+  "cliffano/tech-team-agents": {
+    "first_seen": "2026-06-08T15:47:34.794Z",
+    "last_seen": "2026-06-08T15:47:34.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-22T15:47:34.794Z"
+  },
+  "udit-rawat/reposignal": {
+    "first_seen": "2026-06-08T15:47:35.064Z",
+    "last_seen": "2026-06-08T15:47:35.064Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-22T15:47:35.064Z"
+  },
+  "vamshavardhan50/envguard": {
+    "first_seen": "2026-06-08T15:47:35.380Z",
+    "last_seen": "2026-06-08T15:47:35.380Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-22T15:47:35.380Z"
   }
 }
