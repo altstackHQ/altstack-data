@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-06-01T17:30:09.954Z",
-    "times_seen": 7,
+    "last_seen": "2026-06-08T20:09:16.294Z",
+    "times_seen": 8,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-08T17:30:09.949Z"
+    "cooldown_until": "2026-06-15T20:09:16.288Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -20366,5 +20366,119 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-22T15:47:35.380Z"
+  },
+  "vorpus/performativeui": {
+    "first_seen": "2026-06-08T20:09:18.189Z",
+    "last_seen": "2026-06-08T20:09:18.189Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T20:09:18.189Z"
+  },
+  "macton/nagent": {
+    "first_seen": "2026-06-08T20:09:19.223Z",
+    "last_seen": "2026-06-08T20:09:19.223Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T20:09:19.223Z"
+  },
+  "tansuo2021/adtokeil": {
+    "first_seen": "2026-06-08T20:09:19.658Z",
+    "last_seen": "2026-06-08T20:09:19.658Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T20:09:19.658Z"
+  },
+  "joyi-code/deepseekmonitorwindows": {
+    "first_seen": "2026-06-08T20:09:20.099Z",
+    "last_seen": "2026-06-08T20:09:20.099Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T20:09:20.099Z"
+  },
+  "xiaohuailabs/xiaohu-video-translate": {
+    "first_seen": "2026-06-08T20:09:20.503Z",
+    "last_seen": "2026-06-08T20:09:20.503Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T20:09:20.503Z"
+  },
+  "matt-hulme/claude-power-tools": {
+    "first_seen": "2026-06-08T20:09:20.923Z",
+    "last_seen": "2026-06-08T20:09:20.923Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T20:09:20.923Z"
+  },
+  "jwangkun/claude-for-financial-services-cn": {
+    "first_seen": "2026-06-08T20:09:21.401Z",
+    "last_seen": "2026-06-08T20:09:21.401Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T20:09:21.401Z"
+  },
+  "jaketothepast/codetutor": {
+    "first_seen": "2026-06-08T20:09:22.162Z",
+    "last_seen": "2026-06-08T20:09:22.162Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-22T20:09:22.162Z"
+  },
+  "figuerapro/hostinger-forensic-audit-pke-forensic-2026-001": {
+    "first_seen": "2026-06-08T20:09:23.446Z",
+    "last_seen": "2026-06-08T20:09:23.446Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-22T20:09:23.446Z"
+  },
+  "mattzh72/minecraft-builder-skill": {
+    "first_seen": "2026-06-08T20:09:23.702Z",
+    "last_seen": "2026-06-08T20:09:23.702Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-22T20:09:23.702Z"
+  },
+  "prashar32/riskkernel": {
+    "first_seen": "2026-06-08T20:09:23.990Z",
+    "last_seen": "2026-06-08T20:09:23.990Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-06-22T20:09:23.990Z"
   }
 }
