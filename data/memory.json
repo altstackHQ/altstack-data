@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-06-01T03:34:19.285Z",
-    "times_seen": 7,
+    "last_seen": "2026-06-08T10:35:40.775Z",
+    "times_seen": 8,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-08T03:34:19.279Z"
+    "cooldown_until": "2026-06-15T10:35:40.769Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-06-01T03:34:22.090Z",
-    "times_seen": 7,
+    "last_seen": "2026-06-08T10:35:42.632Z",
+    "times_seen": 8,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-08T03:34:22.090Z"
+    "cooldown_until": "2026-06-15T10:35:42.632Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -20208,5 +20208,98 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-22T03:31:30.321Z"
+  },
+  "gordensun/gordensuperpptskills": {
+    "first_seen": "2026-06-08T10:35:43.030Z",
+    "last_seen": "2026-06-08T10:35:43.030Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T10:35:43.030Z"
+  },
+  "adamallcock/codex-chatgpt-control": {
+    "first_seen": "2026-06-08T10:35:43.410Z",
+    "last_seen": "2026-06-08T10:35:43.410Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T10:35:43.410Z"
+  },
+  "twosevenonet/edrchoker": {
+    "first_seen": "2026-06-08T10:35:44.188Z",
+    "last_seen": "2026-06-08T10:35:44.188Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T10:35:44.188Z"
+  },
+  "supperzl/ita": {
+    "first_seen": "2026-06-08T10:35:44.581Z",
+    "last_seen": "2026-06-08T10:35:44.581Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T10:35:44.581Z"
+  },
+  "forgetmeai/freedeepseekapi": {
+    "first_seen": "2026-06-08T10:35:44.979Z",
+    "last_seen": "2026-06-08T10:35:44.979Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T10:35:44.979Z"
+  },
+  "fengzi1221/grok-reg-tool": {
+    "first_seen": "2026-06-08T10:35:45.386Z",
+    "last_seen": "2026-06-08T10:35:45.386Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-15T10:35:45.386Z"
+  },
+  "sricola/arouter": {
+    "first_seen": "2026-06-08T10:35:46.648Z",
+    "last_seen": "2026-06-08T10:35:46.648Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-22T10:35:46.648Z"
+  },
+  "skhell/pingtrace": {
+    "first_seen": "2026-06-08T10:35:46.906Z",
+    "last_seen": "2026-06-08T10:35:46.906Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-06-22T10:35:46.906Z"
+  },
+  "roshanjossey/adipoli": {
+    "first_seen": "2026-06-08T10:35:47.269Z",
+    "last_seen": "2026-06-08T10:35:47.269Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-22T10:35:47.269Z"
   }
 }
