@@ -20694,5 +20694,120 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-23T02:48:52.682Z"
+  },
+  "tencent-hunyuan/unirl": {
+    "first_seen": "2026-06-09T09:34:21.021Z",
+    "last_seen": "2026-06-09T09:34:21.021Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T09:34:21.010Z"
+  },
+  "mestankunter321391207/sketchup-vortex-pro-2026": {
+    "first_seen": "2026-06-09T09:34:21.867Z",
+    "last_seen": "2026-06-09T09:34:21.867Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T09:34:21.867Z"
+  },
+  "gokhanaksit229717488/kms-pico-m4-latest": {
+    "first_seen": "2026-06-09T09:34:22.317Z",
+    "last_seen": "2026-06-09T09:34:22.317Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T09:34:22.317Z"
+  },
+  "ye-yellow/bytedanceliveauctioni": {
+    "first_seen": "2026-06-09T09:34:23.189Z",
+    "last_seen": "2026-06-09T09:34:23.189Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T09:34:23.189Z"
+  },
+  "canwhite/microrag": {
+    "first_seen": "2026-06-09T09:34:23.603Z",
+    "last_seen": "2026-06-09T09:34:23.603Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T09:34:23.603Z"
+  },
+  "robinpie/fontliberator": {
+    "first_seen": "2026-06-09T09:34:23.899Z",
+    "last_seen": "2026-06-09T09:34:23.899Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-23T09:34:23.899Z"
+  },
+  "tjwheeler/deep-memory": {
+    "first_seen": "2026-06-09T09:34:24.166Z",
+    "last_seen": "2026-06-09T09:34:24.166Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-23T09:34:24.166Z"
+  },
+  "dhruvmehra/makememe": {
+    "first_seen": "2026-06-09T09:34:24.916Z",
+    "last_seen": "2026-06-09T09:34:24.916Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-23T09:34:24.916Z"
+  },
+  "kenm47/dbmachine": {
+    "first_seen": "2026-06-09T09:34:25.299Z",
+    "last_seen": "2026-06-09T09:34:25.299Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-23T09:34:25.299Z"
+  },
+  "mljar/supertree": {
+    "first_seen": "2026-06-09T09:34:25.857Z",
+    "last_seen": "2026-06-09T09:34:25.857Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T09:34:25.857Z"
+  },
+  "rohasnagpal/ai-blueprint": {
+    "first_seen": "2026-06-09T09:34:26.156Z",
+    "last_seen": "2026-06-09T09:34:26.156Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-06-23T09:34:26.156Z"
   }
 }
