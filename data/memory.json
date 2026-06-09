@@ -15893,13 +15893,13 @@
   },
   "kaelio/ktx": {
     "first_seen": "2026-05-28T15:40:44.433Z",
-    "last_seen": "2026-05-28T15:40:44.433Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-09T20:03:50.711Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-04T15:40:44.433Z"
+    "cooldown_until": "2026-06-16T20:03:50.711Z"
   },
   "familiar-software/familiar": {
     "first_seen": "2026-05-28T15:40:45.141Z",
@@ -20903,5 +20903,163 @@
     "reason": "low_stars",
     "stars": 17,
     "cooldown_until": "2026-06-23T14:45:42.747Z"
+  },
+  "ai-best-git-apps/ai-best-img-vid-gen": {
+    "first_seen": "2026-06-09T20:03:47.078Z",
+    "last_seen": "2026-06-09T20:03:47.078Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T20:03:47.072Z"
+  },
+  "mailfrsh409330/ios-jailbreak-software": {
+    "first_seen": "2026-06-09T20:03:47.498Z",
+    "last_seen": "2026-06-09T20:03:47.498Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T20:03:47.498Z"
+  },
+  "kadirtopaloglu668878815/team-fortress-2-modding": {
+    "first_seen": "2026-06-09T20:03:48.006Z",
+    "last_seen": "2026-06-09T20:03:48.006Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T20:03:48.006Z"
+  },
+  "jericho9464reed4431/kms-pico-latest-vers-m2": {
+    "first_seen": "2026-06-09T20:03:48.470Z",
+    "last_seen": "2026-06-09T20:03:48.470Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T20:03:48.470Z"
+  },
+  "kubraberberoglu988540743/gacha-game-simul-2": {
+    "first_seen": "2026-06-09T20:03:48.937Z",
+    "last_seen": "2026-06-09T20:03:48.937Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T20:03:48.937Z"
+  },
+  "esmabakircioglu474573898/revo-uninstaller": {
+    "first_seen": "2026-06-09T20:03:49.420Z",
+    "last_seen": "2026-06-09T20:03:49.420Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T20:03:49.420Z"
+  },
+  "denoland/clawpatrol": {
+    "first_seen": "2026-06-09T20:03:49.923Z",
+    "last_seen": "2026-06-09T20:03:49.923Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T20:03:49.923Z"
+  },
+  "arman-bd/chromiumfish": {
+    "first_seen": "2026-06-09T20:03:50.215Z",
+    "last_seen": "2026-06-09T20:03:50.215Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-06-23T20:03:50.215Z"
+  },
+  "ml-from-scratch-book/code": {
+    "first_seen": "2026-06-09T20:03:51.001Z",
+    "last_seen": "2026-06-09T20:03:51.001Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-06-23T20:03:51.001Z"
+  },
+  "npip99/autogpu": {
+    "first_seen": "2026-06-09T20:03:51.320Z",
+    "last_seen": "2026-06-09T20:03:51.320Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-23T20:03:51.320Z"
+  },
+  "pseudo-usama/hermex": {
+    "first_seen": "2026-06-09T20:03:51.668Z",
+    "last_seen": "2026-06-09T20:03:51.668Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-06-23T20:03:51.668Z"
+  },
+  "fluidform-ai/fluiddocs-deck-builder": {
+    "first_seen": "2026-06-09T20:03:51.964Z",
+    "last_seen": "2026-06-09T20:03:51.964Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-06-23T20:03:51.964Z"
+  },
+  "sudomichael/agentgraphed": {
+    "first_seen": "2026-06-09T20:03:52.267Z",
+    "last_seen": "2026-06-09T20:03:52.267Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-06-23T20:03:52.267Z"
+  },
+  "raeudigerraeffi/riddlerun": {
+    "first_seen": "2026-06-09T20:03:52.596Z",
+    "last_seen": "2026-06-09T20:03:52.596Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-23T20:03:52.596Z"
+  },
+  "gaelazzo/python_chess": {
+    "first_seen": "2026-06-09T20:03:52.907Z",
+    "last_seen": "2026-06-09T20:03:52.907Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-23T20:03:52.907Z"
   }
 }
