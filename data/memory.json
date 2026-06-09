@@ -20809,5 +20809,99 @@
     "reason": "low_stars",
     "stars": 13,
     "cooldown_until": "2026-06-23T09:34:26.156Z"
+  },
+  "jmmy9609-design/gpt-pp": {
+    "first_seen": "2026-06-09T14:45:38.576Z",
+    "last_seen": "2026-06-09T14:45:38.576Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T14:45:38.571Z"
+  },
+  "valkor-ai/loom": {
+    "first_seen": "2026-06-09T14:45:39.462Z",
+    "last_seen": "2026-06-09T14:45:39.462Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T14:45:39.462Z"
+  },
+  "ziqihe10-droid/xuefeng-agent": {
+    "first_seen": "2026-06-09T14:45:39.828Z",
+    "last_seen": "2026-06-09T14:45:39.828Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T14:45:39.828Z"
+  },
+  "apple/foundation-models-utilities": {
+    "first_seen": "2026-06-09T14:45:40.279Z",
+    "last_seen": "2026-06-09T14:45:40.279Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T14:45:40.279Z"
+  },
+  "hptwitters/ai-video-maker": {
+    "first_seen": "2026-06-09T14:45:40.684Z",
+    "last_seen": "2026-06-09T14:45:40.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T14:45:40.684Z"
+  },
+  "vladignatyev/uk-land-registry-price-paid": {
+    "first_seen": "2026-06-09T14:45:41.417Z",
+    "last_seen": "2026-06-09T14:45:41.417Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-23T14:45:41.417Z"
+  },
+  "chipmates/agoracosmica": {
+    "first_seen": "2026-06-09T14:45:41.721Z",
+    "last_seen": "2026-06-09T14:45:41.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-06-23T14:45:41.721Z"
+  },
+  "acunningham-ship-it/veilbrowser": {
+    "first_seen": "2026-06-09T14:45:42.432Z",
+    "last_seen": "2026-06-09T14:45:42.432Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-23T14:45:42.432Z"
+  },
+  "gaisbax/webhix": {
+    "first_seen": "2026-06-09T14:45:42.747Z",
+    "last_seen": "2026-06-09T14:45:42.747Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-06-23T14:45:42.747Z"
   }
 }
