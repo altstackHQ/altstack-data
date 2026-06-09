@@ -20480,5 +20480,219 @@
     "reason": "low_stars",
     "stars": 15,
     "cooldown_until": "2026-06-22T20:09:23.990Z"
+  },
+  "mythicguruforge/capc-pro": {
+    "first_seen": "2026-06-09T02:48:39.771Z",
+    "last_seen": "2026-06-09T02:48:39.771Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:39.764Z"
+  },
+  "apple/coreai-models": {
+    "first_seen": "2026-06-09T02:48:40.388Z",
+    "last_seen": "2026-06-09T02:48:40.388Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:40.388Z"
+  },
+  "ai-git-toolz/ai-nr1-apps": {
+    "first_seen": "2026-06-09T02:48:41.124Z",
+    "last_seen": "2026-06-09T02:48:41.124Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:41.124Z"
+  },
+  "ai-best-websites/ai-spicylabs": {
+    "first_seen": "2026-06-09T02:48:41.687Z",
+    "last_seen": "2026-06-09T02:48:41.687Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:41.687Z"
+  },
+  "amap-cvlab/abot-earth-0.5": {
+    "first_seen": "2026-06-09T02:48:42.321Z",
+    "last_seen": "2026-06-09T02:48:42.321Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:42.321Z"
+  },
+  "nuviomedia/nuviodesktop": {
+    "first_seen": "2026-06-09T02:48:42.981Z",
+    "last_seen": "2026-06-09T02:48:42.981Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:42.981Z"
+  },
+  "markrussinovich/linkedin-formatter": {
+    "first_seen": "2026-06-09T02:48:44.329Z",
+    "last_seen": "2026-06-09T02:48:44.329Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:44.329Z"
+  },
+  "jhljx/recsys-industrial-book": {
+    "first_seen": "2026-06-09T02:48:44.914Z",
+    "last_seen": "2026-06-09T02:48:44.914Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:44.914Z"
+  },
+  "grabgreplait/uncensored-ai-image-video-generator": {
+    "first_seen": "2026-06-09T02:48:45.440Z",
+    "last_seen": "2026-06-09T02:48:45.440Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:45.440Z"
+  },
+  "darkuaexalt20/zapret-discord-youtube": {
+    "first_seen": "2026-06-09T02:48:46.051Z",
+    "last_seen": "2026-06-09T02:48:46.051Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:46.050Z"
+  },
+  "apodexai/agentharness": {
+    "first_seen": "2026-06-09T02:48:46.714Z",
+    "last_seen": "2026-06-09T02:48:46.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:46.714Z"
+  },
+  "secret-tools/secret-tool": {
+    "first_seen": "2026-06-09T02:48:47.294Z",
+    "last_seen": "2026-06-09T02:48:47.294Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:47.294Z"
+  },
+  "jaderson-bit/mindmap-markmap-viewer": {
+    "first_seen": "2026-06-09T02:48:47.841Z",
+    "last_seen": "2026-06-09T02:48:47.841Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:47.841Z"
+  },
+  "ryderwe/sollin-music-desktop": {
+    "first_seen": "2026-06-09T02:48:48.434Z",
+    "last_seen": "2026-06-09T02:48:48.434Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:48.434Z"
+  },
+  "rainymarks/deepx": {
+    "first_seen": "2026-06-09T02:48:48.994Z",
+    "last_seen": "2026-06-09T02:48:48.994Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:48.994Z"
+  },
+  "everyinc/draft-review-kit": {
+    "first_seen": "2026-06-09T02:48:49.585Z",
+    "last_seen": "2026-06-09T02:48:49.585Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:49.585Z"
+  },
+  "octalide/mach": {
+    "first_seen": "2026-06-09T02:48:50.152Z",
+    "last_seen": "2026-06-09T02:48:50.152Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-16T02:48:50.152Z"
+  },
+  "currentspace/http3": {
+    "first_seen": "2026-06-09T02:48:50.493Z",
+    "last_seen": "2026-06-09T02:48:50.493Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-23T02:48:50.493Z"
+  },
+  "x1colegal/ustp-secure": {
+    "first_seen": "2026-06-09T02:48:51.473Z",
+    "last_seen": "2026-06-09T02:48:51.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-23T02:48:51.473Z"
+  },
+  "lore-hex/quillui": {
+    "first_seen": "2026-06-09T02:48:51.778Z",
+    "last_seen": "2026-06-09T02:48:51.778Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-23T02:48:51.778Z"
+  },
+  "anioko/spec-driven-development": {
+    "first_seen": "2026-06-09T02:48:52.682Z",
+    "last_seen": "2026-06-09T02:48:52.682Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-23T02:48:52.682Z"
   }
 }
