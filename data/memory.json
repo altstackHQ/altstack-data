@@ -21291,5 +21291,108 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-06-24T09:50:41.299Z"
+  },
+  "shadcn/improve": {
+    "first_seen": "2026-06-10T15:23:16.729Z",
+    "last_seen": "2026-06-10T15:23:16.729Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T15:23:16.724Z"
+  },
+  "sweetgersquiltion785/microsoft": {
+    "first_seen": "2026-06-10T15:23:17.528Z",
+    "last_seen": "2026-06-10T15:23:17.528Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T15:23:17.528Z"
+  },
+  "psycheclientimplode/sketchup-pro-crack-2026": {
+    "first_seen": "2026-06-10T15:23:18.349Z",
+    "last_seen": "2026-06-10T15:23:18.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T15:23:18.349Z"
+  },
+  "ai-nextgenapps/ai-img-vid-app": {
+    "first_seen": "2026-06-10T15:23:19.048Z",
+    "last_seen": "2026-06-10T15:23:19.048Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T15:23:19.048Z"
+  },
+  "priscilla6930reed6237/spotad-2026": {
+    "first_seen": "2026-06-10T15:23:19.858Z",
+    "last_seen": "2026-06-10T15:23:19.858Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T15:23:19.858Z"
+  },
+  "grzegorz-raczek-unit8/claude-quota": {
+    "first_seen": "2026-06-10T15:23:20.539Z",
+    "last_seen": "2026-06-10T15:23:20.539Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T15:23:20.539Z"
+  },
+  "pplonski/datasets-for-start": {
+    "first_seen": "2026-06-10T15:23:23.056Z",
+    "last_seen": "2026-06-10T15:23:23.056Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T15:23:23.056Z"
+  },
+  "rentruewang/inversql": {
+    "first_seen": "2026-06-10T15:23:23.488Z",
+    "last_seen": "2026-06-10T15:23:23.488Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-06-24T15:23:23.488Z"
+  },
+  "tjhdev/camel-mono": {
+    "first_seen": "2026-06-10T15:23:23.876Z",
+    "last_seen": "2026-06-10T15:23:23.876Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-24T15:23:23.876Z"
+  },
+  "aayush4vedi/drift-spark": {
+    "first_seen": "2026-06-10T15:23:24.289Z",
+    "last_seen": "2026-06-10T15:23:24.289Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-24T15:23:24.289Z"
   }
 }
