@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-06-03T03:38:30.524Z",
-    "times_seen": 2,
+    "last_seen": "2026-06-10T09:50:35.059Z",
+    "times_seen": 3,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-10T03:38:30.519Z"
+    "cooldown_until": "2026-06-17T09:50:35.053Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -21240,5 +21240,56 @@
     "reason": "low_stars",
     "stars": 9,
     "cooldown_until": "2026-06-24T02:55:45.599Z"
+  },
+  "xbuilderlab/cheat-on-money": {
+    "first_seen": "2026-06-10T09:50:37.574Z",
+    "last_seen": "2026-06-10T09:50:37.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T09:50:37.574Z"
+  },
+  "amap-ml/roleagent": {
+    "first_seen": "2026-06-10T09:50:38.066Z",
+    "last_seen": "2026-06-10T09:50:38.066Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T09:50:38.066Z"
+  },
+  "abdelstark/awesome-jepa": {
+    "first_seen": "2026-06-10T09:50:38.525Z",
+    "last_seen": "2026-06-10T09:50:38.525Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T09:50:38.525Z"
+  },
+  "plannotator/effective-html": {
+    "first_seen": "2026-06-10T09:50:39.026Z",
+    "last_seen": "2026-06-10T09:50:39.026Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-17T09:50:39.026Z"
+  },
+  "ai-sns/openclaw-hermes-agent-network": {
+    "first_seen": "2026-06-10T09:50:41.299Z",
+    "last_seen": "2026-06-10T09:50:41.299Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-24T09:50:41.299Z"
   }
 }
