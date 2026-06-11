@@ -21788,5 +21788,143 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-18T10:16:46.252Z"
+  },
+  "danilaa1/slot-text": {
+    "first_seen": "2026-06-11T15:49:46.556Z",
+    "last_seen": "2026-06-11T15:49:46.556Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T15:49:46.550Z"
+  },
+  "taisly/agent": {
+    "first_seen": "2026-06-11T15:49:47.368Z",
+    "last_seen": "2026-06-11T15:49:47.368Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T15:49:47.368Z"
+  },
+  "minimax-ai/msa": {
+    "first_seen": "2026-06-11T15:49:47.928Z",
+    "last_seen": "2026-06-11T15:49:47.928Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T15:49:47.928Z"
+  },
+  "oomol-lab/lockime": {
+    "first_seen": "2026-06-11T15:49:48.782Z",
+    "last_seen": "2026-06-11T15:49:48.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T15:49:48.782Z"
+  },
+  "fabioconcina/claumon": {
+    "first_seen": "2026-06-11T15:49:49.969Z",
+    "last_seen": "2026-06-11T15:49:49.969Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-25T15:49:49.969Z"
+  },
+  "pixdeo/editxr": {
+    "first_seen": "2026-06-11T15:49:50.272Z",
+    "last_seen": "2026-06-11T15:49:50.272Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-06-25T15:49:50.272Z"
+  },
+  "smoqadam/radiopal": {
+    "first_seen": "2026-06-11T15:49:50.544Z",
+    "last_seen": "2026-06-11T15:49:50.544Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-25T15:49:50.544Z"
+  },
+  "hyhmrright/brooks-lint": {
+    "first_seen": "2026-06-11T15:49:50.936Z",
+    "last_seen": "2026-06-11T15:49:50.936Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T15:49:50.936Z"
+  },
+  "vadika/yawac": {
+    "first_seen": "2026-06-11T15:49:51.253Z",
+    "last_seen": "2026-06-11T15:49:51.253Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-25T15:49:51.253Z"
+  },
+  "coherentforge/cambios": {
+    "first_seen": "2026-06-11T15:49:51.572Z",
+    "last_seen": "2026-06-11T15:49:51.572Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-25T15:49:51.572Z"
+  },
+  "5dive-com/5dive": {
+    "first_seen": "2026-06-11T15:49:51.915Z",
+    "last_seen": "2026-06-11T15:49:51.915Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-06-25T15:49:51.915Z"
+  },
+  "claude-schwabe/schwabe": {
+    "first_seen": "2026-06-11T15:49:52.275Z",
+    "last_seen": "2026-06-11T15:49:52.275Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-25T15:49:52.275Z"
+  },
+  "getcassis/dbt-agent-readiness": {
+    "first_seen": "2026-06-11T15:49:52.578Z",
+    "last_seen": "2026-06-11T15:49:52.578Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-25T15:49:52.578Z"
   }
 }
