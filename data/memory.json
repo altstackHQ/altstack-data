@@ -21509,5 +21509,202 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-24T20:24:47.929Z"
+  },
+  "sinotrade/shioaji-pro-app": {
+    "first_seen": "2026-06-11T03:35:17.567Z",
+    "last_seen": "2026-06-11T03:35:17.567Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:17.561Z"
+  },
+  "hunterprivatebend/kms-tools-portable-2026": {
+    "first_seen": "2026-06-11T03:35:17.937Z",
+    "last_seen": "2026-06-11T03:35:17.937Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:17.937Z"
+  },
+  "alchaincyf/fanbox": {
+    "first_seen": "2026-06-11T03:35:18.264Z",
+    "last_seen": "2026-06-11T03:35:18.264Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:18.264Z"
+  },
+  "joeseesun/qmprompter": {
+    "first_seen": "2026-06-11T03:35:18.597Z",
+    "last_seen": "2026-06-11T03:35:18.597Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:18.597Z"
+  },
+  "superagents-lab/xcode27-skills": {
+    "first_seen": "2026-06-11T03:35:18.977Z",
+    "last_seen": "2026-06-11T03:35:18.977Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:18.977Z"
+  },
+  "cobusgreyling/loop-engineering": {
+    "first_seen": "2026-06-11T03:35:19.296Z",
+    "last_seen": "2026-06-11T03:35:19.296Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:19.296Z"
+  },
+  "minjie05/knowbase_ai": {
+    "first_seen": "2026-06-11T03:35:19.643Z",
+    "last_seen": "2026-06-11T03:35:19.643Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:19.643Z"
+  },
+  "kanna12580/kk-knowledge-agent": {
+    "first_seen": "2026-06-11T03:35:20.408Z",
+    "last_seen": "2026-06-11T03:35:20.408Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:20.408Z"
+  },
+  "opensharing-io/opensharing": {
+    "first_seen": "2026-06-11T03:35:21.557Z",
+    "last_seen": "2026-06-11T03:35:21.557Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:21.557Z"
+  },
+  "skyblue997/enablemacosai": {
+    "first_seen": "2026-06-11T03:35:21.899Z",
+    "last_seen": "2026-06-11T03:35:21.899Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:21.899Z"
+  },
+  "vaultalchemistball/lossless-scaling-download-2026": {
+    "first_seen": "2026-06-11T03:35:22.236Z",
+    "last_seen": "2026-06-11T03:35:22.236Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:22.236Z"
+  },
+  "serenakeyitan/awesome-agent-loops": {
+    "first_seen": "2026-06-11T03:35:22.478Z",
+    "last_seen": "2026-06-11T03:35:22.478Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-07-11T03:35:22.478Z"
+  },
+  "avinaz/lossless-scaling-full-git": {
+    "first_seen": "2026-06-11T03:35:22.817Z",
+    "last_seen": "2026-06-11T03:35:22.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T03:35:22.817Z"
+  },
+  "mattmireles/magenta-realtime-2-iphone": {
+    "first_seen": "2026-06-11T03:35:23.055Z",
+    "last_seen": "2026-06-11T03:35:23.055Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-06-25T03:35:23.055Z"
+  },
+  "scottpurdy/llmbuffer": {
+    "first_seen": "2026-06-11T03:35:23.290Z",
+    "last_seen": "2026-06-11T03:35:23.290Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-25T03:35:23.290Z"
+  },
+  "lucasepe/kctx": {
+    "first_seen": "2026-06-11T03:35:23.525Z",
+    "last_seen": "2026-06-11T03:35:23.525Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-06-25T03:35:23.525Z"
+  },
+  "manavgup/context-analyzer": {
+    "first_seen": "2026-06-11T03:35:24.134Z",
+    "last_seen": "2026-06-11T03:35:24.134Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-25T03:35:24.134Z"
+  },
+  "decoded-cipher/nodrix": {
+    "first_seen": "2026-06-11T03:35:24.412Z",
+    "last_seen": "2026-06-11T03:35:24.412Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-06-25T03:35:24.412Z"
+  },
+  "aussiealex/agentmeter": {
+    "first_seen": "2026-06-11T03:35:24.646Z",
+    "last_seen": "2026-06-11T03:35:24.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-25T03:35:24.646Z"
   }
 }
