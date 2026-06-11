@@ -21926,5 +21926,70 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-06-25T15:49:52.578Z"
+  },
+  "cocktailpeanut/image-to-prompt": {
+    "first_seen": "2026-06-11T20:15:45.757Z",
+    "last_seen": "2026-06-11T20:15:45.757Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T20:15:45.752Z"
+  },
+  "eidentic/eidentic": {
+    "first_seen": "2026-06-11T20:15:46.934Z",
+    "last_seen": "2026-06-11T20:15:46.934Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-25T20:15:46.934Z"
+  },
+  "yendo-eng/remuda": {
+    "first_seen": "2026-06-11T20:15:47.313Z",
+    "last_seen": "2026-06-11T20:15:47.313Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-25T20:15:47.313Z"
+  },
+  "inflightsec/agent-vault-proxy": {
+    "first_seen": "2026-06-11T20:15:47.712Z",
+    "last_seen": "2026-06-11T20:15:47.712Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-06-25T20:15:47.712Z"
+  },
+  "aeriesec/orgforge": {
+    "first_seen": "2026-06-11T20:15:48.103Z",
+    "last_seen": "2026-06-11T20:15:48.103Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-06-25T20:15:48.103Z"
+  },
+  "charlycst/spadebox": {
+    "first_seen": "2026-06-11T20:15:48.507Z",
+    "last_seen": "2026-06-11T20:15:48.507Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-06-25T20:15:48.507Z"
   }
 }
