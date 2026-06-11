@@ -21706,5 +21706,87 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-06-25T03:35:24.646Z"
+  },
+  "msnightmare/greatxml": {
+    "first_seen": "2026-06-11T10:16:42.437Z",
+    "last_seen": "2026-06-11T10:16:42.437Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T10:16:42.431Z"
+  },
+  "builderio/skills": {
+    "first_seen": "2026-06-11T10:16:42.882Z",
+    "last_seen": "2026-06-11T10:16:42.882Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T10:16:42.882Z"
+  },
+  "orange2ai/orange-line-illustration": {
+    "first_seen": "2026-06-11T10:16:43.317Z",
+    "last_seen": "2026-06-11T10:16:43.317Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T10:16:43.317Z"
+  },
+  "yuricrystal/ai-avatar-bot": {
+    "first_seen": "2026-06-11T10:16:43.770Z",
+    "last_seen": "2026-06-11T10:16:43.770Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T10:16:43.770Z"
+  },
+  "leonxlnx/lumenshaders": {
+    "first_seen": "2026-06-11T10:16:44.218Z",
+    "last_seen": "2026-06-11T10:16:44.218Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T10:16:44.218Z"
+  },
+  "skorotkiewicz/grammatizator": {
+    "first_seen": "2026-06-11T10:16:45.468Z",
+    "last_seen": "2026-06-11T10:16:45.468Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-25T10:16:45.468Z"
+  },
+  "b33bmo/vaportrail": {
+    "first_seen": "2026-06-11T10:16:45.764Z",
+    "last_seen": "2026-06-11T10:16:45.764Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-25T10:16:45.764Z"
+  },
+  "addozhang/obsidian-image-upload-toolkit": {
+    "first_seen": "2026-06-11T10:16:46.252Z",
+    "last_seen": "2026-06-11T10:16:46.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-18T10:16:46.252Z"
   }
 }
