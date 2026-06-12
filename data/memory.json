@@ -22175,5 +22175,98 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-06-26T03:34:15.260Z"
+  },
+  "dietrichgebert/ponytail": {
+    "first_seen": "2026-06-12T10:04:31.056Z",
+    "last_seen": "2026-06-12T10:04:31.056Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T10:04:31.051Z"
+  },
+  "onfable/onfable": {
+    "first_seen": "2026-06-12T10:04:32.351Z",
+    "last_seen": "2026-06-12T10:04:32.351Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T10:04:32.351Z"
+  },
+  "synacktiv/dcomillusionist": {
+    "first_seen": "2026-06-12T10:04:33.659Z",
+    "last_seen": "2026-06-12T10:04:33.659Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T10:04:33.659Z"
+  },
+  "recursive-org/first-steps-toward-automated-ai-research": {
+    "first_seen": "2026-06-12T10:04:35.005Z",
+    "last_seen": "2026-06-12T10:04:35.005Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T10:04:35.005Z"
+  },
+  "gajus/zod-compiler": {
+    "first_seen": "2026-06-12T10:04:35.737Z",
+    "last_seen": "2026-06-12T10:04:35.737Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T10:04:35.737Z"
+  },
+  "arturogarrido/claudinho": {
+    "first_seen": "2026-06-12T10:04:36.836Z",
+    "last_seen": "2026-06-12T10:04:36.836Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-26T10:04:36.836Z"
+  },
+  "dapsvi/phoenix": {
+    "first_seen": "2026-06-12T10:04:37.203Z",
+    "last_seen": "2026-06-12T10:04:37.203Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-26T10:04:37.203Z"
+  },
+  "john-rocky/coreai-model-zoo": {
+    "first_seen": "2026-06-12T10:04:37.858Z",
+    "last_seen": "2026-06-12T10:04:37.858Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T10:04:37.858Z"
+  },
+  "apiant/shellshot": {
+    "first_seen": "2026-06-12T10:04:38.233Z",
+    "last_seen": "2026-06-12T10:04:38.233Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-26T10:04:38.233Z"
   }
 }
