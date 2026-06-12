@@ -21991,5 +21991,189 @@
     "reason": "low_stars",
     "stars": 14,
     "cooldown_until": "2026-06-25T20:15:48.507Z"
+  },
+  "joeseesun/qiaomu-goal-meta-skill": {
+    "first_seen": "2026-06-12T03:34:08.247Z",
+    "last_seen": "2026-06-12T03:34:08.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:08.241Z"
+  },
+  "coder/boo": {
+    "first_seen": "2026-06-12T03:34:08.976Z",
+    "last_seen": "2026-06-12T03:34:08.976Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:08.976Z"
+  },
+  "v4bel/itscape": {
+    "first_seen": "2026-06-12T03:34:09.660Z",
+    "last_seen": "2026-06-12T03:34:09.660Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:09.660Z"
+  },
+  "open-builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot": {
+    "first_seen": "2026-06-12T03:34:10.019Z",
+    "last_seen": "2026-06-12T03:34:10.019Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:10.019Z"
+  },
+  "baibanbao/x-made-easy-skill": {
+    "first_seen": "2026-06-12T03:34:10.342Z",
+    "last_seen": "2026-06-12T03:34:10.342Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:10.342Z"
+  },
+  "pseudoku/kotinos": {
+    "first_seen": "2026-06-12T03:34:10.730Z",
+    "last_seen": "2026-06-12T03:34:10.730Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:10.730Z"
+  },
+  "learnprompt/luban-skill": {
+    "first_seen": "2026-06-12T03:34:11.073Z",
+    "last_seen": "2026-06-12T03:34:11.073Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:11.073Z"
+  },
+  "rbrown101010/rilable": {
+    "first_seen": "2026-06-12T03:34:11.450Z",
+    "last_seen": "2026-06-12T03:34:11.450Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:11.450Z"
+  },
+  "vinayaklatthe/microsoft-security-skills": {
+    "first_seen": "2026-06-12T03:34:11.806Z",
+    "last_seen": "2026-06-12T03:34:11.806Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:11.806Z"
+  },
+  "vverity/inpainttranslator-edge-chrome": {
+    "first_seen": "2026-06-12T03:34:12.252Z",
+    "last_seen": "2026-06-12T03:34:12.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:12.252Z"
+  },
+  "rit3zh/expo-curved-bottom-tabs": {
+    "first_seen": "2026-06-12T03:34:12.606Z",
+    "last_seen": "2026-06-12T03:34:12.606Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:12.606Z"
+  },
+  "insiderx-pro/logiccut": {
+    "first_seen": "2026-06-12T03:34:13.034Z",
+    "last_seen": "2026-06-12T03:34:13.034Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:13.034Z"
+  },
+  "thu-nmrc/openloop": {
+    "first_seen": "2026-06-12T03:34:13.424Z",
+    "last_seen": "2026-06-12T03:34:13.424Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:13.424Z"
+  },
+  "luciobaiocchi/heard": {
+    "first_seen": "2026-06-12T03:34:14.135Z",
+    "last_seen": "2026-06-12T03:34:14.135Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-06-26T03:34:14.135Z"
+  },
+  "calypso-so/soccer-rag-mcp-server": {
+    "first_seen": "2026-06-12T03:34:14.405Z",
+    "last_seen": "2026-06-12T03:34:14.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-26T03:34:14.405Z"
+  },
+  "backnotprop/plannotator": {
+    "first_seen": "2026-06-12T03:34:14.767Z",
+    "last_seen": "2026-06-12T03:34:14.767Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T03:34:14.767Z"
+  },
+  "crlang44/aurorabg": {
+    "first_seen": "2026-06-12T03:34:15.010Z",
+    "last_seen": "2026-06-12T03:34:15.010Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-26T03:34:15.010Z"
+  },
+  "trebaud/diffcat": {
+    "first_seen": "2026-06-12T03:34:15.260Z",
+    "last_seen": "2026-06-12T03:34:15.260Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-26T03:34:15.260Z"
   }
 }
