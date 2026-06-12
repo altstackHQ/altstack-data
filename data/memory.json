@@ -5572,13 +5572,13 @@
   },
   "samchon/ttsc": {
     "first_seen": "2026-05-04T19:35:56.227Z",
-    "last_seen": "2026-05-04T19:35:56.227Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-12T14:48:51.333Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-05-11T19:35:56.227Z"
+    "cooldown_until": "2026-06-19T14:48:51.333Z"
   },
   "miladxsar23/kip-pattern": {
     "first_seen": "2026-05-04T19:35:56.487Z",
@@ -22268,5 +22268,69 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-06-26T10:04:38.233Z"
+  },
+  "skydoves/compose-nav-graph": {
+    "first_seen": "2026-06-12T14:48:49.072Z",
+    "last_seen": "2026-06-12T14:48:49.072Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T14:48:49.065Z"
+  },
+  "zhengdian1/interleavethinker": {
+    "first_seen": "2026-06-12T14:48:50.188Z",
+    "last_seen": "2026-06-12T14:48:50.188Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T14:48:50.188Z"
+  },
+  "kap-sh/aws-sdk-python": {
+    "first_seen": "2026-06-12T14:48:51.661Z",
+    "last_seen": "2026-06-12T14:48:51.661Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-26T14:48:51.661Z"
+  },
+  "dromena-xyz/quire": {
+    "first_seen": "2026-06-12T14:48:51.990Z",
+    "last_seen": "2026-06-12T14:48:51.990Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-26T14:48:51.990Z"
+  },
+  "caudena/beam_weaver": {
+    "first_seen": "2026-06-12T14:48:52.367Z",
+    "last_seen": "2026-06-12T14:48:52.367Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-26T14:48:52.367Z"
+  },
+  "sjdv1982/seamless": {
+    "first_seen": "2026-06-12T14:48:52.701Z",
+    "last_seen": "2026-06-12T14:48:52.701Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-06-26T14:48:52.701Z"
   }
 }
