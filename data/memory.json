@@ -22332,5 +22332,113 @@
     "reason": "low_stars",
     "stars": 23,
     "cooldown_until": "2026-06-26T14:48:52.701Z"
+  },
+  "lenucksi/aur-malware-check": {
+    "first_seen": "2026-06-12T20:04:51.219Z",
+    "last_seen": "2026-06-12T20:04:51.219Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T20:04:51.213Z"
+  },
+  "joeseesun/qiaomu-ai-prd": {
+    "first_seen": "2026-06-12T20:04:52.049Z",
+    "last_seen": "2026-06-12T20:04:52.049Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-19T20:04:52.049Z"
+  },
+  "matteoleonesi/bulk-delete-claude-chat": {
+    "first_seen": "2026-06-12T20:04:52.295Z",
+    "last_seen": "2026-06-12T20:04:52.295Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-06-26T20:04:52.295Z"
+  },
+  "puck-security/geiger": {
+    "first_seen": "2026-06-12T20:04:52.602Z",
+    "last_seen": "2026-06-12T20:04:52.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-26T20:04:52.602Z"
+  },
+  "vignesh2027/vilvona-ai": {
+    "first_seen": "2026-06-12T20:04:52.905Z",
+    "last_seen": "2026-06-12T20:04:52.905Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-26T20:04:52.905Z"
+  },
+  "a-funk/sharkclean-mcp": {
+    "first_seen": "2026-06-12T20:04:53.219Z",
+    "last_seen": "2026-06-12T20:04:53.219Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-26T20:04:53.219Z"
+  },
+  "meehai/microecs": {
+    "first_seen": "2026-06-12T20:04:53.471Z",
+    "last_seen": "2026-06-12T20:04:53.471Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-26T20:04:53.471Z"
+  },
+  "mi11ione/iris": {
+    "first_seen": "2026-06-12T20:04:53.742Z",
+    "last_seen": "2026-06-12T20:04:53.742Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-06-26T20:04:53.742Z"
+  },
+  "mpospirit-apps/tetherdust": {
+    "first_seen": "2026-06-12T20:04:54.046Z",
+    "last_seen": "2026-06-12T20:04:54.046Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-06-26T20:04:54.046Z"
+  },
+  "ferki-git-creator/ttar-tiny-tar-archivist": {
+    "first_seen": "2026-06-12T20:04:54.345Z",
+    "last_seen": "2026-06-12T20:04:54.345Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-26T20:04:54.345Z"
   }
 }
