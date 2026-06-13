@@ -22594,5 +22594,57 @@
     "reason": "low_stars",
     "stars": 16,
     "cooldown_until": "2026-06-27T02:54:52.103Z"
+  },
+  "bingook/bingo": {
+    "first_seen": "2026-06-13T09:03:14.059Z",
+    "last_seen": "2026-06-13T09:03:14.059Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-20T09:03:14.053Z"
+  },
+  "sunjaycy/goldeneye-recomp": {
+    "first_seen": "2026-06-13T09:03:14.834Z",
+    "last_seen": "2026-06-13T09:03:14.834Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-20T09:03:14.834Z"
+  },
+  "jia-ethan/github-solution-research": {
+    "first_seen": "2026-06-13T09:03:15.533Z",
+    "last_seen": "2026-06-13T09:03:15.533Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-20T09:03:15.532Z"
+  },
+  "vladignatyev/brain-map-skill": {
+    "first_seen": "2026-06-13T09:03:15.768Z",
+    "last_seen": "2026-06-13T09:03:15.768Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-27T09:03:15.768Z"
+  },
+  "do-say-go/web-cli": {
+    "first_seen": "2026-06-13T09:03:16.039Z",
+    "last_seen": "2026-06-13T09:03:16.039Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-27T09:03:16.039Z"
   }
 }
