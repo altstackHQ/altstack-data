@@ -23075,5 +23075,35 @@
     "reason": "low_stars",
     "stars": 7,
     "cooldown_until": "2026-06-28T03:32:29.260Z"
+  },
+  "bjarneo/kli": {
+    "first_seen": "2026-06-14T09:27:32.887Z",
+    "last_seen": "2026-06-14T09:27:32.887Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-21T09:27:32.881Z"
+  },
+  "duolahypercho/fusion-fable": {
+    "first_seen": "2026-06-14T09:27:33.260Z",
+    "last_seen": "2026-06-14T09:27:33.260Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-21T09:27:33.260Z"
+  },
+  "raine/consult-llm": {
+    "first_seen": "2026-06-14T09:27:33.636Z",
+    "last_seen": "2026-06-14T09:27:33.636Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-21T09:27:33.636Z"
   }
 }
