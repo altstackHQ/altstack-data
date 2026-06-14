@@ -23105,5 +23105,46 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-21T09:27:33.636Z"
+  },
+  "royalbhati/sqltoerdiagram": {
+    "first_seen": "2026-06-14T13:53:01.139Z",
+    "last_seen": "2026-06-14T13:53:01.139Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-21T13:53:01.131Z"
+  },
+  "eeliberto/ipa-download": {
+    "first_seen": "2026-06-14T13:53:01.608Z",
+    "last_seen": "2026-06-14T13:53:01.608Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-21T13:53:01.608Z"
+  },
+  "rotejin/tomari-guruguru": {
+    "first_seen": "2026-06-14T13:53:02.071Z",
+    "last_seen": "2026-06-14T13:53:02.071Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-21T13:53:02.071Z"
+  },
+  "memoriqme/memoriq": {
+    "first_seen": "2026-06-14T13:53:02.928Z",
+    "last_seen": "2026-06-14T13:53:02.928Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-28T13:53:02.928Z"
   }
 }
