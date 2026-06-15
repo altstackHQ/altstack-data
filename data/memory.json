@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-06-08T10:35:40.775Z",
-    "times_seen": 8,
+    "last_seen": "2026-06-15T11:55:41.174Z",
+    "times_seen": 9,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-15T10:35:40.769Z"
+    "cooldown_until": "2026-06-22T11:55:41.167Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-06-08T10:35:42.632Z",
-    "times_seen": 8,
+    "last_seen": "2026-06-15T11:55:43.629Z",
+    "times_seen": 9,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-15T10:35:42.632Z"
+    "cooldown_until": "2026-06-22T11:55:43.629Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -23522,5 +23522,97 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-06-29T03:41:59.190Z"
+  },
+  "thamer4a-afk/velocityrobloxexecutor": {
+    "first_seen": "2026-06-15T11:55:45.218Z",
+    "last_seen": "2026-06-15T11:55:45.218Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-22T11:55:45.218Z"
+  },
+  "alchaincyf/loop-engineering-orange-book": {
+    "first_seen": "2026-06-15T11:55:45.709Z",
+    "last_seen": "2026-06-15T11:55:45.709Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-22T11:55:45.709Z"
+  },
+  "jeidoban/ironsmith": {
+    "first_seen": "2026-06-15T11:55:46.219Z",
+    "last_seen": "2026-06-15T11:55:46.219Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-22T11:55:46.219Z"
+  },
+  "tamnd/ascii-gif": {
+    "first_seen": "2026-06-15T11:55:46.706Z",
+    "last_seen": "2026-06-15T11:55:46.706Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-22T11:55:46.705Z"
+  },
+  "soltia48/sdrplusplus-j-alert-plugin": {
+    "first_seen": "2026-06-15T11:55:47.219Z",
+    "last_seen": "2026-06-15T11:55:47.219Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-22T11:55:47.218Z"
+  },
+  "pzr2508/rl_for_game": {
+    "first_seen": "2026-06-15T11:55:47.729Z",
+    "last_seen": "2026-06-15T11:55:47.729Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-22T11:55:47.729Z"
+  },
+  "themartiano/luz": {
+    "first_seen": "2026-06-15T11:55:48.071Z",
+    "last_seen": "2026-06-15T11:55:48.071Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-06-29T11:55:48.071Z"
+  },
+  "light-heart-labs/dreamserver": {
+    "first_seen": "2026-06-15T11:55:48.591Z",
+    "last_seen": "2026-06-15T11:55:48.591Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-22T11:55:48.591Z"
+  },
+  "brxs/slipmate": {
+    "first_seen": "2026-06-15T11:55:49.552Z",
+    "last_seen": "2026-06-15T11:55:49.552Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-29T11:55:49.552Z"
   }
 }
