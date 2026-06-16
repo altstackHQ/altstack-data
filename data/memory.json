@@ -23970,5 +23970,158 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-06-30T03:37:01.471Z"
+  },
+  "liunian06/ko-lesson": {
+    "first_seen": "2026-06-16T11:04:06.795Z",
+    "last_seen": "2026-06-16T11:04:06.795Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:06.789Z"
+  },
+  "feijianghan/paperforge": {
+    "first_seen": "2026-06-16T11:04:07.421Z",
+    "last_seen": "2026-06-16T11:04:07.421Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:07.421Z"
+  },
+  "mohammed-sufiyan189/gta-v-panel": {
+    "first_seen": "2026-06-16T11:04:08.048Z",
+    "last_seen": "2026-06-16T11:04:08.048Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:08.048Z"
+  },
+  "cooper238719831-glitch/ccl-latest": {
+    "first_seen": "2026-06-16T11:04:08.679Z",
+    "last_seen": "2026-06-16T11:04:08.679Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:08.679Z"
+  },
+  "nitz1947/skeet-cc-game-sense-2026": {
+    "first_seen": "2026-06-16T11:04:09.272Z",
+    "last_seen": "2026-06-16T11:04:09.272Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:09.272Z"
+  },
+  "sivamahato1998-coder/rust-external-26": {
+    "first_seen": "2026-06-16T11:04:09.934Z",
+    "last_seen": "2026-06-16T11:04:09.934Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:09.934Z"
+  },
+  "lekien082/ai-photo-background-remover": {
+    "first_seen": "2026-06-16T11:04:10.579Z",
+    "last_seen": "2026-06-16T11:04:10.579Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:10.579Z"
+  },
+  "nick-dobrovolski/system-repair-tool-2": {
+    "first_seen": "2026-06-16T11:04:11.313Z",
+    "last_seen": "2026-06-16T11:04:11.313Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:11.313Z"
+  },
+  "vildev0205/steam-kg-2026m1": {
+    "first_seen": "2026-06-16T11:04:11.919Z",
+    "last_seen": "2026-06-16T11:04:11.919Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:11.919Z"
+  },
+  "mushtaq-shahria/rdr-2-menu-26": {
+    "first_seen": "2026-06-16T11:04:12.526Z",
+    "last_seen": "2026-06-16T11:04:12.526Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:12.526Z"
+  },
+  "yashcodessingh/roblox-exec-collection-desktop": {
+    "first_seen": "2026-06-16T11:04:13.195Z",
+    "last_seen": "2026-06-16T11:04:13.195Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:13.195Z"
+  },
+  "specstudio-net/aspectarian": {
+    "first_seen": "2026-06-16T11:04:14.399Z",
+    "last_seen": "2026-06-16T11:04:14.399Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-30T11:04:14.399Z"
+  },
+  "perryraskin/world-cup-tui": {
+    "first_seen": "2026-06-16T11:04:14.757Z",
+    "last_seen": "2026-06-16T11:04:14.757Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-06-30T11:04:14.757Z"
+  },
+  "hash-7777/hashmeterai": {
+    "first_seen": "2026-06-16T11:04:15.100Z",
+    "last_seen": "2026-06-16T11:04:15.100Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-06-30T11:04:15.100Z"
+  },
+  "ssg-research/locket": {
+    "first_seen": "2026-06-16T11:04:15.830Z",
+    "last_seen": "2026-06-16T11:04:15.830Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T11:04:15.830Z"
   }
 }
