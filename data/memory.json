@@ -24208,5 +24208,77 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-06-30T16:42:36.358Z"
+  },
+  "nico81/icontainer": {
+    "first_seen": "2026-06-16T20:45:49.771Z",
+    "last_seen": "2026-06-16T20:45:49.771Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T20:45:49.764Z"
+  },
+  "tfommy/capcut-pro-26": {
+    "first_seen": "2026-06-16T20:45:50.158Z",
+    "last_seen": "2026-06-16T20:45:50.158Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T20:45:50.158Z"
+  },
+  "dedalus-labs/hollywood": {
+    "first_seen": "2026-06-16T20:45:50.474Z",
+    "last_seen": "2026-06-16T20:45:50.474Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-30T20:45:50.474Z"
+  },
+  "elpulgo/azdo": {
+    "first_seen": "2026-06-16T20:45:50.891Z",
+    "last_seen": "2026-06-16T20:45:50.891Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T20:45:50.891Z"
+  },
+  "stevesolun/ctx": {
+    "first_seen": "2026-06-16T20:45:51.286Z",
+    "last_seen": "2026-06-16T20:45:51.286Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T20:45:51.286Z"
+  },
+  "ilyaizen/hcker-news-previews": {
+    "first_seen": "2026-06-16T20:45:51.566Z",
+    "last_seen": "2026-06-16T20:45:51.566Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-30T20:45:51.566Z"
+  },
+  "ctxrs/ctx": {
+    "first_seen": "2026-06-16T20:45:53.000Z",
+    "last_seen": "2026-06-16T20:45:53.000Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T20:45:53.000Z"
   }
 }
