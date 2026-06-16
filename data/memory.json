@@ -24123,5 +24123,90 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-23T11:04:15.830Z"
+  },
+  "jabo1209/cc-gen-checker": {
+    "first_seen": "2026-06-16T16:42:31.976Z",
+    "last_seen": "2026-06-16T16:42:31.976Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T16:42:31.971Z"
+  },
+  "shreyashankar/plain-writing-skill": {
+    "first_seen": "2026-06-16T16:42:32.570Z",
+    "last_seen": "2026-06-16T16:42:32.570Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T16:42:32.570Z"
+  },
+  "believer-oss/claireon": {
+    "first_seen": "2026-06-16T16:42:33.689Z",
+    "last_seen": "2026-06-16T16:42:33.689Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-30T16:42:33.689Z"
+  },
+  "hexmostech/git-lrc": {
+    "first_seen": "2026-06-16T16:42:34.276Z",
+    "last_seen": "2026-06-16T16:42:34.276Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T16:42:34.276Z"
+  },
+  "corebasehq/coremcp": {
+    "first_seen": "2026-06-16T16:42:34.646Z",
+    "last_seen": "2026-06-16T16:42:34.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-06-30T16:42:34.646Z"
+  },
+  "dimileeh/agent-workspace-fabric": {
+    "first_seen": "2026-06-16T16:42:34.980Z",
+    "last_seen": "2026-06-16T16:42:34.980Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-30T16:42:34.980Z"
+  },
+  "edgestorage/web-cap": {
+    "first_seen": "2026-06-16T16:42:35.312Z",
+    "last_seen": "2026-06-16T16:42:35.312Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-06-30T16:42:35.312Z"
+  },
+  "unixfile/kv": {
+    "first_seen": "2026-06-16T16:42:36.358Z",
+    "last_seen": "2026-06-16T16:42:36.358Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-30T16:42:36.358Z"
   }
 }
