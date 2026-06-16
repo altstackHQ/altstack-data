@@ -23742,5 +23742,233 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-06-29T20:52:02.552Z"
+  },
+  "renee-jia/scholar-loop": {
+    "first_seen": "2026-06-16T03:36:49.831Z",
+    "last_seen": "2026-06-16T03:36:49.831Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:49.825Z"
+  },
+  "amelnagdy/delegate-skills": {
+    "first_seen": "2026-06-16T03:36:50.415Z",
+    "last_seen": "2026-06-16T03:36:50.415Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:50.415Z"
+  },
+  "dongshuyan/compass-skills": {
+    "first_seen": "2026-06-16T03:36:51.142Z",
+    "last_seen": "2026-06-16T03:36:51.142Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:51.142Z"
+  },
+  "rajaniraiyn/jzon-rs": {
+    "first_seen": "2026-06-16T03:36:51.720Z",
+    "last_seen": "2026-06-16T03:36:51.720Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:51.720Z"
+  },
+  "darricke/claude-fable-5-desktop-free": {
+    "first_seen": "2026-06-16T03:36:52.282Z",
+    "last_seen": "2026-06-16T03:36:52.282Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:52.282Z"
+  },
+  "huolalatech/huolala-figma-mcp": {
+    "first_seen": "2026-06-16T03:36:52.903Z",
+    "last_seen": "2026-06-16T03:36:52.903Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:52.903Z"
+  },
+  "handpaperkun/pps_screen_tester": {
+    "first_seen": "2026-06-16T03:36:53.495Z",
+    "last_seen": "2026-06-16T03:36:53.495Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:53.495Z"
+  },
+  "vitaliikapliuk/modelharness": {
+    "first_seen": "2026-06-16T03:36:54.160Z",
+    "last_seen": "2026-06-16T03:36:54.160Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:54.160Z"
+  },
+  "ginfuvcnxr/flash-usdt-send": {
+    "first_seen": "2026-06-16T03:36:54.757Z",
+    "last_seen": "2026-06-16T03:36:54.757Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:54.757Z"
+  },
+  "slippi-project/slippi-launcher-install": {
+    "first_seen": "2026-06-16T03:36:55.378Z",
+    "last_seen": "2026-06-16T03:36:55.378Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:55.378Z"
+  },
+  "abhi01k/gemini-desktop": {
+    "first_seen": "2026-06-16T03:36:55.952Z",
+    "last_seen": "2026-06-16T03:36:55.952Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:55.952Z"
+  },
+  "momeenbarakat23/ocarina-of-time-pc-port": {
+    "first_seen": "2026-06-16T03:36:56.574Z",
+    "last_seen": "2026-06-16T03:36:56.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:56.574Z"
+  },
+  "senjul07/optiscaler-client-fsr4": {
+    "first_seen": "2026-06-16T03:36:57.191Z",
+    "last_seen": "2026-06-16T03:36:57.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:57.191Z"
+  },
+  "001tmf/harness-forge": {
+    "first_seen": "2026-06-16T03:36:57.913Z",
+    "last_seen": "2026-06-16T03:36:57.913Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-23T03:36:57.913Z"
+  },
+  "firish/claude_code_vs": {
+    "first_seen": "2026-06-16T03:36:58.238Z",
+    "last_seen": "2026-06-16T03:36:58.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-06-30T03:36:58.238Z"
+  },
+  "nz366/zero_browser": {
+    "first_seen": "2026-06-16T03:36:59.378Z",
+    "last_seen": "2026-06-16T03:36:59.378Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-06-30T03:36:59.378Z"
+  },
+  "leotheaidev/altiverse": {
+    "first_seen": "2026-06-16T03:36:59.714Z",
+    "last_seen": "2026-06-16T03:36:59.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-06-30T03:36:59.714Z"
+  },
+  "truehumanexe/concept_vector": {
+    "first_seen": "2026-06-16T03:37:00.046Z",
+    "last_seen": "2026-06-16T03:37:00.046Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-30T03:37:00.046Z"
+  },
+  "constellation-labs/gate-oc-audit": {
+    "first_seen": "2026-06-16T03:37:00.392Z",
+    "last_seen": "2026-06-16T03:37:00.392Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-06-30T03:37:00.392Z"
+  },
+  "simoneloru/legioni": {
+    "first_seen": "2026-06-16T03:37:00.726Z",
+    "last_seen": "2026-06-16T03:37:00.726Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-30T03:37:00.726Z"
+  },
+  "noodlixproject/transpilatron": {
+    "first_seen": "2026-06-16T03:37:01.109Z",
+    "last_seen": "2026-06-16T03:37:01.109Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-06-30T03:37:01.109Z"
+  },
+  "leo-dcfa/ai-latent-bias-transfer": {
+    "first_seen": "2026-06-16T03:37:01.471Z",
+    "last_seen": "2026-06-16T03:37:01.471Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-06-30T03:37:01.471Z"
   }
 }
