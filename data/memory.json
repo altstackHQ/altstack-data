@@ -24653,5 +24653,152 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-07-01T15:16:09.859Z"
+  },
+  "apothecaryseize/maya-2026-animation-workflow": {
+    "first_seen": "2026-06-17T20:08:10.722Z",
+    "last_seen": "2026-06-17T20:08:10.722Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T20:08:10.715Z"
+  },
+  "dk9902/exitlag-now": {
+    "first_seen": "2026-06-17T20:08:11.146Z",
+    "last_seen": "2026-06-17T20:08:11.146Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T20:08:11.146Z"
+  },
+  "tyxy-r/codex-referral-risk-research": {
+    "first_seen": "2026-06-17T20:08:12.075Z",
+    "last_seen": "2026-06-17T20:08:12.075Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T20:08:12.075Z"
+  },
+  "macton/differentiable-collisions-optc": {
+    "first_seen": "2026-06-17T20:08:13.008Z",
+    "last_seen": "2026-06-17T20:08:13.008Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T20:08:13.008Z"
+  },
+  "aresyn/codex-control-plane-mcp": {
+    "first_seen": "2026-06-17T20:08:13.465Z",
+    "last_seen": "2026-06-17T20:08:13.465Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T20:08:13.465Z"
+  },
+  "proxyayush/antigravity-fusion-plugin": {
+    "first_seen": "2026-06-17T20:08:13.970Z",
+    "last_seen": "2026-06-17T20:08:13.970Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T20:08:13.970Z"
+  },
+  "lunanatzy-del/wlpp-fetch-2026": {
+    "first_seen": "2026-06-17T20:08:14.474Z",
+    "last_seen": "2026-06-17T20:08:14.474Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T20:08:14.474Z"
+  },
+  "mupt-ai/relaymux": {
+    "first_seen": "2026-06-17T20:08:15.779Z",
+    "last_seen": "2026-06-17T20:08:15.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-01T20:08:15.779Z"
+  },
+  "infinite-labs-ai/infinite-os": {
+    "first_seen": "2026-06-17T20:08:16.096Z",
+    "last_seen": "2026-06-17T20:08:16.096Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-01T20:08:16.096Z"
+  },
+  "authplane/authserver": {
+    "first_seen": "2026-06-17T20:08:16.442Z",
+    "last_seen": "2026-06-17T20:08:16.442Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-07-01T20:08:16.442Z"
+  },
+  "tamnd/yomi": {
+    "first_seen": "2026-06-17T20:08:16.769Z",
+    "last_seen": "2026-06-17T20:08:16.769Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-01T20:08:16.769Z"
+  },
+  "jackulau/fusionharness": {
+    "first_seen": "2026-06-17T20:08:17.073Z",
+    "last_seen": "2026-06-17T20:08:17.073Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-01T20:08:17.073Z"
+  },
+  "the-malware-files/stegcore": {
+    "first_seen": "2026-06-17T20:08:17.357Z",
+    "last_seen": "2026-06-17T20:08:17.357Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-07-01T20:08:17.357Z"
+  },
+  "kaupang-dev/kaupang": {
+    "first_seen": "2026-06-17T20:08:17.660Z",
+    "last_seen": "2026-06-17T20:08:17.660Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-01T20:08:17.660Z"
   }
 }
