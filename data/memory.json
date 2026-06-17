@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-06-10T09:50:35.059Z",
-    "times_seen": 3,
+    "last_seen": "2026-06-17T10:54:18.614Z",
+    "times_seen": 4,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-17T09:50:35.053Z"
+    "cooldown_until": "2026-06-24T10:54:18.607Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -24444,5 +24444,118 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-01T03:36:08.149Z"
+  },
+  "plaer1/junction": {
+    "first_seen": "2026-06-17T10:54:21.235Z",
+    "last_seen": "2026-06-17T10:54:21.235Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:21.235Z"
+  },
+  "fendouai/best-humanizer-handbook": {
+    "first_seen": "2026-06-17T10:54:22.383Z",
+    "last_seen": "2026-06-17T10:54:22.383Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:22.383Z"
+  },
+  "nkosresearch/web3-casino": {
+    "first_seen": "2026-06-17T10:54:22.981Z",
+    "last_seen": "2026-06-17T10:54:22.981Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:22.981Z"
+  },
+  "aspectturtle/canva-pro-desktop-installer": {
+    "first_seen": "2026-06-17T10:54:23.518Z",
+    "last_seen": "2026-06-17T10:54:23.518Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:23.518Z"
+  },
+  "yanngotti/ns-fw-ai-adult-gen": {
+    "first_seen": "2026-06-17T10:54:24.094Z",
+    "last_seen": "2026-06-17T10:54:24.094Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:24.094Z"
+  },
+  "dososo/chinese-traditional-patterns": {
+    "first_seen": "2026-06-17T10:54:24.657Z",
+    "last_seen": "2026-06-17T10:54:24.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:24.657Z"
+  },
+  "lichamnesia/awesome-ad-video-prompts": {
+    "first_seen": "2026-06-17T10:54:25.196Z",
+    "last_seen": "2026-06-17T10:54:25.196Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:25.196Z"
+  },
+  "cryingcheems/codex-team-oauth": {
+    "first_seen": "2026-06-17T10:54:25.753Z",
+    "last_seen": "2026-06-17T10:54:25.753Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T10:54:25.753Z"
+  },
+  "tsouza/cerberus": {
+    "first_seen": "2026-06-17T10:54:27.367Z",
+    "last_seen": "2026-06-17T10:54:27.367Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-01T10:54:27.367Z"
+  },
+  "huytd/afm-grammar": {
+    "first_seen": "2026-06-17T10:54:27.688Z",
+    "last_seen": "2026-06-17T10:54:27.688Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-01T10:54:27.688Z"
+  },
+  "yuechen-li-dev/oct": {
+    "first_seen": "2026-06-17T10:54:27.986Z",
+    "last_seen": "2026-06-17T10:54:27.986Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-01T10:54:27.986Z"
   }
 }
