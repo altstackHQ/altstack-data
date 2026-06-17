@@ -24280,5 +24280,169 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-23T20:45:53.000Z"
+  },
+  "m1n-n9/paper-lifecycle": {
+    "first_seen": "2026-06-17T03:36:01.135Z",
+    "last_seen": "2026-06-17T03:36:01.135Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:01.128Z"
+  },
+  "breakermansion31/unlocktool-frp-bypass-2026": {
+    "first_seen": "2026-06-17T03:36:01.588Z",
+    "last_seen": "2026-06-17T03:36:01.588Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:01.588Z"
+  },
+  "astraltanneradjust/unlocktool-samsung-frp-bypass": {
+    "first_seen": "2026-06-17T03:36:02.030Z",
+    "last_seen": "2026-06-17T03:36:02.030Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:02.030Z"
+  },
+  "desiredruidmuse/diskgenius-partition-manager": {
+    "first_seen": "2026-06-17T03:36:02.467Z",
+    "last_seen": "2026-06-17T03:36:02.467Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:02.467Z"
+  },
+  "bottomseekerwalk/microsoft-365-office-installer": {
+    "first_seen": "2026-06-17T03:36:02.895Z",
+    "last_seen": "2026-06-17T03:36:02.895Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:02.895Z"
+  },
+  "ratters69/vanguard-vision-version-pro-2026": {
+    "first_seen": "2026-06-17T03:36:03.319Z",
+    "last_seen": "2026-06-17T03:36:03.319Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:03.319Z"
+  },
+  "vectorurvary/topaz-photo-video-ai-setup": {
+    "first_seen": "2026-06-17T03:36:03.733Z",
+    "last_seen": "2026-06-17T03:36:03.733Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:03.733Z"
+  },
+  "rajamx-cpu1/panel-collection-2026": {
+    "first_seen": "2026-06-17T03:36:04.213Z",
+    "last_seen": "2026-06-17T03:36:04.213Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:04.213Z"
+  },
+  "updatebeauticianheat/spotify-premium-patcher-2026": {
+    "first_seen": "2026-06-17T03:36:04.650Z",
+    "last_seen": "2026-06-17T03:36:04.650Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:04.650Z"
+  },
+  "rsz-arch/saturn-fn-swpr-2026-latest": {
+    "first_seen": "2026-06-17T03:36:05.104Z",
+    "last_seen": "2026-06-17T03:36:05.104Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:05.104Z"
+  },
+  "nvlabs/cutile-rs": {
+    "first_seen": "2026-06-17T03:36:05.583Z",
+    "last_seen": "2026-06-17T03:36:05.583Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:05.583Z"
+  },
+  "helmus101/weave": {
+    "first_seen": "2026-06-17T03:36:05.874Z",
+    "last_seen": "2026-06-17T03:36:05.874Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-01T03:36:05.874Z"
+  },
+  "gianiac/numax": {
+    "first_seen": "2026-06-17T03:36:06.297Z",
+    "last_seen": "2026-06-17T03:36:06.297Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-24T03:36:06.297Z"
+  },
+  "teamdzx/myllm-connect": {
+    "first_seen": "2026-06-17T03:36:07.105Z",
+    "last_seen": "2026-06-17T03:36:07.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-01T03:36:07.105Z"
+  },
+  "aditya5556/shrinkk": {
+    "first_seen": "2026-06-17T03:36:07.866Z",
+    "last_seen": "2026-06-17T03:36:07.866Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-01T03:36:07.866Z"
+  },
+  "hvardhan878/kevin": {
+    "first_seen": "2026-06-17T03:36:08.149Z",
+    "last_seen": "2026-06-17T03:36:08.149Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-01T03:36:08.149Z"
   }
 }
