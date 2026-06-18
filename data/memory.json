@@ -25133,5 +25133,121 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-25T10:16:09.866Z"
+  },
+  "kelleylenc/seed-generator": {
+    "first_seen": "2026-06-18T14:58:24.918Z",
+    "last_seen": "2026-06-18T14:58:24.918Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T14:58:24.912Z"
+  },
+  "ar9av/gemini-nano-chrome": {
+    "first_seen": "2026-06-18T14:58:26.110Z",
+    "last_seen": "2026-06-18T14:58:26.110Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T14:58:26.110Z"
+  },
+  "yeet-src/httpinspect": {
+    "first_seen": "2026-06-18T14:58:26.695Z",
+    "last_seen": "2026-06-18T14:58:26.695Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T14:58:26.695Z"
+  },
+  "reylob/lossless-scaling-git-version-collect-3": {
+    "first_seen": "2026-06-18T14:58:27.271Z",
+    "last_seen": "2026-06-18T14:58:27.271Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T14:58:27.271Z"
+  },
+  "paid-tw/einvoice": {
+    "first_seen": "2026-06-18T14:58:27.866Z",
+    "last_seen": "2026-06-18T14:58:27.866Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T14:58:27.866Z"
+  },
+  "cajal-technologies/talos": {
+    "first_seen": "2026-06-18T14:58:28.246Z",
+    "last_seen": "2026-06-18T14:58:28.246Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-07-02T14:58:28.246Z"
+  },
+  "niravrohra/honrly-app": {
+    "first_seen": "2026-06-18T14:58:29.282Z",
+    "last_seen": "2026-06-18T14:58:29.282Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-02T14:58:29.282Z"
+  },
+  "studiohaze/topaz": {
+    "first_seen": "2026-06-18T14:58:29.628Z",
+    "last_seen": "2026-06-18T14:58:29.628Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-02T14:58:29.628Z"
+  },
+  "jgennari/gorchestra": {
+    "first_seen": "2026-06-18T14:58:29.953Z",
+    "last_seen": "2026-06-18T14:58:29.953Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-02T14:58:29.953Z"
+  },
+  "saptarshi2001/asyncload": {
+    "first_seen": "2026-06-18T14:58:30.268Z",
+    "last_seen": "2026-06-18T14:58:30.268Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-02T14:58:30.268Z"
+  },
+  "polyvia-ai/polyvia": {
+    "first_seen": "2026-06-18T14:58:30.638Z",
+    "last_seen": "2026-06-18T14:58:30.638Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-02T14:58:30.638Z"
   }
 }
