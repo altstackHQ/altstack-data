@@ -24800,5 +24800,238 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-01T20:08:17.660Z"
+  },
+  "michalzaniewicz/esphome-guition-jc3636k718c-va": {
+    "first_seen": "2026-06-18T03:27:45.875Z",
+    "last_seen": "2026-06-18T03:27:45.875Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:45.868Z"
+  },
+  "r3xmax/phantomctx": {
+    "first_seen": "2026-06-18T03:27:47.192Z",
+    "last_seen": "2026-06-18T03:27:47.192Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:47.192Z"
+  },
+  "world-action-models/awesome-world-action-models": {
+    "first_seen": "2026-06-18T03:27:47.857Z",
+    "last_seen": "2026-06-18T03:27:47.857Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:47.857Z"
+  },
+  "agentcodee/cursorultra": {
+    "first_seen": "2026-06-18T03:27:48.435Z",
+    "last_seen": "2026-06-18T03:27:48.435Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:48.435Z"
+  },
+  "jassisingh08/react-native-collapsible-tab": {
+    "first_seen": "2026-06-18T03:27:49.028Z",
+    "last_seen": "2026-06-18T03:27:49.028Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:49.028Z"
+  },
+  "noumena-network/code": {
+    "first_seen": "2026-06-18T03:27:49.629Z",
+    "last_seen": "2026-06-18T03:27:49.629Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:49.629Z"
+  },
+  "sneakers-the-rat/importantcode": {
+    "first_seen": "2026-06-18T03:27:50.201Z",
+    "last_seen": "2026-06-18T03:27:50.201Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:50.201Z"
+  },
+  "atillay55/lsfg-git": {
+    "first_seen": "2026-06-18T03:27:50.783Z",
+    "last_seen": "2026-06-18T03:27:50.783Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:50.783Z"
+  },
+  "eurico55/download-tor-browser": {
+    "first_seen": "2026-06-18T03:27:51.344Z",
+    "last_seen": "2026-06-18T03:27:51.344Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:51.344Z"
+  },
+  "sorathiya123/claude-ai-free-desktop-app": {
+    "first_seen": "2026-06-18T03:27:51.916Z",
+    "last_seen": "2026-06-18T03:27:51.916Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:51.916Z"
+  },
+  "poya88/multiplerobloxinstances-": {
+    "first_seen": "2026-06-18T03:27:52.481Z",
+    "last_seen": "2026-06-18T03:27:52.481Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:52.481Z"
+  },
+  "gakiyukr/codex_team_auto": {
+    "first_seen": "2026-06-18T03:27:53.073Z",
+    "last_seen": "2026-06-18T03:27:53.073Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:53.073Z"
+  },
+  "andyhuo520/ppocrv6-studio": {
+    "first_seen": "2026-06-18T03:27:53.629Z",
+    "last_seen": "2026-06-18T03:27:53.629Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:53.629Z"
+  },
+  "kaushal-parmar/crosshairx": {
+    "first_seen": "2026-06-18T03:27:54.338Z",
+    "last_seen": "2026-06-18T03:27:54.338Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:54.338Z"
+  },
+  "twhsi/skills": {
+    "first_seen": "2026-06-18T03:27:54.893Z",
+    "last_seen": "2026-06-18T03:27:54.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:54.893Z"
+  },
+  "ling71671/open-reverselab": {
+    "first_seen": "2026-06-18T03:27:55.497Z",
+    "last_seen": "2026-06-18T03:27:55.497Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:55.497Z"
+  },
+  "birselnaure/crypto-checker": {
+    "first_seen": "2026-06-18T03:27:56.089Z",
+    "last_seen": "2026-06-18T03:27:56.089Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:56.089Z"
+  },
+  "capsulerun/vpod": {
+    "first_seen": "2026-06-18T03:27:57.541Z",
+    "last_seen": "2026-06-18T03:27:57.541Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:57.541Z"
+  },
+  "rocketgraph/rocketgraph": {
+    "first_seen": "2026-06-18T03:27:58.157Z",
+    "last_seen": "2026-06-18T03:27:58.157Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:58.157Z"
+  },
+  "agent-data/job-search": {
+    "first_seen": "2026-06-18T03:27:59.238Z",
+    "last_seen": "2026-06-18T03:27:59.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-02T03:27:59.238Z"
+  },
+  "legalrabbit-ai/legalrabbit-docx-claude-plugin": {
+    "first_seen": "2026-06-18T03:27:59.836Z",
+    "last_seen": "2026-06-18T03:27:59.836Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T03:27:59.836Z"
+  },
+  "sophia486/pii-gui": {
+    "first_seen": "2026-06-18T03:28:00.186Z",
+    "last_seen": "2026-06-18T03:28:00.186Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-02T03:28:00.186Z"
+  },
+  "conxlgtm/waylandclientkit": {
+    "first_seen": "2026-06-18T03:28:00.674Z",
+    "last_seen": "2026-06-18T03:28:00.674Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-02T03:28:00.674Z"
   }
 }
