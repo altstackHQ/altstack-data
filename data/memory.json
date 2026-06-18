@@ -25249,5 +25249,163 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-02T14:58:30.638Z"
+  },
+  "hbddevos/pumpfun-trainer_v1": {
+    "first_seen": "2026-06-18T20:19:44.343Z",
+    "last_seen": "2026-06-18T20:19:44.343Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T20:19:44.335Z"
+  },
+  "alkhudarigroupuae/pumpfun-trainer_v1": {
+    "first_seen": "2026-06-18T20:19:44.805Z",
+    "last_seen": "2026-06-18T20:19:44.805Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T20:19:44.805Z"
+  },
+  "verdi38/silent-crypto-miner": {
+    "first_seen": "2026-06-18T20:19:45.294Z",
+    "last_seen": "2026-06-18T20:19:45.294Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T20:19:45.294Z"
+  },
+  "darialebedev8/crypto-clipper": {
+    "first_seen": "2026-06-18T20:19:45.790Z",
+    "last_seen": "2026-06-18T20:19:45.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T20:19:45.790Z"
+  },
+  "patriceckhart/zot-sdk-javascript": {
+    "first_seen": "2026-06-18T20:19:46.098Z",
+    "last_seen": "2026-06-18T20:19:46.098Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-02T20:19:46.098Z"
+  },
+  "luqtas/log-mode": {
+    "first_seen": "2026-06-18T20:19:46.389Z",
+    "last_seen": "2026-06-18T20:19:46.389Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-02T20:19:46.389Z"
+  },
+  "daxaur/tabia": {
+    "first_seen": "2026-06-18T20:19:46.726Z",
+    "last_seen": "2026-06-18T20:19:46.726Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-02T20:19:46.726Z"
+  },
+  "techninja/asili": {
+    "first_seen": "2026-06-18T20:19:47.050Z",
+    "last_seen": "2026-06-18T20:19:47.050Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-02T20:19:47.050Z"
+  },
+  "gwitko/conduit": {
+    "first_seen": "2026-06-18T20:19:47.535Z",
+    "last_seen": "2026-06-18T20:19:47.535Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T20:19:47.535Z"
+  },
+  "skorotkiewicz/gimji": {
+    "first_seen": "2026-06-18T20:19:47.810Z",
+    "last_seen": "2026-06-18T20:19:47.810Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-02T20:19:47.810Z"
+  },
+  "johnyrokita/electron-expose": {
+    "first_seen": "2026-06-18T20:19:48.148Z",
+    "last_seen": "2026-06-18T20:19:48.148Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-02T20:19:48.148Z"
+  },
+  "stonesteel27/automatiq": {
+    "first_seen": "2026-06-18T20:19:48.702Z",
+    "last_seen": "2026-06-18T20:19:48.702Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T20:19:48.702Z"
+  },
+  "frane/vibesurfer": {
+    "first_seen": "2026-06-18T20:19:48.978Z",
+    "last_seen": "2026-06-18T20:19:48.978Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-02T20:19:48.978Z"
+  },
+  "multiplayer-app/multiplayer": {
+    "first_seen": "2026-06-18T20:19:49.955Z",
+    "last_seen": "2026-06-18T20:19:49.955Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-02T20:19:49.955Z"
+  },
+  "mourner/suncalc": {
+    "first_seen": "2026-06-18T20:19:50.425Z",
+    "last_seen": "2026-06-18T20:19:50.425Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T20:19:50.425Z"
   }
 }
