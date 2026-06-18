@@ -25033,5 +25033,105 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-02T03:28:00.674Z"
+  },
+  "nnecrkvenuox/formcms": {
+    "first_seen": "2026-06-18T10:16:03.410Z",
+    "last_seen": "2026-06-18T10:16:03.410Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:03.404Z"
+  },
+  "reulgeapmpetty0o/back-end-developer-interview-questions": {
+    "first_seen": "2026-06-18T10:16:03.989Z",
+    "last_seen": "2026-06-18T10:16:03.989Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:03.989Z"
+  },
+  "mstkail/polymarket-trading-bot-services-polyedge365": {
+    "first_seen": "2026-06-18T10:16:04.782Z",
+    "last_seen": "2026-06-18T10:16:04.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:04.782Z"
+  },
+  "ruanchenjian/idm-6.42-patch-lifetime-ver-26": {
+    "first_seen": "2026-06-18T10:16:06.224Z",
+    "last_seen": "2026-06-18T10:16:06.224Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:06.224Z"
+  },
+  "khaleddeko/capcut-pro-version-2026": {
+    "first_seen": "2026-06-18T10:16:06.805Z",
+    "last_seen": "2026-06-18T10:16:06.805Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:06.805Z"
+  },
+  "sam96511/acrobat-pro-2026": {
+    "first_seen": "2026-06-18T10:16:07.448Z",
+    "last_seen": "2026-06-18T10:16:07.448Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:07.448Z"
+  },
+  "sniper6969/fl-product-version-25": {
+    "first_seen": "2026-06-18T10:16:07.995Z",
+    "last_seen": "2026-06-18T10:16:07.995Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:07.995Z"
+  },
+  "roronoa266/lossless-scaling-git-version-collect-4": {
+    "first_seen": "2026-06-18T10:16:08.651Z",
+    "last_seen": "2026-06-18T10:16:08.651Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:08.651Z"
+  },
+  "tongxuluo/gamecraft-bench": {
+    "first_seen": "2026-06-18T10:16:09.252Z",
+    "last_seen": "2026-06-18T10:16:09.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:09.252Z"
+  },
+  "jayp64/monkemodmanager-windows-installer": {
+    "first_seen": "2026-06-18T10:16:09.866Z",
+    "last_seen": "2026-06-18T10:16:09.866Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-25T10:16:09.866Z"
   }
 }
