@@ -25407,5 +25407,228 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-25T20:19:50.425Z"
+  },
+  "rpanigrahi222/intruth-factcheck": {
+    "first_seen": "2026-06-19T03:50:22.304Z",
+    "last_seen": "2026-06-19T03:50:22.304Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:22.300Z"
+  },
+  "gasguardianarouse/sketchup-pro-2026": {
+    "first_seen": "2026-06-19T03:50:22.870Z",
+    "last_seen": "2026-06-19T03:50:22.870Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:22.870Z"
+  },
+  "keeperdefine/exitlag-2026": {
+    "first_seen": "2026-06-19T03:50:23.429Z",
+    "last_seen": "2026-06-19T03:50:23.429Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:23.429Z"
+  },
+  "manaclebat38/quickbooks-desktop-2026": {
+    "first_seen": "2026-06-19T03:50:23.965Z",
+    "last_seen": "2026-06-19T03:50:23.965Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:23.965Z"
+  },
+  "banengineerlabel/malwarebytes-premium-2026": {
+    "first_seen": "2026-06-19T03:50:24.555Z",
+    "last_seen": "2026-06-19T03:50:24.555Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:24.555Z"
+  },
+  "prosecutorladle/tenorshare-reiboot-2026": {
+    "first_seen": "2026-06-19T03:50:25.108Z",
+    "last_seen": "2026-06-19T03:50:25.108Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:25.108Z"
+  },
+  "pillartatrough/acronis-true-image-2026": {
+    "first_seen": "2026-06-19T03:50:25.652Z",
+    "last_seen": "2026-06-19T03:50:25.652Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:25.652Z"
+  },
+  "componentglazier/nordvpn-2026": {
+    "first_seen": "2026-06-19T03:50:26.177Z",
+    "last_seen": "2026-06-19T03:50:26.177Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:26.177Z"
+  },
+  "riverpremiercupola/ableton-live-2026": {
+    "first_seen": "2026-06-19T03:50:26.761Z",
+    "last_seen": "2026-06-19T03:50:26.761Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:26.761Z"
+  },
+  "scoutkhanstack/microsoft-word-2026": {
+    "first_seen": "2026-06-19T03:50:27.294Z",
+    "last_seen": "2026-06-19T03:50:27.294Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:27.294Z"
+  },
+  "orbitpyromancerport/autocad-2026": {
+    "first_seen": "2026-06-19T03:50:27.837Z",
+    "last_seen": "2026-06-19T03:50:27.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:27.837Z"
+  },
+  "axisvoiceupgrade/topaz-photo-ai-2026": {
+    "first_seen": "2026-06-19T03:50:28.371Z",
+    "last_seen": "2026-06-19T03:50:28.371Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:28.371Z"
+  },
+  "twilightcrabhose/teamviewer-2026": {
+    "first_seen": "2026-06-19T03:50:28.913Z",
+    "last_seen": "2026-06-19T03:50:28.913Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:28.913Z"
+  },
+  "enameltireclaim/adobe-indesign-2026": {
+    "first_seen": "2026-06-19T03:50:29.461Z",
+    "last_seen": "2026-06-19T03:50:29.461Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:29.461Z"
+  },
+  "snailwedge89/microsoft-powerpoint-2026": {
+    "first_seen": "2026-06-19T03:50:29.987Z",
+    "last_seen": "2026-06-19T03:50:29.987Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:29.987Z"
+  },
+  "sparkassassinpush/imazing-2026": {
+    "first_seen": "2026-06-19T03:50:30.551Z",
+    "last_seen": "2026-06-19T03:50:30.551Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:30.551Z"
+  },
+  "stuccomaresack/cubase-2026": {
+    "first_seen": "2026-06-19T03:50:31.101Z",
+    "last_seen": "2026-06-19T03:50:31.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:31.101Z"
+  },
+  "fletchercondense/wtfast-2026": {
+    "first_seen": "2026-06-19T03:50:31.663Z",
+    "last_seen": "2026-06-19T03:50:31.663Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:31.663Z"
+  },
+  "pondwalrusretort/matlab-2026": {
+    "first_seen": "2026-06-19T03:50:32.204Z",
+    "last_seen": "2026-06-19T03:50:32.204Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T03:50:32.204Z"
+  },
+  "spronta/crawlie": {
+    "first_seen": "2026-06-19T03:50:32.524Z",
+    "last_seen": "2026-06-19T03:50:32.524Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-03T03:50:32.524Z"
+  },
+  "jankdc/bote": {
+    "first_seen": "2026-06-19T03:50:32.831Z",
+    "last_seen": "2026-06-19T03:50:32.831Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-03T03:50:32.831Z"
+  },
+  "andreisilva1/osymandias": {
+    "first_seen": "2026-06-19T03:50:33.145Z",
+    "last_seen": "2026-06-19T03:50:33.145Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-03T03:50:33.145Z"
   }
 }
