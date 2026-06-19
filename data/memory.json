@@ -25641,5 +25641,27 @@
     "reason": "low_stars",
     "stars": 9,
     "cooldown_until": "2026-07-03T10:20:22.330Z"
+  },
+  "jaquelinejaque/quorum-saas-starter": {
+    "first_seen": "2026-06-19T14:54:57.686Z",
+    "last_seen": "2026-06-19T14:54:57.686Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-03T14:54:57.679Z"
+  },
+  "ossianericson/netsentinel": {
+    "first_seen": "2026-06-19T14:54:58.591Z",
+    "last_seen": "2026-06-19T14:54:58.591Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-03T14:54:58.591Z"
   }
 }
