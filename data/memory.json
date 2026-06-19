@@ -25663,5 +25663,101 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-07-03T14:54:58.591Z"
+  },
+  "mstkail/wc2026-crypto-sportsbook": {
+    "first_seen": "2026-06-19T19:43:59.462Z",
+    "last_seen": "2026-06-19T19:43:59.462Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T19:43:59.455Z"
+  },
+  "primitive-bench/benchpublic": {
+    "first_seen": "2026-06-19T19:43:59.911Z",
+    "last_seen": "2026-06-19T19:43:59.911Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T19:43:59.911Z"
+  },
+  "deepanwadhwa/anumaan": {
+    "first_seen": "2026-06-19T19:44:00.192Z",
+    "last_seen": "2026-06-19T19:44:00.192Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-03T19:44:00.192Z"
+  },
+  "akoenig/opentunnel": {
+    "first_seen": "2026-06-19T19:44:00.476Z",
+    "last_seen": "2026-06-19T19:44:00.476Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-03T19:44:00.476Z"
+  },
+  "alex-reysa/gluerun-go": {
+    "first_seen": "2026-06-19T19:44:00.749Z",
+    "last_seen": "2026-06-19T19:44:00.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-03T19:44:00.749Z"
+  },
+  "varnan-tech/opendirectory": {
+    "first_seen": "2026-06-19T19:44:01.200Z",
+    "last_seen": "2026-06-19T19:44:01.200Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-26T19:44:01.200Z"
+  },
+  "wyolet/relay": {
+    "first_seen": "2026-06-19T19:44:01.527Z",
+    "last_seen": "2026-06-19T19:44:01.527Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-03T19:44:01.527Z"
+  },
+  "corporatepiyush/mcp-pg-rust": {
+    "first_seen": "2026-06-19T19:44:02.273Z",
+    "last_seen": "2026-06-19T19:44:02.273Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-07-03T19:44:02.273Z"
+  },
+  "justvugg/nanoeuler": {
+    "first_seen": "2026-06-19T19:44:02.545Z",
+    "last_seen": "2026-06-19T19:44:02.545Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-03T19:44:02.545Z"
   }
 }
