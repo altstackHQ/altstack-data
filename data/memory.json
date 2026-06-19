@@ -25630,5 +25630,16 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-03T03:50:33.145Z"
+  },
+  "amal-david/pagecast": {
+    "first_seen": "2026-06-19T10:20:22.336Z",
+    "last_seen": "2026-06-19T10:20:22.336Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-03T10:20:22.330Z"
   }
 }
