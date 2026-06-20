@@ -25934,5 +25934,102 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-27T13:51:53.846Z"
+  },
+  "aidenybai/cnfast": {
+    "first_seen": "2026-06-20T19:24:56.297Z",
+    "last_seen": "2026-06-20T19:24:56.297Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T19:24:56.291Z"
+  },
+  "stephendev0/stikpair": {
+    "first_seen": "2026-06-20T19:24:57.580Z",
+    "last_seen": "2026-06-20T19:24:57.580Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T19:24:57.580Z"
+  },
+  "overflowy/make-look-scanned": {
+    "first_seen": "2026-06-20T19:24:57.922Z",
+    "last_seen": "2026-06-20T19:24:57.922Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-04T19:24:57.922Z"
+  },
+  "mitos-run/mitos": {
+    "first_seen": "2026-06-20T19:24:59.520Z",
+    "last_seen": "2026-06-20T19:24:59.520Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-04T19:24:59.520Z"
+  },
+  "hypersocialinc/namecom-cli": {
+    "first_seen": "2026-06-20T19:24:59.838Z",
+    "last_seen": "2026-06-20T19:24:59.838Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-04T19:24:59.838Z"
+  },
+  "longyijdos/hi-shell": {
+    "first_seen": "2026-06-20T19:25:00.169Z",
+    "last_seen": "2026-06-20T19:25:00.169Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-04T19:25:00.169Z"
+  },
+  "mxmilkiib/material-hack": {
+    "first_seen": "2026-06-20T19:25:00.550Z",
+    "last_seen": "2026-06-20T19:25:00.550Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-04T19:25:00.550Z"
+  },
+  "confh/tiny": {
+    "first_seen": "2026-06-20T19:25:00.892Z",
+    "last_seen": "2026-06-20T19:25:00.892Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-04T19:25:00.892Z"
+  },
+  "juancgarza/cody": {
+    "first_seen": "2026-06-20T19:25:01.204Z",
+    "last_seen": "2026-06-20T19:25:01.204Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-04T19:25:01.204Z"
   }
 }
