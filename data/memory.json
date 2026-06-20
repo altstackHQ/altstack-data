@@ -25914,5 +25914,25 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-04T08:49:09.754Z"
+  },
+  "cws6206/easyssdtester": {
+    "first_seen": "2026-06-20T13:51:53.035Z",
+    "last_seen": "2026-06-20T13:51:53.035Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T13:51:53.027Z"
+  },
+  "cloudflare/security-audit-skill": {
+    "first_seen": "2026-06-20T13:51:53.846Z",
+    "last_seen": "2026-06-20T13:51:53.846Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T13:51:53.846Z"
   }
 }
