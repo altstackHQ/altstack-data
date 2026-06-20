@@ -1757,14 +1757,14 @@
   },
   "awesome-foss/awesome-sysadmin": {
     "first_seen": "2026-04-08T13:45:47.994Z",
-    "last_seen": "2026-06-06T02:43:00.740Z",
-    "times_seen": 6,
+    "last_seen": "2026-06-20T02:53:17.430Z",
+    "times_seen": 7,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-13T02:43:00.740Z"
+    "cooldown_until": "2026-06-27T02:53:17.424Z"
   },
   "dokploy/dokploy": {
     "first_seen": "2026-04-08T13:45:48.345Z",
@@ -15248,14 +15248,14 @@
   },
   "fayzan123/claude-workflow-composer": {
     "first_seen": "2026-05-27T02:56:24.226Z",
-    "last_seen": "2026-05-27T02:56:24.226Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-20T02:53:25.149Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 1,
-    "cooldown_until": "2026-06-10T02:56:24.226Z"
+    "stars": 14,
+    "cooldown_until": "2026-07-04T02:53:25.149Z"
   },
   "srijanpatel/arq-dashboard": {
     "first_seen": "2026-05-27T02:56:24.567Z",
@@ -25759,5 +25759,117 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-03T19:44:02.545Z"
+  },
+  "qiayue/twitter-trend-radar": {
+    "first_seen": "2026-06-20T02:53:18.580Z",
+    "last_seen": "2026-06-20T02:53:18.580Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:18.580Z"
+  },
+  "caponael/delta-exec-pc-v3.6": {
+    "first_seen": "2026-06-20T02:53:19.150Z",
+    "last_seen": "2026-06-20T02:53:19.150Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:19.150Z"
+  },
+  "dirocco55freeman/lsfg-git-3": {
+    "first_seen": "2026-06-20T02:53:20.374Z",
+    "last_seen": "2026-06-20T02:53:20.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:20.374Z"
+  },
+  "blazezorsave/microsoft-excel-2026": {
+    "first_seen": "2026-06-20T02:53:20.912Z",
+    "last_seen": "2026-06-20T02:53:20.912Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:20.912Z"
+  },
+  "taboobudgiecrane/adobe-after-effects-2026": {
+    "first_seen": "2026-06-20T02:53:21.471Z",
+    "last_seen": "2026-06-20T02:53:21.471Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:21.471Z"
+  },
+  "prohibitionczarcure/expressvpn-2026": {
+    "first_seen": "2026-06-20T02:53:22.008Z",
+    "last_seen": "2026-06-20T02:53:22.008Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:22.008Z"
+  },
+  "frequencymedic/adobe-lightroom-classic-2026": {
+    "first_seen": "2026-06-20T02:53:22.544Z",
+    "last_seen": "2026-06-20T02:53:22.544Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:22.544Z"
+  },
+  "trueuechisel/lagofast-2026": {
+    "first_seen": "2026-06-20T02:53:23.074Z",
+    "last_seen": "2026-06-20T02:53:23.074Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:23.074Z"
+  },
+  "teycir/skillsguard": {
+    "first_seen": "2026-06-20T02:53:23.993Z",
+    "last_seen": "2026-06-20T02:53:23.993Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-04T02:53:23.993Z"
+  },
+  "akatzmann/slash-agent": {
+    "first_seen": "2026-06-20T02:53:24.293Z",
+    "last_seen": "2026-06-20T02:53:24.293Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-04T02:53:24.293Z"
+  },
+  "harry-kp/vortix": {
+    "first_seen": "2026-06-20T02:53:24.837Z",
+    "last_seen": "2026-06-20T02:53:24.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T02:53:24.837Z"
   }
 }
