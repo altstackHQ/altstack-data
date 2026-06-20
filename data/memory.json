@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-06-13T02:54:44.027Z",
-    "times_seen": 7,
+    "last_seen": "2026-06-20T08:49:06.026Z",
+    "times_seen": 8,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-20T02:54:44.019Z"
+    "cooldown_until": "2026-06-27T08:49:06.019Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -1779,14 +1779,14 @@
   },
   "hwdsl2/setup-ipsec-vpn": {
     "first_seen": "2026-04-08T13:45:48.674Z",
-    "last_seen": "2026-06-13T02:54:46.066Z",
-    "times_seen": 7,
+    "last_seen": "2026-06-20T08:49:07.867Z",
+    "times_seen": 8,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-20T02:54:46.066Z"
+    "cooldown_until": "2026-06-27T08:49:07.867Z"
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
@@ -1800,14 +1800,14 @@
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
-    "last_seen": "2026-06-13T02:54:45.273Z",
-    "times_seen": 7,
+    "last_seen": "2026-06-20T08:49:07.182Z",
+    "times_seen": 8,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-20T02:54:45.273Z"
+    "cooldown_until": "2026-06-27T08:49:07.182Z"
   },
   "farzaa/clicky": {
     "first_seen": "2026-04-08T13:45:50.138Z",
@@ -25871,5 +25871,48 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-27T02:53:24.837Z"
+  },
+  "forsy-ai/agent-apprenticeship": {
+    "first_seen": "2026-06-20T08:49:08.215Z",
+    "last_seen": "2026-06-20T08:49:08.215Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-27T08:49:08.215Z"
+  },
+  "agentark-ai/agentark": {
+    "first_seen": "2026-06-20T08:49:08.894Z",
+    "last_seen": "2026-06-20T08:49:08.894Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-04T08:49:08.894Z"
+  },
+  "linxiv-dev/linxiv": {
+    "first_seen": "2026-06-20T08:49:09.531Z",
+    "last_seen": "2026-06-20T08:49:09.531Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-04T08:49:09.531Z"
+  },
+  "breadmsa/pytest-tia": {
+    "first_seen": "2026-06-20T08:49:09.754Z",
+    "last_seen": "2026-06-20T08:49:09.754Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-04T08:49:09.754Z"
   }
 }
