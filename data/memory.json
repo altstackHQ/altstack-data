@@ -26392,5 +26392,57 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-05T09:43:51.351Z"
+  },
+  "rams-techhub/valex-exec-v3.6": {
+    "first_seen": "2026-06-21T14:00:04.084Z",
+    "last_seen": "2026-06-21T14:00:04.084Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-28T14:00:04.077Z"
+  },
+  "fixiied/frbrik": {
+    "first_seen": "2026-06-21T14:00:05.399Z",
+    "last_seen": "2026-06-21T14:00:05.399Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-28T14:00:05.399Z"
+  },
+  "giovannicst/termtype": {
+    "first_seen": "2026-06-21T14:00:06.146Z",
+    "last_seen": "2026-06-21T14:00:06.146Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-05T14:00:06.146Z"
+  },
+  "paytonjjones/bsharp": {
+    "first_seen": "2026-06-21T14:00:06.409Z",
+    "last_seen": "2026-06-21T14:00:06.409Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-05T14:00:06.409Z"
+  },
+  "demchaav/graphcompose": {
+    "first_seen": "2026-06-21T14:00:06.848Z",
+    "last_seen": "2026-06-21T14:00:06.848Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-28T14:00:06.848Z"
   }
 }
