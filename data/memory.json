@@ -26351,5 +26351,46 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-07-05T03:38:22.386Z"
+  },
+  "clent267/funcaptchav3": {
+    "first_seen": "2026-06-21T09:43:48.648Z",
+    "last_seen": "2026-06-21T09:43:48.648Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-28T09:43:48.641Z"
+  },
+  "skytii123/tradingviewpro": {
+    "first_seen": "2026-06-21T09:43:48.982Z",
+    "last_seen": "2026-06-21T09:43:48.982Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-28T09:43:48.982Z"
+  },
+  "ethanhq/cc-fleet": {
+    "first_seen": "2026-06-21T09:43:51.097Z",
+    "last_seen": "2026-06-21T09:43:51.097Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-28T09:43:51.097Z"
+  },
+  "akratch/mgb64": {
+    "first_seen": "2026-06-21T09:43:51.351Z",
+    "last_seen": "2026-06-21T09:43:51.351Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-05T09:43:51.351Z"
   }
 }
