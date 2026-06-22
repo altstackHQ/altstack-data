@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-06-15T11:55:41.174Z",
-    "times_seen": 9,
+    "last_seen": "2026-06-22T16:47:58.153Z",
+    "times_seen": 10,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-22T11:55:41.167Z"
+    "cooldown_until": "2026-06-29T16:47:58.147Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-06-15T11:55:43.629Z",
-    "times_seen": 9,
+    "last_seen": "2026-06-22T16:47:59.995Z",
+    "times_seen": 10,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-22T11:55:43.629Z"
+    "cooldown_until": "2026-06-29T16:47:59.995Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -27025,5 +27025,174 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-29T11:45:36.543Z"
+  },
+  "stoneclerkrevitalize/lossless-scaling-download-2026": {
+    "first_seen": "2026-06-22T16:48:00.417Z",
+    "last_seen": "2026-06-22T16:48:00.417Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T16:48:00.417Z"
+  },
+  "restamongembroider/fortnite-utility": {
+    "first_seen": "2026-06-22T16:48:01.861Z",
+    "last_seen": "2026-06-22T16:48:01.861Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T16:48:01.861Z"
+  },
+  "ingriddaleusag-dotcom/picktv": {
+    "first_seen": "2026-06-22T16:48:02.273Z",
+    "last_seen": "2026-06-22T16:48:02.273Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T16:48:02.273Z"
+  },
+  "ponyodong2026/ponyo-cover-anchor-system": {
+    "first_seen": "2026-06-22T16:48:02.708Z",
+    "last_seen": "2026-06-22T16:48:02.708Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T16:48:02.708Z"
+  },
+  "tianjiangqiji/nova-image-studio": {
+    "first_seen": "2026-06-22T16:48:03.112Z",
+    "last_seen": "2026-06-22T16:48:03.112Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T16:48:03.112Z"
+  },
+  "kyle-ssg/kyde": {
+    "first_seen": "2026-06-22T16:48:03.448Z",
+    "last_seen": "2026-06-22T16:48:03.448Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-06T16:48:03.448Z"
+  },
+  "zamesin/next-move-theory-canon-and-skills": {
+    "first_seen": "2026-06-22T16:48:03.948Z",
+    "last_seen": "2026-06-22T16:48:03.948Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T16:48:03.948Z"
+  },
+  "intuned/selector-forge": {
+    "first_seen": "2026-06-22T16:48:04.276Z",
+    "last_seen": "2026-06-22T16:48:04.276Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-07-06T16:48:04.276Z"
+  },
+  "jghub/ze": {
+    "first_seen": "2026-06-22T16:48:05.081Z",
+    "last_seen": "2026-06-22T16:48:05.081Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-06T16:48:05.081Z"
+  },
+  "rufus-sd/prismag": {
+    "first_seen": "2026-06-22T16:48:05.344Z",
+    "last_seen": "2026-06-22T16:48:05.344Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-06T16:48:05.344Z"
+  },
+  "jackulau/ratchet": {
+    "first_seen": "2026-06-22T16:48:05.657Z",
+    "last_seen": "2026-06-22T16:48:05.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-06T16:48:05.657Z"
+  },
+  "amanharshx/vision-export-studio": {
+    "first_seen": "2026-06-22T16:48:05.995Z",
+    "last_seen": "2026-06-22T16:48:05.995Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-07-06T16:48:05.995Z"
+  },
+  "precious112/argus": {
+    "first_seen": "2026-06-22T16:48:06.287Z",
+    "last_seen": "2026-06-22T16:48:06.287Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-06T16:48:06.287Z"
+  },
+  "av29nassh-sketch/preflight": {
+    "first_seen": "2026-06-22T16:48:06.610Z",
+    "last_seen": "2026-06-22T16:48:06.610Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-06T16:48:06.610Z"
+  },
+  "telepat-io/otto": {
+    "first_seen": "2026-06-22T16:48:07.046Z",
+    "last_seen": "2026-06-22T16:48:07.046Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T16:48:07.046Z"
+  },
+  "challenga-org/openlanguage": {
+    "first_seen": "2026-06-22T16:48:07.373Z",
+    "last_seen": "2026-06-22T16:48:07.373Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-06T16:48:07.372Z"
   }
 }
