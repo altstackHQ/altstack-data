@@ -26444,5 +26444,402 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-28T14:00:06.848Z"
+  },
+  "andralien/synapse-exec": {
+    "first_seen": "2026-06-22T03:42:13.970Z",
+    "last_seen": "2026-06-22T03:42:13.970Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:13.962Z"
+  },
+  "aresleboss2005/solara-exec": {
+    "first_seen": "2026-06-22T03:42:14.444Z",
+    "last_seen": "2026-06-22T03:42:14.444Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:14.444Z"
+  },
+  "yo-wassup/good-badminton": {
+    "first_seen": "2026-06-22T03:42:15.936Z",
+    "last_seen": "2026-06-22T03:42:15.936Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:15.936Z"
+  },
+  "binghe1980/ai-canvas": {
+    "first_seen": "2026-06-22T03:42:16.391Z",
+    "last_seen": "2026-06-22T03:42:16.391Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:16.391Z"
+  },
+  "kontaktinfob-popeb-music-glitch/pokemon-champions-pc": {
+    "first_seen": "2026-06-22T03:42:16.860Z",
+    "last_seen": "2026-06-22T03:42:16.860Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:16.860Z"
+  },
+  "dikurdikur/palmier-pro-windows": {
+    "first_seen": "2026-06-22T03:42:17.345Z",
+    "last_seen": "2026-06-22T03:42:17.345Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:17.345Z"
+  },
+  "pixelgridhub-coder/gothic-remake-lockpick-solver": {
+    "first_seen": "2026-06-22T03:42:17.908Z",
+    "last_seen": "2026-06-22T03:42:17.908Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:17.908Z"
+  },
+  "pierosierra/secondbrain": {
+    "first_seen": "2026-06-22T03:42:18.397Z",
+    "last_seen": "2026-06-22T03:42:18.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:18.397Z"
+  },
+  "faizhameed/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:18.836Z",
+    "last_seen": "2026-06-22T03:42:18.836Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:18.836Z"
+  },
+  "helena-maia/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:19.297Z",
+    "last_seen": "2026-06-22T03:42:19.297Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:19.297Z"
+  },
+  "estebangitpro/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:19.775Z",
+    "last_seen": "2026-06-22T03:42:19.775Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:19.775Z"
+  },
+  "iam7cn/resident-evil-requiem-ultimate-trainer-2026": {
+    "first_seen": "2026-06-22T03:42:20.253Z",
+    "last_seen": "2026-06-22T03:42:20.253Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:20.253Z"
+  },
+  "ugbeh/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:20.732Z",
+    "last_seen": "2026-06-22T03:42:20.732Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:20.732Z"
+  },
+  "jay0078-gif/paralives-ultimate-trainer-2026": {
+    "first_seen": "2026-06-22T03:42:21.212Z",
+    "last_seen": "2026-06-22T03:42:21.212Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:21.212Z"
+  },
+  "faizhameed/gothic-1-remake-trainer-2026": {
+    "first_seen": "2026-06-22T03:42:21.704Z",
+    "last_seen": "2026-06-22T03:42:21.704Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:21.704Z"
+  },
+  "memomostafakamel/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:22.172Z",
+    "last_seen": "2026-06-22T03:42:22.172Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:22.172Z"
+  },
+  "nguyendang0106/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:22.636Z",
+    "last_seen": "2026-06-22T03:42:22.636Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:22.636Z"
+  },
+  "schmobi85/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:23.110Z",
+    "last_seen": "2026-06-22T03:42:23.110Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:23.110Z"
+  },
+  "jay0078-gif/resident-evil-requiem-ultimate-trainer-2026": {
+    "first_seen": "2026-06-22T03:42:23.602Z",
+    "last_seen": "2026-06-22T03:42:23.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:23.602Z"
+  },
+  "yheun03/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-22T03:42:24.061Z",
+    "last_seen": "2026-06-22T03:42:24.061Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:24.061Z"
+  },
+  "raiyanyahya/recall": {
+    "first_seen": "2026-06-22T03:42:24.503Z",
+    "last_seen": "2026-06-22T03:42:24.503Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T03:42:24.503Z"
+  },
+  "harihkk/debug-brief": {
+    "first_seen": "2026-06-22T03:42:24.779Z",
+    "last_seen": "2026-06-22T03:42:24.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-06T03:42:24.779Z"
+  },
+  "djakish/sana": {
+    "first_seen": "2026-06-22T03:42:25.068Z",
+    "last_seen": "2026-06-22T03:42:25.068Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-06T03:42:25.068Z"
+  },
+  "ductrl/commitgate": {
+    "first_seen": "2026-06-22T03:42:25.364Z",
+    "last_seen": "2026-06-22T03:42:25.364Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-06T03:42:25.364Z"
+  },
+  "cloakward/cloak": {
+    "first_seen": "2026-06-22T03:42:25.650Z",
+    "last_seen": "2026-06-22T03:42:25.650Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-06T03:42:25.650Z"
+  },
+  "ahmetvural79/tunr": {
+    "first_seen": "2026-06-22T03:42:25.931Z",
+    "last_seen": "2026-06-22T03:42:25.931Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-06T03:42:25.931Z"
+  },
+  "wirewright/wirewright": {
+    "first_seen": "2026-06-22T03:42:26.230Z",
+    "last_seen": "2026-06-22T03:42:26.230Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-07-06T03:42:26.230Z"
+  },
+  "pilotpirxie/ai-colours": {
+    "first_seen": "2026-06-22T03:42:26.528Z",
+    "last_seen": "2026-06-22T03:42:26.528Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-06T03:42:26.528Z"
+  },
+  "oussamakh63/peekai": {
+    "first_seen": "2026-06-22T03:42:26.808Z",
+    "last_seen": "2026-06-22T03:42:26.808Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-06T03:42:26.808Z"
+  },
+  "plannotator/tot": {
+    "first_seen": "2026-06-22T03:42:27.101Z",
+    "last_seen": "2026-06-22T03:42:27.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-07-06T03:42:27.101Z"
+  },
+  "skillful-fox-studio/grey-fox-community": {
+    "first_seen": "2026-06-22T03:42:27.403Z",
+    "last_seen": "2026-06-22T03:42:27.403Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-06T03:42:27.403Z"
+  },
+  "tilework-tech/nori-browser": {
+    "first_seen": "2026-06-22T03:42:27.725Z",
+    "last_seen": "2026-06-22T03:42:27.725Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-06T03:42:27.725Z"
+  },
+  "theculliganman/crystal-llm": {
+    "first_seen": "2026-06-22T03:42:28.022Z",
+    "last_seen": "2026-06-22T03:42:28.022Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-06T03:42:28.022Z"
+  },
+  "deftio/quikdown": {
+    "first_seen": "2026-06-22T03:42:28.321Z",
+    "last_seen": "2026-06-22T03:42:28.321Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-07-06T03:42:28.321Z"
+  },
+  "danielz1-tech/shelve": {
+    "first_seen": "2026-06-22T03:42:28.595Z",
+    "last_seen": "2026-06-22T03:42:28.595Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-06T03:42:28.595Z"
+  },
+  "alexajuno/phileas": {
+    "first_seen": "2026-06-22T03:42:28.885Z",
+    "last_seen": "2026-06-22T03:42:28.885Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-06T03:42:28.885Z"
+  },
+  "anma-labs/anma": {
+    "first_seen": "2026-06-22T03:42:29.192Z",
+    "last_seen": "2026-06-22T03:42:29.192Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-06T03:42:29.192Z"
+  },
+  "whissleai/lie_detection_binary": {
+    "first_seen": "2026-06-22T03:42:29.516Z",
+    "last_seen": "2026-06-22T03:42:29.516Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-06T03:42:29.516Z"
   }
 }
