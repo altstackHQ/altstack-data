@@ -27194,5 +27194,117 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-07-06T16:48:07.372Z"
+  },
+  "mguelfedrigo/jenny-mod-jar": {
+    "first_seen": "2026-06-22T20:40:07.314Z",
+    "last_seen": "2026-06-22T20:40:07.314Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:07.309Z"
+  },
+  "rithwiksm77-wq/spoof-engine": {
+    "first_seen": "2026-06-22T20:40:08.797Z",
+    "last_seen": "2026-06-22T20:40:08.797Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:08.797Z"
+  },
+  "yashaswini589/idm-manager-lifetime": {
+    "first_seen": "2026-06-22T20:40:09.484Z",
+    "last_seen": "2026-06-22T20:40:09.484Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:09.484Z"
+  },
+  "combat-ankit-fit/fortnite-panel-latest": {
+    "first_seen": "2026-06-22T20:40:10.378Z",
+    "last_seen": "2026-06-22T20:40:10.378Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:10.378Z"
+  },
+  "anfalalsarraf-cmyk/meccha-chameleon-project": {
+    "first_seen": "2026-06-22T20:40:11.117Z",
+    "last_seen": "2026-06-22T20:40:11.117Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:11.117Z"
+  },
+  "mitalii-2403/lossless-scaling-latestversion-2026": {
+    "first_seen": "2026-06-22T20:40:11.743Z",
+    "last_seen": "2026-06-22T20:40:11.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:11.743Z"
+  },
+  "andy78787878/lsfg-fpsgithub": {
+    "first_seen": "2026-06-22T20:40:12.370Z",
+    "last_seen": "2026-06-22T20:40:12.370Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:12.370Z"
+  },
+  "rista-student/ryujinx-emulator-latest": {
+    "first_seen": "2026-06-22T20:40:13.010Z",
+    "last_seen": "2026-06-22T20:40:13.010Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:13.010Z"
+  },
+  "kuatsu/react-native-boost": {
+    "first_seen": "2026-06-22T20:40:15.170Z",
+    "last_seen": "2026-06-22T20:40:15.170Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-29T20:40:15.170Z"
+  },
+  "bartaxyz/gitpt": {
+    "first_seen": "2026-06-22T20:40:15.519Z",
+    "last_seen": "2026-06-22T20:40:15.519Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-07-06T20:40:15.519Z"
+  },
+  "hatsu38/ghtrack": {
+    "first_seen": "2026-06-22T20:40:15.866Z",
+    "last_seen": "2026-06-22T20:40:15.866Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-06T20:40:15.866Z"
   }
 }
