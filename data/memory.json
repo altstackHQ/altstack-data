@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-06-15T20:51:55.713Z",
-    "times_seen": 9,
+    "last_seen": "2026-06-23T02:47:24.540Z",
+    "times_seen": 10,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-22T20:51:55.707Z"
+    "cooldown_until": "2026-06-30T02:47:24.532Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -27306,5 +27306,157 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-06T20:40:15.866Z"
+  },
+  "manojd23625/steam-tools": {
+    "first_seen": "2026-06-23T02:47:27.143Z",
+    "last_seen": "2026-06-23T02:47:27.143Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:27.143Z"
+  },
+  "bohemiainteractive/cwr": {
+    "first_seen": "2026-06-23T02:47:27.737Z",
+    "last_seen": "2026-06-23T02:47:27.737Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:27.737Z"
+  },
+  "alij83/multiplerobloxinstances": {
+    "first_seen": "2026-06-23T02:47:28.324Z",
+    "last_seen": "2026-06-23T02:47:28.324Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:28.324Z"
+  },
+  "aafronala/voidstrap-roblox-github": {
+    "first_seen": "2026-06-23T02:47:28.884Z",
+    "last_seen": "2026-06-23T02:47:28.884Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:28.884Z"
+  },
+  "fieldofstrawberries/claude-code-fable-5-free-app": {
+    "first_seen": "2026-06-23T02:47:29.473Z",
+    "last_seen": "2026-06-23T02:47:29.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:29.473Z"
+  },
+  "pipilikam/pro-dc-reader-pdf-editor": {
+    "first_seen": "2026-06-23T02:47:30.059Z",
+    "last_seen": "2026-06-23T02:47:30.059Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:30.059Z"
+  },
+  "davila7/claude_subagents": {
+    "first_seen": "2026-06-23T02:47:30.638Z",
+    "last_seen": "2026-06-23T02:47:30.638Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:30.638Z"
+  },
+  "thisislittlesky/waterpaper": {
+    "first_seen": "2026-06-23T02:47:31.256Z",
+    "last_seen": "2026-06-23T02:47:31.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:31.256Z"
+  },
+  "huxiaoyou97/manvotv": {
+    "first_seen": "2026-06-23T02:47:31.834Z",
+    "last_seen": "2026-06-23T02:47:31.834Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:31.834Z"
+  },
+  "jackchen-code/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-23T02:47:32.451Z",
+    "last_seen": "2026-06-23T02:47:32.451Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:32.451Z"
+  },
+  "muneeb1097m/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-23T02:47:33.038Z",
+    "last_seen": "2026-06-23T02:47:33.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:33.038Z"
+  },
+  "harsukh21/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-23T02:47:33.658Z",
+    "last_seen": "2026-06-23T02:47:33.658Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:33.658Z"
+  },
+  "zkarape/007-first-light-trainer-and-optimizer": {
+    "first_seen": "2026-06-23T02:47:34.235Z",
+    "last_seen": "2026-06-23T02:47:34.235Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T02:47:34.235Z"
+  },
+  "r-ohan/nts-radio-cli": {
+    "first_seen": "2026-06-23T02:47:35.985Z",
+    "last_seen": "2026-06-23T02:47:35.985Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-07T02:47:35.985Z"
+  },
+  "jbarham/rsvp": {
+    "first_seen": "2026-06-23T02:47:36.304Z",
+    "last_seen": "2026-06-23T02:47:36.304Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-07T02:47:36.304Z"
   }
 }
