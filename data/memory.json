@@ -27738,5 +27738,102 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-06-30T09:31:59.882Z"
+  },
+  "bozhoudev/codex-orange-book": {
+    "first_seen": "2026-06-23T14:39:35.871Z",
+    "last_seen": "2026-06-23T14:39:35.871Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T14:39:35.864Z"
+  },
+  "ilbertt/bun-sqlgen": {
+    "first_seen": "2026-06-23T14:39:37.504Z",
+    "last_seen": "2026-06-23T14:39:37.504Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-07T14:39:37.504Z"
+  },
+  "alfredvc/aharness": {
+    "first_seen": "2026-06-23T14:39:37.794Z",
+    "last_seen": "2026-06-23T14:39:37.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-07T14:39:37.794Z"
+  },
+  "patriceckhart/zot": {
+    "first_seen": "2026-06-23T14:39:38.678Z",
+    "last_seen": "2026-06-23T14:39:38.678Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T14:39:38.678Z"
+  },
+  "tsirysndr/smolsonic": {
+    "first_seen": "2026-06-23T14:39:38.951Z",
+    "last_seen": "2026-06-23T14:39:38.951Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-07T14:39:38.951Z"
+  },
+  "mirko-pira/skillhealth": {
+    "first_seen": "2026-06-23T14:39:39.247Z",
+    "last_seen": "2026-06-23T14:39:39.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-07T14:39:39.247Z"
+  },
+  "tree-sitter-perl/perl-lsp": {
+    "first_seen": "2026-06-23T14:39:39.574Z",
+    "last_seen": "2026-06-23T14:39:39.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-07T14:39:39.573Z"
+  },
+  "epoch8/vedana": {
+    "first_seen": "2026-06-23T14:39:39.852Z",
+    "last_seen": "2026-06-23T14:39:39.852Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-07-07T14:39:39.852Z"
+  },
+  "wandi-ssal/fail-safe-application-logger": {
+    "first_seen": "2026-06-23T14:39:40.111Z",
+    "last_seen": "2026-06-23T14:39:40.111Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-07T14:39:40.111Z"
   }
 }
