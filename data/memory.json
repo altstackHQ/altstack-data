@@ -7856,13 +7856,13 @@
   },
   "imtomt/ymawky": {
     "first_seen": "2026-05-10T08:09:52.939Z",
-    "last_seen": "2026-05-10T08:09:52.939Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-23T09:31:58.408Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-05-17T08:09:52.939Z"
+    "cooldown_until": "2026-06-30T09:31:58.408Z"
   },
   "thatxliner/rust-but-lisp": {
     "first_seen": "2026-05-10T08:09:53.652Z",
@@ -27458,5 +27458,285 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-07T02:47:36.304Z"
+  },
+  "pulsewarriorrank/lossless-scaling-download-2026": {
+    "first_seen": "2026-06-23T09:31:42.794Z",
+    "last_seen": "2026-06-23T09:31:42.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:42.783Z"
+  },
+  "sam50x/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:43.353Z",
+    "last_seen": "2026-06-23T09:31:43.353Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:43.353Z"
+  },
+  "ma7mod7/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:43.938Z",
+    "last_seen": "2026-06-23T09:31:43.938Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:43.938Z"
+  },
+  "m-s-ibrahim/007-first-light-trainer-and-optimizer_v_2": {
+    "first_seen": "2026-06-23T09:31:44.463Z",
+    "last_seen": "2026-06-23T09:31:44.463Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:44.463Z"
+  },
+  "muneeb1097m/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:44.976Z",
+    "last_seen": "2026-06-23T09:31:44.976Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:44.976Z"
+  },
+  "m-s-ibrahim/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:45.539Z",
+    "last_seen": "2026-06-23T09:31:45.539Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:45.539Z"
+  },
+  "sanjoy9875/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:46.072Z",
+    "last_seen": "2026-06-23T09:31:46.072Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:46.072Z"
+  },
+  "sanjoy9875/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:46.569Z",
+    "last_seen": "2026-06-23T09:31:46.569Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:46.569Z"
+  },
+  "m-s-ibrahim/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:47.067Z",
+    "last_seen": "2026-06-23T09:31:47.067Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:47.067Z"
+  },
+  "sam50x/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:47.584Z",
+    "last_seen": "2026-06-23T09:31:47.584Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:47.584Z"
+  },
+  "ar813/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:48.133Z",
+    "last_seen": "2026-06-23T09:31:48.133Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:48.133Z"
+  },
+  "maatallah/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:48.646Z",
+    "last_seen": "2026-06-23T09:31:48.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:48.646Z"
+  },
+  "tuanvit/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:49.223Z",
+    "last_seen": "2026-06-23T09:31:49.223Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:49.223Z"
+  },
+  "sanjoy9875/007-first-light-trainer-and-optimizer_v_2": {
+    "first_seen": "2026-06-23T09:31:49.782Z",
+    "last_seen": "2026-06-23T09:31:49.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:49.782Z"
+  },
+  "muneeb1097m/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:50.318Z",
+    "last_seen": "2026-06-23T09:31:50.318Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:50.318Z"
+  },
+  "the-young-swag/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:50.807Z",
+    "last_seen": "2026-06-23T09:31:50.807Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:50.807Z"
+  },
+  "maatallah/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:51.427Z",
+    "last_seen": "2026-06-23T09:31:51.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:51.427Z"
+  },
+  "ma7mod7/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:52.014Z",
+    "last_seen": "2026-06-23T09:31:52.014Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:52.014Z"
+  },
+  "tuanvit/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:52.512Z",
+    "last_seen": "2026-06-23T09:31:52.512Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:52.512Z"
+  },
+  "marufboy/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:53.030Z",
+    "last_seen": "2026-06-23T09:31:53.030Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:53.030Z"
+  },
+  "we9lii/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:53.631Z",
+    "last_seen": "2026-06-23T09:31:53.631Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:53.631Z"
+  },
+  "tuanvit/007-first-light-trainer-and-optimizer_v_2": {
+    "first_seen": "2026-06-23T09:31:54.204Z",
+    "last_seen": "2026-06-23T09:31:54.204Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:54.204Z"
+  },
+  "marufboy/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:54.735Z",
+    "last_seen": "2026-06-23T09:31:54.735Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:54.735Z"
+  },
+  "ar813/paralives-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:55.396Z",
+    "last_seen": "2026-06-23T09:31:55.396Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:55.396Z"
+  },
+  "we9lii/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T09:31:55.888Z",
+    "last_seen": "2026-06-23T09:31:55.888Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:55.888Z"
+  },
+  "we9lii/007-first-light-trainer-and-optimizer_v_2": {
+    "first_seen": "2026-06-23T09:31:56.473Z",
+    "last_seen": "2026-06-23T09:31:56.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:56.473Z"
+  },
+  "ma7mod7/007-first-light-trainer-and-optimizer_v_2": {
+    "first_seen": "2026-06-23T09:31:57.075Z",
+    "last_seen": "2026-06-23T09:31:57.075Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:57.075Z"
+  },
+  "owu/wsl-dashboard": {
+    "first_seen": "2026-06-23T09:31:59.882Z",
+    "last_seen": "2026-06-23T09:31:59.882Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T09:31:59.882Z"
   }
 }
