@@ -27835,5 +27835,247 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-07T14:39:40.111Z"
+  },
+  "coder/coder": {
+    "first_seen": "2026-06-23T19:55:48.211Z",
+    "last_seen": "2026-06-23T19:55:48.211Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "healed",
+    "healed_by": "aegis",
+    "healed_at": "2026-06-23T19:55:48.199Z"
+  },
+  "samasante/liquid-glass": {
+    "first_seen": "2026-06-23T19:55:55.291Z",
+    "last_seen": "2026-06-23T19:55:55.291Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:55.284Z"
+  },
+  "goehou/tabbit-toy": {
+    "first_seen": "2026-06-23T19:55:55.846Z",
+    "last_seen": "2026-06-23T19:55:55.846Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:55.846Z"
+  },
+  "danu-nur/resident-evil-requiem-ultimate-trainer-2026_v_2": {
+    "first_seen": "2026-06-23T19:55:56.414Z",
+    "last_seen": "2026-06-23T19:55:56.414Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:56.414Z"
+  },
+  "i5ting/learn-ai-practice": {
+    "first_seen": "2026-06-23T19:55:56.990Z",
+    "last_seen": "2026-06-23T19:55:56.990Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:56.990Z"
+  },
+  "johell1ns/browser-search": {
+    "first_seen": "2026-06-23T19:55:57.518Z",
+    "last_seen": "2026-06-23T19:55:57.518Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:57.518Z"
+  },
+  "iart-ai/motion-skills": {
+    "first_seen": "2026-06-23T19:55:58.176Z",
+    "last_seen": "2026-06-23T19:55:58.176Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:58.176Z"
+  },
+  "egorpavlov0/flash-usdt-sender": {
+    "first_seen": "2026-06-23T19:55:58.794Z",
+    "last_seen": "2026-06-23T19:55:58.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:58.794Z"
+  },
+  "trotsky1997/openfugu": {
+    "first_seen": "2026-06-23T19:55:59.374Z",
+    "last_seen": "2026-06-23T19:55:59.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:59.374Z"
+  },
+  "ccrprepo/robot_retargeter": {
+    "first_seen": "2026-06-23T19:55:59.942Z",
+    "last_seen": "2026-06-23T19:55:59.942Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:55:59.942Z"
+  },
+  "graphsignal/graphsignal-profiler": {
+    "first_seen": "2026-06-23T19:56:01.321Z",
+    "last_seen": "2026-06-23T19:56:01.321Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-06-30T19:56:01.321Z"
+  },
+  "attenlabs/saa-sdk": {
+    "first_seen": "2026-06-23T19:56:02.308Z",
+    "last_seen": "2026-06-23T19:56:02.308Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-07T19:56:02.308Z"
+  },
+  "almakit/alma": {
+    "first_seen": "2026-06-23T19:56:02.653Z",
+    "last_seen": "2026-06-23T19:56:02.653Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-07T19:56:02.653Z"
+  },
+  "bartwojtowicz/videopython": {
+    "first_seen": "2026-06-23T19:56:02.963Z",
+    "last_seen": "2026-06-23T19:56:02.963Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 16,
+    "cooldown_until": "2026-07-07T19:56:02.963Z"
+  },
+  "abhix2112/cachet": {
+    "first_seen": "2026-06-23T19:56:03.281Z",
+    "last_seen": "2026-06-23T19:56:03.281Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-07T19:56:03.281Z"
+  },
+  "dima-quant/nimic": {
+    "first_seen": "2026-06-23T19:56:03.598Z",
+    "last_seen": "2026-06-23T19:56:03.598Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-07T19:56:03.598Z"
+  },
+  "modelence/open-soccer": {
+    "first_seen": "2026-06-23T19:56:03.940Z",
+    "last_seen": "2026-06-23T19:56:03.940Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-07T19:56:03.940Z"
+  },
+  "dksingh1997/parlel": {
+    "first_seen": "2026-06-23T19:56:04.250Z",
+    "last_seen": "2026-06-23T19:56:04.250Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-07T19:56:04.250Z"
+  },
+  "sorena-ai/service-catalog-mcp": {
+    "first_seen": "2026-06-23T19:56:04.613Z",
+    "last_seen": "2026-06-23T19:56:04.613Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-07T19:56:04.613Z"
+  },
+  "endlessite/tubo": {
+    "first_seen": "2026-06-23T19:56:04.970Z",
+    "last_seen": "2026-06-23T19:56:04.970Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-07T19:56:04.970Z"
+  },
+  "zhangshuo1991/openterm": {
+    "first_seen": "2026-06-23T19:56:05.272Z",
+    "last_seen": "2026-06-23T19:56:05.272Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-07T19:56:05.272Z"
+  },
+  "nikhilkagita04/continuum": {
+    "first_seen": "2026-06-23T19:56:05.590Z",
+    "last_seen": "2026-06-23T19:56:05.590Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-07T19:56:05.590Z"
+  },
+  "efixdata/exeria-charts": {
+    "first_seen": "2026-06-23T19:56:05.929Z",
+    "last_seen": "2026-06-23T19:56:05.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-07T19:56:05.929Z"
   }
 }

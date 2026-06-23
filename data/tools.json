@@ -2221,7 +2221,7 @@
     "is_open_source": true,
     "github_repo": "coder/coder",
     "stars": 20000,
-    "website": "https://coder.com",
+    "website": null,
     "description": "Provision software development environments as code on your infrastructure.",
     "pros": [
       "Run dev environments on any infrastructure — cloud, on-prem, or hybrid",
@@ -2241,10 +2241,10 @@
     },
     "referral_url": "https://m.do.co/c/2ed27757a361",
     "sentinel_verdict": {
-      "status": "approved",
-      "message": "High signal. 20,000 stars, active within 48d.",
-      "agent": "sentinel",
-      "timestamp": "2026-03-30T15:26:16.816Z"
+      "status": "observation",
+      "message": "Website vanished. Monitoring remaining activity.",
+      "agent": "aegis",
+      "timestamp": "2026-06-23T19:55:30.502Z"
     }
   },
   {
