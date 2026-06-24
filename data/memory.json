@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-06-17T10:54:18.614Z",
-    "times_seen": 4,
+    "last_seen": "2026-06-24T14:19:49.610Z",
+    "times_seen": 5,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-06-24T10:54:18.607Z"
+    "cooldown_until": "2026-07-01T14:19:49.603Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -15363,14 +15363,14 @@
   },
   "sofumel/claude-handoff-revive": {
     "first_seen": "2026-05-27T15:33:25.499Z",
-    "last_seen": "2026-05-27T15:33:25.499Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-24T14:19:56.516Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 1,
-    "cooldown_until": "2026-06-10T15:33:25.499Z"
+    "stars": 5,
+    "cooldown_until": "2026-07-08T14:19:56.516Z"
   },
   "bingud/filemat": {
     "first_seen": "2026-05-27T15:33:25.832Z",
@@ -28254,5 +28254,175 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-08T09:07:04.345Z"
+  },
+  "qwenlm/qwen-agentworld": {
+    "first_seen": "2026-06-24T14:19:51.839Z",
+    "last_seen": "2026-06-24T14:19:51.839Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T14:19:51.839Z"
+  },
+  "lightbearco/tupper": {
+    "first_seen": "2026-06-24T14:19:52.568Z",
+    "last_seen": "2026-06-24T14:19:52.568Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T14:19:52.568Z"
+  },
+  "reyzowter/hello-agents": {
+    "first_seen": "2026-06-24T14:19:53.140Z",
+    "last_seen": "2026-06-24T14:19:53.140Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T14:19:53.140Z"
+  },
+  "krea-ai/krea-2": {
+    "first_seen": "2026-06-24T14:19:53.714Z",
+    "last_seen": "2026-06-24T14:19:53.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T14:19:53.714Z"
+  },
+  "skymoore/codemcp": {
+    "first_seen": "2026-06-24T14:19:54.076Z",
+    "last_seen": "2026-06-24T14:19:54.076Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T14:19:54.076Z"
+  },
+  "ddecoene/webbaseiii": {
+    "first_seen": "2026-06-24T14:19:54.453Z",
+    "last_seen": "2026-06-24T14:19:54.453Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T14:19:54.453Z"
+  },
+  "entelligentsia/grove": {
+    "first_seen": "2026-06-24T14:19:54.822Z",
+    "last_seen": "2026-06-24T14:19:54.822Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T14:19:54.822Z"
+  },
+  "tozzilla/claudebar": {
+    "first_seen": "2026-06-24T14:19:55.469Z",
+    "last_seen": "2026-06-24T14:19:55.469Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-08T14:19:55.469Z"
+  },
+  "sammysltd/makerchecker": {
+    "first_seen": "2026-06-24T14:19:55.839Z",
+    "last_seen": "2026-06-24T14:19:55.839Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T14:19:55.839Z"
+  },
+  "overflowy/goldfish": {
+    "first_seen": "2026-06-24T14:19:56.170Z",
+    "last_seen": "2026-06-24T14:19:56.170Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T14:19:56.170Z"
+  },
+  "adshao/flounder": {
+    "first_seen": "2026-06-24T14:19:57.086Z",
+    "last_seen": "2026-06-24T14:19:57.086Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T14:19:57.086Z"
+  },
+  "returninfinity/baremetal-firecracker": {
+    "first_seen": "2026-06-24T14:19:57.481Z",
+    "last_seen": "2026-06-24T14:19:57.481Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-08T14:19:57.481Z"
+  },
+  "davet47/heddle": {
+    "first_seen": "2026-06-24T14:19:57.841Z",
+    "last_seen": "2026-06-24T14:19:57.841Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-08T14:19:57.841Z"
+  },
+  "baalimago/clai": {
+    "first_seen": "2026-06-24T14:19:58.425Z",
+    "last_seen": "2026-06-24T14:19:58.425Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T14:19:58.425Z"
+  },
+  "saravananjaichandar/world-model-mcp": {
+    "first_seen": "2026-06-24T14:19:58.821Z",
+    "last_seen": "2026-06-24T14:19:58.821Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-08T14:19:58.821Z"
+  },
+  "veilusdigital/phantomchatcrypto": {
+    "first_seen": "2026-06-24T14:19:59.223Z",
+    "last_seen": "2026-06-24T14:19:59.223Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-08T14:19:59.223Z"
   }
 }
