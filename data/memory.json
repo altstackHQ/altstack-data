@@ -28077,5 +28077,120 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-07-07T19:56:05.929Z"
+  },
+  "nova452/comfyui-conditioningkrea2rebalance": {
+    "first_seen": "2026-06-24T02:53:31.877Z",
+    "last_seen": "2026-06-24T02:53:31.877Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T02:53:31.870Z"
+  },
+  "maxbelov9/crypto-recovery": {
+    "first_seen": "2026-06-24T02:53:32.199Z",
+    "last_seen": "2026-06-24T02:53:32.199Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T02:53:32.199Z"
+  },
+  "simpl3x3/eseilane": {
+    "first_seen": "2026-06-24T02:53:32.592Z",
+    "last_seen": "2026-06-24T02:53:32.592Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T02:53:32.592Z"
+  },
+  "y-times-y/y": {
+    "first_seen": "2026-06-24T02:53:33.300Z",
+    "last_seen": "2026-06-24T02:53:33.300Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T02:53:33.300Z"
+  },
+  "context-labs/halo": {
+    "first_seen": "2026-06-24T02:53:33.752Z",
+    "last_seen": "2026-06-24T02:53:33.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T02:53:33.752Z"
+  },
+  "djnero11/peter-lynch-skill": {
+    "first_seen": "2026-06-24T02:53:34.430Z",
+    "last_seen": "2026-06-24T02:53:34.430Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T02:53:34.430Z"
+  },
+  "karthick-ramachandran/persist-os": {
+    "first_seen": "2026-06-24T02:53:34.683Z",
+    "last_seen": "2026-06-24T02:53:34.683Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-08T02:53:34.683Z"
+  },
+  "allenv0/airposture": {
+    "first_seen": "2026-06-24T02:53:35.040Z",
+    "last_seen": "2026-06-24T02:53:35.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T02:53:35.040Z"
+  },
+  "kjhq/linkedin-unfiltered": {
+    "first_seen": "2026-06-24T02:53:35.271Z",
+    "last_seen": "2026-06-24T02:53:35.271Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T02:53:35.271Z"
+  },
+  "singam96/reflexconv2d": {
+    "first_seen": "2026-06-24T02:53:35.507Z",
+    "last_seen": "2026-06-24T02:53:35.507Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-08T02:53:35.507Z"
+  },
+  "dylanp12/proctor": {
+    "first_seen": "2026-06-24T02:53:35.790Z",
+    "last_seen": "2026-06-24T02:53:35.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-08T02:53:35.790Z"
   }
 }
