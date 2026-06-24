@@ -28192,5 +28192,67 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-08T02:53:35.790Z"
+  },
+  "valorant-ai/valorant-ai-aimbot-undetected": {
+    "first_seen": "2026-06-24T09:06:59.467Z",
+    "last_seen": "2026-06-24T09:06:59.467Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T09:06:59.460Z"
+  },
+  "typenightingale/capcut-pro-crack-2026": {
+    "first_seen": "2026-06-24T09:07:00.223Z",
+    "last_seen": "2026-06-24T09:07:00.223Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T09:07:00.223Z"
+  },
+  "dama-cyber/casting-workflow": {
+    "first_seen": "2026-06-24T09:07:00.954Z",
+    "last_seen": "2026-06-24T09:07:00.954Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T09:07:00.954Z"
+  },
+  "byjoey/cfnew-deployer": {
+    "first_seen": "2026-06-24T09:07:01.632Z",
+    "last_seen": "2026-06-24T09:07:01.632Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T09:07:01.632Z"
+  },
+  "whynotmetoo/water-ripples": {
+    "first_seen": "2026-06-24T09:07:03.738Z",
+    "last_seen": "2026-06-24T09:07:03.738Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T09:07:03.738Z"
+  },
+  "las7/reach": {
+    "first_seen": "2026-06-24T09:07:04.345Z",
+    "last_seen": "2026-06-24T09:07:04.345Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-08T09:07:04.345Z"
   }
 }
