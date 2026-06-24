@@ -4946,5 +4946,37 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
+  },
+  {
+    "slug": "unfoldcms",
+    "name": "UnfoldCMS",
+    "category": "CMS",
+    "is_open_source": true,
+    "github_repo": "hpakdaman/unfoldcms",
+    "website": "https://unfoldcms.com",
+    "description": "Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui + Tailwind v4 + Inertia 2. REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js/Astro/SvelteKit/Nuxt. Open-source alternative to WordPress, Ghost, and Strapi.",
+    "pros": [
+      "Modern full-stack: Laravel 12 backend + React 19 frontend",
+      "42-endpoint REST API v1 with HMAC-signed webhooks",
+      "Headless mode — works with Next.js, Astro, SvelteKit, Nuxt",
+      "Free Core tier; Pro tier available",
+      "Built-in SEO tools, media management, and multi-user support"
+    ],
+    "cons": [
+      "Newer project — smaller community than WordPress/Ghost",
+      "No Docker Compose config yet (Laravel-native install)"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=unfoldcms.com",
+    "hosting_type": "self-hosted",
+    "tags": [
+      "CMS",
+      "Laravel",
+      "React",
+      "Headless",
+      "REST API",
+      "Self-hosted"
+    ]
   }
 ]
