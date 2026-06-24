@@ -28424,5 +28424,112 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-08T14:19:59.223Z"
+  },
+  "yu9191/wloc": {
+    "first_seen": "2026-06-24T19:41:30.444Z",
+    "last_seen": "2026-06-24T19:41:30.444Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T19:41:30.437Z"
+  },
+  "benchflow-ai/awesome-evals": {
+    "first_seen": "2026-06-24T19:41:31.042Z",
+    "last_seen": "2026-06-24T19:41:31.042Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T19:41:31.042Z"
+  },
+  "nubjs/nub": {
+    "first_seen": "2026-06-24T19:41:31.644Z",
+    "last_seen": "2026-06-24T19:41:31.644Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-01T19:41:31.644Z"
+  },
+  "dbos-inc/dbosify-py": {
+    "first_seen": "2026-06-24T19:41:31.984Z",
+    "last_seen": "2026-06-24T19:41:31.984Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-08T19:41:31.984Z"
+  },
+  "arborist-sh/graft": {
+    "first_seen": "2026-06-24T19:41:33.003Z",
+    "last_seen": "2026-06-24T19:41:33.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-08T19:41:33.003Z"
+  },
+  "anthonydavidadams/substack-api-reference": {
+    "first_seen": "2026-06-24T19:41:33.317Z",
+    "last_seen": "2026-06-24T19:41:33.317Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T19:41:33.317Z"
+  },
+  "mario-guerra/orchid-trace": {
+    "first_seen": "2026-06-24T19:41:33.635Z",
+    "last_seen": "2026-06-24T19:41:33.635Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-08T19:41:33.635Z"
+  },
+  "octember/stupify": {
+    "first_seen": "2026-06-24T19:41:33.962Z",
+    "last_seen": "2026-06-24T19:41:33.962Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-08T19:41:33.962Z"
+  },
+  "genaforvena/lte-workstation": {
+    "first_seen": "2026-06-24T19:41:34.307Z",
+    "last_seen": "2026-06-24T19:41:34.307Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-08T19:41:34.307Z"
+  },
+  "brucebgordon/issue-orchestrator": {
+    "first_seen": "2026-06-24T19:41:34.619Z",
+    "last_seen": "2026-06-24T19:41:34.619Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-08T19:41:34.619Z"
   }
 }
