@@ -28804,5 +28804,131 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-07-09T08:54:27.951Z"
+  },
+  "staturnzz/amethyst": {
+    "first_seen": "2026-06-25T14:17:14.471Z",
+    "last_seen": "2026-06-25T14:17:14.471Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T14:17:14.463Z"
+  },
+  "zekainie/universal-examprep-skill": {
+    "first_seen": "2026-06-25T14:17:15.196Z",
+    "last_seen": "2026-06-25T14:17:15.196Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T14:17:15.196Z"
+  },
+  "fishcodetech/muteki": {
+    "first_seen": "2026-06-25T14:17:15.915Z",
+    "last_seen": "2026-06-25T14:17:15.915Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T14:17:15.915Z"
+  },
+  "amplifthq/opentag": {
+    "first_seen": "2026-06-25T14:17:16.616Z",
+    "last_seen": "2026-06-25T14:17:16.616Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T14:17:16.616Z"
+  },
+  "badchars/darknet-mcp-server": {
+    "first_seen": "2026-06-25T14:17:17.365Z",
+    "last_seen": "2026-06-25T14:17:17.365Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T14:17:17.365Z"
+  },
+  "diyanqi/copygen": {
+    "first_seen": "2026-06-25T14:17:18.107Z",
+    "last_seen": "2026-06-25T14:17:18.107Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T14:17:18.107Z"
+  },
+  "fran314/secrets-manager-rs": {
+    "first_seen": "2026-06-25T14:17:18.506Z",
+    "last_seen": "2026-06-25T14:17:18.506Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-09T14:17:18.506Z"
+  },
+  "parsehawk/parsehawk": {
+    "first_seen": "2026-06-25T14:17:19.772Z",
+    "last_seen": "2026-06-25T14:17:19.772Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-09T14:17:19.772Z"
+  },
+  "gabert/ontocortex": {
+    "first_seen": "2026-06-25T14:17:20.179Z",
+    "last_seen": "2026-06-25T14:17:20.179Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-09T14:17:20.179Z"
+  },
+  "l-zhi/pith-wiki": {
+    "first_seen": "2026-06-25T14:17:20.609Z",
+    "last_seen": "2026-06-25T14:17:20.609Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-07-09T14:17:20.608Z"
+  },
+  "rondoflow/rondoflow": {
+    "first_seen": "2026-06-25T14:17:21.024Z",
+    "last_seen": "2026-06-25T14:17:21.024Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-09T14:17:21.024Z"
+  },
+  "dhevenddra/forensic-deepdive": {
+    "first_seen": "2026-06-25T14:17:21.408Z",
+    "last_seen": "2026-06-25T14:17:21.408Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-09T14:17:21.408Z"
   }
 }
