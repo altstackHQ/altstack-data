@@ -28743,5 +28743,66 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-07-09T02:48:08.969Z"
+  },
+  "alexbogdanov74/seed-generator": {
+    "first_seen": "2026-06-25T08:54:25.300Z",
+    "last_seen": "2026-06-25T08:54:25.300Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T08:54:25.292Z"
+  },
+  "samuto69/claude-ai-desktop-app": {
+    "first_seen": "2026-06-25T08:54:25.735Z",
+    "last_seen": "2026-06-25T08:54:25.735Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T08:54:25.735Z"
+  },
+  "j-jaeyoung/bad-epoll": {
+    "first_seen": "2026-06-25T08:54:26.240Z",
+    "last_seen": "2026-06-25T08:54:26.240Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T08:54:26.240Z"
+  },
+  "vancyland/dataclaw0": {
+    "first_seen": "2026-06-25T08:54:26.691Z",
+    "last_seen": "2026-06-25T08:54:26.691Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T08:54:26.691Z"
+  },
+  "hkust-c4g/domainshuttle": {
+    "first_seen": "2026-06-25T08:54:27.178Z",
+    "last_seen": "2026-06-25T08:54:27.178Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T08:54:27.178Z"
+  },
+  "naya-ai/promptctl": {
+    "first_seen": "2026-06-25T08:54:27.951Z",
+    "last_seen": "2026-06-25T08:54:27.951Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-09T08:54:27.951Z"
   }
 }
