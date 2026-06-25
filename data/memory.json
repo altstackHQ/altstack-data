@@ -28531,5 +28531,217 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-08T19:41:34.619Z"
+  },
+  "pmtraderadam/pmtraderadam": {
+    "first_seen": "2026-06-25T02:47:59.745Z",
+    "last_seen": "2026-06-25T02:47:59.745Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:47:59.737Z"
+  },
+  "anelaromi544/flash-usdt-sender": {
+    "first_seen": "2026-06-25T02:48:00.198Z",
+    "last_seen": "2026-06-25T02:48:00.198Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:00.198Z"
+  },
+  "nvidia-bionemo/bionemo-agent-toolkit": {
+    "first_seen": "2026-06-25T02:48:00.596Z",
+    "last_seen": "2026-06-25T02:48:00.596Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:00.596Z"
+  },
+  "sherryf71/exodus-fake-balance": {
+    "first_seen": "2026-06-25T02:48:01.096Z",
+    "last_seen": "2026-06-25T02:48:01.096Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:01.096Z"
+  },
+  "evo-design/proto-language": {
+    "first_seen": "2026-06-25T02:48:01.545Z",
+    "last_seen": "2026-06-25T02:48:01.545Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:01.545Z"
+  },
+  "benlamiro/shipgenai": {
+    "first_seen": "2026-06-25T02:48:01.950Z",
+    "last_seen": "2026-06-25T02:48:01.950Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:01.950Z"
+  },
+  "lynx4q/usdt-flasher-web-tool": {
+    "first_seen": "2026-06-25T02:48:02.411Z",
+    "last_seen": "2026-06-25T02:48:02.411Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:02.411Z"
+  },
+  "entropykit/entropia": {
+    "first_seen": "2026-06-25T02:48:02.812Z",
+    "last_seen": "2026-06-25T02:48:02.812Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:02.812Z"
+  },
+  "lemma-work/lemma-platform": {
+    "first_seen": "2026-06-25T02:48:03.301Z",
+    "last_seen": "2026-06-25T02:48:03.301Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:03.301Z"
+  },
+  "killernay/hearyourvoice": {
+    "first_seen": "2026-06-25T02:48:03.739Z",
+    "last_seen": "2026-06-25T02:48:03.739Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:03.739Z"
+  },
+  "joshuagumahad/idm-6.43-patcher-pro-version-26": {
+    "first_seen": "2026-06-25T02:48:04.140Z",
+    "last_seen": "2026-06-25T02:48:04.140Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:04.140Z"
+  },
+  "hatari130/map-creator": {
+    "first_seen": "2026-06-25T02:48:04.565Z",
+    "last_seen": "2026-06-25T02:48:04.565Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:04.565Z"
+  },
+  "tamaenanases/electrum-fake": {
+    "first_seen": "2026-06-25T02:48:05.017Z",
+    "last_seen": "2026-06-25T02:48:05.017Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:05.017Z"
+  },
+  "kwai/memgui-agent": {
+    "first_seen": "2026-06-25T02:48:05.508Z",
+    "last_seen": "2026-06-25T02:48:05.508Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:05.508Z"
+  },
+  "kwai/mobileforge": {
+    "first_seen": "2026-06-25T02:48:05.932Z",
+    "last_seen": "2026-06-25T02:48:05.932Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:05.932Z"
+  },
+  "alexey-goloburdin/chebupelka": {
+    "first_seen": "2026-06-25T02:48:06.372Z",
+    "last_seen": "2026-06-25T02:48:06.372Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:06.372Z"
+  },
+  "hornbillplay/meccha-chameleon-esp": {
+    "first_seen": "2026-06-25T02:48:06.877Z",
+    "last_seen": "2026-06-25T02:48:06.877Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:06.877Z"
+  },
+  "scratchyone/voice-training-ui": {
+    "first_seen": "2026-06-25T02:48:07.284Z",
+    "last_seen": "2026-06-25T02:48:07.284Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:07.284Z"
+  },
+  "solidpondswell/hwid-utility": {
+    "first_seen": "2026-06-25T02:48:07.832Z",
+    "last_seen": "2026-06-25T02:48:07.832Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-02T02:48:07.832Z"
+  },
+  "celestoai/smolfs": {
+    "first_seen": "2026-06-25T02:48:08.684Z",
+    "last_seen": "2026-06-25T02:48:08.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-09T02:48:08.684Z"
+  },
+  "varbhat/desktopmcp": {
+    "first_seen": "2026-06-25T02:48:08.969Z",
+    "last_seen": "2026-06-25T02:48:08.969Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-09T02:48:08.969Z"
   }
 }
