@@ -29457,5 +29457,110 @@
     "reason": "low_stars",
     "stars": 12,
     "cooldown_until": "2026-07-10T08:57:15.902Z"
+  },
+  "winsznx/theeleven": {
+    "first_seen": "2026-06-26T14:14:38.083Z",
+    "last_seen": "2026-06-26T14:14:38.083Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T14:14:38.075Z"
+  },
+  "pluviobyte/video-production-skills": {
+    "first_seen": "2026-06-26T14:14:39.173Z",
+    "last_seen": "2026-06-26T14:14:39.173Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T14:14:39.173Z"
+  },
+  "abundantbeing/hermes-browser-extension": {
+    "first_seen": "2026-06-26T14:14:39.693Z",
+    "last_seen": "2026-06-26T14:14:39.693Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T14:14:39.693Z"
+  },
+  "cuimao777/eterna-image2image-skill": {
+    "first_seen": "2026-06-26T14:14:40.212Z",
+    "last_seen": "2026-06-26T14:14:40.212Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T14:14:40.212Z"
+  },
+  "htooayelwinict/agentic-ai-book": {
+    "first_seen": "2026-06-26T14:14:40.704Z",
+    "last_seen": "2026-06-26T14:14:40.704Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T14:14:40.704Z"
+  },
+  "mohsen1/git-lazy-mount": {
+    "first_seen": "2026-06-26T14:14:41.605Z",
+    "last_seen": "2026-06-26T14:14:41.605Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-10T14:14:41.605Z"
+  },
+  "allisonmahmood/nt": {
+    "first_seen": "2026-06-26T14:14:42.539Z",
+    "last_seen": "2026-06-26T14:14:42.539Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-10T14:14:42.539Z"
+  },
+  "oldrev/lwdt": {
+    "first_seen": "2026-06-26T14:14:42.913Z",
+    "last_seen": "2026-06-26T14:14:42.913Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-10T14:14:42.913Z"
+  },
+  "gojargo/jargo": {
+    "first_seen": "2026-06-26T14:14:43.260Z",
+    "last_seen": "2026-06-26T14:14:43.260Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-10T14:14:43.260Z"
+  },
+  "anthonybeeblebrox/pybench": {
+    "first_seen": "2026-06-26T14:14:43.619Z",
+    "last_seen": "2026-06-26T14:14:43.619Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-10T14:14:43.619Z"
   }
 }
