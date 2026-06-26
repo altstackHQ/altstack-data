@@ -29562,5 +29562,99 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-10T14:14:43.619Z"
+  },
+  "pmtraderadam/pm-copy-trader": {
+    "first_seen": "2026-06-26T19:42:36.347Z",
+    "last_seen": "2026-06-26T19:42:36.347Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T19:42:36.341Z"
+  },
+  "xxniiinxx/coinflip-casino": {
+    "first_seen": "2026-06-26T19:42:37.054Z",
+    "last_seen": "2026-06-26T19:42:37.054Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T19:42:37.054Z"
+  },
+  "malcolmmcgough/polymarket-trading-bot-scalping": {
+    "first_seen": "2026-06-26T19:42:37.732Z",
+    "last_seen": "2026-06-26T19:42:37.732Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T19:42:37.732Z"
+  },
+  "slimopump/sillygoose": {
+    "first_seen": "2026-06-26T19:42:38.458Z",
+    "last_seen": "2026-06-26T19:42:38.458Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T19:42:38.458Z"
+  },
+  "scottokeller/crypto-recovery": {
+    "first_seen": "2026-06-26T19:42:39.136Z",
+    "last_seen": "2026-06-26T19:42:39.136Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-03T19:42:39.136Z"
+  },
+  "noah-garner/zerogate": {
+    "first_seen": "2026-06-26T19:42:40.305Z",
+    "last_seen": "2026-06-26T19:42:40.305Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-10T19:42:40.305Z"
+  },
+  "cheapsteak/tbd": {
+    "first_seen": "2026-06-26T19:42:41.566Z",
+    "last_seen": "2026-06-26T19:42:41.566Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-10T19:42:41.566Z"
+  },
+  "atsuoishimoto/uv-matrix": {
+    "first_seen": "2026-06-26T19:42:41.986Z",
+    "last_seen": "2026-06-26T19:42:41.986Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-10T19:42:41.986Z"
+  },
+  "kmcheung12/goodshelf": {
+    "first_seen": "2026-06-26T19:42:42.373Z",
+    "last_seen": "2026-06-26T19:42:42.373Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-10T19:42:42.373Z"
   }
 }
