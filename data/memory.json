@@ -29850,5 +29850,87 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-07-11T02:43:30.013Z"
+  },
+  "deepseek-ai/deepspec": {
+    "first_seen": "2026-06-27T08:32:08.044Z",
+    "last_seen": "2026-06-27T08:32:08.044Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T08:32:08.036Z"
+  },
+  "zanetanasta/seed-generator": {
+    "first_seen": "2026-06-27T08:32:08.646Z",
+    "last_seen": "2026-06-27T08:32:08.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T08:32:08.646Z"
+  },
+  "playplumtown/plumtown": {
+    "first_seen": "2026-06-27T08:32:09.900Z",
+    "last_seen": "2026-06-27T08:32:09.900Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T08:32:09.900Z"
+  },
+  "liangmai-sdk/liangmai": {
+    "first_seen": "2026-06-27T08:32:10.551Z",
+    "last_seen": "2026-06-27T08:32:10.551Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T08:32:10.551Z"
+  },
+  "yeje-cpu/talk-to-fengge": {
+    "first_seen": "2026-06-27T08:32:11.140Z",
+    "last_seen": "2026-06-27T08:32:11.140Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T08:32:11.140Z"
+  },
+  "singhalayushh/one-piece": {
+    "first_seen": "2026-06-27T08:32:11.816Z",
+    "last_seen": "2026-06-27T08:32:11.816Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T08:32:11.816Z"
+  },
+  "ccheney/codex-multi-account": {
+    "first_seen": "2026-06-27T08:32:13.488Z",
+    "last_seen": "2026-06-27T08:32:13.488Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-11T08:32:13.488Z"
+  },
+  "fast/bsize": {
+    "first_seen": "2026-06-27T08:32:13.911Z",
+    "last_seen": "2026-06-27T08:32:13.911Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-11T08:32:13.911Z"
   }
 }
