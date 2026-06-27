@@ -29952,5 +29952,109 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-04T13:23:59.750Z"
+  },
+  "eli-labz/godcoder": {
+    "first_seen": "2026-06-27T19:14:31.998Z",
+    "last_seen": "2026-06-27T19:14:31.998Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T19:14:31.990Z"
+  },
+  "bodyconductoryank/meccha-chameleon-esp": {
+    "first_seen": "2026-06-27T19:14:33.391Z",
+    "last_seen": "2026-06-27T19:14:33.391Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T19:14:33.391Z"
+  },
+  "simonmakzon/gitdeepsearch": {
+    "first_seen": "2026-06-27T19:14:34.043Z",
+    "last_seen": "2026-06-27T19:14:34.043Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T19:14:34.043Z"
+  },
+  "ik190/macos-chatgpt-overlay-bar": {
+    "first_seen": "2026-06-27T19:14:34.743Z",
+    "last_seen": "2026-06-27T19:14:34.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T19:14:34.743Z"
+  },
+  "jacopopan/aerial-autonomy-stack": {
+    "first_seen": "2026-06-27T19:14:35.410Z",
+    "last_seen": "2026-06-27T19:14:35.410Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T19:14:35.410Z"
+  },
+  "msradam/ocarina": {
+    "first_seen": "2026-06-27T19:14:35.828Z",
+    "last_seen": "2026-06-27T19:14:35.828Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-11T19:14:35.828Z"
+  },
+  "gouwsxander/reef": {
+    "first_seen": "2026-06-27T19:14:36.503Z",
+    "last_seen": "2026-06-27T19:14:36.503Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T19:14:36.503Z"
+  },
+  "rand01ph/gemma-trans": {
+    "first_seen": "2026-06-27T19:14:37.085Z",
+    "last_seen": "2026-06-27T19:14:37.085Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-11T19:14:37.085Z"
+  },
+  "bilbywilby/god_stack": {
+    "first_seen": "2026-06-27T19:14:37.533Z",
+    "last_seen": "2026-06-27T19:14:37.533Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-11T19:14:37.533Z"
+  },
+  "overflowy/imap2gmail": {
+    "first_seen": "2026-06-27T19:14:37.922Z",
+    "last_seen": "2026-06-27T19:14:37.922Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-11T19:14:37.922Z"
   }
 }
