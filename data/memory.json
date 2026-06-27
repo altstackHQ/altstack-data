@@ -29656,5 +29656,199 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-10T19:42:42.373Z"
+  },
+  "fossprime/steam-controller-auto-charge": {
+    "first_seen": "2026-06-27T02:43:19.011Z",
+    "last_seen": "2026-06-27T02:43:19.011Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:19.003Z"
+  },
+  "josipaka2000/flash-usdt-tool": {
+    "first_seen": "2026-06-27T02:43:19.567Z",
+    "last_seen": "2026-06-27T02:43:19.567Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:19.567Z"
+  },
+  "valeriavoronin11/exodus-fake-balance": {
+    "first_seen": "2026-06-27T02:43:20.100Z",
+    "last_seen": "2026-06-27T02:43:20.100Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:20.100Z"
+  },
+  "cclank/lanshu-animated-architecture-diagram": {
+    "first_seen": "2026-06-27T02:43:20.639Z",
+    "last_seen": "2026-06-27T02:43:20.639Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:20.639Z"
+  },
+  "lutschippi/dehub": {
+    "first_seen": "2026-06-27T02:43:21.185Z",
+    "last_seen": "2026-06-27T02:43:21.185Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:21.185Z"
+  },
+  "ivorpad/mercadona-cli": {
+    "first_seen": "2026-06-27T02:43:21.725Z",
+    "last_seen": "2026-06-27T02:43:21.725Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:21.725Z"
+  },
+  "rit3zh/expo-dynamic-toast": {
+    "first_seen": "2026-06-27T02:43:22.287Z",
+    "last_seen": "2026-06-27T02:43:22.287Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:22.287Z"
+  },
+  "hicccc77/welive-release": {
+    "first_seen": "2026-06-27T02:43:22.807Z",
+    "last_seen": "2026-06-27T02:43:22.807Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:22.807Z"
+  },
+  "donoaccestag/boilerplates": {
+    "first_seen": "2026-06-27T02:43:23.348Z",
+    "last_seen": "2026-06-27T02:43:23.348Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:23.348Z"
+  },
+  "hackonmon/agent-rules": {
+    "first_seen": "2026-06-27T02:43:23.903Z",
+    "last_seen": "2026-06-27T02:43:23.903Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:23.903Z"
+  },
+  "daishangona/free-programming-books": {
+    "first_seen": "2026-06-27T02:43:24.963Z",
+    "last_seen": "2026-06-27T02:43:24.963Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-07-27T02:43:24.963Z"
+  },
+  "alguevarasec/guevara-benchmark": {
+    "first_seen": "2026-06-27T02:43:25.518Z",
+    "last_seen": "2026-06-27T02:43:25.518Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:25.518Z"
+  },
+  "timomq/electrum-fake-balance": {
+    "first_seen": "2026-06-27T02:43:26.063Z",
+    "last_seen": "2026-06-27T02:43:26.063Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:26.063Z"
+  },
+  "kiya682/meccha-chameleon-ecore-plus": {
+    "first_seen": "2026-06-27T02:43:26.629Z",
+    "last_seen": "2026-06-27T02:43:26.629Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:26.629Z"
+  },
+  "fengdu2077/x-search-filters": {
+    "first_seen": "2026-06-27T02:43:27.201Z",
+    "last_seen": "2026-06-27T02:43:27.201Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:27.201Z"
+  },
+  "devanshu-dev/optiscaler-client-fsr4": {
+    "first_seen": "2026-06-27T02:43:27.745Z",
+    "last_seen": "2026-06-27T02:43:27.745Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-04T02:43:27.745Z"
+  },
+  "alex-w-developer/getblocked": {
+    "first_seen": "2026-06-27T02:43:28.712Z",
+    "last_seen": "2026-06-27T02:43:28.712Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-11T02:43:28.712Z"
+  },
+  "njuhobby/keyway": {
+    "first_seen": "2026-06-27T02:43:29.672Z",
+    "last_seen": "2026-06-27T02:43:29.672Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-11T02:43:29.672Z"
+  },
+  "bennyoooo/skillmaxxing": {
+    "first_seen": "2026-06-27T02:43:30.013Z",
+    "last_seen": "2026-06-27T02:43:30.013Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-11T02:43:30.013Z"
   }
 }
