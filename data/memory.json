@@ -30286,5 +30286,85 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-12T08:47:01.831Z"
+  },
+  "adilmir1433/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:21.188Z",
+    "last_seen": "2026-06-28T13:27:21.188Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:21.181Z"
+  },
+  "xfaltixx/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:21.746Z",
+    "last_seen": "2026-06-28T13:27:21.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:21.746Z"
+  },
+  "karan10010/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:22.270Z",
+    "last_seen": "2026-06-28T13:27:22.270Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:22.270Z"
+  },
+  "rohim616/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:22.814Z",
+    "last_seen": "2026-06-28T13:27:22.814Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:22.814Z"
+  },
+  "khwarij/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:23.349Z",
+    "last_seen": "2026-06-28T13:27:23.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:23.348Z"
+  },
+  "yousefmahdy1/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:23.893Z",
+    "last_seen": "2026-06-28T13:27:23.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:23.893Z"
+  },
+  "raheemxghumman/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:24.415Z",
+    "last_seen": "2026-06-28T13:27:24.415Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:24.415Z"
+  },
+  "ryancameron555/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T13:27:24.937Z",
+    "last_seen": "2026-06-28T13:27:24.937Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T13:27:24.937Z"
   }
 }
