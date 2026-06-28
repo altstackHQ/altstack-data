@@ -30366,5 +30366,160 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-05T13:27:24.937Z"
+  },
+  "downclash/clash": {
+    "first_seen": "2026-06-28T19:12:51.387Z",
+    "last_seen": "2026-06-28T19:12:51.387Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:51.379Z"
+  },
+  "deltabarbershopofficial-cloud/dbd-autogrind-trainer-2026-extreme": {
+    "first_seen": "2026-06-28T19:12:51.777Z",
+    "last_seen": "2026-06-28T19:12:51.777Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:51.777Z"
+  },
+  "neverforgetme/dbd-autogrind-trainer-2026-elite": {
+    "first_seen": "2026-06-28T19:12:52.167Z",
+    "last_seen": "2026-06-28T19:12:52.167Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:52.167Z"
+  },
+  "adilmir1433/dbd-autogrind-trainer-2026-elite": {
+    "first_seen": "2026-06-28T19:12:52.583Z",
+    "last_seen": "2026-06-28T19:12:52.583Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:52.583Z"
+  },
+  "selva-rc/dbd-autogrind-trainer-2026-elite": {
+    "first_seen": "2026-06-28T19:12:53.009Z",
+    "last_seen": "2026-06-28T19:12:53.009Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:53.009Z"
+  },
+  "rohim616/dbd-autogrind-trainer-2026-elite": {
+    "first_seen": "2026-06-28T19:12:53.396Z",
+    "last_seen": "2026-06-28T19:12:53.396Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:53.396Z"
+  },
+  "triangkas/dbd-autogrind-trainer-2026-elite": {
+    "first_seen": "2026-06-28T19:12:53.783Z",
+    "last_seen": "2026-06-28T19:12:53.783Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:53.783Z"
+  },
+  "giorgigelashvili12/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T19:12:54.184Z",
+    "last_seen": "2026-06-28T19:12:54.184Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:54.184Z"
+  },
+  "raheelshakeel953-a11y/dbd-autogrind-trainer-2026-elite": {
+    "first_seen": "2026-06-28T19:12:54.582Z",
+    "last_seen": "2026-06-28T19:12:54.582Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:54.582Z"
+  },
+  "raheelshakeel953-a11y/dbd-autogrind-trainer-2026": {
+    "first_seen": "2026-06-28T19:12:54.987Z",
+    "last_seen": "2026-06-28T19:12:54.987Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T19:12:54.987Z"
+  },
+  "rochus-keller/mumps": {
+    "first_seen": "2026-06-28T19:12:55.288Z",
+    "last_seen": "2026-06-28T19:12:55.288Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-07-12T19:12:55.288Z"
+  },
+  "thongor77/wifimaplinux": {
+    "first_seen": "2026-06-28T19:12:55.587Z",
+    "last_seen": "2026-06-28T19:12:55.587Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-12T19:12:55.587Z"
+  },
+  "edonadei/caliper": {
+    "first_seen": "2026-06-28T19:12:55.893Z",
+    "last_seen": "2026-06-28T19:12:55.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-12T19:12:55.893Z"
+  },
+  "try-works/role-model": {
+    "first_seen": "2026-06-28T19:12:56.198Z",
+    "last_seen": "2026-06-28T19:12:56.198Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-07-12T19:12:56.198Z"
+  },
+  "fix3dll/quicmic": {
+    "first_seen": "2026-06-28T19:12:56.494Z",
+    "last_seen": "2026-06-28T19:12:56.494Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-12T19:12:56.494Z"
   }
 }
