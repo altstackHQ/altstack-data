@@ -30190,5 +30190,101 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-12T02:58:10.147Z"
+  },
+  "lingbol088-spec/codex-5.5-codex-instruct-5.5": {
+    "first_seen": "2026-06-28T08:46:58.015Z",
+    "last_seen": "2026-06-28T08:46:58.015Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T08:46:58.007Z"
+  },
+  "einsia/browser-bc": {
+    "first_seen": "2026-06-28T08:46:58.664Z",
+    "last_seen": "2026-06-28T08:46:58.664Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T08:46:58.663Z"
+  },
+  "mskrasnov/fsm": {
+    "first_seen": "2026-06-28T08:46:59.302Z",
+    "last_seen": "2026-06-28T08:46:59.302Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-05T08:46:59.302Z"
+  },
+  "sebmellen/git-temp": {
+    "first_seen": "2026-06-28T08:46:59.691Z",
+    "last_seen": "2026-06-28T08:46:59.691Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-12T08:46:59.691Z"
+  },
+  "ws-rush/lingui-rr": {
+    "first_seen": "2026-06-28T08:47:00.208Z",
+    "last_seen": "2026-06-28T08:47:00.208Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-12T08:47:00.208Z"
+  },
+  "sarkar-agi/core-1": {
+    "first_seen": "2026-06-28T08:47:00.586Z",
+    "last_seen": "2026-06-28T08:47:00.586Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-12T08:47:00.586Z"
+  },
+  "kamaludu/bash4llm": {
+    "first_seen": "2026-06-28T08:47:01.003Z",
+    "last_seen": "2026-06-28T08:47:01.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-12T08:47:01.003Z"
+  },
+  "tam159/next-role": {
+    "first_seen": "2026-06-28T08:47:01.403Z",
+    "last_seen": "2026-06-28T08:47:01.403Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-07-12T08:47:01.403Z"
+  },
+  "momiji-rs/sasso": {
+    "first_seen": "2026-06-28T08:47:01.831Z",
+    "last_seen": "2026-06-28T08:47:01.831Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-12T08:47:01.831Z"
   }
 }
