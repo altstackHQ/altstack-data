@@ -30846,5 +30846,99 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-13T02:58:45.946Z"
+  },
+  "krishnagangwal/cs-fundamentals": {
+    "first_seen": "2026-06-29T10:55:24.235Z",
+    "last_seen": "2026-06-29T10:55:24.235Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T10:55:24.227Z"
+  },
+  "yynxxxxx/codex-5.5-codex-instruct-5.5": {
+    "first_seen": "2026-06-29T10:55:24.898Z",
+    "last_seen": "2026-06-29T10:55:24.898Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T10:55:24.898Z"
+  },
+  "offchainthoughts/amber": {
+    "first_seen": "2026-06-29T10:55:25.598Z",
+    "last_seen": "2026-06-29T10:55:25.598Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T10:55:25.598Z"
+  },
+  "raiyanyahya/llmaker": {
+    "first_seen": "2026-06-29T10:55:26.280Z",
+    "last_seen": "2026-06-29T10:55:26.280Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T10:55:26.280Z"
+  },
+  "mindmuxai/brain.md": {
+    "first_seen": "2026-06-29T10:55:27.168Z",
+    "last_seen": "2026-06-29T10:55:27.168Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T10:55:27.168Z"
+  },
+  "hannah-wright/saas-landing-page-template": {
+    "first_seen": "2026-06-29T10:55:27.572Z",
+    "last_seen": "2026-06-29T10:55:27.572Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-13T10:55:27.572Z"
+  },
+  "piyiotisk/htmx-skills": {
+    "first_seen": "2026-06-29T10:55:27.973Z",
+    "last_seen": "2026-06-29T10:55:27.973Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-13T10:55:27.973Z"
+  },
+  "peterp/pi-sidequest": {
+    "first_seen": "2026-06-29T10:55:28.507Z",
+    "last_seen": "2026-06-29T10:55:28.507Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-13T10:55:28.507Z"
+  },
+  "perhapxinlab/dotdotduck": {
+    "first_seen": "2026-06-29T10:55:28.926Z",
+    "last_seen": "2026-06-29T10:55:28.926Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-13T10:55:28.926Z"
   }
 }
