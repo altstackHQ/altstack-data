@@ -30521,5 +30521,330 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-07-12T19:12:56.494Z"
+  },
+  "dimasarestuprasmanto/pet-simulator-99-auto-farm-trainer-2026-tera": {
+    "first_seen": "2026-06-29T02:58:25.793Z",
+    "last_seen": "2026-06-29T02:58:25.793Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:25.785Z"
+  },
+  "vanroon/pet-simulator-99-auto-farm-trainer-2026-prime": {
+    "first_seen": "2026-06-29T02:58:26.471Z",
+    "last_seen": "2026-06-29T02:58:26.471Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:26.471Z"
+  },
+  "nagaasaketh/pet-simulator-99-auto-farm-trainer-2026-ultimate": {
+    "first_seen": "2026-06-29T02:58:27.175Z",
+    "last_seen": "2026-06-29T02:58:27.175Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:27.175Z"
+  },
+  "muhammadhanzalaiqbal/pet-simulator-99-auto-farm-trainer-2026-turbo": {
+    "first_seen": "2026-06-29T02:58:27.804Z",
+    "last_seen": "2026-06-29T02:58:27.804Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:27.804Z"
+  },
+  "fajarakpdev/hades-ii-trainer-z": {
+    "first_seen": "2026-06-29T02:58:28.450Z",
+    "last_seen": "2026-06-29T02:58:28.450Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:28.450Z"
+  },
+  "mofouly/pet-simulator-99-auto-farm-trainer-2026-giga": {
+    "first_seen": "2026-06-29T02:58:29.155Z",
+    "last_seen": "2026-06-29T02:58:29.155Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:29.155Z"
+  },
+  "perglervitek/pet-simulator-99-auto-farm-trainer-2026-x": {
+    "first_seen": "2026-06-29T02:58:29.875Z",
+    "last_seen": "2026-06-29T02:58:29.875Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:29.875Z"
+  },
+  "mofouly/pet-simulator-99-auto-farm-trainer-2026-quantum": {
+    "first_seen": "2026-06-29T02:58:30.599Z",
+    "last_seen": "2026-06-29T02:58:30.599Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:30.599Z"
+  },
+  "nagaasaketh/pet-simulator-99-auto-farm-trainer-2026-nitro": {
+    "first_seen": "2026-06-29T02:58:31.272Z",
+    "last_seen": "2026-06-29T02:58:31.272Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:31.272Z"
+  },
+  "dimasarestuprasmanto/pet-simulator-99-auto-farm-trainer-2026-peta": {
+    "first_seen": "2026-06-29T02:58:31.940Z",
+    "last_seen": "2026-06-29T02:58:31.940Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:31.940Z"
+  },
+  "perglervitek/pet-simulator-99-auto-farm-trainer-2026-premium": {
+    "first_seen": "2026-06-29T02:58:32.628Z",
+    "last_seen": "2026-06-29T02:58:32.628Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:32.628Z"
+  },
+  "vanroon/pet-simulator-99-auto-farm-trainer-2026-elite": {
+    "first_seen": "2026-06-29T02:58:33.319Z",
+    "last_seen": "2026-06-29T02:58:33.319Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:33.319Z"
+  },
+  "yande0/hades-ii-trainer-x": {
+    "first_seen": "2026-06-29T02:58:34.050Z",
+    "last_seen": "2026-06-29T02:58:34.050Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:34.050Z"
+  },
+  "muhammadhanzalaiqbal/pet-simulator-99-auto-farm-trainer-2026-mega": {
+    "first_seen": "2026-06-29T02:58:34.692Z",
+    "last_seen": "2026-06-29T02:58:34.692Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:34.692Z"
+  },
+  "perglervitek/hades-ii-trainer-turbo": {
+    "first_seen": "2026-06-29T02:58:35.550Z",
+    "last_seen": "2026-06-29T02:58:35.550Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:35.550Z"
+  },
+  "yande0/pet-simulator-99-auto-farm-trainer-2026-platinum": {
+    "first_seen": "2026-06-29T02:58:36.422Z",
+    "last_seen": "2026-06-29T02:58:36.422Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:36.422Z"
+  },
+  "yande0/pet-simulator-99-auto-farm-trainer-2026-ultra": {
+    "first_seen": "2026-06-29T02:58:37.087Z",
+    "last_seen": "2026-06-29T02:58:37.087Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:37.087Z"
+  },
+  "muhammadhanzalaiqbal/hades-ii-trainer-ultra": {
+    "first_seen": "2026-06-29T02:58:37.757Z",
+    "last_seen": "2026-06-29T02:58:37.757Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:37.757Z"
+  },
+  "nagaasaketh/pet-simulator-99-auto-farm-trainer-2026": {
+    "first_seen": "2026-06-29T02:58:38.412Z",
+    "last_seen": "2026-06-29T02:58:38.412Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:38.412Z"
+  },
+  "incursio003/blox-fruits-dragon-update-auto-farm-script-2026-plus": {
+    "first_seen": "2026-06-29T02:58:39.042Z",
+    "last_seen": "2026-06-29T02:58:39.042Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:39.042Z"
+  },
+  "yande0/blox-fruits-dragon-update-auto-farm-script-2026-premium": {
+    "first_seen": "2026-06-29T02:58:39.714Z",
+    "last_seen": "2026-06-29T02:58:39.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:39.714Z"
+  },
+  "muhammadhanzalaiqbal/blox-fruits-dragon-update-auto-farm-script-2026-gold": {
+    "first_seen": "2026-06-29T02:58:40.405Z",
+    "last_seen": "2026-06-29T02:58:40.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:40.405Z"
+  },
+  "dimasarestuprasmanto/pet-simulator-99-auto-farm-trainer-2026-gold": {
+    "first_seen": "2026-06-29T02:58:41.063Z",
+    "last_seen": "2026-06-29T02:58:41.063Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:41.063Z"
+  },
+  "dimasarestuprasmanto/blox-fruits-dragon-update-auto-farm-script-2026-advanced": {
+    "first_seen": "2026-06-29T02:58:41.748Z",
+    "last_seen": "2026-06-29T02:58:41.748Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:41.748Z"
+  },
+  "dimasarestuprasmanto/hades-ii-trainer-premium": {
+    "first_seen": "2026-06-29T02:58:42.414Z",
+    "last_seen": "2026-06-29T02:58:42.414Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:42.414Z"
+  },
+  "nagaasaketh/blox-fruits-dragon-update-auto-farm-script-2026-ultimate": {
+    "first_seen": "2026-06-29T02:58:43.120Z",
+    "last_seen": "2026-06-29T02:58:43.120Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:43.120Z"
+  },
+  "mofouly/blox-fruits-dragon-update-auto-farm-script-2026-platinum": {
+    "first_seen": "2026-06-29T02:58:43.777Z",
+    "last_seen": "2026-06-29T02:58:43.777Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T02:58:43.777Z"
+  },
+  "gi-dellav/use-zerostack": {
+    "first_seen": "2026-06-29T02:58:44.183Z",
+    "last_seen": "2026-06-29T02:58:44.183Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-13T02:58:44.183Z"
+  },
+  "emirhuseynrmx/calybris-core": {
+    "first_seen": "2026-06-29T02:58:44.626Z",
+    "last_seen": "2026-06-29T02:58:44.626Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-13T02:58:44.626Z"
+  },
+  "loopedautomation/whisper": {
+    "first_seen": "2026-06-29T02:58:45.097Z",
+    "last_seen": "2026-06-29T02:58:45.097Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-13T02:58:45.097Z"
+  },
+  "rileyq7/drift": {
+    "first_seen": "2026-06-29T02:58:45.537Z",
+    "last_seen": "2026-06-29T02:58:45.537Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-13T02:58:45.537Z"
+  },
+  "trivyn/snarl": {
+    "first_seen": "2026-06-29T02:58:45.946Z",
+    "last_seen": "2026-06-29T02:58:45.946Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-13T02:58:45.946Z"
   }
 }
