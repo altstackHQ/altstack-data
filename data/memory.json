@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-06-22T16:47:58.153Z",
-    "times_seen": 10,
+    "last_seen": "2026-06-29T19:51:36.854Z",
+    "times_seen": 11,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-29T16:47:58.147Z"
+    "cooldown_until": "2026-07-06T19:51:36.846Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-06-22T16:47:59.995Z",
-    "times_seen": 10,
+    "last_seen": "2026-06-29T19:51:39.068Z",
+    "times_seen": 11,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-29T16:47:59.995Z"
+    "cooldown_until": "2026-07-06T19:51:39.068Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -31027,5 +31027,70 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-13T15:39:13.115Z"
+  },
+  "mofouly/hades-ii-trainer-max": {
+    "first_seen": "2026-06-29T19:51:39.596Z",
+    "last_seen": "2026-06-29T19:51:39.596Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T19:51:39.596Z"
+  },
+  "dogtorjonah/context-warp-drive": {
+    "first_seen": "2026-06-29T19:51:39.908Z",
+    "last_seen": "2026-06-29T19:51:39.908Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-13T19:51:39.908Z"
+  },
+  "nick-is-building/ast-guard": {
+    "first_seen": "2026-06-29T19:51:40.252Z",
+    "last_seen": "2026-06-29T19:51:40.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-13T19:51:40.252Z"
+  },
+  "kolegadev/katra-agentic-memory": {
+    "first_seen": "2026-06-29T19:51:40.569Z",
+    "last_seen": "2026-06-29T19:51:40.569Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-13T19:51:40.569Z"
+  },
+  "vinerya/driftguard": {
+    "first_seen": "2026-06-29T19:51:40.905Z",
+    "last_seen": "2026-06-29T19:51:40.905Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-13T19:51:40.905Z"
+  },
+  "bonnard-data/mcp-charts": {
+    "first_seen": "2026-06-29T19:51:41.249Z",
+    "last_seen": "2026-06-29T19:51:41.249Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-13T19:51:41.249Z"
   }
 }
