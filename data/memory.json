@@ -23023,14 +23023,14 @@
   },
   "ayushh0110/screenmind": {
     "first_seen": "2026-06-14T03:32:27.561Z",
-    "last_seen": "2026-06-14T03:32:27.561Z",
-    "times_seen": 1,
+    "last_seen": "2026-06-29T15:39:10.740Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 24,
-    "cooldown_until": "2026-06-28T03:32:27.561Z"
+    "cooldown_until": "2026-07-06T15:39:10.740Z"
   },
   "braitenberg/bye-wk": {
     "first_seen": "2026-06-14T03:32:27.820Z",
@@ -30940,5 +30940,92 @@
     "reason": "low_stars",
     "stars": 7,
     "cooldown_until": "2026-07-13T10:55:28.926Z"
+  },
+  "wlzh/dji-4g-vohive-mac": {
+    "first_seen": "2026-06-29T15:39:10.247Z",
+    "last_seen": "2026-06-29T15:39:10.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-06T15:39:10.240Z"
+  },
+  "ohad6k/viberaven": {
+    "first_seen": "2026-06-29T15:39:11.106Z",
+    "last_seen": "2026-06-29T15:39:11.106Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-07-13T15:39:11.106Z"
+  },
+  "kuberwastaken/reference": {
+    "first_seen": "2026-06-29T15:39:11.425Z",
+    "last_seen": "2026-06-29T15:39:11.425Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-13T15:39:11.425Z"
+  },
+  "ynnk-research/a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes": {
+    "first_seen": "2026-06-29T15:39:11.745Z",
+    "last_seen": "2026-06-29T15:39:11.745Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-13T15:39:11.745Z"
+  },
+  "callmealphabet/fasthex": {
+    "first_seen": "2026-06-29T15:39:12.067Z",
+    "last_seen": "2026-06-29T15:39:12.067Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-13T15:39:12.067Z"
+  },
+  "opsyhq/wolli": {
+    "first_seen": "2026-06-29T15:39:12.414Z",
+    "last_seen": "2026-06-29T15:39:12.414Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-13T15:39:12.414Z"
+  },
+  "gautamdhameja/sonar": {
+    "first_seen": "2026-06-29T15:39:12.757Z",
+    "last_seen": "2026-06-29T15:39:12.757Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-13T15:39:12.757Z"
+  },
+  "kivirnz/openlyfta": {
+    "first_seen": "2026-06-29T15:39:13.115Z",
+    "last_seen": "2026-06-29T15:39:13.115Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-13T15:39:13.115Z"
   }
 }
