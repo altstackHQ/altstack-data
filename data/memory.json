@@ -31273,5 +31273,121 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-07T14:09:32.197Z"
+  },
+  "revfactory/webtoon-harness": {
+    "first_seen": "2026-06-30T19:49:08.857Z",
+    "last_seen": "2026-06-30T19:49:08.857Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T19:49:08.849Z"
+  },
+  "yande0/hades-ii-trainer-pro": {
+    "first_seen": "2026-06-30T19:49:09.594Z",
+    "last_seen": "2026-06-30T19:49:09.594Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T19:49:09.594Z"
+  },
+  "nagaasaketh/blox-fruits-dragon-update-auto-farm-script-2026-hyper": {
+    "first_seen": "2026-06-30T19:49:10.314Z",
+    "last_seen": "2026-06-30T19:49:10.314Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T19:49:10.314Z"
+  },
+  "perglervitek/blox-fruits-dragon-update-auto-farm-script-2026-pro": {
+    "first_seen": "2026-06-30T19:49:11.009Z",
+    "last_seen": "2026-06-30T19:49:11.009Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T19:49:11.009Z"
+  },
+  "perglervitek/blox-fruits-dragon-update-auto-farm-script-2026-elite": {
+    "first_seen": "2026-06-30T19:49:11.754Z",
+    "last_seen": "2026-06-30T19:49:11.754Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T19:49:11.754Z"
+  },
+  "narner/rampart-coreml": {
+    "first_seen": "2026-06-30T19:49:12.166Z",
+    "last_seen": "2026-06-30T19:49:12.166Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-07-30T19:49:12.166Z"
+  },
+  "agentflock/myna": {
+    "first_seen": "2026-06-30T19:49:12.628Z",
+    "last_seen": "2026-06-30T19:49:12.628Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-14T19:49:12.628Z"
+  },
+  "seachicken/intellij-shoaku": {
+    "first_seen": "2026-06-30T19:49:13.904Z",
+    "last_seen": "2026-06-30T19:49:13.904Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-14T19:49:13.904Z"
+  },
+  "kmcheung12/second-opinion": {
+    "first_seen": "2026-06-30T19:49:14.309Z",
+    "last_seen": "2026-06-30T19:49:14.309Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-14T19:49:14.309Z"
+  },
+  "penguinedavid/geekgreek": {
+    "first_seen": "2026-06-30T19:49:14.698Z",
+    "last_seen": "2026-06-30T19:49:14.698Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-14T19:49:14.698Z"
+  },
+  "getmunin/munin": {
+    "first_seen": "2026-06-30T19:49:15.115Z",
+    "last_seen": "2026-06-30T19:49:15.115Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-14T19:49:15.115Z"
   }
 }
