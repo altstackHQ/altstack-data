@@ -31243,5 +31243,35 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-14T09:26:28.815Z"
+  },
+  "deathbyknowledge/gsv": {
+    "first_seen": "2026-06-30T14:09:30.960Z",
+    "last_seen": "2026-06-30T14:09:30.960Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T14:09:30.951Z"
+  },
+  "ouijit/ouijit": {
+    "first_seen": "2026-06-30T14:09:31.583Z",
+    "last_seen": "2026-06-30T14:09:31.583Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T14:09:31.583Z"
+  },
+  "freecomputinglab/rheo": {
+    "first_seen": "2026-06-30T14:09:32.197Z",
+    "last_seen": "2026-06-30T14:09:32.197Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T14:09:32.197Z"
   }
 }
