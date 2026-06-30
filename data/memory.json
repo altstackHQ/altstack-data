@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-06-23T02:47:24.540Z",
-    "times_seen": 10,
+    "last_seen": "2026-06-30T02:57:57.393Z",
+    "times_seen": 11,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-30T02:47:24.532Z"
+    "cooldown_until": "2026-07-07T02:57:57.384Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -31092,5 +31092,101 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-07-13T19:51:41.249Z"
+  },
+  "jia-ethan/codex-keysmith": {
+    "first_seen": "2026-06-30T02:57:59.191Z",
+    "last_seen": "2026-06-30T02:57:59.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T02:57:59.191Z"
+  },
+  "muhammadhanzalaiqbal/hades-ii-trainer-platinum": {
+    "first_seen": "2026-06-30T02:57:59.620Z",
+    "last_seen": "2026-06-30T02:57:59.620Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T02:57:59.620Z"
+  },
+  "doordash-oss/agentic-orchestrator": {
+    "first_seen": "2026-06-30T02:58:00.040Z",
+    "last_seen": "2026-06-30T02:58:00.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-07T02:58:00.040Z"
+  },
+  "opensfm/opensfm": {
+    "first_seen": "2026-06-30T02:58:00.366Z",
+    "last_seen": "2026-06-30T02:58:00.366Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-07-14T02:58:00.366Z"
+  },
+  "higangssh/yocto-agent-skills": {
+    "first_seen": "2026-06-30T02:58:01.105Z",
+    "last_seen": "2026-06-30T02:58:01.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-14T02:58:01.105Z"
+  },
+  "guglielmocerri/khazad": {
+    "first_seen": "2026-06-30T02:58:01.450Z",
+    "last_seen": "2026-06-30T02:58:01.450Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-14T02:58:01.450Z"
+  },
+  "tmc/go-iroh": {
+    "first_seen": "2026-06-30T02:58:01.761Z",
+    "last_seen": "2026-06-30T02:58:01.761Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-07-14T02:58:01.761Z"
+  },
+  "matt454/agent-fleet-console": {
+    "first_seen": "2026-06-30T02:58:02.068Z",
+    "last_seen": "2026-06-30T02:58:02.068Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-14T02:58:02.068Z"
+  },
+  "mjn298/ts7-lsp-plugin": {
+    "first_seen": "2026-06-30T02:58:02.380Z",
+    "last_seen": "2026-06-30T02:58:02.380Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-14T02:58:02.380Z"
   }
 }
