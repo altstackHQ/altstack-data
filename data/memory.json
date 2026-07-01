@@ -31869,5 +31869,92 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-15T14:25:38.276Z"
+  },
+  "harshalgajjar/reminal": {
+    "first_seen": "2026-07-01T19:47:42.946Z",
+    "last_seen": "2026-07-01T19:47:42.946Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-15T19:47:42.936Z"
+  },
+  "adam-s/car-diagnosis": {
+    "first_seen": "2026-07-01T19:47:43.678Z",
+    "last_seen": "2026-07-01T19:47:43.678Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-15T19:47:43.678Z"
+  },
+  "morphsec88/vse-compute-over-storage": {
+    "first_seen": "2026-07-01T19:47:44.430Z",
+    "last_seen": "2026-07-01T19:47:44.430Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-15T19:47:44.430Z"
+  },
+  "pedrosousa13/onda": {
+    "first_seen": "2026-07-01T19:47:44.733Z",
+    "last_seen": "2026-07-01T19:47:44.733Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-15T19:47:44.733Z"
+  },
+  "dr-alberto/rewindr": {
+    "first_seen": "2026-07-01T19:47:45.044Z",
+    "last_seen": "2026-07-01T19:47:45.044Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-15T19:47:45.044Z"
+  },
+  "coderscreen/coderscreen": {
+    "first_seen": "2026-07-01T19:47:45.473Z",
+    "last_seen": "2026-07-01T19:47:45.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T19:47:45.473Z"
+  },
+  "meltedinhex/analyst-ai-pack": {
+    "first_seen": "2026-07-01T19:47:45.819Z",
+    "last_seen": "2026-07-01T19:47:45.819Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-15T19:47:45.819Z"
+  },
+  "aalxx/querydrift": {
+    "first_seen": "2026-07-01T19:47:46.156Z",
+    "last_seen": "2026-07-01T19:47:46.156Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-15T19:47:46.156Z"
   }
 }
