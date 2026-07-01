@@ -31389,5 +31389,348 @@
     "reason": "low_stars",
     "stars": 7,
     "cooldown_until": "2026-07-14T19:49:15.115Z"
+  },
+  "zeeshan2899/system_backup___restore": {
+    "first_seen": "2026-07-01T02:57:51.780Z",
+    "last_seen": "2026-07-01T02:57:51.780Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:51.772Z"
+  },
+  "zhujingqi/twitter_engagement_tool": {
+    "first_seen": "2026-07-01T02:57:52.209Z",
+    "last_seen": "2026-07-01T02:57:52.209Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:52.209Z"
+  },
+  "srsck/virtual_machine_manager": {
+    "first_seen": "2026-07-01T02:57:52.637Z",
+    "last_seen": "2026-07-01T02:57:52.637Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:52.637Z"
+  },
+  "anonymousdev1494/system_information_viewer": {
+    "first_seen": "2026-07-01T02:57:53.035Z",
+    "last_seen": "2026-07-01T02:57:53.035Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:53.035Z"
+  },
+  "stephanoescobarloayza/spotify_playlist_booster": {
+    "first_seen": "2026-07-01T02:57:53.446Z",
+    "last_seen": "2026-07-01T02:57:53.446Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:53.446Z"
+  },
+  "arenaasd/roblox_bedwars_auto-farm___aimbot": {
+    "first_seen": "2026-07-01T02:57:53.847Z",
+    "last_seen": "2026-07-01T02:57:53.847Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:53.847Z"
+  },
+  "fdani007/pubg_battlegrounds_esp___aimbot": {
+    "first_seen": "2026-07-01T02:57:54.347Z",
+    "last_seen": "2026-07-01T02:57:54.347Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:54.347Z"
+  },
+  "zaidoonkamil/tiktok_follower_farm": {
+    "first_seen": "2026-07-01T02:57:54.764Z",
+    "last_seen": "2026-07-01T02:57:54.764Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:54.763Z"
+  },
+  "zhaixiansen1023-cpu/qr_code_scanner": {
+    "first_seen": "2026-07-01T02:57:55.227Z",
+    "last_seen": "2026-07-01T02:57:55.227Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:55.227Z"
+  },
+  "triangkas/skyrim_special_edition_god_mode": {
+    "first_seen": "2026-07-01T02:57:55.643Z",
+    "last_seen": "2026-07-01T02:57:55.643Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:55.643Z"
+  },
+  "tangjiali/the_witcher_3_god_mode___unlimited_gold": {
+    "first_seen": "2026-07-01T02:57:56.067Z",
+    "last_seen": "2026-07-01T02:57:56.067Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:56.067Z"
+  },
+  "raheemxghumman/screen_recorder_pro": {
+    "first_seen": "2026-07-01T02:57:56.461Z",
+    "last_seen": "2026-07-01T02:57:56.461Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:56.461Z"
+  },
+  "paulaengel/telegram_channel_manager": {
+    "first_seen": "2026-07-01T02:57:56.863Z",
+    "last_seen": "2026-07-01T02:57:56.863Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:56.863Z"
+  },
+  "sac-tharan/the_elder_scrolls_online_auto-farm": {
+    "first_seen": "2026-07-01T02:57:57.293Z",
+    "last_seen": "2026-07-01T02:57:57.293Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:57.293Z"
+  },
+  "mikovelascoramirez/roblox_adopt_me_pet_farm": {
+    "first_seen": "2026-07-01T02:57:57.696Z",
+    "last_seen": "2026-07-01T02:57:57.696Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:57.696Z"
+  },
+  "jawadashraf772/windows_system_optimizer": {
+    "first_seen": "2026-07-01T02:57:58.114Z",
+    "last_seen": "2026-07-01T02:57:58.114Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:58.114Z"
+  },
+  "serder8866/universal_usb_boot_maker": {
+    "first_seen": "2026-07-01T02:57:58.540Z",
+    "last_seen": "2026-07-01T02:57:58.540Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:58.540Z"
+  },
+  "usaid-anxari/roblox_tower_defense_simulator_auto-farm": {
+    "first_seen": "2026-07-01T02:57:59.003Z",
+    "last_seen": "2026-07-01T02:57:59.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:59.003Z"
+  },
+  "kumuterke/slack_automation_bot": {
+    "first_seen": "2026-07-01T02:57:59.416Z",
+    "last_seen": "2026-07-01T02:57:59.416Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:59.416Z"
+  },
+  "theartistscut1-uig/metro_last_light_unlimited_ammo___filters": {
+    "first_seen": "2026-07-01T02:57:59.844Z",
+    "last_seen": "2026-07-01T02:57:59.844Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:57:59.844Z"
+  },
+  "piedraprog/network_scanner": {
+    "first_seen": "2026-07-01T02:58:00.270Z",
+    "last_seen": "2026-07-01T02:58:00.270Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:00.270Z"
+  },
+  "omarabdelazez11/valorant_triggerbot_elite": {
+    "first_seen": "2026-07-01T02:58:00.676Z",
+    "last_seen": "2026-07-01T02:58:00.676Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:00.676Z"
+  },
+  "mbovu222/league_of_legends_skillshot_dodger": {
+    "first_seen": "2026-07-01T02:58:01.092Z",
+    "last_seen": "2026-07-01T02:58:01.092Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:01.092Z"
+  },
+  "rohim616/onedrive_sync_tool": {
+    "first_seen": "2026-07-01T02:58:01.509Z",
+    "last_seen": "2026-07-01T02:58:01.509Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:01.509Z"
+  },
+  "parth-rana-333/spider-man_remastered_unlimited_gadgets": {
+    "first_seen": "2026-07-01T02:58:01.977Z",
+    "last_seen": "2026-07-01T02:58:01.977Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:01.977Z"
+  },
+  "ahmedkuwity-source/rainbow_six_siege_wallhack___aimbot": {
+    "first_seen": "2026-07-01T02:58:02.397Z",
+    "last_seen": "2026-07-01T02:58:02.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:02.397Z"
+  },
+  "iamhmjayed/mega_cloud_bot": {
+    "first_seen": "2026-07-01T02:58:02.823Z",
+    "last_seen": "2026-07-01T02:58:02.823Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:02.823Z"
+  },
+  "loay-ashraf-744/the_sims_4_cheat_engine": {
+    "first_seen": "2026-07-01T02:58:03.292Z",
+    "last_seen": "2026-07-01T02:58:03.292Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:03.292Z"
+  },
+  "mrgrey565-ux/file_shredder": {
+    "first_seen": "2026-07-01T02:58:03.715Z",
+    "last_seen": "2026-07-01T02:58:03.715Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:03.715Z"
+  },
+  "muxshed/shed": {
+    "first_seen": "2026-07-01T02:58:04.031Z",
+    "last_seen": "2026-07-01T02:58:04.031Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-15T02:58:04.031Z"
+  },
+  "therepanic/openleetcode": {
+    "first_seen": "2026-07-01T02:58:04.347Z",
+    "last_seen": "2026-07-01T02:58:04.347Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-15T02:58:04.347Z"
+  },
+  "yeychenne/trains-rust": {
+    "first_seen": "2026-07-01T02:58:04.678Z",
+    "last_seen": "2026-07-01T02:58:04.678Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-15T02:58:04.678Z"
+  },
+  "typedef-ai/fenic": {
+    "first_seen": "2026-07-01T02:58:05.089Z",
+    "last_seen": "2026-07-01T02:58:05.089Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:05.089Z"
+  },
+  "tigerless-labs/autoharness": {
+    "first_seen": "2026-07-01T02:58:05.556Z",
+    "last_seen": "2026-07-01T02:58:05.556Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T02:58:05.556Z"
   }
 }
