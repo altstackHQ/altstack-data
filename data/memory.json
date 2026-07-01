@@ -31732,5 +31732,100 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-08T02:58:05.556Z"
+  },
+  "99ayush/iphone_backup_tool": {
+    "first_seen": "2026-07-01T09:45:19.080Z",
+    "last_seen": "2026-07-01T09:45:19.080Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T09:45:19.072Z"
+  },
+  "akash123201akashp/stock_market_scanner": {
+    "first_seen": "2026-07-01T09:45:19.748Z",
+    "last_seen": "2026-07-01T09:45:19.748Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T09:45:19.748Z"
+  },
+  "nagaasaketh/minecraft_autominer_pro": {
+    "first_seen": "2026-07-01T09:45:20.441Z",
+    "last_seen": "2026-07-01T09:45:20.441Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T09:45:20.441Z"
+  },
+  "tonyguo30/pdf_editor_suite": {
+    "first_seen": "2026-07-01T09:45:21.135Z",
+    "last_seen": "2026-07-01T09:45:21.135Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T09:45:21.135Z"
+  },
+  "arman-jalili/rigorix-oss": {
+    "first_seen": "2026-07-01T09:45:21.533Z",
+    "last_seen": "2026-07-01T09:45:21.533Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-15T09:45:21.533Z"
+  },
+  "penguinedavid/light-weight-logger": {
+    "first_seen": "2026-07-01T09:45:21.921Z",
+    "last_seen": "2026-07-01T09:45:21.921Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-15T09:45:21.921Z"
+  },
+  "korrectional/gilfoyleai": {
+    "first_seen": "2026-07-01T09:45:23.127Z",
+    "last_seen": "2026-07-01T09:45:23.127Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-15T09:45:23.127Z"
+  },
+  "urjitbhatia/fruitbox": {
+    "first_seen": "2026-07-01T09:45:23.533Z",
+    "last_seen": "2026-07-01T09:45:23.533Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-15T09:45:23.533Z"
+  },
+  "pjhkorea/egregore-flat-kernel": {
+    "first_seen": "2026-07-01T09:45:23.940Z",
+    "last_seen": "2026-07-01T09:45:23.940Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-15T09:45:23.940Z"
   }
 }
