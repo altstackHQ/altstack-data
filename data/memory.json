@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-06-24T14:19:49.610Z",
-    "times_seen": 5,
+    "last_seen": "2026-07-01T14:25:33.656Z",
+    "times_seen": 6,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-01T14:19:49.603Z"
+    "cooldown_until": "2026-07-08T14:25:33.647Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -31827,5 +31827,47 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-15T09:45:23.940Z"
+  },
+  "mekos2772/ios-location-spoofer": {
+    "first_seen": "2026-07-01T14:25:36.498Z",
+    "last_seen": "2026-07-01T14:25:36.498Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T14:25:36.498Z"
+  },
+  "fernanw12350/warframe_auto-farm___infinite_energy": {
+    "first_seen": "2026-07-01T14:25:37.000Z",
+    "last_seen": "2026-07-01T14:25:37.000Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-08T14:25:37.000Z"
+  },
+  "hajoon22/icmp-nat-traversal": {
+    "first_seen": "2026-07-01T14:25:37.945Z",
+    "last_seen": "2026-07-01T14:25:37.945Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-15T14:25:37.945Z"
+  },
+  "abhavk/erlangchain": {
+    "first_seen": "2026-07-01T14:25:38.276Z",
+    "last_seen": "2026-07-01T14:25:38.276Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-15T14:25:38.276Z"
   }
 }
