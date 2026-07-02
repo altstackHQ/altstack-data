@@ -24273,13 +24273,13 @@
   },
   "ctxrs/ctx": {
     "first_seen": "2026-06-16T20:45:53.000Z",
-    "last_seen": "2026-06-16T20:45:53.000Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-02T19:18:25.580Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-23T20:45:53.000Z"
+    "cooldown_until": "2026-07-09T19:18:25.580Z"
   },
   "m1n-n9/paper-lifecycle": {
     "first_seen": "2026-06-17T03:36:01.135Z",
@@ -32564,5 +32564,122 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-16T13:49:19.501Z"
+  },
+  "lingbol088-spec/reverse-flow-skill": {
+    "first_seen": "2026-07-02T19:18:24.413Z",
+    "last_seen": "2026-07-02T19:18:24.413Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T19:18:24.405Z"
+  },
+  "rafal-qa/slopo": {
+    "first_seen": "2026-07-02T19:18:24.964Z",
+    "last_seen": "2026-07-02T19:18:24.964Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T19:18:24.964Z"
+  },
+  "enola-labs/enola": {
+    "first_seen": "2026-07-02T19:18:26.141Z",
+    "last_seen": "2026-07-02T19:18:26.141Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T19:18:26.141Z"
+  },
+  "riccardoruspoli/memsignal": {
+    "first_seen": "2026-07-02T19:18:26.522Z",
+    "last_seen": "2026-07-02T19:18:26.522Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-16T19:18:26.522Z"
+  },
+  "jialinhuang00/kubelens": {
+    "first_seen": "2026-07-02T19:18:27.562Z",
+    "last_seen": "2026-07-02T19:18:27.562Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-16T19:18:27.562Z"
+  },
+  "vinayak-shukla-03/anti-ai-slop": {
+    "first_seen": "2026-07-02T19:18:27.917Z",
+    "last_seen": "2026-07-02T19:18:27.917Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-16T19:18:27.917Z"
+  },
+  "tracyspacy/fli": {
+    "first_seen": "2026-07-02T19:18:28.269Z",
+    "last_seen": "2026-07-02T19:18:28.269Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-07-16T19:18:28.269Z"
+  },
+  "ata-sesli/newsprint": {
+    "first_seen": "2026-07-02T19:18:28.612Z",
+    "last_seen": "2026-07-02T19:18:28.612Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-16T19:18:28.612Z"
+  },
+  "1gr14/point0": {
+    "first_seen": "2026-07-02T19:18:29.208Z",
+    "last_seen": "2026-07-02T19:18:29.208Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T19:18:29.208Z"
+  },
+  "skill-federation/skill-federation": {
+    "first_seen": "2026-07-02T19:18:29.608Z",
+    "last_seen": "2026-07-02T19:18:29.608Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-16T19:18:29.608Z"
+  },
+  "kerbelp/context-md": {
+    "first_seen": "2026-07-02T19:18:29.968Z",
+    "last_seen": "2026-07-02T19:18:29.968Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-16T19:18:29.968Z"
   }
 }
