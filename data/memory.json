@@ -32279,5 +32279,106 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-07-16T02:48:29.383Z"
+  },
+  "montez27albert-collab/arsenal_-_aimbot___esp": {
+    "first_seen": "2026-07-02T08:50:18.023Z",
+    "last_seen": "2026-07-02T08:50:18.023Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:18.015Z"
+  },
+  "jeunenomade16-sudo/dead_rails_-_auto-survive___esp": {
+    "first_seen": "2026-07-02T08:50:18.502Z",
+    "last_seen": "2026-07-02T08:50:18.502Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:18.502Z"
+  },
+  "charlesdhon/destiny_2_unlimited_glimmer___supers": {
+    "first_seen": "2026-07-02T08:50:18.971Z",
+    "last_seen": "2026-07-02T08:50:18.971Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:18.971Z"
+  },
+  "itsbalihere/barry_s_prison_run_-_auto-escape___esp": {
+    "first_seen": "2026-07-02T08:50:19.448Z",
+    "last_seen": "2026-07-02T08:50:19.448Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:19.448Z"
+  },
+  "abaz890/civilization_vii_unlimited_gold___science": {
+    "first_seen": "2026-07-02T08:50:19.970Z",
+    "last_seen": "2026-07-02T08:50:19.970Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:19.970Z"
+  },
+  "sagarbabu9/docker_container_manager": {
+    "first_seen": "2026-07-02T08:50:20.437Z",
+    "last_seen": "2026-07-02T08:50:20.437Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:20.437Z"
+  },
+  "mdrayhanbhuiyan/battlefield_6_trainer___esp": {
+    "first_seen": "2026-07-02T08:50:20.914Z",
+    "last_seen": "2026-07-02T08:50:20.914Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:20.914Z"
+  },
+  "pawanlaksahan/elden_ring_rune_farm___god_mode": {
+    "first_seen": "2026-07-02T08:50:21.408Z",
+    "last_seen": "2026-07-02T08:50:21.408Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:21.408Z"
+  },
+  "ai-abdullah/ea_sports_fc_ultimate_team_bot": {
+    "first_seen": "2026-07-02T08:50:21.896Z",
+    "last_seen": "2026-07-02T08:50:21.896Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-09T08:50:21.896Z"
+  },
+  "jacobbrooke1/moxie": {
+    "first_seen": "2026-07-02T08:50:23.382Z",
+    "last_seen": "2026-07-02T08:50:23.382Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-16T08:50:23.382Z"
   }
 }
