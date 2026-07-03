@@ -32850,5 +32850,341 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-17T13:53:32.752Z"
+  },
+  "jmerelnyc/talos": {
+    "first_seen": "2026-07-03T19:12:58.039Z",
+    "last_seen": "2026-07-03T19:12:58.039Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:12:58.030Z"
+  },
+  "linxiaotao/fuckclaude": {
+    "first_seen": "2026-07-03T19:12:58.686Z",
+    "last_seen": "2026-07-03T19:12:58.686Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:12:58.686Z"
+  },
+  "frecodecasti/gem5-branchpred": {
+    "first_seen": "2026-07-03T19:12:59.379Z",
+    "last_seen": "2026-07-03T19:12:59.379Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:12:59.379Z"
+  },
+  "rolekkona/bghira-bark": {
+    "first_seen": "2026-07-03T19:13:00.039Z",
+    "last_seen": "2026-07-03T19:13:00.039Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:00.039Z"
+  },
+  "xt4d/gameblocks": {
+    "first_seen": "2026-07-03T19:13:00.691Z",
+    "last_seen": "2026-07-03T19:13:00.691Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:00.691Z"
+  },
+  "jimliu/science-skills": {
+    "first_seen": "2026-07-03T19:13:01.366Z",
+    "last_seen": "2026-07-03T19:13:01.366Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:01.366Z"
+  },
+  "superjj007/csswitch": {
+    "first_seen": "2026-07-03T19:13:02.093Z",
+    "last_seen": "2026-07-03T19:13:02.093Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:02.093Z"
+  },
+  "barricadesoldierdash/meccha-chameleon-vision": {
+    "first_seen": "2026-07-03T19:13:02.744Z",
+    "last_seen": "2026-07-03T19:13:02.744Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:02.744Z"
+  },
+  "akihitohyh/chatgpt-register-sub2api": {
+    "first_seen": "2026-07-03T19:13:03.450Z",
+    "last_seen": "2026-07-03T19:13:03.450Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:03.450Z"
+  },
+  "jamesob/local-llm": {
+    "first_seen": "2026-07-03T19:13:04.229Z",
+    "last_seen": "2026-07-03T19:13:04.229Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:04.229Z"
+  },
+  "benmakeseverything/pocket-lab-power-supply": {
+    "first_seen": "2026-07-03T19:13:04.638Z",
+    "last_seen": "2026-07-03T19:13:04.638Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CERN-OHL-S-2.0",
+    "cooldown_until": "2026-08-02T19:13:04.638Z"
+  },
+  "ostudi/short-video-generator-ai": {
+    "first_seen": "2026-07-03T19:13:05.350Z",
+    "last_seen": "2026-07-03T19:13:05.350Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:05.350Z"
+  },
+  "zsun79/conferencewatch": {
+    "first_seen": "2026-07-03T19:13:05.979Z",
+    "last_seen": "2026-07-03T19:13:05.979Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:05.979Z"
+  },
+  "rit3zh/expo-dynamic-tray": {
+    "first_seen": "2026-07-03T19:13:06.632Z",
+    "last_seen": "2026-07-03T19:13:06.632Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:06.632Z"
+  },
+  "eeliberto/surgerelay-macos": {
+    "first_seen": "2026-07-03T19:13:07.331Z",
+    "last_seen": "2026-07-03T19:13:07.331Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:07.331Z"
+  },
+  "dzhng/skills": {
+    "first_seen": "2026-07-03T19:13:07.985Z",
+    "last_seen": "2026-07-03T19:13:07.985Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:07.985Z"
+  },
+  "whiteexecutiverope/meccha-chameleon-cheat-update": {
+    "first_seen": "2026-07-03T19:13:08.702Z",
+    "last_seen": "2026-07-03T19:13:08.702Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:08.702Z"
+  },
+  "lzh-phd/topic-feasibility-screener": {
+    "first_seen": "2026-07-03T19:13:09.472Z",
+    "last_seen": "2026-07-03T19:13:09.472Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:09.472Z"
+  },
+  "tomicz/fable-5-train-opus-skills-after-it-retires": {
+    "first_seen": "2026-07-03T19:13:10.160Z",
+    "last_seen": "2026-07-03T19:13:10.160Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:10.160Z"
+  },
+  "combinesniperpergola/mecchahack": {
+    "first_seen": "2026-07-03T19:13:10.962Z",
+    "last_seen": "2026-07-03T19:13:10.962Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:10.962Z"
+  },
+  "lavenderpilotrecoup/mecchacheat": {
+    "first_seen": "2026-07-03T19:13:11.683Z",
+    "last_seen": "2026-07-03T19:13:11.683Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:11.683Z"
+  },
+  "grabworldlog/mechacheat": {
+    "first_seen": "2026-07-03T19:13:12.441Z",
+    "last_seen": "2026-07-03T19:13:12.441Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:12.441Z"
+  },
+  "monetarytweezers/mechahack": {
+    "first_seen": "2026-07-03T19:13:13.096Z",
+    "last_seen": "2026-07-03T19:13:13.096Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:13.096Z"
+  },
+  "rotejin/purupurupngtuber": {
+    "first_seen": "2026-07-03T19:13:13.757Z",
+    "last_seen": "2026-07-03T19:13:13.757Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:13.757Z"
+  },
+  "aevella/polaris-local-first": {
+    "first_seen": "2026-07-03T19:13:14.417Z",
+    "last_seen": "2026-07-03T19:13:14.417Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:14.417Z"
+  },
+  "easylink-ai-open/agent-runtime": {
+    "first_seen": "2026-07-03T19:13:15.185Z",
+    "last_seen": "2026-07-03T19:13:15.185Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:15.185Z"
+  },
+  "defryarhinsa/add-mass-account-antigravity-to-9router": {
+    "first_seen": "2026-07-03T19:13:15.956Z",
+    "last_seen": "2026-07-03T19:13:15.956Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:15.956Z"
+  },
+  "kerlenton/mcpsnoop": {
+    "first_seen": "2026-07-03T19:13:16.589Z",
+    "last_seen": "2026-07-03T19:13:16.589Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T19:13:16.589Z"
+  },
+  "plasma-ai/wiki": {
+    "first_seen": "2026-07-03T19:13:17.027Z",
+    "last_seen": "2026-07-03T19:13:17.027Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-17T19:13:17.027Z"
+  },
+  "ftaisdeal/cross-platform-slideshow": {
+    "first_seen": "2026-07-03T19:13:17.616Z",
+    "last_seen": "2026-07-03T19:13:17.616Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-17T19:13:17.616Z"
+  },
+  "pjhkorea/egregore": {
+    "first_seen": "2026-07-03T19:13:18.017Z",
+    "last_seen": "2026-07-03T19:13:18.017Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-17T19:13:18.017Z"
+  },
+  "atmanactive/refracta-on-debian-13-with-kde": {
+    "first_seen": "2026-07-03T19:13:18.419Z",
+    "last_seen": "2026-07-03T19:13:18.419Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-17T19:13:18.419Z"
+  },
+  "dmatth1/quicktok": {
+    "first_seen": "2026-07-03T19:13:18.846Z",
+    "last_seen": "2026-07-03T19:13:18.846Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-17T19:13:18.846Z"
   }
 }
