@@ -32744,5 +32744,59 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-10T02:30:46.987Z"
+  },
+  "itz-rynx/disk_space_visualizer": {
+    "first_seen": "2026-07-03T09:02:12.125Z",
+    "last_seen": "2026-07-03T09:02:12.125Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T09:02:12.117Z"
+  },
+  "unliftedq/imagent": {
+    "first_seen": "2026-07-03T09:02:13.248Z",
+    "last_seen": "2026-07-03T09:02:13.248Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-07-17T09:02:13.248Z"
+  },
+  "willylam2222-bot/priceprobe": {
+    "first_seen": "2026-07-03T09:02:13.659Z",
+    "last_seen": "2026-07-03T09:02:13.659Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-17T09:02:13.659Z"
+  },
+  "carnworkstudios/boxwood": {
+    "first_seen": "2026-07-03T09:02:14.097Z",
+    "last_seen": "2026-07-03T09:02:14.097Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-17T09:02:14.097Z"
+  },
+  "tsirysndr/fin": {
+    "first_seen": "2026-07-03T09:02:14.521Z",
+    "last_seen": "2026-07-03T09:02:14.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-17T09:02:14.521Z"
   }
 }
