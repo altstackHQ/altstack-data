@@ -32798,5 +32798,57 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-07-17T09:02:14.521Z"
+  },
+  "xuchonglang/investing-for-beginners": {
+    "first_seen": "2026-07-03T13:53:30.915Z",
+    "last_seen": "2026-07-03T13:53:30.915Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T13:53:30.907Z"
+  },
+  "uzairansaruzi/hermex": {
+    "first_seen": "2026-07-03T13:53:31.456Z",
+    "last_seen": "2026-07-03T13:53:31.456Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T13:53:31.456Z"
+  },
+  "faultsense/faultsense-agent": {
+    "first_seen": "2026-07-03T13:53:31.829Z",
+    "last_seen": "2026-07-03T13:53:31.829Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-17T13:53:31.829Z"
+  },
+  "juliangeymonat-jpg/mothrag": {
+    "first_seen": "2026-07-03T13:53:32.405Z",
+    "last_seen": "2026-07-03T13:53:32.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T13:53:32.404Z"
+  },
+  "scascino4/dither": {
+    "first_seen": "2026-07-03T13:53:32.752Z",
+    "last_seen": "2026-07-03T13:53:32.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-17T13:53:32.752Z"
   }
 }
