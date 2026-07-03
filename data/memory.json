@@ -32681,5 +32681,68 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-16T19:18:29.968Z"
+  },
+  "rayenamor434-max/death_stranding_2__on_the_beach_trainer": {
+    "first_seen": "2026-07-03T02:30:44.761Z",
+    "last_seen": "2026-07-03T02:30:44.761Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T02:30:44.753Z"
+  },
+  "rogerdeveloper2009/certificate_manager": {
+    "first_seen": "2026-07-03T02:30:45.164Z",
+    "last_seen": "2026-07-03T02:30:45.164Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T02:30:45.164Z"
+  },
+  "flythenimbus/bramble": {
+    "first_seen": "2026-07-03T02:30:45.466Z",
+    "last_seen": "2026-07-03T02:30:45.466Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-17T02:30:45.466Z"
+  },
+  "adamyasingh-12/piggy-": {
+    "first_seen": "2026-07-03T02:30:46.205Z",
+    "last_seen": "2026-07-03T02:30:46.205Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-17T02:30:46.205Z"
+  },
+  "riccardomusumeci11/meanwhile": {
+    "first_seen": "2026-07-03T02:30:46.517Z",
+    "last_seen": "2026-07-03T02:30:46.517Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-17T02:30:46.517Z"
+  },
+  "tommyjepsen/awesome-ux-skills": {
+    "first_seen": "2026-07-03T02:30:46.987Z",
+    "last_seen": "2026-07-03T02:30:46.987Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-10T02:30:46.987Z"
   }
 }
