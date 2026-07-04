@@ -33186,5 +33186,263 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-07-17T19:13:18.846Z"
+  },
+  "leveeyuneedle2/anyunlock-ios-patcher": {
+    "first_seen": "2026-07-04T02:28:46.014Z",
+    "last_seen": "2026-07-04T02:28:46.014Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:46.003Z"
+  },
+  "coralflalast/imobie-anyunlock": {
+    "first_seen": "2026-07-04T02:28:46.576Z",
+    "last_seen": "2026-07-04T02:28:46.576Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:46.576Z"
+  },
+  "cylinderfighterbear/cheat-engine": {
+    "first_seen": "2026-07-04T02:28:47.169Z",
+    "last_seen": "2026-07-04T02:28:47.169Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:47.169Z"
+  },
+  "knotyeplunder79/password-manager": {
+    "first_seen": "2026-07-04T02:28:47.712Z",
+    "last_seen": "2026-07-04T02:28:47.712Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:47.712Z"
+  },
+  "manaclekredash/adobe-acrobat": {
+    "first_seen": "2026-07-04T02:28:48.265Z",
+    "last_seen": "2026-07-04T02:28:48.265Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:48.265Z"
+  },
+  "crownzurspade/screen-recorder": {
+    "first_seen": "2026-07-04T02:28:48.837Z",
+    "last_seen": "2026-07-04T02:28:48.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:48.837Z"
+  },
+  "holewormplain/3utools": {
+    "first_seen": "2026-07-04T02:28:49.394Z",
+    "last_seen": "2026-07-04T02:28:49.394Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:49.394Z"
+  },
+  "statesmanconverter/internet-download-manager": {
+    "first_seen": "2026-07-04T02:28:49.953Z",
+    "last_seen": "2026-07-04T02:28:49.953Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:49.953Z"
+  },
+  "mysticoverpray61/ssh-client": {
+    "first_seen": "2026-07-04T02:28:50.503Z",
+    "last_seen": "2026-07-04T02:28:50.503Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:50.503Z"
+  },
+  "trenchshedemolish73/game-booster": {
+    "first_seen": "2026-07-04T02:28:51.113Z",
+    "last_seen": "2026-07-04T02:28:51.113Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:51.113Z"
+  },
+  "oft3r/agentic-trading-desk": {
+    "first_seen": "2026-07-04T02:28:51.621Z",
+    "last_seen": "2026-07-04T02:28:51.621Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:51.621Z"
+  },
+  "antiwork/chromeless": {
+    "first_seen": "2026-07-04T02:28:52.207Z",
+    "last_seen": "2026-07-04T02:28:52.207Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:52.207Z"
+  },
+  "adithyaakrishna/ascii-fable": {
+    "first_seen": "2026-07-04T02:28:52.769Z",
+    "last_seen": "2026-07-04T02:28:52.769Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:52.769Z"
+  },
+  "texel-org/windfoil": {
+    "first_seen": "2026-07-04T02:28:53.350Z",
+    "last_seen": "2026-07-04T02:28:53.350Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:53.350Z"
+  },
+  "amitshekhariitbhu/ai-agents-tutorial": {
+    "first_seen": "2026-07-04T02:28:53.909Z",
+    "last_seen": "2026-07-04T02:28:53.909Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:53.909Z"
+  },
+  "colwill/ccc": {
+    "first_seen": "2026-07-04T02:28:54.254Z",
+    "last_seen": "2026-07-04T02:28:54.254Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-18T02:28:54.254Z"
+  },
+  "tiliondev/fortress": {
+    "first_seen": "2026-07-04T02:28:54.620Z",
+    "last_seen": "2026-07-04T02:28:54.620Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-07-18T02:28:54.620Z"
+  },
+  "anuragmerndev/kontext-ai": {
+    "first_seen": "2026-07-04T02:28:54.955Z",
+    "last_seen": "2026-07-04T02:28:54.955Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-18T02:28:54.955Z"
+  },
+  "tamarillo-ai/theta-spec": {
+    "first_seen": "2026-07-04T02:28:55.303Z",
+    "last_seen": "2026-07-04T02:28:55.303Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-18T02:28:55.303Z"
+  },
+  "manojmallick/gavio": {
+    "first_seen": "2026-07-04T02:28:55.638Z",
+    "last_seen": "2026-07-04T02:28:55.638Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-18T02:28:55.638Z"
+  },
+  "bharadwaj-pendyala/papa": {
+    "first_seen": "2026-07-04T02:28:55.994Z",
+    "last_seen": "2026-07-04T02:28:55.994Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-18T02:28:55.994Z"
+  },
+  "rickardstureborg/claude-needs-input": {
+    "first_seen": "2026-07-04T02:28:56.333Z",
+    "last_seen": "2026-07-04T02:28:56.333Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-18T02:28:56.333Z"
+  },
+  "dbcli/mycli": {
+    "first_seen": "2026-07-04T02:28:56.889Z",
+    "last_seen": "2026-07-04T02:28:56.889Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:56.889Z"
+  },
+  "yuanpingsong/ultracodex": {
+    "first_seen": "2026-07-04T02:28:57.259Z",
+    "last_seen": "2026-07-04T02:28:57.259Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-07-18T02:28:57.259Z"
+  },
+  "m6r-ai/humbug": {
+    "first_seen": "2026-07-04T02:28:57.827Z",
+    "last_seen": "2026-07-04T02:28:57.827Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T02:28:57.827Z"
   }
 }
