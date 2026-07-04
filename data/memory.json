@@ -33444,5 +33444,37 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-11T02:28:57.827Z"
+  },
+  "kulaxyz/token-diet": {
+    "first_seen": "2026-07-04T08:31:19.222Z",
+    "last_seen": "2026-07-04T08:31:19.222Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T08:31:19.214Z"
+  },
+  "0xmmo/crew": {
+    "first_seen": "2026-07-04T08:31:19.612Z",
+    "last_seen": "2026-07-04T08:31:19.612Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-18T08:31:19.612Z"
+  },
+  "vansh-j/copycopy": {
+    "first_seen": "2026-07-04T08:31:19.997Z",
+    "last_seen": "2026-07-04T08:31:19.997Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-18T08:31:19.997Z"
   }
 }
