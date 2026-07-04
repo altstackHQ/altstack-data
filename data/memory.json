@@ -33476,5 +33476,58 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-18T08:31:19.997Z"
+  },
+  "jamonygr/certified-terraform-associate-azure-edition": {
+    "first_seen": "2026-07-04T13:14:32.123Z",
+    "last_seen": "2026-07-04T13:14:32.123Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T13:14:32.115Z"
+  },
+  "ylvachifu1992/silent-crypto-miner": {
+    "first_seen": "2026-07-04T13:14:32.905Z",
+    "last_seen": "2026-07-04T13:14:32.905Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-11T13:14:32.905Z"
+  },
+  "varadthedeveloper/forge-runtime": {
+    "first_seen": "2026-07-04T13:14:33.329Z",
+    "last_seen": "2026-07-04T13:14:33.329Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-18T13:14:33.329Z"
+  },
+  "nmxmxh/foundation": {
+    "first_seen": "2026-07-04T13:14:33.723Z",
+    "last_seen": "2026-07-04T13:14:33.723Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-18T13:14:33.723Z"
+  },
+  "broxhq/qpilot": {
+    "first_seen": "2026-07-04T13:14:34.181Z",
+    "last_seen": "2026-07-04T13:14:34.181Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-18T13:14:34.181Z"
   }
 }
