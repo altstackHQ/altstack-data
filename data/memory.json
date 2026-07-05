@@ -33898,8 +33898,8 @@
   },
   "voxels/b6ea737dd127745f9af009ebd038ded4": {
     "first_seen": "2026-07-05T08:47:49.058Z",
-    "last_seen": "2026-07-05T08:47:49.058Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-05T13:22:07.035Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
@@ -33916,5 +33916,81 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-07-19T08:47:49.796Z"
+  },
+  "pluviobyte/rnskill": {
+    "first_seen": "2026-07-05T13:22:06.649Z",
+    "last_seen": "2026-07-05T13:22:06.649Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T13:22:06.640Z"
+  },
+  "agentlinehq/agentline": {
+    "first_seen": "2026-07-05T13:22:07.442Z",
+    "last_seen": "2026-07-05T13:22:07.442Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-19T13:22:07.442Z"
+  },
+  "raghavan/agent-torrent": {
+    "first_seen": "2026-07-05T13:22:07.833Z",
+    "last_seen": "2026-07-05T13:22:07.833Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-19T13:22:07.833Z"
+  },
+  "myshapeprotocol/myshape-protocol": {
+    "first_seen": "2026-07-05T13:22:08.226Z",
+    "last_seen": "2026-07-05T13:22:08.226Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-19T13:22:08.226Z"
+  },
+  "kuberwastaken/minicraft": {
+    "first_seen": "2026-07-05T13:22:09.395Z",
+    "last_seen": "2026-07-05T13:22:09.395Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-19T13:22:09.395Z"
+  },
+  "prahladyeri/gubbi": {
+    "first_seen": "2026-07-05T13:22:09.787Z",
+    "last_seen": "2026-07-05T13:22:09.787Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-19T13:22:09.787Z"
+  },
+  "kratex-security/kratex": {
+    "first_seen": "2026-07-05T13:22:10.211Z",
+    "last_seen": "2026-07-05T13:22:10.211Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-19T13:22:10.211Z"
   }
 }
