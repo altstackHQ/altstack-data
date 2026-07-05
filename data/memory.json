@@ -33676,5 +33676,214 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-11T19:04:12.698Z"
+  },
+  "ammaarreshi/generals-mac-ios-ipad": {
+    "first_seen": "2026-07-05T02:38:10.281Z",
+    "last_seen": "2026-07-05T02:38:10.281Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:10.272Z"
+  },
+  "calmnotedepot/meccha-chameleon-vision": {
+    "first_seen": "2026-07-05T02:38:10.731Z",
+    "last_seen": "2026-07-05T02:38:10.731Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:10.731Z"
+  },
+  "lxh77721/k12-reg": {
+    "first_seen": "2026-07-05T02:38:11.128Z",
+    "last_seen": "2026-07-05T02:38:11.128Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:11.128Z"
+  },
+  "mixedsocialanger/meccha-chameleon-vision": {
+    "first_seen": "2026-07-05T02:38:11.577Z",
+    "last_seen": "2026-07-05T02:38:11.577Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:11.577Z"
+  },
+  "dr-tsng/polyglotyt": {
+    "first_seen": "2026-07-05T02:38:12.011Z",
+    "last_seen": "2026-07-05T02:38:12.011Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:12.011Z"
+  },
+  "xsser/codex-jailbreak-guide": {
+    "first_seen": "2026-07-05T02:38:12.432Z",
+    "last_seen": "2026-07-05T02:38:12.432Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:12.432Z"
+  },
+  "ai4s-research/open-science": {
+    "first_seen": "2026-07-05T02:38:12.877Z",
+    "last_seen": "2026-07-05T02:38:12.877Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:12.877Z"
+  },
+  "7-e1even/learn-agent": {
+    "first_seen": "2026-07-05T02:38:13.320Z",
+    "last_seen": "2026-07-05T02:38:13.320Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:13.320Z"
+  },
+  "spotui/spotui": {
+    "first_seen": "2026-07-05T02:38:13.794Z",
+    "last_seen": "2026-07-05T02:38:13.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:13.794Z"
+  },
+  "kyriecheungyep/ky-markdown-rebuilder": {
+    "first_seen": "2026-07-05T02:38:14.416Z",
+    "last_seen": "2026-07-05T02:38:14.416Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:14.416Z"
+  },
+  "patrick-sharp/waypoint.nvim": {
+    "first_seen": "2026-07-05T02:38:14.753Z",
+    "last_seen": "2026-07-05T02:38:14.753Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-19T02:38:14.753Z"
+  },
+  "brisk4t/toothpaste": {
+    "first_seen": "2026-07-05T02:38:15.145Z",
+    "last_seen": "2026-07-05T02:38:15.145Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-12T02:38:15.145Z"
+  },
+  "leonardosalasd/doc-engine-cli": {
+    "first_seen": "2026-07-05T02:38:15.445Z",
+    "last_seen": "2026-07-05T02:38:15.445Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-19T02:38:15.445Z"
+  },
+  "rakosn1cek/mise": {
+    "first_seen": "2026-07-05T02:38:15.741Z",
+    "last_seen": "2026-07-05T02:38:15.741Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-19T02:38:15.741Z"
+  },
+  "xophmeister/wean": {
+    "first_seen": "2026-07-05T02:38:16.013Z",
+    "last_seen": "2026-07-05T02:38:16.013Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-19T02:38:16.013Z"
+  },
+  "routing24/skill": {
+    "first_seen": "2026-07-05T02:38:16.312Z",
+    "last_seen": "2026-07-05T02:38:16.312Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-19T02:38:16.312Z"
+  },
+  "kryoseu/wyrmrss": {
+    "first_seen": "2026-07-05T02:38:17.101Z",
+    "last_seen": "2026-07-05T02:38:17.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-07-19T02:38:17.101Z"
+  },
+  "lahcim/windowsautoprofiles": {
+    "first_seen": "2026-07-05T02:38:17.383Z",
+    "last_seen": "2026-07-05T02:38:17.383Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-19T02:38:17.383Z"
+  },
+  "octember/earshot": {
+    "first_seen": "2026-07-05T02:38:17.691Z",
+    "last_seen": "2026-07-05T02:38:17.691Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-19T02:38:17.691Z"
+  },
+  "tadelstein9/two-tier-memory": {
+    "first_seen": "2026-07-05T02:38:17.989Z",
+    "last_seen": "2026-07-05T02:38:17.989Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-19T02:38:17.989Z"
   }
 }
