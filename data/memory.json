@@ -34364,5 +34364,67 @@
     "reason": "low_stars",
     "stars": 11,
     "cooldown_until": "2026-07-20T02:42:37.411Z"
+  },
+  "calmnotedepot/meccha-chameleon-vision-ultimate": {
+    "first_seen": "2026-07-06T10:09:08.439Z",
+    "last_seen": "2026-07-06T10:09:08.439Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T10:09:08.431Z"
+  },
+  "starmiaoa/chatgpt-register-k12": {
+    "first_seen": "2026-07-06T10:09:08.874Z",
+    "last_seen": "2026-07-06T10:09:08.874Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T10:09:08.874Z"
+  },
+  "karola3vax/cs2fow": {
+    "first_seen": "2026-07-06T10:09:09.825Z",
+    "last_seen": "2026-07-06T10:09:09.825Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T10:09:09.825Z"
+  },
+  "destefanis/liquid-glass-screensaver": {
+    "first_seen": "2026-07-06T10:09:10.237Z",
+    "last_seen": "2026-07-06T10:09:10.237Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T10:09:10.237Z"
+  },
+  "omar-owis/voxelengine": {
+    "first_seen": "2026-07-06T10:09:10.543Z",
+    "last_seen": "2026-07-06T10:09:10.543Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-20T10:09:10.543Z"
+  },
+  "analyticalmonk/explain-this": {
+    "first_seen": "2026-07-06T10:09:10.873Z",
+    "last_seen": "2026-07-06T10:09:10.873Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-20T10:09:10.873Z"
   }
 }
