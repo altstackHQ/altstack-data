@@ -34426,5 +34426,78 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-20T10:09:10.873Z"
+  },
+  "bfansye/k12-space-automation": {
+    "first_seen": "2026-07-06T15:22:18.286Z",
+    "last_seen": "2026-07-06T15:22:18.286Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T15:22:18.277Z"
+  },
+  "zjp1997720/wechat-article-search": {
+    "first_seen": "2026-07-06T15:22:18.746Z",
+    "last_seen": "2026-07-06T15:22:18.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T15:22:18.746Z"
+  },
+  "smilelikeye/agent-chief": {
+    "first_seen": "2026-07-06T15:22:19.282Z",
+    "last_seen": "2026-07-06T15:22:19.282Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T15:22:19.282Z"
+  },
+  "shaohua-pan/starwam": {
+    "first_seen": "2026-07-06T15:22:19.803Z",
+    "last_seen": "2026-07-06T15:22:19.803Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-13T15:22:19.803Z"
+  },
+  "mplemay/belgie": {
+    "first_seen": "2026-07-06T15:22:20.604Z",
+    "last_seen": "2026-07-06T15:22:20.604Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-20T15:22:20.604Z"
+  },
+  "cloud-v-10xe/risc-v-software": {
+    "first_seen": "2026-07-06T15:22:20.949Z",
+    "last_seen": "2026-07-06T15:22:20.949Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-20T15:22:20.949Z"
+  },
+  "shofer-dev/claude-code-live-memory": {
+    "first_seen": "2026-07-06T15:22:21.283Z",
+    "last_seen": "2026-07-06T15:22:21.283Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-20T15:22:21.283Z"
   }
 }
