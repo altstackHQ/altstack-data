@@ -6135,14 +6135,14 @@
   },
   "kklimuk/docx-cli": {
     "first_seen": "2026-05-06T02:41:07.473Z",
-    "last_seen": "2026-05-06T02:41:07.473Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-07T19:49:10.767Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 1,
-    "cooldown_until": "2026-05-20T02:41:07.473Z"
+    "stars": 17,
+    "cooldown_until": "2026-07-21T19:49:10.767Z"
   },
   "enforceauth/zift": {
     "first_seen": "2026-05-06T02:41:07.838Z",
@@ -34788,5 +34788,80 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-21T14:21:13.617Z"
+  },
+  "shpigford/knockoff": {
+    "first_seen": "2026-07-07T19:49:08.617Z",
+    "last_seen": "2026-07-07T19:49:08.617Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-14T19:49:08.608Z"
+  },
+  "shlokkhemani/rabbithole": {
+    "first_seen": "2026-07-07T19:49:09.499Z",
+    "last_seen": "2026-07-07T19:49:09.499Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-14T19:49:09.499Z"
+  },
+  "gusto/baerly-storage": {
+    "first_seen": "2026-07-07T19:49:11.110Z",
+    "last_seen": "2026-07-07T19:49:11.110Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-07-21T19:49:11.110Z"
+  },
+  "bkuan001/halo-record": {
+    "first_seen": "2026-07-07T19:49:11.902Z",
+    "last_seen": "2026-07-07T19:49:11.902Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-21T19:49:11.902Z"
+  },
+  "deeptempo/socbench": {
+    "first_seen": "2026-07-07T19:49:12.251Z",
+    "last_seen": "2026-07-07T19:49:12.251Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-07-21T19:49:12.251Z"
+  },
+  "ashutosh-rath02/atrophy": {
+    "first_seen": "2026-07-07T19:49:12.626Z",
+    "last_seen": "2026-07-07T19:49:12.626Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-21T19:49:12.626Z"
+  },
+  "steph-owl/action-locker": {
+    "first_seen": "2026-07-07T19:49:13.974Z",
+    "last_seen": "2026-07-07T19:49:13.974Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-21T19:49:13.974Z"
   }
 }
