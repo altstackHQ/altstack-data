@@ -34746,5 +34746,47 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-21T09:33:53.138Z"
+  },
+  "pillar-labs/sail-skill": {
+    "first_seen": "2026-07-07T14:21:08.559Z",
+    "last_seen": "2026-07-07T14:21:08.559Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-14T14:21:08.551Z"
+  },
+  "ruvnet/ruview": {
+    "first_seen": "2026-07-07T14:21:11.959Z",
+    "last_seen": "2026-07-07T14:21:11.959Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-14T14:21:11.959Z"
+  },
+  "b-aaz/bmake-extravaganza": {
+    "first_seen": "2026-07-07T14:21:13.191Z",
+    "last_seen": "2026-07-07T14:21:13.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-21T14:21:13.191Z"
+  },
+  "carbon-re/skeights": {
+    "first_seen": "2026-07-07T14:21:13.617Z",
+    "last_seen": "2026-07-07T14:21:13.617Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-21T14:21:13.617Z"
   }
 }
