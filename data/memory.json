@@ -34863,5 +34863,198 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-21T19:49:13.974Z"
+  },
+  "nexu-io/motion-anything": {
+    "first_seen": "2026-07-08T02:12:13.729Z",
+    "last_seen": "2026-07-08T02:12:13.729Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:13.720Z"
+  },
+  "omarh-creator/autonomous-forge": {
+    "first_seen": "2026-07-08T02:12:15.177Z",
+    "last_seen": "2026-07-08T02:12:15.177Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:15.177Z"
+  },
+  "creatorpierce/mecchacheat": {
+    "first_seen": "2026-07-08T02:12:16.628Z",
+    "last_seen": "2026-07-08T02:12:16.628Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:16.628Z"
+  },
+  "plankparakeetfoyer/meccha-camouflage-pro": {
+    "first_seen": "2026-07-08T02:12:17.350Z",
+    "last_seen": "2026-07-08T02:12:17.350Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:17.350Z"
+  },
+  "liquid4all/antidoom": {
+    "first_seen": "2026-07-08T02:12:18.127Z",
+    "last_seen": "2026-07-08T02:12:18.127Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:18.127Z"
+  },
+  "palemoky/cn-check": {
+    "first_seen": "2026-07-08T02:12:18.888Z",
+    "last_seen": "2026-07-08T02:12:18.888Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:18.888Z"
+  },
+  "markfulton/claude-antigravity-agents": {
+    "first_seen": "2026-07-08T02:12:19.616Z",
+    "last_seen": "2026-07-08T02:12:19.616Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:19.616Z"
+  },
+  "adriflex/autoremesher-blender-bridge": {
+    "first_seen": "2026-07-08T02:12:20.322Z",
+    "last_seen": "2026-07-08T02:12:20.322Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:20.322Z"
+  },
+  "pku-yuangroup/openai4s": {
+    "first_seen": "2026-07-08T02:12:21.137Z",
+    "last_seen": "2026-07-08T02:12:21.137Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:21.137Z"
+  },
+  "haleclipse/cscience": {
+    "first_seen": "2026-07-08T02:12:21.827Z",
+    "last_seen": "2026-07-08T02:12:21.827Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:21.827Z"
+  },
+  "wezzard/jlens-qwen36": {
+    "first_seen": "2026-07-08T02:12:23.040Z",
+    "last_seen": "2026-07-08T02:12:23.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:23.040Z"
+  },
+  "xec412/xeraldr": {
+    "first_seen": "2026-07-08T02:12:23.720Z",
+    "last_seen": "2026-07-08T02:12:23.720Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:23.720Z"
+  },
+  "l0ng-ai/tty7": {
+    "first_seen": "2026-07-08T02:12:24.435Z",
+    "last_seen": "2026-07-08T02:12:24.435Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:24.434Z"
+  },
+  "planeeuclaim19/discordfix2026": {
+    "first_seen": "2026-07-08T02:12:25.194Z",
+    "last_seen": "2026-07-08T02:12:25.194Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:25.194Z"
+  },
+  "yespsam/a-share-us-catalyst": {
+    "first_seen": "2026-07-08T02:12:25.905Z",
+    "last_seen": "2026-07-08T02:12:25.905Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:25.905Z"
+  },
+  "robert-vetter/tessera": {
+    "first_seen": "2026-07-08T02:12:27.111Z",
+    "last_seen": "2026-07-08T02:12:27.111Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-22T02:12:27.111Z"
+  },
+  "mazen160/backlog": {
+    "first_seen": "2026-07-08T02:12:29.173Z",
+    "last_seen": "2026-07-08T02:12:29.173Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-22T02:12:29.173Z"
+  },
+  "apoxy-dev/clrk": {
+    "first_seen": "2026-07-08T02:12:29.584Z",
+    "last_seen": "2026-07-08T02:12:29.584Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-22T02:12:29.584Z"
+  },
+  "refloow/refloow-geo-forensics": {
+    "first_seen": "2026-07-08T02:12:30.267Z",
+    "last_seen": "2026-07-08T02:12:30.267Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T02:12:30.267Z"
   }
 }
