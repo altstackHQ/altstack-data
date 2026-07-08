@@ -35056,5 +35056,88 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-15T02:12:30.267Z"
+  },
+  "robbyant/lingbot-vla-v2": {
+    "first_seen": "2026-07-08T08:19:39.396Z",
+    "last_seen": "2026-07-08T08:19:39.396Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T08:19:39.386Z"
+  },
+  "op7418/guizang-material-illustration": {
+    "first_seen": "2026-07-08T08:19:41.025Z",
+    "last_seen": "2026-07-08T08:19:41.025Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T08:19:41.025Z"
+  },
+  "oso95/scroll-world": {
+    "first_seen": "2026-07-08T08:19:41.513Z",
+    "last_seen": "2026-07-08T08:19:41.513Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T08:19:41.513Z"
+  },
+  "wassermanproductions/motion-previs-studio": {
+    "first_seen": "2026-07-08T08:19:42.003Z",
+    "last_seen": "2026-07-08T08:19:42.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T08:19:42.003Z"
+  },
+  "defog-ai/factiq-plugin": {
+    "first_seen": "2026-07-08T08:19:42.862Z",
+    "last_seen": "2026-07-08T08:19:42.862Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-22T08:19:42.862Z"
+  },
+  "fanfulla/ocr-buddy": {
+    "first_seen": "2026-07-08T08:19:43.963Z",
+    "last_seen": "2026-07-08T08:19:43.963Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-15T08:19:43.963Z"
+  },
+  "lucky-verma/mwb-linux": {
+    "first_seen": "2026-07-08T08:19:44.332Z",
+    "last_seen": "2026-07-08T08:19:44.332Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-07-22T08:19:44.332Z"
+  },
+  "etcoder-642/flowhook": {
+    "first_seen": "2026-07-08T08:19:44.655Z",
+    "last_seen": "2026-07-08T08:19:44.655Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-22T08:19:44.655Z"
   }
 }
