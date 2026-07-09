@@ -35512,5 +35512,199 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-23T02:30:58.362Z"
+  },
+  "robbyant/lingbot-world-v2": {
+    "first_seen": "2026-07-09T09:41:17.227Z",
+    "last_seen": "2026-07-09T09:41:17.227Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:17.218Z"
+  },
+  "dk8827/ra-port": {
+    "first_seen": "2026-07-09T09:41:20.173Z",
+    "last_seen": "2026-07-09T09:41:20.173Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:20.173Z"
+  },
+  "zhouwei713/seedance-prompt": {
+    "first_seen": "2026-07-09T09:41:20.864Z",
+    "last_seen": "2026-07-09T09:41:20.864Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:20.864Z"
+  },
+  "bkingfilm/lapian-notes": {
+    "first_seen": "2026-07-09T09:41:21.643Z",
+    "last_seen": "2026-07-09T09:41:21.643Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:21.643Z"
+  },
+  "alice53211/auth-codex-plugin": {
+    "first_seen": "2026-07-09T09:41:22.521Z",
+    "last_seen": "2026-07-09T09:41:22.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:22.521Z"
+  },
+  "meari-prototype/agent-mythical-man-month-2026": {
+    "first_seen": "2026-07-09T09:41:23.233Z",
+    "last_seen": "2026-07-09T09:41:23.233Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:23.233Z"
+  },
+  "kaolti/monolith-terrain": {
+    "first_seen": "2026-07-09T09:41:23.992Z",
+    "last_seen": "2026-07-09T09:41:23.992Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:23.992Z"
+  },
+  "angieruiz17/claude-fintech-skills": {
+    "first_seen": "2026-07-09T09:41:24.702Z",
+    "last_seen": "2026-07-09T09:41:24.702Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T09:41:24.702Z"
+  },
+  "saifmukhtar/kinetic": {
+    "first_seen": "2026-07-09T09:41:25.085Z",
+    "last_seen": "2026-07-09T09:41:25.085Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-23T09:41:25.085Z"
+  },
+  "theoriclabs/agent-convert": {
+    "first_seen": "2026-07-09T09:41:26.226Z",
+    "last_seen": "2026-07-09T09:41:26.226Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "dexcrancer/pm-ninesoulx": {
+    "first_seen": "2026-07-09T14:47:26.440Z",
+    "last_seen": "2026-07-09T14:47:26.440Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T14:47:26.432Z"
+  },
+  "zerosupercycie/risk-free-sniper": {
+    "first_seen": "2026-07-09T14:47:27.162Z",
+    "last_seen": "2026-07-09T14:47:27.162Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T14:47:27.162Z"
+  },
+  "alice53211/arc-fintech-app": {
+    "first_seen": "2026-07-09T14:47:27.786Z",
+    "last_seen": "2026-07-09T14:47:27.786Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T14:47:27.786Z"
+  },
+  "gostonx/uninstally": {
+    "first_seen": "2026-07-09T14:47:29.237Z",
+    "last_seen": "2026-07-09T14:47:29.237Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T14:47:29.237Z"
+  },
+  "ronak-create/fablecut": {
+    "first_seen": "2026-07-09T14:47:29.854Z",
+    "last_seen": "2026-07-09T14:47:29.854Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T14:47:29.854Z"
+  },
+  "realman78/kiyeovo": {
+    "first_seen": "2026-07-09T14:47:30.431Z",
+    "last_seen": "2026-07-09T14:47:30.431Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-16T14:47:30.431Z"
+  },
+  "atelier-ws/atelier": {
+    "first_seen": "2026-07-09T14:47:30.801Z",
+    "last_seen": "2026-07-09T14:47:30.801Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-07-23T14:47:30.801Z"
+  },
+  "teddytennant/wizard": {
+    "first_seen": "2026-07-09T14:47:31.154Z",
+    "last_seen": "2026-07-09T14:47:31.154Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-23T14:47:31.154Z"
+  },
+  "fresswolf/slopera": {
+    "first_seen": "2026-07-09T14:47:32.227Z",
+    "last_seen": "2026-07-09T14:47:32.227Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-23T14:47:32.227Z"
   }
 }
