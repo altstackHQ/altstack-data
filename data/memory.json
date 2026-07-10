@@ -36169,5 +36169,145 @@
     "reason": "low_stars",
     "stars": 9,
     "cooldown_until": "2026-07-24T14:11:56.847Z"
+  },
+  "vinhhien112/three.js-object-sculptor-codex-plugin": {
+    "first_seen": "2026-07-10T19:22:10.644Z",
+    "last_seen": "2026-07-10T19:22:10.644Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T19:22:10.635Z"
+  },
+  "openenvision/worldfoundry": {
+    "first_seen": "2026-07-10T19:22:11.188Z",
+    "last_seen": "2026-07-10T19:22:11.188Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T19:22:11.188Z"
+  },
+  "nicobailon/grill-for-unknowns": {
+    "first_seen": "2026-07-10T19:22:11.754Z",
+    "last_seen": "2026-07-10T19:22:11.754Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T19:22:11.754Z"
+  },
+  "flint-lang/flintc": {
+    "first_seen": "2026-07-10T19:22:12.125Z",
+    "last_seen": "2026-07-10T19:22:12.125Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-07-24T19:22:12.125Z"
+  },
+  "google-deepmind/speech-compass": {
+    "first_seen": "2026-07-10T19:22:12.487Z",
+    "last_seen": "2026-07-10T19:22:12.487Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-24T19:22:12.487Z"
+  },
+  "nabertronic/pastpage": {
+    "first_seen": "2026-07-10T19:22:12.766Z",
+    "last_seen": "2026-07-10T19:22:12.766Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-24T19:22:12.766Z"
+  },
+  "fristovic/snitch": {
+    "first_seen": "2026-07-10T19:22:13.058Z",
+    "last_seen": "2026-07-10T19:22:13.058Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-24T19:22:13.058Z"
+  },
+  "callmealphabet/fastwc": {
+    "first_seen": "2026-07-10T19:22:13.380Z",
+    "last_seen": "2026-07-10T19:22:13.380Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-24T19:22:13.380Z"
+  },
+  "eozsahin1993/lancedb-explorer": {
+    "first_seen": "2026-07-10T19:22:13.736Z",
+    "last_seen": "2026-07-10T19:22:13.736Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-24T19:22:13.736Z"
+  },
+  "pjhkorea/value-system-kernel": {
+    "first_seen": "2026-07-10T19:22:14.054Z",
+    "last_seen": "2026-07-10T19:22:14.054Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-24T19:22:14.054Z"
+  },
+  "asyncinnovator/hallint": {
+    "first_seen": "2026-07-10T19:22:14.409Z",
+    "last_seen": "2026-07-10T19:22:14.409Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-24T19:22:14.409Z"
+  },
+  "kiliczsh/genui": {
+    "first_seen": "2026-07-10T19:22:14.723Z",
+    "last_seen": "2026-07-10T19:22:14.723Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-24T19:22:14.723Z"
+  },
+  "lechebs/nbody": {
+    "first_seen": "2026-07-10T19:22:15.021Z",
+    "last_seen": "2026-07-10T19:22:15.021Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-24T19:22:15.021Z"
   }
 }
