@@ -36075,5 +36075,99 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-17T09:27:23.465Z"
+  },
+  "litun/bloomy-linkedin-outreach": {
+    "first_seen": "2026-07-10T14:11:46.416Z",
+    "last_seen": "2026-07-10T14:11:46.416Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T14:11:46.406Z"
+  },
+  "fuelmagistratelead/photoshop-ai-smart-enhance": {
+    "first_seen": "2026-07-10T14:11:49.041Z",
+    "last_seen": "2026-07-10T14:11:49.041Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T14:11:49.041Z"
+  },
+  "forward-future/gpt-5-6-relay": {
+    "first_seen": "2026-07-10T14:11:52.929Z",
+    "last_seen": "2026-07-10T14:11:52.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T14:11:52.929Z"
+  },
+  "volumetenrectify/ae-motion-compiler": {
+    "first_seen": "2026-07-10T14:11:53.684Z",
+    "last_seen": "2026-07-10T14:11:53.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T14:11:53.684Z"
+  },
+  "guywithtwocats/thegallery": {
+    "first_seen": "2026-07-10T14:11:54.374Z",
+    "last_seen": "2026-07-10T14:11:54.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-17T14:11:54.374Z"
+  },
+  "robertsdotpm/runloom": {
+    "first_seen": "2026-07-10T14:11:55.614Z",
+    "last_seen": "2026-07-10T14:11:55.614Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-24T14:11:55.614Z"
+  },
+  "hyperlogue/r3": {
+    "first_seen": "2026-07-10T14:11:56.030Z",
+    "last_seen": "2026-07-10T14:11:56.030Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-24T14:11:56.030Z"
+  },
+  "onehorizonai/silo-terminal": {
+    "first_seen": "2026-07-10T14:11:56.487Z",
+    "last_seen": "2026-07-10T14:11:56.487Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-24T14:11:56.487Z"
+  },
+  "unihosted/unifi-os-server-docker": {
+    "first_seen": "2026-07-10T14:11:56.847Z",
+    "last_seen": "2026-07-10T14:11:56.847Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-24T14:11:56.847Z"
   }
 }
