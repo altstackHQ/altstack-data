@@ -36592,5 +36592,101 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-18T13:08:37.286Z"
+  },
+  "nhevers/project-r0x": {
+    "first_seen": "2026-07-11T18:55:44.404Z",
+    "last_seen": "2026-07-11T18:55:44.404Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-18T18:55:44.393Z"
+  },
+  "skorotkiewicz/earth-game": {
+    "first_seen": "2026-07-11T18:55:45.279Z",
+    "last_seen": "2026-07-11T18:55:45.279Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-25T18:55:45.279Z"
+  },
+  "swellweb/reame": {
+    "first_seen": "2026-07-11T18:55:45.585Z",
+    "last_seen": "2026-07-11T18:55:45.585Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-25T18:55:45.585Z"
+  },
+  "uswebk/haizu": {
+    "first_seen": "2026-07-11T18:55:45.869Z",
+    "last_seen": "2026-07-11T18:55:45.869Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-25T18:55:45.869Z"
+  },
+  "gamesofarcadia/ciqs": {
+    "first_seen": "2026-07-11T18:55:46.177Z",
+    "last_seen": "2026-07-11T18:55:46.177Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-25T18:55:46.177Z"
+  },
+  "swellweb/targetbridge": {
+    "first_seen": "2026-07-11T18:55:47.234Z",
+    "last_seen": "2026-07-11T18:55:47.234Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-18T18:55:47.234Z"
+  },
+  "samyeyo/clx": {
+    "first_seen": "2026-07-11T18:55:47.669Z",
+    "last_seen": "2026-07-11T18:55:47.669Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-18T18:55:47.669Z"
+  },
+  "parlan-lang/parlan": {
+    "first_seen": "2026-07-11T18:55:47.979Z",
+    "last_seen": "2026-07-11T18:55:47.979Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-25T18:55:47.979Z"
+  },
+  "frmoded/e--": {
+    "first_seen": "2026-07-11T18:55:48.300Z",
+    "last_seen": "2026-07-11T18:55:48.300Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-25T18:55:48.300Z"
   }
 }
