@@ -37120,5 +37120,142 @@
     "reason": "low_stars",
     "stars": 19,
     "cooldown_until": "2026-07-26T13:09:26.201Z"
+  },
+  "mdx-tom/gpt-5.6-instruct": {
+    "first_seen": "2026-07-12T18:59:52.076Z",
+    "last_seen": "2026-07-12T18:59:52.076Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T18:59:52.067Z"
+  },
+  "jakubkrehel/skills": {
+    "first_seen": "2026-07-12T18:59:53.246Z",
+    "last_seen": "2026-07-12T18:59:53.246Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T18:59:53.246Z"
+  },
+  "nextweb4/lan-file-transfer": {
+    "first_seen": "2026-07-12T18:59:55.972Z",
+    "last_seen": "2026-07-12T18:59:55.972Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T18:59:55.972Z"
+  },
+  "intuition-lab/personal-model": {
+    "first_seen": "2026-07-12T18:59:57.069Z",
+    "last_seen": "2026-07-12T18:59:57.069Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T18:59:57.069Z"
+  },
+  "hasenj/go-shirei": {
+    "first_seen": "2026-07-12T19:00:03.014Z",
+    "last_seen": "2026-07-12T19:00:03.014Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T19:00:03.014Z"
+  },
+  "roee-tsur/mcp-spec-check": {
+    "first_seen": "2026-07-12T19:00:03.383Z",
+    "last_seen": "2026-07-12T19:00:03.383Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-26T19:00:03.383Z"
+  },
+  "sshwarts/skillscript": {
+    "first_seen": "2026-07-12T19:00:03.784Z",
+    "last_seen": "2026-07-12T19:00:03.784Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-07-26T19:00:03.784Z"
+  },
+  "itara-project/itara": {
+    "first_seen": "2026-07-12T19:00:05.562Z",
+    "last_seen": "2026-07-12T19:00:05.562Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-07-26T19:00:05.562Z"
+  },
+  "innovatorved/sayitdev": {
+    "first_seen": "2026-07-12T19:00:06.096Z",
+    "last_seen": "2026-07-12T19:00:06.096Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-26T19:00:06.096Z"
+  },
+  "luke-fairbanks/broll": {
+    "first_seen": "2026-07-12T19:00:06.497Z",
+    "last_seen": "2026-07-12T19:00:06.497Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-26T19:00:06.497Z"
+  },
+  "abduznik/instrumation": {
+    "first_seen": "2026-07-12T19:00:07.258Z",
+    "last_seen": "2026-07-12T19:00:07.258Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T19:00:07.258Z"
+  },
+  "yonidavidson/agentcomm": {
+    "first_seen": "2026-07-12T19:00:07.647Z",
+    "last_seen": "2026-07-12T19:00:07.647Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-26T19:00:07.647Z"
+  },
+  "brokenwatch24/vigil": {
+    "first_seen": "2026-07-12T19:00:08.015Z",
+    "last_seen": "2026-07-12T19:00:08.015Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-26T19:00:08.014Z"
   }
 }
