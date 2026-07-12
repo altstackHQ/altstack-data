@@ -37047,5 +37047,78 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-07-26T08:09:38.991Z"
+  },
+  "cvvhh235/cccs": {
+    "first_seen": "2026-07-12T13:09:19.144Z",
+    "last_seen": "2026-07-12T13:09:19.144Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T13:09:19.133Z"
+  },
+  "mereyabdenbekuly-ctrl/clodex-ide": {
+    "first_seen": "2026-07-12T13:09:21.443Z",
+    "last_seen": "2026-07-12T13:09:21.443Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T13:09:21.443Z"
+  },
+  "pengchujin/jzsub": {
+    "first_seen": "2026-07-12T13:09:21.970Z",
+    "last_seen": "2026-07-12T13:09:21.970Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T13:09:21.970Z"
+  },
+  "xsser/cliproxyapi-cloudflare-stack": {
+    "first_seen": "2026-07-12T13:09:22.474Z",
+    "last_seen": "2026-07-12T13:09:22.474Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T13:09:22.474Z"
+  },
+  "asherjil/abtrda3": {
+    "first_seen": "2026-07-12T13:09:25.603Z",
+    "last_seen": "2026-07-12T13:09:25.603Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-26T13:09:25.603Z"
+  },
+  "lambda-alpha-labs/graphenium": {
+    "first_seen": "2026-07-12T13:09:25.915Z",
+    "last_seen": "2026-07-12T13:09:25.915Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 16,
+    "cooldown_until": "2026-07-26T13:09:25.915Z"
+  },
+  "josephsenior/grinta-coding-agent": {
+    "first_seen": "2026-07-12T13:09:26.201Z",
+    "last_seen": "2026-07-12T13:09:26.201Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-07-26T13:09:26.201Z"
   }
 }
