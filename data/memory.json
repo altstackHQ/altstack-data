@@ -36939,5 +36939,113 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-07-26T02:14:37.335Z"
+  },
+  "bryanlunduke/lcos": {
+    "first_seen": "2026-07-12T08:09:35.414Z",
+    "last_seen": "2026-07-12T08:09:35.414Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T08:09:35.404Z"
+  },
+  "kitforai/kitforai": {
+    "first_seen": "2026-07-12T08:09:35.805Z",
+    "last_seen": "2026-07-12T08:09:35.805Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-19T08:09:35.805Z"
+  },
+  "cosmtrek/mindwalk": {
+    "first_seen": "2026-07-12T08:09:36.105Z",
+    "last_seen": "2026-07-12T08:09:36.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 16,
+    "cooldown_until": "2026-07-26T08:09:36.105Z"
+  },
+  "deepbluedynamics/skiff": {
+    "first_seen": "2026-07-12T08:09:36.417Z",
+    "last_seen": "2026-07-12T08:09:36.417Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-26T08:09:36.417Z"
+  },
+  "ninjahawk/confessor": {
+    "first_seen": "2026-07-12T08:09:36.704Z",
+    "last_seen": "2026-07-12T08:09:36.704Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-26T08:09:36.704Z"
+  },
+  "pjhkorea/quantum-mesh-qec": {
+    "first_seen": "2026-07-12T08:09:37.001Z",
+    "last_seen": "2026-07-12T08:09:37.001Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-26T08:09:37.001Z"
+  },
+  "codemartial/levee": {
+    "first_seen": "2026-07-12T08:09:37.691Z",
+    "last_seen": "2026-07-12T08:09:37.691Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-26T08:09:37.691Z"
+  },
+  "open-ags/attestor": {
+    "first_seen": "2026-07-12T08:09:38.427Z",
+    "last_seen": "2026-07-12T08:09:38.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-26T08:09:38.427Z"
+  },
+  "predictionmarkettrader/openthomas": {
+    "first_seen": "2026-07-12T08:09:38.693Z",
+    "last_seen": "2026-07-12T08:09:38.693Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-26T08:09:38.693Z"
+  },
+  "boundflow/boundflow": {
+    "first_seen": "2026-07-12T08:09:38.991Z",
+    "last_seen": "2026-07-12T08:09:38.991Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-26T08:09:38.991Z"
   }
 }
