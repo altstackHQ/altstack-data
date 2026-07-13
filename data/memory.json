@@ -37633,5 +37633,87 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-27T09:00:17.943Z"
+  },
+  "littledivy/mimic": {
+    "first_seen": "2026-07-13T14:23:37.317Z",
+    "last_seen": "2026-07-13T14:23:37.317Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T14:23:37.307Z"
+  },
+  "bloxhubsss/game-copier": {
+    "first_seen": "2026-07-13T14:23:42.682Z",
+    "last_seen": "2026-07-13T14:23:42.682Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T14:23:42.682Z"
+  },
+  "opencoredev/domain-sdk": {
+    "first_seen": "2026-07-13T14:23:44.256Z",
+    "last_seen": "2026-07-13T14:23:44.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T14:23:44.256Z"
+  },
+  "berkayyytech/vortex": {
+    "first_seen": "2026-07-13T14:23:46.207Z",
+    "last_seen": "2026-07-13T14:23:46.207Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T14:23:46.207Z"
+  },
+  "floodtide/dom-docx": {
+    "first_seen": "2026-07-13T14:23:46.949Z",
+    "last_seen": "2026-07-13T14:23:46.949Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T14:23:46.949Z"
+  },
+  "clawkwork/clawk": {
+    "first_seen": "2026-07-13T14:23:47.397Z",
+    "last_seen": "2026-07-13T14:23:47.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-27T14:23:47.397Z"
+  },
+  "ch-bas/threejs-sims-house-builder": {
+    "first_seen": "2026-07-13T14:23:51.163Z",
+    "last_seen": "2026-07-13T14:23:51.163Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T14:23:51.163Z"
+  },
+  "autopost/llm-mock": {
+    "first_seen": "2026-07-13T14:23:51.600Z",
+    "last_seen": "2026-07-13T14:23:51.600Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-27T14:23:51.600Z"
   }
 }
