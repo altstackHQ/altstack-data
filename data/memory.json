@@ -37538,5 +37538,100 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-27T02:15:50.607Z"
+  },
+  "x-spy/cve-2026-43499-popsicle": {
+    "first_seen": "2026-07-13T09:00:07.096Z",
+    "last_seen": "2026-07-13T09:00:07.096Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T09:00:07.084Z"
+  },
+  "longhornsilicon/awesome-ai-accelerators": {
+    "first_seen": "2026-07-13T09:00:07.602Z",
+    "last_seen": "2026-07-13T09:00:07.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T09:00:07.602Z"
+  },
+  "kigner/audio.cpp-webui": {
+    "first_seen": "2026-07-13T09:00:08.168Z",
+    "last_seen": "2026-07-13T09:00:08.168Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T09:00:08.168Z"
+  },
+  "domanski-ai/headroom": {
+    "first_seen": "2026-07-13T09:00:08.779Z",
+    "last_seen": "2026-07-13T09:00:08.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T09:00:08.779Z"
+  },
+  "mason363/tactile": {
+    "first_seen": "2026-07-13T09:00:16.592Z",
+    "last_seen": "2026-07-13T09:00:16.592Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-07-27T09:00:16.592Z"
+  },
+  "thatxliner/hologram": {
+    "first_seen": "2026-07-13T09:00:16.936Z",
+    "last_seen": "2026-07-13T09:00:16.936Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-27T09:00:16.936Z"
+  },
+  "hyturing/compose-pulse": {
+    "first_seen": "2026-07-13T09:00:17.303Z",
+    "last_seen": "2026-07-13T09:00:17.303Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-27T09:00:17.303Z"
+  },
+  "kristijankocev/lidwatch": {
+    "first_seen": "2026-07-13T09:00:17.629Z",
+    "last_seen": "2026-07-13T09:00:17.629Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-27T09:00:17.629Z"
+  },
+  "slidr-cli/slidr": {
+    "first_seen": "2026-07-13T09:00:17.943Z",
+    "last_seen": "2026-07-13T09:00:17.943Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-27T09:00:17.943Z"
   }
 }
