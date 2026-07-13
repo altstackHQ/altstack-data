@@ -37715,5 +37715,70 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-27T14:23:51.600Z"
+  },
+  "kappaemme-git/codex-first-customer-finder-skill": {
+    "first_seen": "2026-07-13T19:19:11.044Z",
+    "last_seen": "2026-07-13T19:19:11.044Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-20T19:19:11.032Z"
+  },
+  "morganwilliscloud/billai-bass": {
+    "first_seen": "2026-07-13T19:19:11.396Z",
+    "last_seen": "2026-07-13T19:19:11.396Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-27T19:19:11.396Z"
+  },
+  "mathaix/openclawmachines": {
+    "first_seen": "2026-07-13T19:19:11.705Z",
+    "last_seen": "2026-07-13T19:19:11.705Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-27T19:19:11.705Z"
+  },
+  "jbwinters/jacquard-lang": {
+    "first_seen": "2026-07-13T19:19:12.478Z",
+    "last_seen": "2026-07-13T19:19:12.478Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-27T19:19:12.478Z"
+  },
+  "lostinpatterns/kassette": {
+    "first_seen": "2026-07-13T19:19:12.762Z",
+    "last_seen": "2026-07-13T19:19:12.762Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-27T19:19:12.762Z"
+  },
+  "obrienciaran/dbt-debt": {
+    "first_seen": "2026-07-13T19:19:13.042Z",
+    "last_seen": "2026-07-13T19:19:13.042Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-27T19:19:13.042Z"
   }
 }
