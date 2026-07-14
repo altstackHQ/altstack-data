@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-07-07T02:38:34.479Z",
-    "times_seen": 12,
+    "last_seen": "2026-07-14T07:55:17.451Z",
+    "times_seen": 13,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-14T02:38:34.470Z"
+    "cooldown_until": "2026-07-21T07:55:17.439Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-07-07T02:38:37.517Z",
-    "times_seen": 12,
+    "last_seen": "2026-07-14T07:55:19.750Z",
+    "times_seen": 13,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-14T02:38:37.517Z"
+    "cooldown_until": "2026-07-21T07:55:19.750Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -37997,5 +37997,78 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-07-28T02:01:01.086Z"
+  },
+  "waylon/ashare-quant-strategies": {
+    "first_seen": "2026-07-14T07:55:21.383Z",
+    "last_seen": "2026-07-14T07:55:21.383Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T07:55:21.383Z"
+  },
+  "extraltodeus/j-wash": {
+    "first_seen": "2026-07-14T07:55:21.856Z",
+    "last_seen": "2026-07-14T07:55:21.856Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T07:55:21.856Z"
+  },
+  "aigc17/chinese-phoenixcrown": {
+    "first_seen": "2026-07-14T07:55:22.350Z",
+    "last_seen": "2026-07-14T07:55:22.350Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T07:55:22.350Z"
+  },
+  "daqulalin/memstitch": {
+    "first_seen": "2026-07-14T07:55:22.629Z",
+    "last_seen": "2026-07-14T07:55:22.629Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-28T07:55:22.629Z"
+  },
+  "mnesimiyilmaz/sql4json": {
+    "first_seen": "2026-07-14T07:55:22.946Z",
+    "last_seen": "2026-07-14T07:55:22.946Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-07-28T07:55:22.946Z"
+  },
+  "xfloukiex-lab/pandaclip": {
+    "first_seen": "2026-07-14T07:55:23.266Z",
+    "last_seen": "2026-07-14T07:55:23.266Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-28T07:55:23.266Z"
+  },
+  "morluto/rea": {
+    "first_seen": "2026-07-14T07:55:23.764Z",
+    "last_seen": "2026-07-14T07:55:23.764Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T07:55:23.764Z"
   }
 }
