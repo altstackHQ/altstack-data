@@ -38141,5 +38141,112 @@
     "reason": "low_stars",
     "stars": 14,
     "cooldown_until": "2026-07-28T13:23:24.965Z"
+  },
+  "vybenetwork/solana-pyth-api": {
+    "first_seen": "2026-07-14T19:12:24.147Z",
+    "last_seen": "2026-07-14T19:12:24.147Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T19:12:24.135Z"
+  },
+  "tobiaslee/rebuttal-skill": {
+    "first_seen": "2026-07-14T19:12:24.650Z",
+    "last_seen": "2026-07-14T19:12:24.650Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T19:12:24.650Z"
+  },
+  "stormeye85/robinhood-token-launcher": {
+    "first_seen": "2026-07-14T19:12:25.121Z",
+    "last_seen": "2026-07-14T19:12:25.121Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T19:12:25.121Z"
+  },
+  "matt0x6f/irc-client": {
+    "first_seen": "2026-07-14T19:12:26.109Z",
+    "last_seen": "2026-07-14T19:12:26.109Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-28T19:12:26.109Z"
+  },
+  "projectargus-cc/libargus.cc": {
+    "first_seen": "2026-07-14T19:12:26.396Z",
+    "last_seen": "2026-07-14T19:12:26.396Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-28T19:12:26.396Z"
+  },
+  "pullrun/pullrun": {
+    "first_seen": "2026-07-14T19:12:26.793Z",
+    "last_seen": "2026-07-14T19:12:26.793Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-28T19:12:26.793Z"
+  },
+  "redplanethq/town": {
+    "first_seen": "2026-07-14T19:12:27.108Z",
+    "last_seen": "2026-07-14T19:12:27.108Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-28T19:12:27.108Z"
+  },
+  "pulsys-io/pulsys": {
+    "first_seen": "2026-07-14T19:12:27.431Z",
+    "last_seen": "2026-07-14T19:12:27.431Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-28T19:12:27.431Z"
+  },
+  "oalieno/beepub": {
+    "first_seen": "2026-07-14T19:12:27.762Z",
+    "last_seen": "2026-07-14T19:12:27.762Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-28T19:12:27.762Z"
+  },
+  "bitofabluetit/knotreel": {
+    "first_seen": "2026-07-14T19:12:28.082Z",
+    "last_seen": "2026-07-14T19:12:28.082Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-28T19:12:28.082Z"
   }
 }
