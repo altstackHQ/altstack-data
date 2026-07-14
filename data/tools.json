@@ -267,6 +267,17 @@
     }
   },
   {
+    "slug": "chimely",
+    "name": "Chimely",
+    "category": "Communication",
+    "is_open_source": true,
+    "github_repo": "dodopayments/chimely",
+    "website": "https://chimely.dev",
+    "description": "Open-source, self-hostable in-app notification inbox infrastructure (Rust + Postgres + Redis) with a drop-in <Inbox /> React component. Self-hosted alternative to Knock, Courier, MagicBell, and Novu.",
+    "language": "Rust",
+    "license": "AGPL-3.0"
+  },
+  {
     "slug": "jira",
     "name": "Jira",
     "category": "Project Management",
