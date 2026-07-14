@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-07-07T09:33:45.455Z",
-    "times_seen": 12,
+    "last_seen": "2026-07-14T13:23:16.338Z",
+    "times_seen": 13,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-14T09:33:45.445Z"
+    "cooldown_until": "2026-07-21T13:23:16.327Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -38070,5 +38070,76 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-21T07:55:23.764Z"
+  },
+  "x4gking/free-panel": {
+    "first_seen": "2026-07-14T13:23:21.088Z",
+    "last_seen": "2026-07-14T13:23:21.088Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T13:23:21.088Z"
+  },
+  "andry-lebedev/neobank-primitives": {
+    "first_seen": "2026-07-14T13:23:21.847Z",
+    "last_seen": "2026-07-14T13:23:21.847Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T13:23:21.847Z"
+  },
+  "wan-video/wan-dancer": {
+    "first_seen": "2026-07-14T13:23:22.530Z",
+    "last_seen": "2026-07-14T13:23:22.530Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T13:23:22.530Z"
+  },
+  "stormeye85/robinhood-token-sniper": {
+    "first_seen": "2026-07-14T13:23:23.204Z",
+    "last_seen": "2026-07-14T13:23:23.204Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T13:23:23.204Z"
+  },
+  "stormeye85/robinhood-token-bundler": {
+    "first_seen": "2026-07-14T13:23:23.880Z",
+    "last_seen": "2026-07-14T13:23:23.880Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T13:23:23.880Z"
+  },
+  "oil-oil/beautify-github-readme": {
+    "first_seen": "2026-07-14T13:23:24.562Z",
+    "last_seen": "2026-07-14T13:23:24.562Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T13:23:24.562Z"
+  },
+  "danau5tin/ai-trains-ai": {
+    "first_seen": "2026-07-14T13:23:24.965Z",
+    "last_seen": "2026-07-14T13:23:24.965Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-07-28T13:23:24.965Z"
   }
 }
