@@ -37780,5 +37780,222 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-07-27T19:19:13.042Z"
+  },
+  "m-novotny/memguard-rs": {
+    "first_seen": "2026-07-14T02:00:53.301Z",
+    "last_seen": "2026-07-14T02:00:53.301Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:53.291Z"
+  },
+  "marcelpanse/youtube-guitar-tab-parser": {
+    "first_seen": "2026-07-14T02:00:53.763Z",
+    "last_seen": "2026-07-14T02:00:53.763Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:53.763Z"
+  },
+  "yeet-src/sigwire": {
+    "first_seen": "2026-07-14T02:00:54.185Z",
+    "last_seen": "2026-07-14T02:00:54.185Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:54.185Z"
+  },
+  "ray4rt/yt-clip": {
+    "first_seen": "2026-07-14T02:00:54.603Z",
+    "last_seen": "2026-07-14T02:00:54.603Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:54.603Z"
+  },
+  "iptvorganization/tv-autobuild": {
+    "first_seen": "2026-07-14T02:00:55.010Z",
+    "last_seen": "2026-07-14T02:00:55.010Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:55.010Z"
+  },
+  "schlae/beavisultrasound": {
+    "first_seen": "2026-07-14T02:00:55.314Z",
+    "last_seen": "2026-07-14T02:00:55.314Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CERN-OHL-P-2.0",
+    "cooldown_until": "2026-08-13T02:00:55.314Z"
+  },
+  "rengwu/wayfinder-maps": {
+    "first_seen": "2026-07-14T02:00:55.701Z",
+    "last_seen": "2026-07-14T02:00:55.701Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:55.701Z"
+  },
+  "retro-diffusion/pixel-art-fixer": {
+    "first_seen": "2026-07-14T02:00:56.097Z",
+    "last_seen": "2026-07-14T02:00:56.097Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:56.097Z"
+  },
+  "ryszrd-chaj/evm-prediction-market": {
+    "first_seen": "2026-07-14T02:00:56.513Z",
+    "last_seen": "2026-07-14T02:00:56.513Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:56.513Z"
+  },
+  "ryszrd-chaj/solana-prediction-market": {
+    "first_seen": "2026-07-14T02:00:56.892Z",
+    "last_seen": "2026-07-14T02:00:56.892Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:56.892Z"
+  },
+  "pueschel88/tradingview-mcp": {
+    "first_seen": "2026-07-14T02:00:57.313Z",
+    "last_seen": "2026-07-14T02:00:57.313Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:57.313Z"
+  },
+  "linuxoid-cn/mi8e5-unlocker-by-cve-2026-43499": {
+    "first_seen": "2026-07-14T02:00:57.659Z",
+    "last_seen": "2026-07-14T02:00:57.659Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:57.659Z"
+  },
+  "jiuwovo-ai/xiaopingguo": {
+    "first_seen": "2026-07-14T02:00:58.071Z",
+    "last_seen": "2026-07-14T02:00:58.071Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:58.071Z"
+  },
+  "xqlsystems/xarray-sql": {
+    "first_seen": "2026-07-14T02:00:58.511Z",
+    "last_seen": "2026-07-14T02:00:58.511Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:00:58.511Z"
+  },
+  "clayseal/clayseal-identity": {
+    "first_seen": "2026-07-14T02:00:59.232Z",
+    "last_seen": "2026-07-14T02:00:59.232Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-28T02:00:59.232Z"
+  },
+  "silly-tae/taetype": {
+    "first_seen": "2026-07-14T02:00:59.491Z",
+    "last_seen": "2026-07-14T02:00:59.491Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-28T02:00:59.491Z"
+  },
+  "wasserpuncher/rejit": {
+    "first_seen": "2026-07-14T02:00:59.812Z",
+    "last_seen": "2026-07-14T02:00:59.812Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-28T02:00:59.812Z"
+  },
+  "firstcontributions/first-contributions": {
+    "first_seen": "2026-07-14T02:01:00.215Z",
+    "last_seen": "2026-07-14T02:01:00.215Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-21T02:01:00.215Z"
+  },
+  "michaellee8/esp32-bluetooth-voice-agent": {
+    "first_seen": "2026-07-14T02:01:00.516Z",
+    "last_seen": "2026-07-14T02:01:00.516Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-28T02:01:00.516Z"
+  },
+  "agx-computer/hypercube": {
+    "first_seen": "2026-07-14T02:01:00.785Z",
+    "last_seen": "2026-07-14T02:01:00.785Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-28T02:01:00.785Z"
+  },
+  "bvcampos/canvas": {
+    "first_seen": "2026-07-14T02:01:01.086Z",
+    "last_seen": "2026-07-14T02:01:01.086Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-28T02:01:01.086Z"
   }
 }
