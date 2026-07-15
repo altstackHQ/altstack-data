@@ -38600,5 +38600,109 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-29T13:26:48.329Z"
+  },
+  "pixel-point/aval": {
+    "first_seen": "2026-07-15T19:04:26.463Z",
+    "last_seen": "2026-07-15T19:04:26.463Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T19:04:26.452Z"
+  },
+  "gabriel-azara/hyperliquid-tracker": {
+    "first_seen": "2026-07-15T19:04:27.376Z",
+    "last_seen": "2026-07-15T19:04:27.376Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T19:04:27.376Z"
+  },
+  "kubeezmedia/kubeez-scroll-world-video": {
+    "first_seen": "2026-07-15T19:04:27.821Z",
+    "last_seen": "2026-07-15T19:04:27.821Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T19:04:27.821Z"
+  },
+  "welcome-to-the-sunny-side/misa77": {
+    "first_seen": "2026-07-15T19:04:28.224Z",
+    "last_seen": "2026-07-15T19:04:28.224Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T19:04:28.224Z"
+  },
+  "bitjaru/styleseed": {
+    "first_seen": "2026-07-15T19:04:28.657Z",
+    "last_seen": "2026-07-15T19:04:28.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T19:04:28.657Z"
+  },
+  "evansjp/grepathy": {
+    "first_seen": "2026-07-15T19:04:29.072Z",
+    "last_seen": "2026-07-15T19:04:29.072Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T19:04:29.072Z"
+  },
+  "synseqack/aict": {
+    "first_seen": "2026-07-15T19:04:29.377Z",
+    "last_seen": "2026-07-15T19:04:29.377Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-07-29T19:04:29.377Z"
+  },
+  "jbunke/painterly": {
+    "first_seen": "2026-07-15T19:04:29.665Z",
+    "last_seen": "2026-07-15T19:04:29.665Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-07-29T19:04:29.665Z"
+  },
+  "adityaarunsinghal/cc-hindsight": {
+    "first_seen": "2026-07-15T19:04:30.409Z",
+    "last_seen": "2026-07-15T19:04:30.409Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-29T19:04:30.409Z"
+  },
+  "evolutionairy-ai/mindlas": {
+    "first_seen": "2026-07-15T19:04:30.723Z",
+    "last_seen": "2026-07-15T19:04:30.723Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-07-29T19:04:30.723Z"
   }
 }
