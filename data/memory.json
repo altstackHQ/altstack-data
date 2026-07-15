@@ -38423,5 +38423,88 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-07-29T01:57:40.798Z"
+  },
+  "my-take-dev/inspired-mino-design-skills": {
+    "first_seen": "2026-07-15T08:00:01.168Z",
+    "last_seen": "2026-07-15T08:00:01.168Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T08:00:01.156Z"
+  },
+  "enamelspirit/ae-animation-expressions": {
+    "first_seen": "2026-07-15T08:00:01.620Z",
+    "last_seen": "2026-07-15T08:00:01.620Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T08:00:01.620Z"
+  },
+  "mudsoldiermove/photoshop-smart-layer-manager": {
+    "first_seen": "2026-07-15T08:00:02.079Z",
+    "last_seen": "2026-07-15T08:00:02.079Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T08:00:02.079Z"
+  },
+  "mixedstormplay/photoshop-batch-export-optimizer": {
+    "first_seen": "2026-07-15T08:00:02.491Z",
+    "last_seen": "2026-07-15T08:00:02.491Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T08:00:02.491Z"
+  },
+  "exteriorshinobi29/vegas-pro-ai-upscaler": {
+    "first_seen": "2026-07-15T08:00:02.945Z",
+    "last_seen": "2026-07-15T08:00:02.945Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-22T08:00:02.945Z"
+  },
+  "deepanwadhwa/samosa-chat": {
+    "first_seen": "2026-07-15T08:00:03.765Z",
+    "last_seen": "2026-07-15T08:00:03.765Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-29T08:00:03.765Z"
+  },
+  "menagerai/menagerai": {
+    "first_seen": "2026-07-15T08:00:04.103Z",
+    "last_seen": "2026-07-15T08:00:04.103Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-29T08:00:04.103Z"
+  },
+  "grigoriitropin/vehir-platform": {
+    "first_seen": "2026-07-15T08:00:04.522Z",
+    "last_seen": "2026-07-15T08:00:04.522Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-08-14T08:00:04.522Z"
   }
 }
