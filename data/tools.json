@@ -4946,5 +4946,52 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
+  },
+  {
+    "slug": "hirevue",
+    "name": "HireVue",
+    "category": "HR",
+    "is_open_source": false,
+    "pricing_model": "Paid",
+    "website": "https://www.hirevue.com",
+    "description": "Enterprise video interviewing and candidate assessment platform.",
+    "alternatives": [
+      "aural"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=hirevue.com",
+    "pros": [
+      "Structured video interviewing and assessments",
+      "Enterprise recruiting integrations",
+      "Workflow automation for high-volume hiring"
+    ],
+    "cons": [
+      "Closed-source platform",
+      "Pricing requires a sales quote",
+      "Candidate data is hosted by a third party"
+    ],
+    "has_deployable_alternative": true
+  },
+  {
+    "slug": "aural",
+    "name": "Aural",
+    "category": "HR",
+    "is_open_source": true,
+    "github_repo": "1146345502/aural-oss",
+    "stars": 150,
+    "website": "https://aural-ai.com",
+    "description": "Open-source, self-hostable AI interview platform for voice, chat, and video interviews.",
+    "pros": [
+      "Voice, chat, and video interview modes",
+      "Adaptive AI follow-up questions and automated reports",
+      "Self-hostable with pluggable LLM providers"
+    ],
+    "cons": [
+      "Young project with a smaller community",
+      "Self-hosting requires Supabase and AI provider configuration"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "hosting_type": "self-hosted",
+    "logo_url": "https://avatars.githubusercontent.com/u/32186766?v=4"
   }
 ]
