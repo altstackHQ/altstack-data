@@ -23459,14 +23459,14 @@
   },
   "softcane/cc-session-recover": {
     "first_seen": "2026-06-15T03:41:57.501Z",
-    "last_seen": "2026-06-15T03:41:57.501Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-16T08:05:21.903Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 6,
-    "cooldown_until": "2026-06-29T03:41:57.501Z"
+    "cooldown_until": "2026-07-23T08:05:21.902Z"
   },
   "vitaliyfedotovpro-art/raidho": {
     "first_seen": "2026-06-15T03:41:57.756Z",
@@ -38929,5 +38929,66 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-07-30T02:07:53.583Z"
+  },
+  "fei-away/codex-dream-skin": {
+    "first_seen": "2026-07-16T08:05:16.578Z",
+    "last_seen": "2026-07-16T08:05:16.578Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T08:05:16.568Z"
+  },
+  "robinhood-ape/robinhood-noxa-bundler": {
+    "first_seen": "2026-07-16T08:05:18.041Z",
+    "last_seen": "2026-07-16T08:05:18.041Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T08:05:18.041Z"
+  },
+  "robinhood-ape/robinhood-sniper-bot": {
+    "first_seen": "2026-07-16T08:05:18.735Z",
+    "last_seen": "2026-07-16T08:05:18.735Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T08:05:18.735Z"
+  },
+  "astrio-labs/forall": {
+    "first_seen": "2026-07-16T08:05:20.485Z",
+    "last_seen": "2026-07-16T08:05:20.485Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T08:05:20.485Z"
+  },
+  "clougence/open-cdm": {
+    "first_seen": "2026-07-16T08:05:21.229Z",
+    "last_seen": "2026-07-16T08:05:21.229Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T08:05:21.229Z"
+  },
+  "kestermckinney/projectnotes": {
+    "first_seen": "2026-07-16T08:05:22.342Z",
+    "last_seen": "2026-07-16T08:05:22.342Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-30T08:05:22.342Z"
   }
 }
