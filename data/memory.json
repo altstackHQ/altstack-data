@@ -39052,5 +39052,101 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-07-30T13:41:02.578Z"
+  },
+  "blueturboguy07/cue": {
+    "first_seen": "2026-07-16T19:03:26.732Z",
+    "last_seen": "2026-07-16T19:03:26.732Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T19:03:26.722Z"
+  },
+  "patonw/leaves": {
+    "first_seen": "2026-07-16T19:03:27.570Z",
+    "last_seen": "2026-07-16T19:03:27.570Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T19:03:27.570Z"
+  },
+  "ratel-ai/ratel": {
+    "first_seen": "2026-07-16T19:03:27.996Z",
+    "last_seen": "2026-07-16T19:03:27.996Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T19:03:27.996Z"
+  },
+  "usestring/web-data-frontier-benchmark": {
+    "first_seen": "2026-07-16T19:03:28.299Z",
+    "last_seen": "2026-07-16T19:03:28.299Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-07-30T19:03:28.299Z"
+  },
+  "nousc/opennous": {
+    "first_seen": "2026-07-16T19:03:28.563Z",
+    "last_seen": "2026-07-16T19:03:28.563Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-30T19:03:28.563Z"
+  },
+  "cmk/connections": {
+    "first_seen": "2026-07-16T19:03:28.895Z",
+    "last_seen": "2026-07-16T19:03:28.895Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-30T19:03:28.895Z"
+  },
+  "totalumlabs/ai-app-builder-open": {
+    "first_seen": "2026-07-16T19:03:29.231Z",
+    "last_seen": "2026-07-16T19:03:29.231Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-07-30T19:03:29.231Z"
+  },
+  "wiss84/local-search-agent": {
+    "first_seen": "2026-07-16T19:03:29.509Z",
+    "last_seen": "2026-07-16T19:03:29.509Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-30T19:03:29.509Z"
+  },
+  "cwooddgr/bezelbub": {
+    "first_seen": "2026-07-16T19:03:29.766Z",
+    "last_seen": "2026-07-16T19:03:29.766Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-07-30T19:03:29.766Z"
   }
 }
