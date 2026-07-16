@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-07-08T19:18:13.704Z",
-    "times_seen": 7,
+    "last_seen": "2026-07-16T02:07:42.616Z",
+    "times_seen": 8,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-15T19:18:13.694Z"
+    "cooldown_until": "2026-07-23T02:07:42.603Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -38704,5 +38704,230 @@
     "reason": "low_stars",
     "stars": 10,
     "cooldown_until": "2026-07-29T19:04:30.723Z"
+  },
+  "xai-org/grok-build": {
+    "first_seen": "2026-07-16T02:07:44.399Z",
+    "last_seen": "2026-07-16T02:07:44.399Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:44.399Z"
+  },
+  "vshulcz/deja-vu": {
+    "first_seen": "2026-07-16T02:07:45.182Z",
+    "last_seen": "2026-07-16T02:07:45.182Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:45.182Z"
+  },
+  "kitlangton/skills": {
+    "first_seen": "2026-07-16T02:07:45.560Z",
+    "last_seen": "2026-07-16T02:07:45.560Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:45.560Z"
+  },
+  "vitsoonyoung/spritestack2d": {
+    "first_seen": "2026-07-16T02:07:45.974Z",
+    "last_seen": "2026-07-16T02:07:45.974Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:45.974Z"
+  },
+  "perplexityai/wandr": {
+    "first_seen": "2026-07-16T02:07:46.394Z",
+    "last_seen": "2026-07-16T02:07:46.394Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:46.394Z"
+  },
+  "oversecured/samsung_vulnerabilities": {
+    "first_seen": "2026-07-16T02:07:46.845Z",
+    "last_seen": "2026-07-16T02:07:46.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:46.845Z"
+  },
+  "pyang5166/gbro-collage-broll": {
+    "first_seen": "2026-07-16T02:07:47.205Z",
+    "last_seen": "2026-07-16T02:07:47.205Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:47.205Z"
+  },
+  "hsj-banfan/grok-register-web": {
+    "first_seen": "2026-07-16T02:07:47.640Z",
+    "last_seen": "2026-07-16T02:07:47.640Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:47.640Z"
+  },
+  "kazelad/prediction-market-trade-sdk": {
+    "first_seen": "2026-07-16T02:07:48.055Z",
+    "last_seen": "2026-07-16T02:07:48.055Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:48.055Z"
+  },
+  "jesusrs1/stock-trade-finance-api": {
+    "first_seen": "2026-07-16T02:07:48.457Z",
+    "last_seen": "2026-07-16T02:07:48.457Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:48.457Z"
+  },
+  "jesusrs1/binance-trade-api": {
+    "first_seen": "2026-07-16T02:07:48.878Z",
+    "last_seen": "2026-07-16T02:07:48.878Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:48.878Z"
+  },
+  "dabberman456/finance-mcp-app": {
+    "first_seen": "2026-07-16T02:07:49.332Z",
+    "last_seen": "2026-07-16T02:07:49.332Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:49.332Z"
+  },
+  "kazelad/algo-trading-agent": {
+    "first_seen": "2026-07-16T02:07:49.587Z",
+    "last_seen": "2026-07-16T02:07:49.587Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-SA-4.0",
+    "cooldown_until": "2026-08-15T02:07:49.587Z"
+  },
+  "pixel-point/toolcraft": {
+    "first_seen": "2026-07-16T02:07:50.009Z",
+    "last_seen": "2026-07-16T02:07:50.009Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:50.009Z"
+  },
+  "alexafinode/claude-arbitrage-bot": {
+    "first_seen": "2026-07-16T02:07:50.812Z",
+    "last_seen": "2026-07-16T02:07:50.812Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:50.812Z"
+  },
+  "zhibeigg/ai-api-relay-guide": {
+    "first_seen": "2026-07-16T02:07:51.192Z",
+    "last_seen": "2026-07-16T02:07:51.192Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:51.192Z"
+  },
+  "shibco/ableton-linux": {
+    "first_seen": "2026-07-16T02:07:51.602Z",
+    "last_seen": "2026-07-16T02:07:51.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:51.602Z"
+  },
+  "encod3d-sec/claudebrain": {
+    "first_seen": "2026-07-16T02:07:52.024Z",
+    "last_seen": "2026-07-16T02:07:52.024Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-23T02:07:52.024Z"
+  },
+  "griffith-7/nf4-triton-kernel": {
+    "first_seen": "2026-07-16T02:07:52.790Z",
+    "last_seen": "2026-07-16T02:07:52.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-07-30T02:07:52.790Z"
+  },
+  "fabio-ricardo/worldcup-forecasting-model": {
+    "first_seen": "2026-07-16T02:07:53.047Z",
+    "last_seen": "2026-07-16T02:07:53.047Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-07-30T02:07:53.047Z"
+  },
+  "pettijohn/homer-odyssey-tree": {
+    "first_seen": "2026-07-16T02:07:53.301Z",
+    "last_seen": "2026-07-16T02:07:53.301Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-30T02:07:53.301Z"
+  },
+  "clipper-registry/cache": {
+    "first_seen": "2026-07-16T02:07:53.584Z",
+    "last_seen": "2026-07-16T02:07:53.584Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-30T02:07:53.583Z"
   }
 }
