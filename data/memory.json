@@ -39310,5 +39310,86 @@
     "reason": "low_stars",
     "stars": 10,
     "cooldown_until": "2026-07-31T02:11:19.489Z"
+  },
+  "pablostanley/yoinks": {
+    "first_seen": "2026-07-17T08:07:38.224Z",
+    "last_seen": "2026-07-17T08:07:38.224Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T08:07:38.213Z"
+  },
+  "kunchenguid/whathappened": {
+    "first_seen": "2026-07-17T08:07:38.635Z",
+    "last_seen": "2026-07-17T08:07:38.635Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T08:07:38.634Z"
+  },
+  "rs-4/labs": {
+    "first_seen": "2026-07-17T08:07:39.522Z",
+    "last_seen": "2026-07-17T08:07:39.522Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T08:07:39.522Z"
+  },
+  "jixiner/flinkagentmonitoring": {
+    "first_seen": "2026-07-17T08:07:39.926Z",
+    "last_seen": "2026-07-17T08:07:39.926Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T08:07:39.926Z"
+  },
+  "x4gking/telegram-proxy": {
+    "first_seen": "2026-07-17T08:07:40.340Z",
+    "last_seen": "2026-07-17T08:07:40.340Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T08:07:40.340Z"
+  },
+  "superxslam/supermap": {
+    "first_seen": "2026-07-17T08:07:40.755Z",
+    "last_seen": "2026-07-17T08:07:40.755Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T08:07:40.755Z"
+  },
+  "xiaomirobotics/xiaomi-robotics-1": {
+    "first_seen": "2026-07-17T08:07:41.137Z",
+    "last_seen": "2026-07-17T08:07:41.137Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T08:07:41.137Z"
+  },
+  "kait2en/kait2en-fedora": {
+    "first_seen": "2026-07-17T08:07:41.432Z",
+    "last_seen": "2026-07-17T08:07:41.432Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-07-31T08:07:41.432Z"
   }
 }
