@@ -39432,5 +39432,100 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-07-31T13:18:15.296Z"
+  },
+  "klaatai/klaatcode": {
+    "first_seen": "2026-07-17T19:01:13.180Z",
+    "last_seen": "2026-07-17T19:01:13.180Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T19:01:13.170Z"
+  },
+  "pyang5166/gbro-cover-design": {
+    "first_seen": "2026-07-17T19:01:13.625Z",
+    "last_seen": "2026-07-17T19:01:13.625Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T19:01:13.625Z"
+  },
+  "syuaib0724-dot/meccha-predator-plus": {
+    "first_seen": "2026-07-17T19:01:14.097Z",
+    "last_seen": "2026-07-17T19:01:14.097Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T19:01:14.097Z"
+  },
+  "brainwavesio/pi-digby": {
+    "first_seen": "2026-07-17T19:01:14.389Z",
+    "last_seen": "2026-07-17T19:01:14.389Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-31T19:01:14.389Z"
+  },
+  "skorotkiewicz/rudo": {
+    "first_seen": "2026-07-17T19:01:14.654Z",
+    "last_seen": "2026-07-17T19:01:14.654Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-07-31T19:01:14.654Z"
+  },
+  "pjhkorea/pim-hbm-bypass": {
+    "first_seen": "2026-07-17T19:01:15.418Z",
+    "last_seen": "2026-07-17T19:01:15.418Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-07-31T19:01:15.418Z"
+  },
+  "a24films/puffgres": {
+    "first_seen": "2026-07-17T19:01:15.824Z",
+    "last_seen": "2026-07-17T19:01:15.824Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T19:01:15.824Z"
+  },
+  "colomalabs/coloma": {
+    "first_seen": "2026-07-17T19:01:16.126Z",
+    "last_seen": "2026-07-17T19:01:16.126Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-07-31T19:01:16.125Z"
+  },
+  "0pen-sourcer/hearth": {
+    "first_seen": "2026-07-17T19:01:16.447Z",
+    "last_seen": "2026-07-17T19:01:16.447Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-07-31T19:01:16.447Z"
   }
 }
