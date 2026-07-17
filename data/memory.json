@@ -39391,5 +39391,46 @@
     "reason": "low_stars",
     "stars": 17,
     "cooldown_until": "2026-07-31T08:07:41.432Z"
+  },
+  "v-modal/vmodal_sdk_flutter": {
+    "first_seen": "2026-07-17T13:18:13.013Z",
+    "last_seen": "2026-07-17T13:18:13.013Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T13:18:13.004Z"
+  },
+  "mighty-alien/trading-bot": {
+    "first_seen": "2026-07-17T13:18:14.312Z",
+    "last_seen": "2026-07-17T13:18:14.312Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T13:18:14.312Z"
+  },
+  "finderchangchang/codex-autoskin": {
+    "first_seen": "2026-07-17T13:18:14.949Z",
+    "last_seen": "2026-07-17T13:18:14.949Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-24T13:18:14.949Z"
+  },
+  "deadbytes101/deadwire-httpd": {
+    "first_seen": "2026-07-17T13:18:15.296Z",
+    "last_seen": "2026-07-17T13:18:15.296Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-07-31T13:18:15.296Z"
   }
 }
