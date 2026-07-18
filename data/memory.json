@@ -39527,5 +39527,220 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-07-31T19:01:16.447Z"
+  },
+  "nethical6/conversation-steganography": {
+    "first_seen": "2026-07-18T02:00:18.148Z",
+    "last_seen": "2026-07-18T02:00:18.148Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:18.138Z"
+  },
+  "justingamer191/holo": {
+    "first_seen": "2026-07-18T02:00:18.859Z",
+    "last_seen": "2026-07-18T02:00:18.859Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:18.859Z"
+  },
+  "lewdm3at/steam-games-cartridges": {
+    "first_seen": "2026-07-18T02:00:19.517Z",
+    "last_seen": "2026-07-18T02:00:19.517Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:19.517Z"
+  },
+  "thebuggeddev/football-stadium": {
+    "first_seen": "2026-07-18T02:00:20.220Z",
+    "last_seen": "2026-07-18T02:00:20.220Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:20.220Z"
+  },
+  "elzioqwqw-coder/meccha-nuclear-cheat": {
+    "first_seen": "2026-07-18T02:00:20.945Z",
+    "last_seen": "2026-07-18T02:00:20.945Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:20.945Z"
+  },
+  "shrugdevelopernl/meccha-nova-x": {
+    "first_seen": "2026-07-18T02:00:21.679Z",
+    "last_seen": "2026-07-18T02:00:21.679Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:21.679Z"
+  },
+  "dantascodes/palworld-evolution-hack": {
+    "first_seen": "2026-07-18T02:00:22.356Z",
+    "last_seen": "2026-07-18T02:00:22.356Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:22.356Z"
+  },
+  "v4lss/palworld-max-pro": {
+    "first_seen": "2026-07-18T02:00:23.018Z",
+    "last_seen": "2026-07-18T02:00:23.018Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:23.018Z"
+  },
+  "yaswanth-sri-naga-sai/palworld-god-tool": {
+    "first_seen": "2026-07-18T02:00:23.679Z",
+    "last_seen": "2026-07-18T02:00:23.679Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:23.679Z"
+  },
+  "catchamongjoint/cod-nova-x": {
+    "first_seen": "2026-07-18T02:00:24.340Z",
+    "last_seen": "2026-07-18T02:00:24.340Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:24.340Z"
+  },
+  "dns-0522/meccha-phantom-z": {
+    "first_seen": "2026-07-18T02:00:25.081Z",
+    "last_seen": "2026-07-18T02:00:25.081Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:25.081Z"
+  },
+  "syuaib0724-dot/fc26-mod-editor-x": {
+    "first_seen": "2026-07-18T02:00:25.787Z",
+    "last_seen": "2026-07-18T02:00:25.787Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:25.787Z"
+  },
+  "dhyancanplay/palworld-omega-hack": {
+    "first_seen": "2026-07-18T02:00:26.466Z",
+    "last_seen": "2026-07-18T02:00:26.466Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:26.466Z"
+  },
+  "snatchnodejack/rl-nightmare-x": {
+    "first_seen": "2026-07-18T02:00:27.198Z",
+    "last_seen": "2026-07-18T02:00:27.198Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:27.198Z"
+  },
+  "opticlarkpower/r6-apex-tool": {
+    "first_seen": "2026-07-18T02:00:27.908Z",
+    "last_seen": "2026-07-18T02:00:27.908Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:27.908Z"
+  },
+  "closedcletuck/rocket-fury-pro": {
+    "first_seen": "2026-07-18T02:00:28.574Z",
+    "last_seen": "2026-07-18T02:00:28.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T02:00:28.574Z"
+  },
+  "abduznik/fallout1-ce-psp": {
+    "first_seen": "2026-07-18T02:00:28.982Z",
+    "last_seen": "2026-07-18T02:00:28.982Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-01T02:00:28.982Z"
+  },
+  "andreaborio/ds4": {
+    "first_seen": "2026-07-18T02:00:30.426Z",
+    "last_seen": "2026-07-18T02:00:30.426Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-01T02:00:30.426Z"
+  },
+  "jgouviergmail/lia-assistant": {
+    "first_seen": "2026-07-18T02:00:30.799Z",
+    "last_seen": "2026-07-18T02:00:30.799Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-01T02:00:30.799Z"
+  },
+  "anlor1002-alt/regressionledger": {
+    "first_seen": "2026-07-18T02:00:31.186Z",
+    "last_seen": "2026-07-18T02:00:31.186Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-01T02:00:31.186Z"
+  },
+  "gfrancv/notvex": {
+    "first_seen": "2026-07-18T02:00:31.538Z",
+    "last_seen": "2026-07-18T02:00:31.538Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-01T02:00:31.538Z"
   }
 }
