@@ -39804,5 +39804,89 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-01T07:41:56.970Z"
+  },
+  "icex0/wp2shell-poc": {
+    "first_seen": "2026-07-18T13:04:09.452Z",
+    "last_seen": "2026-07-18T13:04:09.452Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T13:04:09.442Z"
+  },
+  "faradworks/pinscope": {
+    "first_seen": "2026-07-18T13:04:09.843Z",
+    "last_seen": "2026-07-18T13:04:09.843Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T13:04:09.843Z"
+  },
+  "lofty14/restaurant-digitalization-blueprint": {
+    "first_seen": "2026-07-18T13:04:10.244Z",
+    "last_seen": "2026-07-18T13:04:10.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T13:04:10.244Z"
+  },
+  "ayuhito/safehttp": {
+    "first_seen": "2026-07-18T13:04:10.553Z",
+    "last_seen": "2026-07-18T13:04:10.553Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-01T13:04:10.553Z"
+  },
+  "rangerwolf/loris-tunnel-app": {
+    "first_seen": "2026-07-18T13:04:10.988Z",
+    "last_seen": "2026-07-18T13:04:10.988Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T13:04:10.988Z"
+  },
+  "inklate/social-skills": {
+    "first_seen": "2026-07-18T13:04:11.312Z",
+    "last_seen": "2026-07-18T13:04:11.312Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-01T13:04:11.312Z"
+  },
+  "smashah/traicer": {
+    "first_seen": "2026-07-18T13:04:11.572Z",
+    "last_seen": "2026-07-18T13:04:11.572Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-01T13:04:11.572Z"
+  },
+  "pjhkorea/forward_only_autograd_free_pinn": {
+    "first_seen": "2026-07-18T13:04:11.837Z",
+    "last_seen": "2026-07-18T13:04:11.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-01T13:04:11.837Z"
   }
 }
