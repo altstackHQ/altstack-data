@@ -39888,5 +39888,99 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-01T13:04:11.837Z"
+  },
+  "xiejunjie524/handdraw-story-video": {
+    "first_seen": "2026-07-18T18:57:01.643Z",
+    "last_seen": "2026-07-18T18:57:01.643Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T18:57:01.633Z"
+  },
+  "h9-tec/production-ai-stack": {
+    "first_seen": "2026-07-18T18:57:02.225Z",
+    "last_seen": "2026-07-18T18:57:02.225Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T18:57:02.225Z"
+  },
+  "timethrough/xiaohei-chrome": {
+    "first_seen": "2026-07-18T18:57:02.782Z",
+    "last_seen": "2026-07-18T18:57:02.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T18:57:02.782Z"
+  },
+  "afghan127/palworld-extreme-cheat": {
+    "first_seen": "2026-07-18T18:57:03.354Z",
+    "last_seen": "2026-07-18T18:57:03.354Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T18:57:03.354Z"
+  },
+  "jmisilo/imessage-sdk": {
+    "first_seen": "2026-07-18T18:57:03.741Z",
+    "last_seen": "2026-07-18T18:57:03.741Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-01T18:57:03.741Z"
+  },
+  "geminimir/warden": {
+    "first_seen": "2026-07-18T18:57:04.058Z",
+    "last_seen": "2026-07-18T18:57:04.058Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-01T18:57:04.058Z"
+  },
+  "ashiteshsingh/tpu-accelerated-quantum-jax": {
+    "first_seen": "2026-07-18T18:57:04.652Z",
+    "last_seen": "2026-07-18T18:57:04.652Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T18:57:04.652Z"
+  },
+  "asaix/chrdmp": {
+    "first_seen": "2026-07-18T18:57:04.983Z",
+    "last_seen": "2026-07-18T18:57:04.983Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-01T18:57:04.983Z"
+  },
+  "midhunharikumar/sheepdog-rl": {
+    "first_seen": "2026-07-18T18:57:05.337Z",
+    "last_seen": "2026-07-18T18:57:05.337Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-01T18:57:05.337Z"
   }
 }
