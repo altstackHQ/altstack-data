@@ -39742,5 +39742,67 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-01T02:00:31.538Z"
+  },
+  "promptpartner/agentsmith": {
+    "first_seen": "2026-07-18T07:41:54.602Z",
+    "last_seen": "2026-07-18T07:41:54.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T07:41:54.594Z"
+  },
+  "licoy/strokemouse": {
+    "first_seen": "2026-07-18T07:41:55.185Z",
+    "last_seen": "2026-07-18T07:41:55.185Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T07:41:55.185Z"
+  },
+  "clayboxerreproduce/meccha-chameleon-tool": {
+    "first_seen": "2026-07-18T07:41:55.767Z",
+    "last_seen": "2026-07-18T07:41:55.767Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T07:41:55.767Z"
+  },
+  "circuitspawnindicate/fifa-mod-manager-pro": {
+    "first_seen": "2026-07-18T07:41:56.342Z",
+    "last_seen": "2026-07-18T07:41:56.342Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-25T07:41:56.342Z"
+  },
+  "skorotkiewicz/signal-in-the-dark": {
+    "first_seen": "2026-07-18T07:41:56.633Z",
+    "last_seen": "2026-07-18T07:41:56.633Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-01T07:41:56.633Z"
+  },
+  "elementmerc/senbonzakura": {
+    "first_seen": "2026-07-18T07:41:56.970Z",
+    "last_seen": "2026-07-18T07:41:56.970Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-01T07:41:56.970Z"
   }
 }
