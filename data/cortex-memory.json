@@ -3,42 +3,6 @@
   "createdAt": "2026-04-18T17:13:10.082Z",
   "episodes": [
     {
-      "id": "ep_1779874726796_fb9ur",
-      "timestamp": "2026-05-27T09:38:46.796Z",
-      "agent": "AEGIS",
-      "type": "healing_sweep",
-      "scanned": 488,
-      "healed": 0,
-      "healRequests": 30
-    },
-    {
-      "id": "ep_1779895614299_ar1yy",
-      "timestamp": "2026-05-27T15:26:54.299Z",
-      "agent": "SENTINEL",
-      "type": "thought",
-      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 488 tools, 32 categories\n- Health score: 65/100\n- Docker coverage: 132/488\n- Tools under observation: 176\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 11% qualified rate (85 runs)\n- hackernews: 4% qualified rate (83 runs)\n- reddit: 3% qualified rate (2 runs)\n- producthunt: 0% qualified rate (61 runs)\n- dockerhub: 0% qualified rate (83 runs)\n\nRECENT ACTIVITY:\n- [SENTINEL] thought: No response\n- [ORION] source_performance: dockerhub returned 47 candidates but ZERO qualified. Consider deprioritizing this source.\n- [SENTINEL] patrol_summary: completed\n- [SENTINEL] thought: No response\n- [AEGIS] healing_sweep: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nRespond as JSON: {\n  \"operations\": [\"operation_name\", ...],\n  \"reasoning\": \"Why this plan (2-3 sentences)\",\n  \"skipReason\": \"If skipping discovery, explain why\"\n}",
-      "subject": "patrol_planning",
-      "decision": "No response",
-      "reasoning": "LLM returned null",
-      "confidence": 0
-    },
-    {
-      "id": "ep_1779896088328_9u6hd",
-      "timestamp": "2026-05-27T15:34:48.328Z",
-      "agent": "ORION",
-      "type": "source_performance",
-      "lesson": "hackernews returned 41 candidates but ZERO qualified. Consider deprioritizing this source.",
-      "category": "source_yield"
-    },
-    {
-      "id": "ep_1779896088330_nl8n9",
-      "timestamp": "2026-05-27T15:34:48.330Z",
-      "agent": "ORION",
-      "type": "source_performance",
-      "lesson": "producthunt returned 9 candidates but ZERO qualified. Consider deprioritizing this source.",
-      "category": "source_yield"
-    },
-    {
       "id": "ep_1779896088333_xx49r",
       "timestamp": "2026-05-27T15:34:48.333Z",
       "agent": "ORION",
@@ -5232,6 +5196,44 @@
       "forged": 0,
       "failures": 0,
       "lessonsExtracted": 2
+    },
+    {
+      "id": "ep_1784487566527_z42si",
+      "timestamp": "2026-07-19T18:59:26.527Z",
+      "agent": "SENTINEL",
+      "type": "thought",
+      "task": "\nYou are planning today's patrol. Based on the current state, decide which operations to run and in what order.\n\nCURRENT STATE:\n- Directory: 145 tools, 32 categories\n- Health score: 67/100\n- Docker coverage: 94/145\n- Tools under observation: 27\n\nPRIORITIES:\n- [HIGH] HR has only 2 tools. Discovery should target this category.\n- [HIGH] E-commerce has only 2 tools. Discovery should target this category.\n- [HIGH] Legal has only 2 tools. Discovery should target this category.\n- [HIGH] Financial has only 2 tools. Discovery should target this category.\n- [HIGH] Creative has only 2 tools. Discovery should target this category.\n\nSOURCE PERFORMANCE:\n- github: 14% qualified rate (287 runs)\n- hackernews: 3% qualified rate (285 runs)\n- reddit: 3% qualified rate (2 runs)\n- producthunt: 0% qualified rate (67 runs)\n- dockerhub: 0% qualified rate (91 runs)\n\nRECENT ACTIVITY:\n- [SENTINEL] patrol_summary: completed\n- [SENTINEL] thought: No response\n- [ORION] source_performance: hackernews returned 43 candidates but ZERO qualified. Consider deprioritizing this source.\n- [ORION] low_yield: Discovery yield extremely low: 3/74 qualified (4.1%). Sources may need recalibration.\n- [SENTINEL] patrol_summary: completed\n\nAVAILABLE OPERATIONS:\n- discover: Scan sources for new tools (cost: medium)\n- filter: Judge discovered candidates (cost: medium)\n- forge: Build tool profiles and Docker configs (cost: high)\n- update: Refresh metadata on existing tools (cost: medium)\n- heal: Fix broken links and stale data (cost: low)\n- backfill_docker: Add Docker configs to uncovered tools (cost: high)\n- content: Generate blog content (cost: high)\n- polish: Polish and refine content (cost: medium)\n\nRULES:\n- Always include 'heal' (low cost, keeps data clean)\n- Include 'discover → filter → forge' chain only if you decide new tools are needed\n- Include 'update' at least every other patrol\n- Include 'content' only if there are interesting tools to write about\n- Order operations by priority\n\nWhen formulating your 'details' JSON object, ensure it includes:\n{\n  \"operations\": [\"operation_name\", ...],\n  \"skipReason\": \"If skipping discovery, explain why\"\n}\n\nSATURATION GATE:\nIf any category has >50 tools, it is saturated. You must instruct Orion to exclude it by setting \"excludeCategories\" in details, or skip discovery entirely if your focus is full.\n- No categories saturated.\n",
+      "subject": "patrol_planning",
+      "decision": "No response",
+      "reasoning": "LLM returned null",
+      "confidence": 0
+    },
+    {
+      "id": "ep_1784487673700_azejd",
+      "timestamp": "2026-07-19T19:01:13.700Z",
+      "agent": "ORION",
+      "type": "source_performance",
+      "lesson": "hackernews returned 41 candidates but ZERO qualified. Consider deprioritizing this source.",
+      "category": "source_yield"
+    },
+    {
+      "id": "ep_1784487673705_26ny2",
+      "timestamp": "2026-07-19T19:01:13.705Z",
+      "agent": "ORION",
+      "type": "low_yield",
+      "lesson": "Discovery yield extremely low: 3/66 qualified (4.5%). Sources may need recalibration.",
+      "category": "discovery_yield"
+    },
+    {
+      "id": "ep_1784487673709_817x1",
+      "timestamp": "2026-07-19T19:01:13.709Z",
+      "agent": "SENTINEL",
+      "type": "patrol_summary",
+      "discovered": 66,
+      "qualified": 3,
+      "forged": 0,
+      "failures": 0,
+      "lessonsExtracted": 2
     }
   ],
   "strategies": {},
@@ -5299,7 +5301,7 @@
     "toolsWithDocker": 94,
     "toolsApproved": 71,
     "toolsObservation": 27,
-    "lastUpdated": "2026-07-19T13:08:00.198Z",
+    "lastUpdated": "2026-07-19T19:01:13.716Z",
     "recentAdditions": [],
     "healthScore": 67,
     "priorities": [
@@ -5491,17 +5493,17 @@
   },
   "sourceIntelligence": {
     "github": {
-      "totalYield": 8915,
-      "qualifiedYield": 1227,
-      "runs": 287,
-      "lastRun": "2026-07-19T13:08:00.166Z",
-      "lastQualifiedRate": 0.0967741935483871
+      "totalYield": 8940,
+      "qualifiedYield": 1230,
+      "runs": 288,
+      "lastRun": "2026-07-19T19:01:13.668Z",
+      "lastQualifiedRate": 0.12
     },
     "hackernews": {
-      "totalYield": 10295,
+      "totalYield": 10336,
       "qualifiedYield": 338,
-      "runs": 285,
-      "lastRun": "2026-07-19T13:08:00.171Z",
+      "runs": 286,
+      "lastRun": "2026-07-19T19:01:13.673Z",
       "lastQualifiedRate": 0
     },
     "reddit": {
@@ -5528,112 +5530,112 @@
   },
   "agentPerformance": {
     "hephaestus": {
-      "totalTasks": 571,
-      "successes": 377,
-      "failures": 194,
+      "totalTasks": 573,
+      "successes": 378,
+      "failures": 195,
       "byTaskType": {
         "forge": {
-          "total": 286,
+          "total": 287,
           "successes": 92
         },
         "backfill_docker": {
-          "total": 285,
-          "successes": 285
+          "total": 286,
+          "successes": 286
         }
       },
-      "successRate": 0.660245183887916,
-      "lastUpdated": "2026-07-19T13:07:53.070Z"
+      "successRate": 0.6596858638743456,
+      "lastUpdated": "2026-07-19T19:01:01.361Z"
     },
     "orion": {
-      "totalTasks": 571,
-      "successes": 338,
-      "failures": 233,
+      "totalTasks": 573,
+      "successes": 339,
+      "failures": 234,
       "byTaskType": {
         "discovery": {
-          "total": 286,
+          "total": 287,
           "successes": 53
         },
         "discover": {
-          "total": 285,
-          "successes": 285
+          "total": 286,
+          "successes": 286
         }
       },
-      "successRate": 0.5919439579684763,
-      "lastUpdated": "2026-07-19T13:08:00.177Z"
+      "successRate": 0.5916230366492147,
+      "lastUpdated": "2026-07-19T19:01:13.680Z"
     },
     "valkyrie": {
-      "totalTasks": 571,
-      "successes": 571,
+      "totalTasks": 573,
+      "successes": 573,
       "failures": 0,
       "byTaskType": {
         "filtering": {
-          "total": 286,
-          "successes": 286
+          "total": 287,
+          "successes": 287
         },
         "filter": {
-          "total": 285,
-          "successes": 285
+          "total": 286,
+          "successes": 286
         }
       },
       "successRate": 1,
-      "lastUpdated": "2026-07-19T13:08:00.181Z"
+      "lastUpdated": "2026-07-19T19:01:13.686Z"
     },
     "aegis": {
-      "totalTasks": 293,
-      "successes": 285,
+      "totalTasks": 294,
+      "successes": 286,
       "failures": 8,
       "byTaskType": {
         "heal": {
-          "total": 285,
-          "successes": 285
+          "total": 286,
+          "successes": 286
         },
         "sweep": {
           "total": 8,
           "successes": 0
         }
       },
-      "successRate": 0.9726962457337884,
-      "lastUpdated": "2026-07-19T13:06:29.831Z"
+      "successRate": 0.9727891156462585,
+      "lastUpdated": "2026-07-19T18:59:53.671Z"
     },
     "hermes": {
-      "totalTasks": 285,
-      "successes": 283,
+      "totalTasks": 286,
+      "successes": 284,
       "failures": 2,
       "byTaskType": {
         "update": {
-          "total": 285,
-          "successes": 283
+          "total": 286,
+          "successes": 284
         }
       },
-      "successRate": 0.9929824561403509,
-      "lastUpdated": "2026-07-19T13:07:48.213Z"
+      "successRate": 0.993006993006993,
+      "lastUpdated": "2026-07-19T19:00:57.057Z"
     },
     "apollo": {
-      "totalTasks": 194,
-      "successes": 194,
+      "totalTasks": 195,
+      "successes": 195,
       "failures": 0,
       "byTaskType": {
         "content": {
-          "total": 194,
-          "successes": 194
+          "total": 195,
+          "successes": 195
         }
       },
       "successRate": 1,
-      "lastUpdated": "2026-07-19T13:07:53.500Z"
+      "lastUpdated": "2026-07-19T19:01:01.763Z"
     },
     "calliope": {
-      "totalTasks": 194,
-      "successes": 194,
+      "totalTasks": 195,
+      "successes": 195,
       "failures": 0,
       "byTaskType": {
         "polish": {
-          "total": 194,
-          "successes": 194
+          "total": 195,
+          "successes": 195
         }
       },
       "successRate": 1,
-      "lastUpdated": "2026-07-19T13:07:53.542Z"
+      "lastUpdated": "2026-07-19T19:01:01.814Z"
     }
   },
-  "lastSaved": "2026-07-19T13:08:00.208Z"
+  "lastSaved": "2026-07-19T19:01:13.723Z"
 }
