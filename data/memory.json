@@ -40157,5 +40157,130 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-08-02T08:09:06.338Z"
+  },
+  "joeseesun/qiaomu-cut-skill": {
+    "first_seen": "2026-07-19T13:06:35.928Z",
+    "last_seen": "2026-07-19T13:06:35.928Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T13:06:35.918Z"
+  },
+  "gheat1/tuistore": {
+    "first_seen": "2026-07-19T13:06:36.541Z",
+    "last_seen": "2026-07-19T13:06:36.541Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T13:06:36.541Z"
+  },
+  "kinetinode/claude-fable-5-system-prompt-clean": {
+    "first_seen": "2026-07-19T13:06:37.177Z",
+    "last_seen": "2026-07-19T13:06:37.177Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T13:06:37.177Z"
+  },
+  "smixs/pohuy": {
+    "first_seen": "2026-07-19T13:06:37.732Z",
+    "last_seen": "2026-07-19T13:06:37.732Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T13:06:37.732Z"
+  },
+  "sanjayragavendra/mecchachameleon-autopainttool": {
+    "first_seen": "2026-07-19T13:06:38.268Z",
+    "last_seen": "2026-07-19T13:06:38.268Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T13:06:38.268Z"
+  },
+  "tetsuo-ai/voice_clone_lab": {
+    "first_seen": "2026-07-19T13:06:38.845Z",
+    "last_seen": "2026-07-19T13:06:38.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T13:06:38.845Z"
+  },
+  "amirmushichge/cinematic-scroll-prompt-kit": {
+    "first_seen": "2026-07-19T13:06:39.454Z",
+    "last_seen": "2026-07-19T13:06:39.454Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T13:06:39.454Z"
+  },
+  "caviraoss/akashic": {
+    "first_seen": "2026-07-19T13:06:39.785Z",
+    "last_seen": "2026-07-19T13:06:39.785Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-08-02T13:06:39.785Z"
+  },
+  "orbitalhigh/subrust": {
+    "first_seen": "2026-07-19T13:06:40.257Z",
+    "last_seen": "2026-07-19T13:06:40.257Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-02T13:06:40.257Z"
+  },
+  "wojtczyk/serverload2": {
+    "first_seen": "2026-07-19T13:06:40.837Z",
+    "last_seen": "2026-07-19T13:06:40.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-02T13:06:40.837Z"
+  },
+  "marceliracis/minio-dash": {
+    "first_seen": "2026-07-19T13:06:41.397Z",
+    "last_seen": "2026-07-19T13:06:41.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-02T13:06:41.397Z"
+  },
+  "nrkoka786/synapse": {
+    "first_seen": "2026-07-19T13:06:41.724Z",
+    "last_seen": "2026-07-19T13:06:41.724Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-02T13:06:41.724Z"
   }
 }
