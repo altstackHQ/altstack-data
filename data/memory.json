@@ -39982,5 +39982,129 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-01T18:57:05.337Z"
+  },
+  "postmanreminisce/wisp-vpn": {
+    "first_seen": "2026-07-19T02:11:14.652Z",
+    "last_seen": "2026-07-19T02:11:14.652Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:14.645Z"
+  },
+  "lopopolo/harness-engineering": {
+    "first_seen": "2026-07-19T02:11:14.974Z",
+    "last_seen": "2026-07-19T02:11:14.974Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-08-18T02:11:14.974Z"
+  },
+  "jamieub1984/crypto-checker": {
+    "first_seen": "2026-07-19T02:11:15.493Z",
+    "last_seen": "2026-07-19T02:11:15.493Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:15.493Z"
+  },
+  "pillardaimyoconquer/rl-precision-tool": {
+    "first_seen": "2026-07-19T02:11:15.954Z",
+    "last_seen": "2026-07-19T02:11:15.954Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:15.954Z"
+  },
+  "bricklayerbolt54/fifa-audio-editor-tool": {
+    "first_seen": "2026-07-19T02:11:16.436Z",
+    "last_seen": "2026-07-19T02:11:16.436Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:16.436Z"
+  },
+  "cityscholarcarve/cod-elite-enhancer": {
+    "first_seen": "2026-07-19T02:11:16.894Z",
+    "last_seen": "2026-07-19T02:11:16.894Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:16.894Z"
+  },
+  "yordandidd/fc26-mod-launcher-pro": {
+    "first_seen": "2026-07-19T02:11:17.365Z",
+    "last_seen": "2026-07-19T02:11:17.365Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:17.365Z"
+  },
+  "yangchangjing/meccha-eclipse-pro": {
+    "first_seen": "2026-07-19T02:11:17.806Z",
+    "last_seen": "2026-07-19T02:11:17.806Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:17.806Z"
+  },
+  "shlokkokk/shellstack": {
+    "first_seen": "2026-07-19T02:11:18.817Z",
+    "last_seen": "2026-07-19T02:11:18.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-02T02:11:18.817Z"
+  },
+  "helis-d/waylou": {
+    "first_seen": "2026-07-19T02:11:19.147Z",
+    "last_seen": "2026-07-19T02:11:19.147Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-02T02:11:19.147Z"
+  },
+  "saurabhav88/enviouswispr": {
+    "first_seen": "2026-07-19T02:11:19.632Z",
+    "last_seen": "2026-07-19T02:11:19.632Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T02:11:19.632Z"
+  },
+  "dismissed8582/tailguard": {
+    "first_seen": "2026-07-19T02:11:19.951Z",
+    "last_seen": "2026-07-19T02:11:19.951Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-02T02:11:19.951Z"
   }
 }
