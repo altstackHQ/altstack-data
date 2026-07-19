@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-07-12T02:13:30.773Z",
-    "times_seen": 11,
+    "last_seen": "2026-07-19T08:09:00.973Z",
+    "times_seen": 12,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-19T02:13:30.762Z"
+    "cooldown_until": "2026-07-26T08:09:00.961Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -1800,14 +1800,14 @@
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
-    "last_seen": "2026-07-12T02:13:37.321Z",
-    "times_seen": 11,
+    "last_seen": "2026-07-19T08:09:03.647Z",
+    "times_seen": 12,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-19T02:13:37.321Z"
+    "cooldown_until": "2026-07-26T08:09:03.647Z"
   },
   "farzaa/clicky": {
     "first_seen": "2026-04-08T13:45:50.138Z",
@@ -40106,5 +40106,56 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-02T02:11:19.951Z"
+  },
+  "rindig/icm-architect": {
+    "first_seen": "2026-07-19T08:09:04.211Z",
+    "last_seen": "2026-07-19T08:09:04.211Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T08:09:04.211Z"
+  },
+  "kinueluci1992/seed-generator": {
+    "first_seen": "2026-07-19T08:09:04.780Z",
+    "last_seen": "2026-07-19T08:09:04.780Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T08:09:04.780Z"
+  },
+  "mweinbach/swift-os": {
+    "first_seen": "2026-07-19T08:09:05.358Z",
+    "last_seen": "2026-07-19T08:09:05.358Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T08:09:05.358Z"
+  },
+  "v4lss/vuelvan-a-salir-campeones": {
+    "first_seen": "2026-07-19T08:09:05.980Z",
+    "last_seen": "2026-07-19T08:09:05.980Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-26T08:09:05.980Z"
+  },
+  "kaiwutech-tw/flightwake": {
+    "first_seen": "2026-07-19T08:09:06.338Z",
+    "last_seen": "2026-07-19T08:09:06.338Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-02T08:09:06.338Z"
   }
 }
