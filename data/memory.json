@@ -40613,5 +40613,78 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-27T08:50:19.298Z"
+  },
+  "duolahypercho/codex-router": {
+    "first_seen": "2026-07-20T13:56:22.749Z",
+    "last_seen": "2026-07-20T13:56:22.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T13:56:22.740Z"
+  },
+  "shubhang-d/loophole": {
+    "first_seen": "2026-07-20T13:56:23.471Z",
+    "last_seen": "2026-07-20T13:56:23.471Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T13:56:23.471Z"
+  },
+  "overflowy/hn-comment-saver": {
+    "first_seen": "2026-07-20T13:56:24.025Z",
+    "last_seen": "2026-07-20T13:56:24.025Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-03T13:56:24.025Z"
+  },
+  "rionlyu/spoold": {
+    "first_seen": "2026-07-20T13:56:24.741Z",
+    "last_seen": "2026-07-20T13:56:24.741Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-03T13:56:24.741Z"
+  },
+  "alexanderwanyoike/the0": {
+    "first_seen": "2026-07-20T13:56:25.407Z",
+    "last_seen": "2026-07-20T13:56:25.407Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T13:56:25.407Z"
+  },
+  "houtini-ai/seo-audit-console": {
+    "first_seen": "2026-07-20T13:56:25.764Z",
+    "last_seen": "2026-07-20T13:56:25.764Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "hail-hq/hail": {
+    "first_seen": "2026-07-20T13:56:26.194Z",
+    "last_seen": "2026-07-20T13:56:26.194Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 16,
+    "cooldown_until": "2026-08-03T13:56:26.194Z"
   }
 }
