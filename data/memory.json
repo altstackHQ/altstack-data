@@ -40686,5 +40686,113 @@
     "reason": "low_stars",
     "stars": 16,
     "cooldown_until": "2026-08-03T13:56:26.194Z"
+  },
+  "dawndrain/movie-gen": {
+    "first_seen": "2026-07-20T19:44:59.085Z",
+    "last_seen": "2026-07-20T19:44:59.085Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-08-03T19:44:59.074Z"
+  },
+  "itdar/newsline": {
+    "first_seen": "2026-07-20T19:44:59.427Z",
+    "last_seen": "2026-07-20T19:44:59.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-03T19:44:59.427Z"
+  },
+  "cfitzgerald-pd/effort-router": {
+    "first_seen": "2026-07-20T19:44:59.746Z",
+    "last_seen": "2026-07-20T19:44:59.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-03T19:44:59.746Z"
+  },
+  "ivancernja/crate": {
+    "first_seen": "2026-07-20T19:45:00.092Z",
+    "last_seen": "2026-07-20T19:45:00.092Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-03T19:45:00.092Z"
+  },
+  "yamafaktory/whetuu": {
+    "first_seen": "2026-07-20T19:45:00.434Z",
+    "last_seen": "2026-07-20T19:45:00.434Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-03T19:45:00.434Z"
+  },
+  "awesoftsolutions/idea_meta-muse-2048-game": {
+    "first_seen": "2026-07-20T19:45:00.807Z",
+    "last_seen": "2026-07-20T19:45:00.807Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-03T19:45:00.807Z"
+  },
+  "tiny-cloud-ventures/amnesia": {
+    "first_seen": "2026-07-20T19:45:01.187Z",
+    "last_seen": "2026-07-20T19:45:01.187Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-03T19:45:01.187Z"
+  },
+  "cdiggins/plato": {
+    "first_seen": "2026-07-20T19:45:01.760Z",
+    "last_seen": "2026-07-20T19:45:01.760Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T19:45:01.760Z"
+  },
+  "samjoshuadud/waylandar": {
+    "first_seen": "2026-07-20T19:45:02.359Z",
+    "last_seen": "2026-07-20T19:45:02.359Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T19:45:02.359Z"
+  },
+  "vicmaster/framesmith": {
+    "first_seen": "2026-07-20T19:45:02.698Z",
+    "last_seen": "2026-07-20T19:45:02.698Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-03T19:45:02.698Z"
   }
 }
