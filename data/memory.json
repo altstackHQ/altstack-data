@@ -40369,5 +40369,198 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-02T19:00:01.151Z"
+  },
+  "rjx18/codor": {
+    "first_seen": "2026-07-20T03:31:32.587Z",
+    "last_seen": "2026-07-20T03:31:32.587Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:32.577Z"
+  },
+  "openbmb/minicpm-robot": {
+    "first_seen": "2026-07-20T03:31:33.263Z",
+    "last_seen": "2026-07-20T03:31:33.263Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:33.263Z"
+  },
+  "an0nud4y/offensive-com": {
+    "first_seen": "2026-07-20T03:31:33.912Z",
+    "last_seen": "2026-07-20T03:31:33.912Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:33.912Z"
+  },
+  "chenjin-cmd/xhs-virtual-product": {
+    "first_seen": "2026-07-20T03:31:34.602Z",
+    "last_seen": "2026-07-20T03:31:34.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:34.602Z"
+  },
+  "matheuzsecurity/furtex": {
+    "first_seen": "2026-07-20T03:31:35.241Z",
+    "last_seen": "2026-07-20T03:31:35.241Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:35.241Z"
+  },
+  "pablothethinker/hermespace": {
+    "first_seen": "2026-07-20T03:31:35.930Z",
+    "last_seen": "2026-07-20T03:31:35.930Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:35.930Z"
+  },
+  "renoir1220/esse": {
+    "first_seen": "2026-07-20T03:31:36.553Z",
+    "last_seen": "2026-07-20T03:31:36.553Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:36.553Z"
+  },
+  "iluvx/go-tg-api": {
+    "first_seen": "2026-07-20T03:31:37.264Z",
+    "last_seen": "2026-07-20T03:31:37.264Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:37.264Z"
+  },
+  "kendrekaran/voltfit-dashboard": {
+    "first_seen": "2026-07-20T03:31:37.935Z",
+    "last_seen": "2026-07-20T03:31:37.935Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:37.935Z"
+  },
+  "shlgd/superdictate": {
+    "first_seen": "2026-07-20T03:31:38.646Z",
+    "last_seen": "2026-07-20T03:31:38.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:38.646Z"
+  },
+  "elysiumintellegence/elysium-intelligence": {
+    "first_seen": "2026-07-20T03:31:39.337Z",
+    "last_seen": "2026-07-20T03:31:39.337Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:39.337Z"
+  },
+  "lyu0805/openbrowser": {
+    "first_seen": "2026-07-20T03:31:40.010Z",
+    "last_seen": "2026-07-20T03:31:40.010Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:40.010Z"
+  },
+  "teranightingalewalk/zapret-discord-youtube-1.9.9b": {
+    "first_seen": "2026-07-20T03:31:40.682Z",
+    "last_seen": "2026-07-20T03:31:40.682Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:40.682Z"
+  },
+  "worldwonderer/novel-to-game": {
+    "first_seen": "2026-07-20T03:31:41.332Z",
+    "last_seen": "2026-07-20T03:31:41.332Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:41.332Z"
+  },
+  "jameslhw/polymarket-quick-trade": {
+    "first_seen": "2026-07-20T03:31:42.040Z",
+    "last_seen": "2026-07-20T03:31:42.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:42.040Z"
+  },
+  "endymionlee/pilotbrowsemcp": {
+    "first_seen": "2026-07-20T03:31:43.423Z",
+    "last_seen": "2026-07-20T03:31:43.423Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T03:31:43.423Z"
+  },
+  "chalie-ai/chalie": {
+    "first_seen": "2026-07-20T03:31:43.817Z",
+    "last_seen": "2026-07-20T03:31:43.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-08-03T03:31:43.817Z"
+  },
+  "recnes/hn-ai-summarizer": {
+    "first_seen": "2026-07-20T03:31:44.182Z",
+    "last_seen": "2026-07-20T03:31:44.182Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-03T03:31:44.182Z"
+  },
+  "leandrobon/mutable-crm": {
+    "first_seen": "2026-07-20T03:31:44.555Z",
+    "last_seen": "2026-07-20T03:31:44.555Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-03T03:31:44.555Z"
   }
 }
