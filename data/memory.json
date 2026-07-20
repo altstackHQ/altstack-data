@@ -40562,5 +40562,56 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-03T03:31:44.555Z"
+  },
+  "jacoblauritzen/openreach": {
+    "first_seen": "2026-07-20T08:50:17.099Z",
+    "last_seen": "2026-07-20T08:50:17.099Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T08:50:17.087Z"
+  },
+  "saivineeth147/lora-speedrun": {
+    "first_seen": "2026-07-20T08:50:18.025Z",
+    "last_seen": "2026-07-20T08:50:18.025Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T08:50:18.025Z"
+  },
+  "nulllabtests/software-periodic-table": {
+    "first_seen": "2026-07-20T08:50:18.482Z",
+    "last_seen": "2026-07-20T08:50:18.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T08:50:18.482Z"
+  },
+  "nmdra/notebrain-cli": {
+    "first_seen": "2026-07-20T08:50:18.793Z",
+    "last_seen": "2026-07-20T08:50:18.793Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-08-03T08:50:18.793Z"
+  },
+  "rochus-keller/busy": {
+    "first_seen": "2026-07-20T08:50:19.298Z",
+    "last_seen": "2026-07-20T08:50:19.298Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-27T08:50:19.298Z"
   }
 }
