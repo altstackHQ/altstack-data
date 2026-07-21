@@ -40794,5 +40794,177 @@
     "reason": "low_stars",
     "stars": 7,
     "cooldown_until": "2026-08-03T19:45:02.698Z"
+  },
+  "blaizzy/nativ": {
+    "first_seen": "2026-07-21T02:10:24.752Z",
+    "last_seen": "2026-07-21T02:10:24.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:24.742Z"
+  },
+  "vincentwei1021/video-shotcraft": {
+    "first_seen": "2026-07-21T02:10:25.173Z",
+    "last_seen": "2026-07-21T02:10:25.173Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:25.173Z"
+  },
+  "0xwilliamortiz/agents-council": {
+    "first_seen": "2026-07-21T02:10:25.600Z",
+    "last_seen": "2026-07-21T02:10:25.600Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:25.600Z"
+  },
+  "janisbelozerovs-dev/murmur": {
+    "first_seen": "2026-07-21T02:10:26.070Z",
+    "last_seen": "2026-07-21T02:10:26.070Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:26.070Z"
+  },
+  "ni5arga/protestchat": {
+    "first_seen": "2026-07-21T02:10:26.581Z",
+    "last_seen": "2026-07-21T02:10:26.581Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:26.581Z"
+  },
+  "stavr0s0107/meccha-vision-x": {
+    "first_seen": "2026-07-21T02:10:27.076Z",
+    "last_seen": "2026-07-21T02:10:27.076Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:27.076Z"
+  },
+  "thor111bb2-byte/meccha-dark-force": {
+    "first_seen": "2026-07-21T02:10:28.015Z",
+    "last_seen": "2026-07-21T02:10:28.015Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:28.015Z"
+  },
+  "just-a1player/arena-breakout-helper": {
+    "first_seen": "2026-07-21T02:10:28.576Z",
+    "last_seen": "2026-07-21T02:10:28.576Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:28.576Z"
+  },
+  "just-a1player/roblox-hide-assist": {
+    "first_seen": "2026-07-21T02:10:29.026Z",
+    "last_seen": "2026-07-21T02:10:29.026Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:29.026Z"
+  },
+  "jacoblauritzen/openhaze": {
+    "first_seen": "2026-07-21T02:10:29.496Z",
+    "last_seen": "2026-07-21T02:10:29.496Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:29.496Z"
+  },
+  "hassancs91/claude-youtube-editor": {
+    "first_seen": "2026-07-21T02:10:30.479Z",
+    "last_seen": "2026-07-21T02:10:30.479Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:30.479Z"
+  },
+  "smixs/mentor": {
+    "first_seen": "2026-07-21T02:10:31.514Z",
+    "last_seen": "2026-07-21T02:10:31.514Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:31.514Z"
+  },
+  "drpwchen/textbook-to-note": {
+    "first_seen": "2026-07-21T02:10:31.986Z",
+    "last_seen": "2026-07-21T02:10:31.986Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:31.986Z"
+  },
+  "geneticisthere/ggplot2-20-journal-cases": {
+    "first_seen": "2026-07-21T02:10:32.883Z",
+    "last_seen": "2026-07-21T02:10:32.883Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:32.883Z"
+  },
+  "just-a1player/meccha-ultra-max": {
+    "first_seen": "2026-07-21T02:10:33.823Z",
+    "last_seen": "2026-07-21T02:10:33.823Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T02:10:33.823Z"
+  },
+  "ngafar/cbxy": {
+    "first_seen": "2026-07-21T02:10:34.595Z",
+    "last_seen": "2026-07-21T02:10:34.595Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-04T02:10:34.595Z"
+  },
+  "jaipilot/jaipilot-cli": {
+    "first_seen": "2026-07-21T02:10:34.929Z",
+    "last_seen": "2026-07-21T02:10:34.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-04T02:10:34.929Z"
   }
 }
