@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-07-14T13:23:16.338Z",
-    "times_seen": 13,
+    "last_seen": "2026-07-21T13:28:33.033Z",
+    "times_seen": 14,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-21T13:23:16.327Z"
+    "cooldown_until": "2026-07-28T13:28:33.020Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -41038,5 +41038,86 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-04T08:19:24.515Z"
+  },
+  "realfishsam/agent-notch": {
+    "first_seen": "2026-07-21T13:28:37.593Z",
+    "last_seen": "2026-07-21T13:28:37.593Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T13:28:37.593Z"
+  },
+  "hahhforest/pi-textbook": {
+    "first_seen": "2026-07-21T13:28:38.770Z",
+    "last_seen": "2026-07-21T13:28:38.770Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T13:28:38.770Z"
+  },
+  "prism-shadow/penguin-harness": {
+    "first_seen": "2026-07-21T13:28:39.395Z",
+    "last_seen": "2026-07-21T13:28:39.395Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T13:28:39.395Z"
+  },
+  "brandon030722/ark-ui-skill": {
+    "first_seen": "2026-07-21T13:28:40.657Z",
+    "last_seen": "2026-07-21T13:28:40.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T13:28:40.657Z"
+  },
+  "sxzz/verkit": {
+    "first_seen": "2026-07-21T13:28:41.799Z",
+    "last_seen": "2026-07-21T13:28:41.799Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T13:28:41.799Z"
+  },
+  "trycaspian/caspian-sdk": {
+    "first_seen": "2026-07-21T13:28:42.429Z",
+    "last_seen": "2026-07-21T13:28:42.429Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T13:28:42.429Z"
+  },
+  "mertozsoy/windowsupdateremedationtool": {
+    "first_seen": "2026-07-21T13:28:43.051Z",
+    "last_seen": "2026-07-21T13:28:43.051Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-28T13:28:43.051Z"
+  },
+  "neat-technologies/neat": {
+    "first_seen": "2026-07-21T13:28:44.023Z",
+    "last_seen": "2026-07-21T13:28:44.023Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-08-04T13:28:44.023Z"
   }
 }
