@@ -3471,6 +3471,38 @@
     }
   },
   {
+    "slug": "off-grid-ai-desktop",
+    "name": "Off Grid AI Desktop",
+    "category": "AI Interfaces",
+    "is_open_source": true,
+    "github_repo": "off-grid-ai/off-grid-ai-desktop",
+    "website": "https://getoffgridai.co/desktop",
+    "description": "Open source macOS app that runs a full AI suite on-device: local LLM chat, image generation, whisper voice dictation, RAG over your own files, MCP connectors, and an encrypted vault. No account, no telemetry, no cloud.",
+    "pros": [
+      "Runs entirely on-device - no account, no telemetry, no cloud",
+      "One app for chat, image generation, voice dictation, and RAG",
+      "MCP connectors with approval-gated actions"
+    ],
+    "cons": [
+      "macOS Apple Silicon only"
+    ],
+    "stars": 38,
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "tags": [
+      "AI",
+      "Desktop",
+      "Offline"
+    ],
+    "hardware_req": "Apple Silicon",
+    "hosting_type": "self-hosted",
+    "alternatives": [
+      "jan",
+      "gpt4all"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=getoffgridai.co"
+  },
+  {
     "slug": "lm-studio",
     "name": "LM Studio",
     "category": "AI Runners",
