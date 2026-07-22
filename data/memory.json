@@ -41279,5 +41279,189 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-08-04T19:13:42.146Z"
+  },
+  "jakubantalik/thinking-orbs": {
+    "first_seen": "2026-07-22T02:08:38.129Z",
+    "last_seen": "2026-07-22T02:08:38.129Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:38.119Z"
+  },
+  "0xhype/hyperliquid-tracker": {
+    "first_seen": "2026-07-22T02:08:38.605Z",
+    "last_seen": "2026-07-22T02:08:38.605Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:38.605Z"
+  },
+  "0xwilliamortiz/andrej-karpathy-skills": {
+    "first_seen": "2026-07-22T02:08:39.074Z",
+    "last_seen": "2026-07-22T02:08:39.074Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:39.074Z"
+  },
+  "adelansoulx/pm-sniper": {
+    "first_seen": "2026-07-22T02:08:39.507Z",
+    "last_seen": "2026-07-22T02:08:39.507Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:39.507Z"
+  },
+  "flowsealobhod/zapret-flowseal-obhod": {
+    "first_seen": "2026-07-22T02:08:39.982Z",
+    "last_seen": "2026-07-22T02:08:39.982Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:39.982Z"
+  },
+  "adelansupport/adelan-support": {
+    "first_seen": "2026-07-22T02:08:40.408Z",
+    "last_seen": "2026-07-22T02:08:40.408Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:40.408Z"
+  },
+  "gnipbao/story-to-handdrawn-video": {
+    "first_seen": "2026-07-22T02:08:41.272Z",
+    "last_seen": "2026-07-22T02:08:41.272Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:41.272Z"
+  },
+  "mobai-app/simslim": {
+    "first_seen": "2026-07-22T02:08:41.779Z",
+    "last_seen": "2026-07-22T02:08:41.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:41.779Z"
+  },
+  "pancreations/halo-mcc-vr": {
+    "first_seen": "2026-07-22T02:08:42.279Z",
+    "last_seen": "2026-07-22T02:08:42.279Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:42.279Z"
+  },
+  "innae1121-bit/gsghwp": {
+    "first_seen": "2026-07-22T02:08:42.728Z",
+    "last_seen": "2026-07-22T02:08:42.728Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:42.728Z"
+  },
+  "wallach-game/bashumerate": {
+    "first_seen": "2026-07-22T02:08:43.213Z",
+    "last_seen": "2026-07-22T02:08:43.213Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:43.213Z"
+  },
+  "qw-ai-code/aether": {
+    "first_seen": "2026-07-22T02:08:43.649Z",
+    "last_seen": "2026-07-22T02:08:43.649Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:43.649Z"
+  },
+  "charles-0509/grok-register": {
+    "first_seen": "2026-07-22T02:08:44.590Z",
+    "last_seen": "2026-07-22T02:08:44.590Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:44.590Z"
+  },
+  "34306/macosappstoredecrypter": {
+    "first_seen": "2026-07-22T02:08:45.019Z",
+    "last_seen": "2026-07-22T02:08:45.019Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T02:08:45.019Z"
+  },
+  "open-and-async/mcp": {
+    "first_seen": "2026-07-22T02:08:45.337Z",
+    "last_seen": "2026-07-22T02:08:45.337Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-05T02:08:45.337Z"
+  },
+  "fellowgeek/in-meeting": {
+    "first_seen": "2026-07-22T02:08:45.663Z",
+    "last_seen": "2026-07-22T02:08:45.663Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-08-05T02:08:45.663Z"
+  },
+  "datalevin/datalevin": {
+    "first_seen": "2026-07-22T02:08:46.496Z",
+    "last_seen": "2026-07-22T02:08:46.496Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "EPL-2.0",
+    "cooldown_until": "2026-08-21T02:08:46.496Z"
+  },
+  "overflowy/herdr-claude-gpt-adversarial-review-skill": {
+    "first_seen": "2026-07-22T02:08:47.813Z",
+    "last_seen": "2026-07-22T02:08:47.813Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-05T02:08:47.813Z"
   }
 }
