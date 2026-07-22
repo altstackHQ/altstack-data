@@ -41463,5 +41463,99 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-05T02:08:47.813Z"
+  },
+  "pireel/pireel": {
+    "first_seen": "2026-07-22T08:20:21.403Z",
+    "last_seen": "2026-07-22T08:20:21.403Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T08:20:21.391Z"
+  },
+  "tanishq-dubey/macos-laguna-s2.1": {
+    "first_seen": "2026-07-22T08:20:21.904Z",
+    "last_seen": "2026-07-22T08:20:21.904Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T08:20:21.904Z"
+  },
+  "rainppr/china-llms-anecdote-0721": {
+    "first_seen": "2026-07-22T08:20:22.670Z",
+    "last_seen": "2026-07-22T08:20:22.670Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-08-21T08:20:22.670Z"
+  },
+  "dacnay816y62-hub/cinema-dna-21x9x3": {
+    "first_seen": "2026-07-22T08:20:23.078Z",
+    "last_seen": "2026-07-22T08:20:23.078Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T08:20:23.078Z"
+  },
+  "danterolle/tund": {
+    "first_seen": "2026-07-22T08:20:23.342Z",
+    "last_seen": "2026-07-22T08:20:23.342Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-08-05T08:20:23.342Z"
+  },
+  "sahil87/run-kit": {
+    "first_seen": "2026-07-22T08:20:23.746Z",
+    "last_seen": "2026-07-22T08:20:23.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T08:20:23.746Z"
+  },
+  "qbix/webserver": {
+    "first_seen": "2026-07-22T08:20:24.180Z",
+    "last_seen": "2026-07-22T08:20:24.180Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T08:20:24.180Z"
+  },
+  "nanonets/ami": {
+    "first_seen": "2026-07-22T08:20:25.460Z",
+    "last_seen": "2026-07-22T08:20:25.460Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-05T08:20:25.460Z"
+  },
+  "kyle-visner/jaybase": {
+    "first_seen": "2026-07-22T08:20:25.803Z",
+    "last_seen": "2026-07-22T08:20:25.803Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-05T08:20:25.803Z"
   }
 }
