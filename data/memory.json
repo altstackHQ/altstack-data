@@ -41588,5 +41588,130 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-05T13:40:56.063Z"
+  },
+  "chartup-solana-volume-bot/bscvolumebot": {
+    "first_seen": "2026-07-22T19:07:27.684Z",
+    "last_seen": "2026-07-22T19:07:27.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T19:07:27.674Z"
+  },
+  "chartup-solana-volume-bot/bnbvolumebot": {
+    "first_seen": "2026-07-22T19:07:28.085Z",
+    "last_seen": "2026-07-22T19:07:28.085Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T19:07:28.085Z"
+  },
+  "chartup-solana-volume-bot/solanavolumebooster": {
+    "first_seen": "2026-07-22T19:07:28.610Z",
+    "last_seen": "2026-07-22T19:07:28.610Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T19:07:28.610Z"
+  },
+  "chartup-solana-volume-bot/basevolumebot": {
+    "first_seen": "2026-07-22T19:07:29.079Z",
+    "last_seen": "2026-07-22T19:07:29.079Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T19:07:29.079Z"
+  },
+  "chartup-solana-volume-bot/robinhoodvolumebot": {
+    "first_seen": "2026-07-22T19:07:29.468Z",
+    "last_seen": "2026-07-22T19:07:29.468Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T19:07:29.468Z"
+  },
+  "tosh/6e91a9dbf08dd630c535e7345ac7f0b5": {
+    "first_seen": "2026-07-22T19:07:29.672Z",
+    "last_seen": "2026-07-22T19:07:29.672Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "dataparade-io/dataparade-cli": {
+    "first_seen": "2026-07-22T19:07:30.447Z",
+    "last_seen": "2026-07-22T19:07:30.447Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-05T19:07:30.447Z"
+  },
+  "robintiman/semcast": {
+    "first_seen": "2026-07-22T19:07:30.731Z",
+    "last_seen": "2026-07-22T19:07:30.731Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-05T19:07:30.731Z"
+  },
+  "frankchu91/mindbase": {
+    "first_seen": "2026-07-22T19:07:31.058Z",
+    "last_seen": "2026-07-22T19:07:31.058Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-05T19:07:31.058Z"
+  },
+  "veracium-ai/veracium": {
+    "first_seen": "2026-07-22T19:07:31.389Z",
+    "last_seen": "2026-07-22T19:07:31.389Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-05T19:07:31.389Z"
+  },
+  "borkdude/cljbang.el": {
+    "first_seen": "2026-07-22T19:07:31.818Z",
+    "last_seen": "2026-07-22T19:07:31.818Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T19:07:31.818Z"
+  },
+  "fcavalcantirj/claude-code-eyes": {
+    "first_seen": "2026-07-22T19:07:32.094Z",
+    "last_seen": "2026-07-22T19:07:32.094Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-08-05T19:07:32.094Z"
   }
 }
