@@ -41557,5 +41557,36 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-05T08:20:25.803Z"
+  },
+  "chartup-solana-volume-bot/solanavolumebot": {
+    "first_seen": "2026-07-22T13:40:23.090Z",
+    "last_seen": "2026-07-22T13:40:23.090Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T13:40:23.080Z"
+  },
+  "risa-labs-inc/bossconsole": {
+    "first_seen": "2026-07-22T13:40:55.270Z",
+    "last_seen": "2026-07-22T13:40:55.270Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-29T13:40:55.270Z"
+  },
+  "owulveryck/poc-agentic-platform": {
+    "first_seen": "2026-07-22T13:40:56.063Z",
+    "last_seen": "2026-07-22T13:40:56.063Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-05T13:40:56.063Z"
   }
 }
