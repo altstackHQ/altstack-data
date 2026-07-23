@@ -41641,8 +41641,8 @@
   },
   "tosh/6e91a9dbf08dd630c535e7345ac7f0b5": {
     "first_seen": "2026-07-22T19:07:29.672Z",
-    "last_seen": "2026-07-23T02:14:51.928Z",
-    "times_seen": 2,
+    "last_seen": "2026-07-23T08:23:22.450Z",
+    "times_seen": 3,
     "sources": [
       "hackernews"
     ],
@@ -41888,5 +41888,117 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-08-06T02:14:54.626Z"
+  },
+  "berabuddies/redis-poc": {
+    "first_seen": "2026-07-23T08:23:17.174Z",
+    "last_seen": "2026-07-23T08:23:17.174Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:17.163Z"
+  },
+  "yokel1121/muyang-flat-animation": {
+    "first_seen": "2026-07-23T08:23:17.645Z",
+    "last_seen": "2026-07-23T08:23:17.645Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:17.645Z"
+  },
+  "nextweb4/official-document-ai-assistant": {
+    "first_seen": "2026-07-23T08:23:18.090Z",
+    "last_seen": "2026-07-23T08:23:18.090Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:18.090Z"
+  },
+  "neural-maze/production-ocr-course": {
+    "first_seen": "2026-07-23T08:23:18.584Z",
+    "last_seen": "2026-07-23T08:23:18.584Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:18.584Z"
+  },
+  "evokoa/pgcontext": {
+    "first_seen": "2026-07-23T08:23:19.062Z",
+    "last_seen": "2026-07-23T08:23:19.062Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:19.062Z"
+  },
+  "earendil-works/pi-review-loop": {
+    "first_seen": "2026-07-23T08:23:19.992Z",
+    "last_seen": "2026-07-23T08:23:19.992Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:19.992Z"
+  },
+  "m4tinbeigi-official/claude-rtl-patcher": {
+    "first_seen": "2026-07-23T08:23:20.866Z",
+    "last_seen": "2026-07-23T08:23:20.866Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:20.866Z"
+  },
+  "cracked-flux7259-hq/marvel-rivals-helper": {
+    "first_seen": "2026-07-23T08:23:21.794Z",
+    "last_seen": "2026-07-23T08:23:21.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:21.794Z"
+  },
+  "miaai-lab/laguna-s-2.1-dgx-spark-rtx-6000-pro": {
+    "first_seen": "2026-07-23T08:23:22.224Z",
+    "last_seen": "2026-07-23T08:23:22.224Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T08:23:22.224Z"
+  },
+  "hmanoor/kageops-core": {
+    "first_seen": "2026-07-23T08:23:23.732Z",
+    "last_seen": "2026-07-23T08:23:23.732Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-06T08:23:23.732Z"
+  },
+  "forgesynapseltd/clawlite": {
+    "first_seen": "2026-07-23T08:23:24.039Z",
+    "last_seen": "2026-07-23T08:23:24.039Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-06T08:23:24.039Z"
   }
 }
