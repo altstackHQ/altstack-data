@@ -42042,5 +42042,164 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-08-06T13:46:07.128Z"
+  },
+  "role1776/netmon": {
+    "first_seen": "2026-07-23T19:08:07.731Z",
+    "last_seen": "2026-07-23T19:08:07.731Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T19:08:07.722Z"
+  },
+  "h3nock/remux": {
+    "first_seen": "2026-07-23T19:08:08.221Z",
+    "last_seen": "2026-07-23T19:08:08.221Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T19:08:08.221Z"
+  },
+  "palmier-io/palmier-pro": {
+    "first_seen": "2026-07-23T19:08:08.752Z",
+    "last_seen": "2026-07-23T19:08:08.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T19:08:08.752Z"
+  },
+  "onecli/onecli": {
+    "first_seen": "2026-07-23T19:08:09.286Z",
+    "last_seen": "2026-07-23T19:08:09.286Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T19:08:09.286Z"
+  },
+  "lx2026/relaybar": {
+    "first_seen": "2026-07-23T19:08:09.765Z",
+    "last_seen": "2026-07-23T19:08:09.765Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T19:08:09.765Z"
+  },
+  "izeigerman/claude-thermos": {
+    "first_seen": "2026-07-23T19:08:10.075Z",
+    "last_seen": "2026-07-23T19:08:10.075Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-08-06T19:08:10.075Z"
+  },
+  "haeata-ash/hanky": {
+    "first_seen": "2026-07-23T19:08:10.358Z",
+    "last_seen": "2026-07-23T19:08:10.358Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-06T19:08:10.358Z"
+  },
+  "stevevitali/claude-hibernate": {
+    "first_seen": "2026-07-23T19:08:10.640Z",
+    "last_seen": "2026-07-23T19:08:10.640Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-06T19:08:10.640Z"
+  },
+  "coregrowthlabs/coregrowthprompting": {
+    "first_seen": "2026-07-23T19:08:10.955Z",
+    "last_seen": "2026-07-23T19:08:10.955Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-06T19:08:10.955Z"
+  },
+  "sm18lr88/stt-mcp": {
+    "first_seen": "2026-07-23T19:08:11.244Z",
+    "last_seen": "2026-07-23T19:08:11.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-06T19:08:11.244Z"
+  },
+  "mfkrause/carta": {
+    "first_seen": "2026-07-23T19:08:11.570Z",
+    "last_seen": "2026-07-23T19:08:11.570Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-06T19:08:11.570Z"
+  },
+  "5dive-ai/5dive": {
+    "first_seen": "2026-07-23T19:08:12.049Z",
+    "last_seen": "2026-07-23T19:08:12.049Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T19:08:12.049Z"
+  },
+  "mcheemaa/rendi": {
+    "first_seen": "2026-07-23T19:08:12.338Z",
+    "last_seen": "2026-07-23T19:08:12.338Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-06T19:08:12.338Z"
+  },
+  "fr4nz82/mwe-mcp": {
+    "first_seen": "2026-07-23T19:08:12.656Z",
+    "last_seen": "2026-07-23T19:08:12.656Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-06T19:08:12.656Z"
+  },
+  "djbelieny/nova": {
+    "first_seen": "2026-07-23T19:08:13.002Z",
+    "last_seen": "2026-07-23T19:08:13.002Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-06T19:08:13.002Z"
   }
 }
