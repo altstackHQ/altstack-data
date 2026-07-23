@@ -267,17 +267,6 @@
     }
   },
   {
-    "slug": "chimely",
-    "name": "Chimely",
-    "category": "Communication",
-    "is_open_source": true,
-    "github_repo": "dodopayments/chimely",
-    "website": "https://chimely.dev",
-    "description": "Open-source, self-hostable in-app notification inbox infrastructure (Rust + Postgres + Redis) with a drop-in <Inbox /> React component. Self-hosted alternative to Knock, Courier, MagicBell, and Novu.",
-    "language": "Rust",
-    "license": "AGPL-3.0"
-  },
-  {
     "slug": "jira",
     "name": "Jira",
     "category": "Project Management",
@@ -3482,38 +3471,6 @@
     }
   },
   {
-    "slug": "off-grid-ai-desktop",
-    "name": "Off Grid AI Desktop",
-    "category": "AI Interfaces",
-    "is_open_source": true,
-    "github_repo": "off-grid-ai/off-grid-ai-desktop",
-    "website": "https://getoffgridai.co/desktop",
-    "description": "Open source macOS app that runs a full AI suite on-device: local LLM chat, image generation, whisper voice dictation, RAG over your own files, MCP connectors, and an encrypted vault. No account, no telemetry, no cloud.",
-    "pros": [
-      "Runs entirely on-device - no account, no telemetry, no cloud",
-      "One app for chat, image generation, voice dictation, and RAG",
-      "MCP connectors with approval-gated actions"
-    ],
-    "cons": [
-      "macOS Apple Silicon only"
-    ],
-    "stars": 38,
-    "language": "TypeScript",
-    "license": "AGPL-3.0",
-    "tags": [
-      "AI",
-      "Desktop",
-      "Offline"
-    ],
-    "hardware_req": "Apple Silicon",
-    "hosting_type": "self-hosted",
-    "alternatives": [
-      "jan",
-      "gpt4all"
-    ],
-    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=getoffgridai.co"
-  },
-  {
     "slug": "lm-studio",
     "name": "LM Studio",
     "category": "AI Runners",
@@ -4989,52 +4946,5 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
-  },
-  {
-    "slug": "hirevue",
-    "name": "HireVue",
-    "category": "HR",
-    "is_open_source": false,
-    "pricing_model": "Paid",
-    "website": "https://www.hirevue.com",
-    "description": "Enterprise video interviewing and candidate assessment platform.",
-    "alternatives": [
-      "aural"
-    ],
-    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=hirevue.com",
-    "pros": [
-      "Structured video interviewing and assessments",
-      "Enterprise recruiting integrations",
-      "Workflow automation for high-volume hiring"
-    ],
-    "cons": [
-      "Closed-source platform",
-      "Pricing requires a sales quote",
-      "Candidate data is hosted by a third party"
-    ],
-    "has_deployable_alternative": true
-  },
-  {
-    "slug": "aural",
-    "name": "Aural",
-    "category": "HR",
-    "is_open_source": true,
-    "github_repo": "1146345502/aural-oss",
-    "stars": 150,
-    "website": "https://aural-ai.com",
-    "description": "Open-source, self-hostable AI interview platform for voice, chat, and video interviews.",
-    "pros": [
-      "Voice, chat, and video interview modes",
-      "Adaptive AI follow-up questions and automated reports",
-      "Self-hostable with pluggable LLM providers"
-    ],
-    "cons": [
-      "Young project with a smaller community",
-      "Self-hosting requires Supabase and AI provider configuration"
-    ],
-    "language": "TypeScript",
-    "license": "MIT",
-    "hosting_type": "self-hosted",
-    "logo_url": "https://avatars.githubusercontent.com/u/32186766?v=4"
   }
 ]

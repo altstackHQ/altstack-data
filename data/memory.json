@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-07-16T02:07:42.616Z",
-    "times_seen": 8,
+    "last_seen": "2026-07-23T02:14:45.056Z",
+    "times_seen": 9,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-23T02:07:42.603Z"
+    "cooldown_until": "2026-07-30T02:14:45.042Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -35234,14 +35234,14 @@
   },
   "exmergo/dex": {
     "first_seen": "2026-07-08T19:18:23.428Z",
-    "last_seen": "2026-07-08T19:18:23.428Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-23T02:14:54.345Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 9,
-    "cooldown_until": "2026-07-22T19:18:23.428Z"
+    "stars": 14,
+    "cooldown_until": "2026-08-06T02:14:54.345Z"
   },
   "maxgio92/xcover": {
     "first_seen": "2026-07-08T19:18:23.796Z",
@@ -41641,8 +41641,8 @@
   },
   "tosh/6e91a9dbf08dd630c535e7345ac7f0b5": {
     "first_seen": "2026-07-22T19:07:29.672Z",
-    "last_seen": "2026-07-22T19:07:29.672Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-23T02:14:51.928Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
@@ -41713,5 +41713,180 @@
     "reason": "low_stars",
     "stars": 20,
     "cooldown_until": "2026-08-05T19:07:32.094Z"
+  },
+  "chartup-solana-volume-bot/dexscreenerreactionsbot": {
+    "first_seen": "2026-07-23T02:14:46.915Z",
+    "last_seen": "2026-07-23T02:14:46.915Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:46.915Z"
+  },
+  "chartup-solana-volume-bot/dextoolstrendingbot": {
+    "first_seen": "2026-07-23T02:14:47.337Z",
+    "last_seen": "2026-07-23T02:14:47.337Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:47.337Z"
+  },
+  "chartup-solana-volume-bot/solvolumebot": {
+    "first_seen": "2026-07-23T02:14:47.822Z",
+    "last_seen": "2026-07-23T02:14:47.822Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:47.822Z"
+  },
+  "chartup-solana-volume-bot/dexscreenertrendingbot": {
+    "first_seen": "2026-07-23T02:14:48.253Z",
+    "last_seen": "2026-07-23T02:14:48.253Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:48.253Z"
+  },
+  "lov-team/dagoujiao": {
+    "first_seen": "2026-07-23T02:14:48.697Z",
+    "last_seen": "2026-07-23T02:14:48.697Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:48.697Z"
+  },
+  "chartup-solana-volume-bot/dextrendingbot": {
+    "first_seen": "2026-07-23T02:14:49.108Z",
+    "last_seen": "2026-07-23T02:14:49.108Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:49.108Z"
+  },
+  "chartup-solana-volume-bot/dexreactionsbot": {
+    "first_seen": "2026-07-23T02:14:49.562Z",
+    "last_seen": "2026-07-23T02:14:49.562Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:49.562Z"
+  },
+  "finna/finn-loop": {
+    "first_seen": "2026-07-23T02:14:49.967Z",
+    "last_seen": "2026-07-23T02:14:49.967Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:49.967Z"
+  },
+  "steelbrain/metal2vulkan": {
+    "first_seen": "2026-07-23T02:14:50.376Z",
+    "last_seen": "2026-07-23T02:14:50.376Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:50.376Z"
+  },
+  "477-mortal-chief/unicore-star-rail": {
+    "first_seen": "2026-07-23T02:14:50.829Z",
+    "last_seen": "2026-07-23T02:14:50.829Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:50.829Z"
+  },
+  "infometa/workbuddyskills": {
+    "first_seen": "2026-07-23T02:14:51.239Z",
+    "last_seen": "2026-07-23T02:14:51.239Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:51.239Z"
+  },
+  "cactus-compute/cactus-hybrid": {
+    "first_seen": "2026-07-23T02:14:51.679Z",
+    "last_seen": "2026-07-23T02:14:51.679Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T02:14:51.679Z"
+  },
+  "mihirahuja1/agentnestoss": {
+    "first_seen": "2026-07-23T02:14:53.183Z",
+    "last_seen": "2026-07-23T02:14:53.183Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-06T02:14:53.183Z"
+  },
+  "n0tduck1e/theharbinger": {
+    "first_seen": "2026-07-23T02:14:53.451Z",
+    "last_seen": "2026-07-23T02:14:53.451Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-06T02:14:53.451Z"
+  },
+  "sportacandy/vivace": {
+    "first_seen": "2026-07-23T02:14:53.755Z",
+    "last_seen": "2026-07-23T02:14:53.755Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-06T02:14:53.755Z"
+  },
+  "hsandhu/serve-avd": {
+    "first_seen": "2026-07-23T02:14:54.031Z",
+    "last_seen": "2026-07-23T02:14:54.031Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-06T02:14:54.031Z"
+  },
+  "devr-tools/szr": {
+    "first_seen": "2026-07-23T02:14:54.626Z",
+    "last_seen": "2026-07-23T02:14:54.626Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-06T02:14:54.626Z"
   }
 }
