@@ -41641,8 +41641,8 @@
   },
   "tosh/6e91a9dbf08dd630c535e7345ac7f0b5": {
     "first_seen": "2026-07-22T19:07:29.672Z",
-    "last_seen": "2026-07-23T08:23:22.450Z",
-    "times_seen": 3,
+    "last_seen": "2026-07-23T13:46:05.298Z",
+    "times_seen": 4,
     "sources": [
       "hackernews"
     ],
@@ -42000,5 +42000,47 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-06T08:23:24.039Z"
+  },
+  "davidmokos/expo-glass-tabs": {
+    "first_seen": "2026-07-23T13:46:03.829Z",
+    "last_seen": "2026-07-23T13:46:03.829Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T13:46:03.821Z"
+  },
+  "zhuang2002/self_gradient_forcing": {
+    "first_seen": "2026-07-23T13:46:04.325Z",
+    "last_seen": "2026-07-23T13:46:04.325Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-30T13:46:04.325Z"
+  },
+  "sktkkoo/yorishiro": {
+    "first_seen": "2026-07-23T13:46:06.782Z",
+    "last_seen": "2026-07-23T13:46:06.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-06T13:46:06.782Z"
+  },
+  "embedcatalog/embedcatalog": {
+    "first_seen": "2026-07-23T13:46:07.128Z",
+    "last_seen": "2026-07-23T13:46:07.128Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-06T13:46:07.128Z"
   }
 }
