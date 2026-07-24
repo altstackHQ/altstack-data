@@ -42530,5 +42530,152 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-07T13:27:01.859Z"
+  },
+  "melloworchid8rr6g/tg-polymarket-bot": {
+    "first_seen": "2026-07-24T19:18:48.488Z",
+    "last_seen": "2026-07-24T19:18:48.488Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T19:18:48.476Z"
+  },
+  "aniqfakhrul/cve-2026-54121": {
+    "first_seen": "2026-07-24T19:18:49.197Z",
+    "last_seen": "2026-07-24T19:18:49.197Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T19:18:49.196Z"
+  },
+  "codejunkie99/graph-engineering": {
+    "first_seen": "2026-07-24T19:18:49.828Z",
+    "last_seen": "2026-07-24T19:18:49.828Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T19:18:49.828Z"
+  },
+  "giovannibrees/travel-roamradar": {
+    "first_seen": "2026-07-24T19:18:50.482Z",
+    "last_seen": "2026-07-24T19:18:50.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T19:18:50.482Z"
+  },
+  "sigilagent/sigil": {
+    "first_seen": "2026-07-24T19:18:50.862Z",
+    "last_seen": "2026-07-24T19:18:50.862Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-07T19:18:50.862Z"
+  },
+  "ajnasnb/cockroach-crawler": {
+    "first_seen": "2026-07-24T19:18:51.251Z",
+    "last_seen": "2026-07-24T19:18:51.251Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-07T19:18:51.251Z"
+  },
+  "pocketlens/pocketlens-app": {
+    "first_seen": "2026-07-24T19:18:52.410Z",
+    "last_seen": "2026-07-24T19:18:52.410Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-07T19:18:52.410Z"
+  },
+  "otodock/oto-dock": {
+    "first_seen": "2026-07-24T19:18:52.773Z",
+    "last_seen": "2026-07-24T19:18:52.773Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-08-07T19:18:52.773Z"
+  },
+  "fthiella/filtersql": {
+    "first_seen": "2026-07-24T19:18:53.134Z",
+    "last_seen": "2026-07-24T19:18:53.134Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-07T19:18:53.134Z"
+  },
+  "raine/claude-code-proxy": {
+    "first_seen": "2026-07-24T19:18:53.750Z",
+    "last_seen": "2026-07-24T19:18:53.750Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T19:18:53.750Z"
+  },
+  "twigg-vc/monorepo": {
+    "first_seen": "2026-07-24T19:18:54.382Z",
+    "last_seen": "2026-07-24T19:18:54.382Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T19:18:54.382Z"
+  },
+  "sourishkrout/skills": {
+    "first_seen": "2026-07-24T19:18:54.721Z",
+    "last_seen": "2026-07-24T19:18:54.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-07T19:18:54.721Z"
+  },
+  "dhanraj176/agentwatch": {
+    "first_seen": "2026-07-24T19:18:55.093Z",
+    "last_seen": "2026-07-24T19:18:55.093Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-07T19:18:55.093Z"
+  },
+  "vinvai/vinvai": {
+    "first_seen": "2026-07-24T19:18:55.743Z",
+    "last_seen": "2026-07-24T19:18:55.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T19:18:55.743Z"
   }
 }
