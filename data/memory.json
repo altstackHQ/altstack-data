@@ -42478,5 +42478,57 @@
     "reason": "low_stars",
     "stars": 15,
     "cooldown_until": "2026-08-07T08:24:48.726Z"
+  },
+  "cws6206/easysystemcleaner": {
+    "first_seen": "2026-07-24T13:26:58.375Z",
+    "last_seen": "2026-07-24T13:26:58.375Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T13:26:58.363Z"
+  },
+  "links-onion-for-tor/links-onion-for-tor": {
+    "first_seen": "2026-07-24T13:27:00.500Z",
+    "last_seen": "2026-07-24T13:27:00.500Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T13:27:00.500Z"
+  },
+  "danilo-znamerovszkij/draw-your-font": {
+    "first_seen": "2026-07-24T13:27:01.189Z",
+    "last_seen": "2026-07-24T13:27:01.189Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T13:27:01.189Z"
+  },
+  "henrygabriels/binaural-studio": {
+    "first_seen": "2026-07-24T13:27:01.526Z",
+    "last_seen": "2026-07-24T13:27:01.526Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-07T13:27:01.526Z"
+  },
+  "bitmonky/borghui": {
+    "first_seen": "2026-07-24T13:27:01.859Z",
+    "last_seen": "2026-07-24T13:27:01.859Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-07T13:27:01.859Z"
   }
 }
