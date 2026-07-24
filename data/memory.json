@@ -42405,5 +42405,78 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-07T02:18:22.040Z"
+  },
+  "ronglecat/grok-app": {
+    "first_seen": "2026-07-24T08:24:43.722Z",
+    "last_seen": "2026-07-24T08:24:43.722Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T08:24:43.711Z"
+  },
+  "invaro/opentax-engine": {
+    "first_seen": "2026-07-24T08:24:46.433Z",
+    "last_seen": "2026-07-24T08:24:46.433Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T08:24:46.433Z"
+  },
+  "kennethkhoocy/applied-micro-skills": {
+    "first_seen": "2026-07-24T08:24:47.036Z",
+    "last_seen": "2026-07-24T08:24:47.036Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T08:24:47.036Z"
+  },
+  "pc-style/skill-view": {
+    "first_seen": "2026-07-24T08:24:47.701Z",
+    "last_seen": "2026-07-24T08:24:47.701Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-07-31T08:24:47.701Z"
+  },
+  "kdeps/turo": {
+    "first_seen": "2026-07-24T08:24:48.028Z",
+    "last_seen": "2026-07-24T08:24:48.028Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-07T08:24:48.028Z"
+  },
+  "willmeyers/coypa": {
+    "first_seen": "2026-07-24T08:24:48.374Z",
+    "last_seen": "2026-07-24T08:24:48.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-07T08:24:48.374Z"
+  },
+  "federicots/quantprobe": {
+    "first_seen": "2026-07-24T08:24:48.726Z",
+    "last_seen": "2026-07-24T08:24:48.726Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-08-07T08:24:48.726Z"
   }
 }
