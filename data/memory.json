@@ -5572,13 +5572,13 @@
   },
   "samchon/ttsc": {
     "first_seen": "2026-05-04T19:35:56.227Z",
-    "last_seen": "2026-07-16T13:41:01.936Z",
-    "times_seen": 4,
+    "last_seen": "2026-07-25T13:14:59.331Z",
+    "times_seen": 5,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-23T13:41:01.936Z"
+    "cooldown_until": "2026-08-01T13:14:59.331Z"
   },
   "miladxsar23/kip-pattern": {
     "first_seen": "2026-05-04T19:35:56.487Z",
@@ -42933,5 +42933,110 @@
     "reason": "low_stars",
     "stars": 18,
     "cooldown_until": "2026-08-08T08:00:14.813Z"
+  },
+  "anton-hq96g4/meccha-medusa": {
+    "first_seen": "2026-07-25T13:14:54.714Z",
+    "last_seen": "2026-07-25T13:14:54.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T13:14:54.704Z"
+  },
+  "mikiarlo3/ai-copywriter": {
+    "first_seen": "2026-07-25T13:14:55.086Z",
+    "last_seen": "2026-07-25T13:14:55.086Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T13:14:55.086Z"
+  },
+  "nextweb4/hxhwang-gw": {
+    "first_seen": "2026-07-25T13:14:56.054Z",
+    "last_seen": "2026-07-25T13:14:56.054Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T13:14:56.054Z"
+  },
+  "dunefalcon1qrj/telegram-bot": {
+    "first_seen": "2026-07-25T13:14:56.487Z",
+    "last_seen": "2026-07-25T13:14:56.487Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T13:14:56.487Z"
+  },
+  "rustyharbor308774/ethereum-bot": {
+    "first_seen": "2026-07-25T13:14:56.911Z",
+    "last_seen": "2026-07-25T13:14:56.911Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T13:14:56.911Z"
+  },
+  "sanexxxx777/curated-claude-code": {
+    "first_seen": "2026-07-25T13:14:58.076Z",
+    "last_seen": "2026-07-25T13:14:58.076Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-08T13:14:58.076Z"
+  },
+  "sakai-sktech/koime": {
+    "first_seen": "2026-07-25T13:14:58.329Z",
+    "last_seen": "2026-07-25T13:14:58.329Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-08T13:14:58.329Z"
+  },
+  "eliachiarucci/serterm": {
+    "first_seen": "2026-07-25T13:14:58.633Z",
+    "last_seen": "2026-07-25T13:14:58.633Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-08T13:14:58.633Z"
+  },
+  "githubscum/lotor": {
+    "first_seen": "2026-07-25T13:14:58.893Z",
+    "last_seen": "2026-07-25T13:14:58.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-08T13:14:58.893Z"
+  },
+  "samchon/lint-plugin-evidence": {
+    "first_seen": "2026-07-25T13:14:59.590Z",
+    "last_seen": "2026-07-25T13:14:59.590Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-08T13:14:59.590Z"
   }
 }
