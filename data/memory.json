@@ -43038,5 +43038,102 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-08T13:14:59.590Z"
+  },
+  "nextweb4/gw": {
+    "first_seen": "2026-07-25T19:01:22.009Z",
+    "last_seen": "2026-07-25T19:01:22.009Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T19:01:21.999Z"
+  },
+  "noz2/roothound": {
+    "first_seen": "2026-07-25T19:01:23.361Z",
+    "last_seen": "2026-07-25T19:01:23.361Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T19:01:23.361Z"
+  },
+  "kubikdb/ai-tools-for-learning": {
+    "first_seen": "2026-07-25T19:01:25.767Z",
+    "last_seen": "2026-07-25T19:01:25.767Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-08T19:01:25.767Z"
+  },
+  "johndebord/protoai": {
+    "first_seen": "2026-07-25T19:01:26.099Z",
+    "last_seen": "2026-07-25T19:01:26.099Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-08T19:01:26.099Z"
+  },
+  "dawsonhuang0/less-pager-mini": {
+    "first_seen": "2026-07-25T19:01:26.453Z",
+    "last_seen": "2026-07-25T19:01:26.453Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-08T19:01:26.453Z"
+  },
+  "terse-lang/terse": {
+    "first_seen": "2026-07-25T19:01:26.812Z",
+    "last_seen": "2026-07-25T19:01:26.812Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-08-08T19:01:26.812Z"
+  },
+  "jintukumardas/opportunity-engine": {
+    "first_seen": "2026-07-25T19:01:27.149Z",
+    "last_seen": "2026-07-25T19:01:27.149Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-08T19:01:27.149Z"
+  },
+  "vangelov/ts-rasterizer": {
+    "first_seen": "2026-07-25T19:01:27.482Z",
+    "last_seen": "2026-07-25T19:01:27.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-08T19:01:27.482Z"
+  },
+  "sphericalcowww/cubicdoggo_06r": {
+    "first_seen": "2026-07-25T19:01:27.813Z",
+    "last_seen": "2026-07-25T19:01:27.813Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-08T19:01:27.812Z"
   }
 }
