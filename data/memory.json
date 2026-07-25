@@ -42677,5 +42677,220 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-07-31T19:18:55.743Z"
+  },
+  "mikehasa/agentacct": {
+    "first_seen": "2026-07-25T02:10:53.887Z",
+    "last_seen": "2026-07-25T02:10:53.887Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:10:53.878Z"
+  },
+  "jazzzooo/buz": {
+    "first_seen": "2026-07-25T02:10:56.285Z",
+    "last_seen": "2026-07-25T02:10:56.285Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:10:56.285Z"
+  },
+  "kingenbomb/nodes": {
+    "first_seen": "2026-07-25T02:11:02.739Z",
+    "last_seen": "2026-07-25T02:11:02.739Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:02.739Z"
+  },
+  "batubozkan/pods-head-tracker": {
+    "first_seen": "2026-07-25T02:11:03.595Z",
+    "last_seen": "2026-07-25T02:11:03.595Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:03.595Z"
+  },
+  "calicastle/skills": {
+    "first_seen": "2026-07-25T02:11:09.039Z",
+    "last_seen": "2026-07-25T02:11:09.039Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:09.039Z"
+  },
+  "rockthemike712/mission-control-board": {
+    "first_seen": "2026-07-25T02:11:10.908Z",
+    "last_seen": "2026-07-25T02:11:10.908Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:10.908Z"
+  },
+  "wanszai/sega-rally-championship-pc-xbox360-series-x-": {
+    "first_seen": "2026-07-25T02:11:11.574Z",
+    "last_seen": "2026-07-25T02:11:11.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:11.574Z"
+  },
+  "liuziyu77/anythingatlas": {
+    "first_seen": "2026-07-25T02:11:16.966Z",
+    "last_seen": "2026-07-25T02:11:16.966Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:16.966Z"
+  },
+  "0xtresser/transcript-of-liang-wenfengs-deepseek-founder-4-hour-investor-meeting": {
+    "first_seen": "2026-07-25T02:11:19.305Z",
+    "last_seen": "2026-07-25T02:11:19.305Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:19.305Z"
+  },
+  "nulightjens/humanizer-stack": {
+    "first_seen": "2026-07-25T02:11:20.184Z",
+    "last_seen": "2026-07-25T02:11:20.184Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:20.184Z"
+  },
+  "daimon3332/outlookregister": {
+    "first_seen": "2026-07-25T02:11:21.466Z",
+    "last_seen": "2026-07-25T02:11:21.466Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:21.466Z"
+  },
+  "nagaa95/drasticds_nx": {
+    "first_seen": "2026-07-25T02:11:22.231Z",
+    "last_seen": "2026-07-25T02:11:22.231Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:22.231Z"
+  },
+  "techinz/geelark-mcp": {
+    "first_seen": "2026-07-25T02:11:23.724Z",
+    "last_seen": "2026-07-25T02:11:23.724Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:23.724Z"
+  },
+  "on-page-ai/geo-seo-superapp": {
+    "first_seen": "2026-07-25T02:11:24.981Z",
+    "last_seen": "2026-07-25T02:11:24.981Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:24.981Z"
+  },
+  "xhz2127-art/k230-steel-ball-detection": {
+    "first_seen": "2026-07-25T02:11:26.306Z",
+    "last_seen": "2026-07-25T02:11:26.306Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:26.306Z"
+  },
+  "gdpatch/gdpatch": {
+    "first_seen": "2026-07-25T02:11:28.462Z",
+    "last_seen": "2026-07-25T02:11:28.462Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-01T02:11:28.462Z"
+  },
+  "apresta/max-studio-tools": {
+    "first_seen": "2026-07-25T02:11:28.800Z",
+    "last_seen": "2026-07-25T02:11:28.800Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-08-08T02:11:28.800Z"
+  },
+  "baileywickham/jixp": {
+    "first_seen": "2026-07-25T02:11:29.181Z",
+    "last_seen": "2026-07-25T02:11:29.181Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-08T02:11:29.181Z"
+  },
+  "didriksg/crisp": {
+    "first_seen": "2026-07-25T02:11:30.408Z",
+    "last_seen": "2026-07-25T02:11:30.408Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-08-08T02:11:30.408Z"
+  },
+  "vitalysim/browser-bridge": {
+    "first_seen": "2026-07-25T02:11:30.721Z",
+    "last_seen": "2026-07-25T02:11:30.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-08T02:11:30.721Z"
+  },
+  "kolega-ai/kolega-code": {
+    "first_seen": "2026-07-25T02:11:31.115Z",
+    "last_seen": "2026-07-25T02:11:31.115Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-08-08T02:11:31.115Z"
   }
 }
