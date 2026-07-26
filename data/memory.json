@@ -43457,5 +43457,65 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-09T08:19:32.634Z"
+  },
+  "dr-crimson-smoke39/discord-nitro-generator": {
+    "first_seen": "2026-07-26T13:09:36.531Z",
+    "last_seen": "2026-07-26T13:09:36.531Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T13:09:36.520Z"
+  },
+  "deerwork-ai/deer-workflow": {
+    "first_seen": "2026-07-26T13:09:37.363Z",
+    "last_seen": "2026-07-26T13:09:37.363Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T13:09:37.363Z"
+  },
+  "fuadmefleh/shared-claude-chats": {
+    "first_seen": "2026-07-26T13:09:37.758Z",
+    "last_seen": "2026-07-26T13:09:37.758Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T13:09:37.758Z"
+  },
+  "fluxara-god/fluxara1-audit-verification-pack": {
+    "first_seen": "2026-07-26T13:09:38.539Z",
+    "last_seen": "2026-07-26T13:09:38.539Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T13:09:38.539Z"
+  },
+  "openlake-project/openlake": {
+    "first_seen": "2026-07-26T13:09:38.982Z",
+    "last_seen": "2026-07-26T13:09:38.982Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T13:09:38.982Z"
+  },
+  "clickhouse/pg_stat_ch": {
+    "first_seen": "2026-07-26T13:09:39.415Z",
+    "last_seen": "2026-07-26T13:09:39.415Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T13:09:39.415Z"
   }
 }
