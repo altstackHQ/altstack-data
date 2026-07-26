@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-07-19T08:09:00.973Z",
-    "times_seen": 12,
+    "last_seen": "2026-07-26T08:19:27.771Z",
+    "times_seen": 13,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-26T08:09:00.961Z"
+    "cooldown_until": "2026-08-02T08:19:27.757Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -1800,14 +1800,14 @@
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
-    "last_seen": "2026-07-19T08:09:03.647Z",
-    "times_seen": 12,
+    "last_seen": "2026-07-26T08:19:29.708Z",
+    "times_seen": 13,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-26T08:09:03.647Z"
+    "cooldown_until": "2026-08-02T08:19:29.708Z"
   },
   "farzaa/clicky": {
     "first_seen": "2026-04-08T13:45:50.138Z",
@@ -43416,5 +43416,46 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-09T02:16:11.986Z"
+  },
+  "joeynyc/grok-ui": {
+    "first_seen": "2026-07-26T08:19:30.552Z",
+    "last_seen": "2026-07-26T08:19:30.552Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T08:19:30.552Z"
+  },
+  "lingbol088-spec/5.6-jailbreak-nerv": {
+    "first_seen": "2026-07-26T08:19:30.966Z",
+    "last_seen": "2026-07-26T08:19:30.966Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T08:19:30.966Z"
+  },
+  "codewiththiha/openslides": {
+    "first_seen": "2026-07-26T08:19:32.331Z",
+    "last_seen": "2026-07-26T08:19:32.331Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T08:19:32.331Z"
+  },
+  "justrinari/handoff": {
+    "first_seen": "2026-07-26T08:19:32.634Z",
+    "last_seen": "2026-07-26T08:19:32.634Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-09T08:19:32.634Z"
   }
 }
