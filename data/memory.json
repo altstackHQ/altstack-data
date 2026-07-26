@@ -22807,13 +22807,13 @@
   },
   "openwong2kim/wmux": {
     "first_seen": "2026-06-13T19:19:34.022Z",
-    "last_seen": "2026-06-13T19:19:34.022Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-26T19:04:11.065Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-20T19:19:34.022Z"
+    "cooldown_until": "2026-08-02T19:04:11.065Z"
   },
   "yassercr/galdor": {
     "first_seen": "2026-06-13T19:19:34.274Z",
@@ -43517,5 +43517,143 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-02T13:09:39.415Z"
+  },
+  "steelbrain/reims-vgpu": {
+    "first_seen": "2026-07-26T19:04:07.415Z",
+    "last_seen": "2026-07-26T19:04:07.415Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T19:04:07.405Z"
+  },
+  "dotneet/image-to-3d": {
+    "first_seen": "2026-07-26T19:04:08.008Z",
+    "last_seen": "2026-07-26T19:04:08.008Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T19:04:08.008Z"
+  },
+  "erenciracioglu-dotcom/hermes-self-evolution": {
+    "first_seen": "2026-07-26T19:04:08.605Z",
+    "last_seen": "2026-07-26T19:04:08.605Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T19:04:08.605Z"
+  },
+  "gmrandazzo/cheapsecurity": {
+    "first_seen": "2026-07-26T19:04:09.181Z",
+    "last_seen": "2026-07-26T19:04:09.181Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T19:04:09.181Z"
+  },
+  "micsm/boffin": {
+    "first_seen": "2026-07-26T19:04:09.535Z",
+    "last_seen": "2026-07-26T19:04:09.535Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-08-09T19:04:09.535Z"
+  },
+  "ricardoborges/nautilus": {
+    "first_seen": "2026-07-26T19:04:10.143Z",
+    "last_seen": "2026-07-26T19:04:10.143Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-02T19:04:10.143Z"
+  },
+  "thiagoalbrecht/weave": {
+    "first_seen": "2026-07-26T19:04:10.473Z",
+    "last_seen": "2026-07-26T19:04:10.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-08-09T19:04:10.473Z"
+  },
+  "francium-tech/crispvoice": {
+    "first_seen": "2026-07-26T19:04:11.388Z",
+    "last_seen": "2026-07-26T19:04:11.388Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-09T19:04:11.388Z"
+  },
+  "ldenoue/readability-read-aloud-web-pdf-ai-summary": {
+    "first_seen": "2026-07-26T19:04:11.714Z",
+    "last_seen": "2026-07-26T19:04:11.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-09T19:04:11.714Z"
+  },
+  "bounce-chat/bounce": {
+    "first_seen": "2026-07-26T19:04:12.067Z",
+    "last_seen": "2026-07-26T19:04:12.067Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-09T19:04:12.067Z"
+  },
+  "rtim0/peek": {
+    "first_seen": "2026-07-26T19:04:12.448Z",
+    "last_seen": "2026-07-26T19:04:12.448Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-08-09T19:04:12.448Z"
+  },
+  "therohitdas/screenfocus": {
+    "first_seen": "2026-07-26T19:04:12.772Z",
+    "last_seen": "2026-07-26T19:04:12.772Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-09T19:04:12.772Z"
+  },
+  "puffinsoft/mousecrack": {
+    "first_seen": "2026-07-26T19:04:13.126Z",
+    "last_seen": "2026-07-26T19:04:13.126Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-09T19:04:13.126Z"
   }
 }
