@@ -2139,7 +2139,8 @@
     "website": "https://www.hootsuite.com",
     "description": "Social media marketing and management dashboard.",
     "alternatives": [
-      "mixpost"
+      "mixpost",
+      "openpost"
     ],
     "logo_url": "/logos/hootsuite.svg",
     "avg_monthly_cost": 49,
@@ -2187,6 +2188,29 @@
       "agent": "sentinel",
       "timestamp": "2026-03-30T15:26:16.816Z"
     }
+  },
+  {
+    "slug": "openpost",
+    "name": "OpenPost",
+    "category": "Marketing",
+    "is_open_source": true,
+    "github_repo": "rodrgds/openpost",
+    "stars": 17,
+    "website": "https://openpost.social",
+    "description": "Self-hosted social publishing and scheduling software with API, CLI, and MCP access.",
+    "pros": [
+      "Single Go binary and Docker Compose deployment options",
+      "API, CLI, and MCP interfaces for automation",
+      "Human review and per-network publishing workflows"
+    ],
+    "cons": [
+      "Young project with a smaller community",
+      "Self-hosting requires configuring each social provider"
+    ],
+    "language": "Go",
+    "license": "AGPL-3.0",
+    "hosting_type": "self-hosted",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openpost.social"
   },
   {
     "slug": "codespaces",
