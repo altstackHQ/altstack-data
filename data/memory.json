@@ -44025,5 +44025,75 @@
     "reason": "low_stars",
     "stars": 19,
     "cooldown_until": "2026-08-10T09:41:41.452Z"
+  },
+  "fading-sniper-run65/discord-nitro-generator-2026": {
+    "first_seen": "2026-07-27T14:27:49.172Z",
+    "last_seen": "2026-07-27T14:27:49.172Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T14:27:49.161Z"
+  },
+  "dboudreau00/noctornal": {
+    "first_seen": "2026-07-27T14:27:50.473Z",
+    "last_seen": "2026-07-27T14:27:50.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T14:27:50.473Z"
+  },
+  "oneinterface/stormy-cookbook": {
+    "first_seen": "2026-07-27T14:27:51.045Z",
+    "last_seen": "2026-07-27T14:27:51.045Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T14:27:51.045Z"
+  },
+  "sii-research/tau-0-vla": {
+    "first_seen": "2026-07-27T14:27:51.715Z",
+    "last_seen": "2026-07-27T14:27:51.715Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T14:27:51.715Z"
+  },
+  "elberacasa/lineage2elbera": {
+    "first_seen": "2026-07-27T14:27:52.366Z",
+    "last_seen": "2026-07-27T14:27:52.366Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T14:27:52.366Z"
+  },
+  "mufengyuan666/gazette": {
+    "first_seen": "2026-07-27T14:27:54.398Z",
+    "last_seen": "2026-07-27T14:27:54.398Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T14:27:54.398Z"
+  },
+  "truefoundry/aitori": {
+    "first_seen": "2026-07-27T14:27:55.774Z",
+    "last_seen": "2026-07-27T14:27:55.774Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T14:27:55.774Z"
   }
 }
