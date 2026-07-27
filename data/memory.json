@@ -44095,5 +44095,89 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-03T14:27:55.774Z"
+  },
+  "moonshotai/kimi-k3": {
+    "first_seen": "2026-07-27T19:20:42.432Z",
+    "last_seen": "2026-07-27T19:20:42.432Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T19:20:42.421Z"
+  },
+  "adribuho/playfront": {
+    "first_seen": "2026-07-27T19:20:43.928Z",
+    "last_seen": "2026-07-27T19:20:43.928Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T19:20:43.928Z"
+  },
+  "bytec-ai/book-video-factory": {
+    "first_seen": "2026-07-27T19:20:44.624Z",
+    "last_seen": "2026-07-27T19:20:44.624Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T19:20:44.624Z"
+  },
+  "letsseal/letsseal": {
+    "first_seen": "2026-07-27T19:20:45.022Z",
+    "last_seen": "2026-07-27T19:20:45.022Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-10T19:20:45.022Z"
+  },
+  "fran-mora/foglio": {
+    "first_seen": "2026-07-27T19:20:45.446Z",
+    "last_seen": "2026-07-27T19:20:45.446Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-10T19:20:45.446Z"
+  },
+  "ttarvis/multiaes": {
+    "first_seen": "2026-07-27T19:20:45.848Z",
+    "last_seen": "2026-07-27T19:20:45.848Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-10T19:20:45.848Z"
+  },
+  "marsninja/kimi-fetch": {
+    "first_seen": "2026-07-27T19:20:46.223Z",
+    "last_seen": "2026-07-27T19:20:46.223Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-10T19:20:46.223Z"
+  },
+  "i7t5/edmund": {
+    "first_seen": "2026-07-27T19:20:46.964Z",
+    "last_seen": "2026-07-27T19:20:46.964Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T19:20:46.964Z"
   }
 }
