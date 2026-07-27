@@ -43900,5 +43900,130 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-08-10T02:29:15.880Z"
+  },
+  "nikolays/pgsimcity": {
+    "first_seen": "2026-07-27T09:41:35.817Z",
+    "last_seen": "2026-07-27T09:41:35.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T09:41:35.807Z"
+  },
+  "chokcoco/teach-yourself-skill": {
+    "first_seen": "2026-07-27T09:41:36.288Z",
+    "last_seen": "2026-07-27T09:41:36.288Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T09:41:36.288Z"
+  },
+  "dutchdiederik/amberconsole": {
+    "first_seen": "2026-07-27T09:41:36.840Z",
+    "last_seen": "2026-07-27T09:41:36.840Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T09:41:36.840Z"
+  },
+  "jyh1878/kimicodebar-windows": {
+    "first_seen": "2026-07-27T09:41:37.367Z",
+    "last_seen": "2026-07-27T09:41:37.367Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T09:41:37.367Z"
+  },
+  "ahmedemad3/arch-wiki": {
+    "first_seen": "2026-07-27T09:41:37.867Z",
+    "last_seen": "2026-07-27T09:41:37.867Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T09:41:37.867Z"
+  },
+  "xshaduwulfx/proton-linuwux": {
+    "first_seen": "2026-07-27T09:41:38.870Z",
+    "last_seen": "2026-07-27T09:41:38.870Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T09:41:38.870Z"
+  },
+  "nopnoping/micro-vllm": {
+    "first_seen": "2026-07-27T09:41:39.374Z",
+    "last_seen": "2026-07-27T09:41:39.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-03T09:41:39.374Z"
+  },
+  "willmeyers/aqua-ui": {
+    "first_seen": "2026-07-27T09:41:40.183Z",
+    "last_seen": "2026-07-27T09:41:40.183Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-10T09:41:40.183Z"
+  },
+  "pipilot-dev/anyclaude-sdk": {
+    "first_seen": "2026-07-27T09:41:40.478Z",
+    "last_seen": "2026-07-27T09:41:40.478Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-10T09:41:40.478Z"
+  },
+  "roggnetwork/rogg": {
+    "first_seen": "2026-07-27T09:41:40.790Z",
+    "last_seen": "2026-07-27T09:41:40.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-10T09:41:40.790Z"
+  },
+  "theluaosproject/luajitmt": {
+    "first_seen": "2026-07-27T09:41:41.139Z",
+    "last_seen": "2026-07-27T09:41:41.139Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-10T09:41:41.139Z"
+  },
+  "wassgha/rescript": {
+    "first_seen": "2026-07-27T09:41:41.452Z",
+    "last_seen": "2026-07-27T09:41:41.452Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-08-10T09:41:41.452Z"
   }
 }
