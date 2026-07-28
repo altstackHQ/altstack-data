@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-07-21T13:28:33.033Z",
-    "times_seen": 14,
+    "last_seen": "2026-07-28T13:54:02.787Z",
+    "times_seen": 15,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-28T13:28:33.020Z"
+    "cooldown_until": "2026-08-04T13:54:02.773Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -44346,5 +44346,132 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-04T08:26:24.652Z"
+  },
+  "onyx-phase43-lol/any-unlock": {
+    "first_seen": "2026-07-28T13:54:09.007Z",
+    "last_seen": "2026-07-28T13:54:09.007Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T13:54:09.007Z"
+  },
+  "achimala/thelongsilence": {
+    "first_seen": "2026-07-28T13:54:09.687Z",
+    "last_seen": "2026-07-28T13:54:09.687Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T13:54:09.687Z"
+  },
+  "chrismack32/locus": {
+    "first_seen": "2026-07-28T13:54:10.397Z",
+    "last_seen": "2026-07-28T13:54:10.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T13:54:10.397Z"
+  },
+  "schildep/verified-3d-mesh-intersection": {
+    "first_seen": "2026-07-28T13:54:10.802Z",
+    "last_seen": "2026-07-28T13:54:10.802Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-08-11T13:54:10.802Z"
+  },
+  "ctrlb-hq/ctrlb-decompose": {
+    "first_seen": "2026-07-28T13:54:11.501Z",
+    "last_seen": "2026-07-28T13:54:11.501Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T13:54:11.501Z"
+  },
+  "braveann011/ai-halo-valuation-bias": {
+    "first_seen": "2026-07-28T13:54:11.913Z",
+    "last_seen": "2026-07-28T13:54:11.913Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-11T13:54:11.913Z"
+  },
+  "silo-code/silo": {
+    "first_seen": "2026-07-28T13:54:12.287Z",
+    "last_seen": "2026-07-28T13:54:12.287Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-11T13:54:12.287Z"
+  },
+  "browser-act/skills": {
+    "first_seen": "2026-07-28T13:54:12.981Z",
+    "last_seen": "2026-07-28T13:54:12.981Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T13:54:12.981Z"
+  },
+  "alshawai/pbtune": {
+    "first_seen": "2026-07-28T13:54:13.368Z",
+    "last_seen": "2026-07-28T13:54:13.368Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-11T13:54:13.368Z"
+  },
+  "ellevas/cloudrift": {
+    "first_seen": "2026-07-28T13:54:13.774Z",
+    "last_seen": "2026-07-28T13:54:13.774Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-11T13:54:13.774Z"
+  },
+  "zhangdroid/drever": {
+    "first_seen": "2026-07-28T13:54:14.170Z",
+    "last_seen": "2026-07-28T13:54:14.170Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-11T13:54:14.170Z"
+  },
+  "the0cp/beatflow-skill": {
+    "first_seen": "2026-07-28T13:54:14.609Z",
+    "last_seen": "2026-07-28T13:54:14.609Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-11T13:54:14.609Z"
   }
 }
