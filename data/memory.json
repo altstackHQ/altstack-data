@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-07-21T08:19:16.612Z",
-    "times_seen": 14,
+    "last_seen": "2026-07-28T08:26:17.473Z",
+    "times_seen": 15,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-28T08:19:16.598Z"
+    "cooldown_until": "2026-08-04T08:26:17.459Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-07-21T08:19:18.775Z",
-    "times_seen": 14,
+    "last_seen": "2026-07-28T08:26:20.404Z",
+    "times_seen": 15,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-28T08:19:18.775Z"
+    "cooldown_until": "2026-08-04T08:26:20.404Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -44306,5 +44306,45 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-11T02:11:21.031Z"
+  },
+  "chrisberg-code1992s6/meccha-auto-painter": {
+    "first_seen": "2026-07-28T08:26:22.539Z",
+    "last_seen": "2026-07-28T08:26:22.539Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T08:26:22.539Z"
+  },
+  "amazingang/old-coder": {
+    "first_seen": "2026-07-28T08:26:23.600Z",
+    "last_seen": "2026-07-28T08:26:23.600Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T08:26:23.600Z"
+  },
+  "dramaticshape/dramaticshapevoxelmod": {
+    "first_seen": "2026-07-28T08:26:24.141Z",
+    "last_seen": "2026-07-28T08:26:24.141Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T08:26:24.141Z"
+  },
+  "deepender25/edge-drop": {
+    "first_seen": "2026-07-28T08:26:24.652Z",
+    "last_seen": "2026-07-28T08:26:24.652Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-04T08:26:24.652Z"
   }
 }
