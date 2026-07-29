@@ -4946,5 +4946,29 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
+  },
+  {
+    "slug": "lynavo-drive",
+    "name": "Lynavo Drive",
+    "category": "Photos",
+    "is_open_source": true,
+    "github_repo": "Lynavo/lynavo-drive",
+    "stars": 519,
+    "website": "https://drive.lynavo.io/",
+    "description": "An open-source alternative to iCloud and Google Photos",
+    "pros": [
+      "Automatic incremental media sync from iOS and Android",
+      "Local-LAN discovery and pairing with a QR code or PIN",
+      "Resumable transfers to macOS and Windows desktops"
+    ],
+    "cons": [
+      "Open-source edition supports foreground LAN sync only",
+      "Official signed installers and mobile store builds are not included",
+      "Remote access, cloud relay, and background continuation are unavailable"
+    ],
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "hosting_type": "self-hosted",
+    "logo_url": "https://raw.githubusercontent.com/Lynavo/lynavo-drive/main/pics/logo.png"
   }
 ]
