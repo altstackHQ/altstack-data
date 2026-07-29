@@ -35666,13 +35666,13 @@
   },
   "realman78/kiyeovo": {
     "first_seen": "2026-07-09T14:47:30.431Z",
-    "last_seen": "2026-07-09T14:47:30.431Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-29T19:07:15.826Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-16T14:47:30.431Z"
+    "cooldown_until": "2026-08-05T19:07:15.826Z"
   },
   "atelier-ws/atelier": {
     "first_seen": "2026-07-09T14:47:30.801Z",
@@ -44903,5 +44903,141 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-12T13:58:55.896Z"
+  },
+  "lij768423-svg/grok-register-panel": {
+    "first_seen": "2026-07-29T19:07:10.522Z",
+    "last_seen": "2026-07-29T19:07:10.522Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-05T19:07:10.510Z"
+  },
+  "elayadesign/ai-design-skills": {
+    "first_seen": "2026-07-29T19:07:11.005Z",
+    "last_seen": "2026-07-29T19:07:11.005Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-05T19:07:11.005Z"
+  },
+  "starling-build/starling": {
+    "first_seen": "2026-07-29T19:07:12.547Z",
+    "last_seen": "2026-07-29T19:07:12.547Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-05T19:07:12.547Z"
+  },
+  "drumih/turbo-fieldfare": {
+    "first_seen": "2026-07-29T19:07:12.974Z",
+    "last_seen": "2026-07-29T19:07:12.974Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-05T19:07:12.974Z"
+  },
+  "vladuzh/qwen-scribe": {
+    "first_seen": "2026-07-29T19:07:13.437Z",
+    "last_seen": "2026-07-29T19:07:13.437Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-05T19:07:13.437Z"
+  },
+  "hongnoul/hwatu": {
+    "first_seen": "2026-07-29T19:07:13.855Z",
+    "last_seen": "2026-07-29T19:07:13.855Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-05T19:07:13.855Z"
+  },
+  "eigenpal/openparser": {
+    "first_seen": "2026-07-29T19:07:14.193Z",
+    "last_seen": "2026-07-29T19:07:14.193Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-12T19:07:14.193Z"
+  },
+  "sightmap/sightmap": {
+    "first_seen": "2026-07-29T19:07:14.736Z",
+    "last_seen": "2026-07-29T19:07:14.736Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-05T19:07:14.736Z"
+  },
+  "iamfaham/agentsnap": {
+    "first_seen": "2026-07-29T19:07:15.014Z",
+    "last_seen": "2026-07-29T19:07:15.014Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-12T19:07:15.014Z"
+  },
+  "pa/tessera": {
+    "first_seen": "2026-07-29T19:07:15.310Z",
+    "last_seen": "2026-07-29T19:07:15.310Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-12T19:07:15.310Z"
+  },
+  "matthiasgoergens/find-ipad": {
+    "first_seen": "2026-07-29T19:07:16.130Z",
+    "last_seen": "2026-07-29T19:07:16.130Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-12T19:07:16.130Z"
+  },
+  "dj9889/sitrep": {
+    "first_seen": "2026-07-29T19:07:16.415Z",
+    "last_seen": "2026-07-29T19:07:16.415Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-12T19:07:16.415Z"
+  },
+  "hardrave/nightrun": {
+    "first_seen": "2026-07-29T19:07:16.740Z",
+    "last_seen": "2026-07-29T19:07:16.740Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-08-12T19:07:16.740Z"
   }
 }
