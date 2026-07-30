@@ -34070,13 +34070,13 @@
   },
   "nagisanzenin/engram": {
     "first_seen": "2026-07-06T02:42:26.393Z",
-    "last_seen": "2026-07-06T02:42:26.393Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-30T19:18:56.221Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-13T02:42:26.393Z"
+    "cooldown_until": "2026-08-06T19:18:56.221Z"
   },
   "miguok/fable-harness": {
     "first_seen": "2026-07-06T02:42:26.807Z",
@@ -45357,5 +45357,131 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-13T13:48:12.785Z"
+  },
+  "grafana/ai-sdk": {
+    "first_seen": "2026-07-30T19:18:51.244Z",
+    "last_seen": "2026-07-30T19:18:51.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T19:18:51.231Z"
+  },
+  "kenton-gmi/sakura-crossing": {
+    "first_seen": "2026-07-30T19:18:51.662Z",
+    "last_seen": "2026-07-30T19:18:51.662Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T19:18:51.662Z"
+  },
+  "h-embodvis/turbovla": {
+    "first_seen": "2026-07-30T19:18:52.597Z",
+    "last_seen": "2026-07-30T19:18:52.597Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T19:18:52.597Z"
+  },
+  "hamzarehmandeveloper/claude-account": {
+    "first_seen": "2026-07-30T19:18:52.884Z",
+    "last_seen": "2026-07-30T19:18:52.884Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-08-13T19:18:52.884Z"
+  },
+  "yashmahajan10/llm-differential-privacy-gateway": {
+    "first_seen": "2026-07-30T19:18:53.640Z",
+    "last_seen": "2026-07-30T19:18:53.640Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-13T19:18:53.640Z"
+  },
+  "xatuke/wrapper": {
+    "first_seen": "2026-07-30T19:18:53.920Z",
+    "last_seen": "2026-07-30T19:18:53.920Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-13T19:18:53.920Z"
+  },
+  "tuneloop/tuneloop": {
+    "first_seen": "2026-07-30T19:18:54.367Z",
+    "last_seen": "2026-07-30T19:18:54.367Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T19:18:54.367Z"
+  },
+  "alibaba/skill-up": {
+    "first_seen": "2026-07-30T19:18:56.714Z",
+    "last_seen": "2026-07-30T19:18:56.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T19:18:56.714Z"
+  },
+  "buckit-io/buckit": {
+    "first_seen": "2026-07-30T19:18:57.038Z",
+    "last_seen": "2026-07-30T19:18:57.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-13T19:18:57.038Z"
+  },
+  "drbh/tilery-vm": {
+    "first_seen": "2026-07-30T19:18:57.331Z",
+    "last_seen": "2026-07-30T19:18:57.331Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-13T19:18:57.331Z"
+  },
+  "chatcode-lab/stock-tui": {
+    "first_seen": "2026-07-30T19:18:57.634Z",
+    "last_seen": "2026-07-30T19:18:57.634Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-13T19:18:57.634Z"
+  },
+  "perplexityai/numbat": {
+    "first_seen": "2026-07-30T19:18:58.158Z",
+    "last_seen": "2026-07-30T19:18:58.158Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T19:18:58.158Z"
   }
 }
