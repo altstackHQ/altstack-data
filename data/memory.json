@@ -45293,5 +45293,69 @@
     "reason": "low_stars",
     "stars": 10,
     "cooldown_until": "2026-08-13T08:16:38.855Z"
+  },
+  "xdash/fde-the-guidance-book-of-forward-deployed-engineer": {
+    "first_seen": "2026-07-30T13:48:09.085Z",
+    "last_seen": "2026-07-30T13:48:09.085Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T13:48:09.072Z"
+  },
+  "audio8-ai/audio8_tts": {
+    "first_seen": "2026-07-30T13:48:10.053Z",
+    "last_seen": "2026-07-30T13:48:10.053Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T13:48:10.053Z"
+  },
+  "coderredlab/runnburn": {
+    "first_seen": "2026-07-30T13:48:11.390Z",
+    "last_seen": "2026-07-30T13:48:11.390Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-13T13:48:11.390Z"
+  },
+  "roybkker/next-nuke": {
+    "first_seen": "2026-07-30T13:48:12.155Z",
+    "last_seen": "2026-07-30T13:48:12.155Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-13T13:48:12.155Z"
+  },
+  "hayaran/edgemetry": {
+    "first_seen": "2026-07-30T13:48:12.486Z",
+    "last_seen": "2026-07-30T13:48:12.486Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-13T13:48:12.486Z"
+  },
+  "nooneknowspeter/legionlinuxtui": {
+    "first_seen": "2026-07-30T13:48:12.785Z",
+    "last_seen": "2026-07-30T13:48:12.785Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-13T13:48:12.785Z"
   }
 }
