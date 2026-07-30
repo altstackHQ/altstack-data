@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-07-23T02:14:45.056Z",
-    "times_seen": 9,
+    "last_seen": "2026-07-30T08:16:30.722Z",
+    "times_seen": 10,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-07-30T02:14:45.042Z"
+    "cooldown_until": "2026-08-06T08:16:30.706Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -45231,5 +45231,67 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-13T01:56:58.905Z"
+  },
+  "rogerbush007-a11y/djonehub-mac-enhanced": {
+    "first_seen": "2026-07-30T08:16:35.101Z",
+    "last_seen": "2026-07-30T08:16:35.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T08:16:35.101Z"
+  },
+  "aigclink/geolook": {
+    "first_seen": "2026-07-30T08:16:36.112Z",
+    "last_seen": "2026-07-30T08:16:36.112Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T08:16:36.112Z"
+  },
+  "dcatanzaro/aoweb": {
+    "first_seen": "2026-07-30T08:16:36.670Z",
+    "last_seen": "2026-07-30T08:16:36.670Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T08:16:36.670Z"
+  },
+  "awplanets/awplanet": {
+    "first_seen": "2026-07-30T08:16:37.142Z",
+    "last_seen": "2026-07-30T08:16:37.142Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T08:16:37.142Z"
+  },
+  "usedowe/dowe-lang": {
+    "first_seen": "2026-07-30T08:16:37.967Z",
+    "last_seen": "2026-07-30T08:16:37.967Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-08-13T08:16:37.967Z"
+  },
+  "ggchamp85/emboss": {
+    "first_seen": "2026-07-30T08:16:38.855Z",
+    "last_seen": "2026-07-30T08:16:38.855Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-08-13T08:16:38.855Z"
   }
 }
