@@ -45039,5 +45039,197 @@
     "reason": "low_stars",
     "stars": 23,
     "cooldown_until": "2026-08-12T19:07:16.740Z"
+  },
+  "0xwilliamortiz/flashkda": {
+    "first_seen": "2026-07-30T01:56:44.238Z",
+    "last_seen": "2026-07-30T01:56:44.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:44.227Z"
+  },
+  "memoryleak666/russianvpnleaks": {
+    "first_seen": "2026-07-30T01:56:44.939Z",
+    "last_seen": "2026-07-30T01:56:44.939Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:44.939Z"
+  },
+  "franx-0123/nl2sql": {
+    "first_seen": "2026-07-30T01:56:46.499Z",
+    "last_seen": "2026-07-30T01:56:46.499Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:46.499Z"
+  },
+  "lixooo00-lab/mingruis-miya": {
+    "first_seen": "2026-07-30T01:56:47.174Z",
+    "last_seen": "2026-07-30T01:56:47.174Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:47.174Z"
+  },
+  "amirmushichge/tea-leaf-scroll-world": {
+    "first_seen": "2026-07-30T01:56:47.982Z",
+    "last_seen": "2026-07-30T01:56:47.982Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:47.982Z"
+  },
+  "tanstack/charts": {
+    "first_seen": "2026-07-30T01:56:48.752Z",
+    "last_seen": "2026-07-30T01:56:48.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:48.752Z"
+  },
+  "tauber01/zenche": {
+    "first_seen": "2026-07-30T01:56:49.470Z",
+    "last_seen": "2026-07-30T01:56:49.470Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:49.470Z"
+  },
+  "midudev/spiderman-brand-new-day": {
+    "first_seen": "2026-07-30T01:56:50.204Z",
+    "last_seen": "2026-07-30T01:56:50.204Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:50.204Z"
+  },
+  "ssuixinsuoyu/zede-zero-learning-roadmap": {
+    "first_seen": "2026-07-30T01:56:50.897Z",
+    "last_seen": "2026-07-30T01:56:50.897Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:50.897Z"
+  },
+  "pithings/mountx": {
+    "first_seen": "2026-07-30T01:56:51.642Z",
+    "last_seen": "2026-07-30T01:56:51.642Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:51.642Z"
+  },
+  "danielhangan/reelclaw-templates": {
+    "first_seen": "2026-07-30T01:56:52.322Z",
+    "last_seen": "2026-07-30T01:56:52.322Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:52.322Z"
+  },
+  "eveacla11/fingertips": {
+    "first_seen": "2026-07-30T01:56:52.971Z",
+    "last_seen": "2026-07-30T01:56:52.971Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:52.971Z"
+  },
+  "e01-ai/starfall": {
+    "first_seen": "2026-07-30T01:56:53.674Z",
+    "last_seen": "2026-07-30T01:56:53.674Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:53.674Z"
+  },
+  "rit3zh/expo-backdrop": {
+    "first_seen": "2026-07-30T01:56:55.194Z",
+    "last_seen": "2026-07-30T01:56:55.194Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:55.194Z"
+  },
+  "benjitaylor/drawesome": {
+    "first_seen": "2026-07-30T01:56:55.960Z",
+    "last_seen": "2026-07-30T01:56:55.960Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:55.960Z"
+  },
+  "rw-r-r-0644/bc250-core-unlock": {
+    "first_seen": "2026-07-30T01:56:56.630Z",
+    "last_seen": "2026-07-30T01:56:56.630Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:56.630Z"
+  },
+  "funador/claude-code-merge-queue": {
+    "first_seen": "2026-07-30T01:56:57.298Z",
+    "last_seen": "2026-07-30T01:56:57.298Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-06T01:56:57.298Z"
+  },
+  "mindflock/mindflock": {
+    "first_seen": "2026-07-30T01:56:58.465Z",
+    "last_seen": "2026-07-30T01:56:58.465Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-13T01:56:58.465Z"
+  },
+  "openmetaharness/openmetaharness": {
+    "first_seen": "2026-07-30T01:56:58.905Z",
+    "last_seen": "2026-07-30T01:56:58.905Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-13T01:56:58.905Z"
   }
 }

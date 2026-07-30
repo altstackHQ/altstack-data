@@ -4946,27 +4946,5 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
-  },
-  {
-    "slug": "beton-inspector",
-    "name": "Beton Inspector",
-    "category": "CRM",
-    "is_open_source": true,
-    "github_repo": "getbeton/inspector",
-    "website": "https://getbeton.ai",
-    "description": "Open-source revenue intelligence. Detects buying signals from PostHog product-usage data and your CRM, scores accounts, and routes the warmest leads to sales reps. Self-hostable via Docker.",
-    "pros": [
-      "Scores and routes leads from real product-usage signals (PostHog) + CRM",
-      "Self-hostable via Docker, billing optional",
-      "Modern stack: TypeScript, Next.js, Supabase/PostgreSQL",
-      "Open-source alternative to Pocus and Common Room"
-    ],
-    "cons": [
-      "Early stage — small community",
-      "Requires PostHog and a supported CRM to be useful"
-    ],
-    "language": "TypeScript",
-    "license": "AGPL-3.0",
-    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=getbeton.ai"
   }
 ]
