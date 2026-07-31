@@ -45668,5 +45668,87 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-14T02:15:57.214Z"
+  },
+  "romanson-xo8/palworld-optimizer-2026": {
+    "first_seen": "2026-07-31T08:49:32.823Z",
+    "last_seen": "2026-07-31T08:49:32.823Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T08:49:32.811Z"
+  },
+  "shuaiplus/inkstone": {
+    "first_seen": "2026-07-31T08:49:34.344Z",
+    "last_seen": "2026-07-31T08:49:34.344Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T08:49:34.344Z"
+  },
+  "microsoft/skill-recorder": {
+    "first_seen": "2026-07-31T08:49:35.083Z",
+    "last_seen": "2026-07-31T08:49:35.083Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T08:49:35.083Z"
+  },
+  "uczltw6/trace-file-lineage": {
+    "first_seen": "2026-07-31T08:49:35.868Z",
+    "last_seen": "2026-07-31T08:49:35.868Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T08:49:35.868Z"
+  },
+  "zihangdong/toolknit-desktop": {
+    "first_seen": "2026-07-31T08:49:37.239Z",
+    "last_seen": "2026-07-31T08:49:37.239Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T08:49:37.239Z"
+  },
+  "mokshablr/gander": {
+    "first_seen": "2026-07-31T08:49:38.035Z",
+    "last_seen": "2026-07-31T08:49:38.035Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T08:49:38.035Z"
+  },
+  "promyer/stellar-inbox": {
+    "first_seen": "2026-07-31T08:49:39.948Z",
+    "last_seen": "2026-07-31T08:49:39.948Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-14T08:49:39.948Z"
+  },
+  "aliengineering-byte/resilireplay": {
+    "first_seen": "2026-07-31T08:49:40.315Z",
+    "last_seen": "2026-07-31T08:49:40.315Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-14T08:49:40.315Z"
   }
 }
