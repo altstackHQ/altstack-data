@@ -33521,14 +33521,14 @@
   },
   "broxhq/qpilot": {
     "first_seen": "2026-07-04T13:14:34.181Z",
-    "last_seen": "2026-07-04T13:14:34.181Z",
-    "times_seen": 1,
+    "last_seen": "2026-07-31T19:18:14.334Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 4,
-    "cooldown_until": "2026-07-18T13:14:34.181Z"
+    "stars": 8,
+    "cooldown_until": "2026-08-14T19:18:14.334Z"
   },
   "yynxxxxx/codex-x": {
     "first_seen": "2026-07-04T19:04:07.843Z",
@@ -45834,5 +45834,112 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-14T13:53:18.579Z"
+  },
+  "wilonitydev/wilonityloader": {
+    "first_seen": "2026-07-31T19:18:09.116Z",
+    "last_seen": "2026-07-31T19:18:09.116Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T19:18:09.105Z"
+  },
+  "packets/tew": {
+    "first_seen": "2026-07-31T19:18:10.587Z",
+    "last_seen": "2026-07-31T19:18:10.587Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T19:18:10.587Z"
+  },
+  "richlegrand/bitbang-cli": {
+    "first_seen": "2026-07-31T19:18:12.777Z",
+    "last_seen": "2026-07-31T19:18:12.777Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T19:18:12.777Z"
+  },
+  "rafaelpta/litepipe": {
+    "first_seen": "2026-07-31T19:18:13.932Z",
+    "last_seen": "2026-07-31T19:18:13.932Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-14T19:18:13.932Z"
+  },
+  "alsoleg89/doubt": {
+    "first_seen": "2026-07-31T19:18:14.750Z",
+    "last_seen": "2026-07-31T19:18:14.750Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-14T19:18:14.750Z"
+  },
+  "bhavya6187/tandem": {
+    "first_seen": "2026-07-31T19:18:15.171Z",
+    "last_seen": "2026-07-31T19:18:15.171Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-14T19:18:15.171Z"
+  },
+  "nicholascarroll/emil": {
+    "first_seen": "2026-07-31T19:18:15.613Z",
+    "last_seen": "2026-07-31T19:18:15.613Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-14T19:18:15.613Z"
+  },
+  "axmstandart1-beep/axioma": {
+    "first_seen": "2026-07-31T19:18:15.955Z",
+    "last_seen": "2026-07-31T19:18:15.955Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-14T19:18:15.955Z"
+  },
+  "comalice/usbatlas": {
+    "first_seen": "2026-07-31T19:18:16.369Z",
+    "last_seen": "2026-07-31T19:18:16.369Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-14T19:18:16.369Z"
+  },
+  "morluto/jacobian": {
+    "first_seen": "2026-07-31T19:18:16.746Z",
+    "last_seen": "2026-07-31T19:18:16.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-08-14T19:18:16.746Z"
   }
 }
