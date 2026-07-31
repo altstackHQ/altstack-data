@@ -45750,5 +45750,89 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-14T08:49:40.315Z"
+  },
+  "kylek-lab1996c2/halo-campaign-evolved-fps-booster": {
+    "first_seen": "2026-07-31T13:53:13.540Z",
+    "last_seen": "2026-07-31T13:53:13.540Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T13:53:13.528Z"
+  },
+  "deedy/qr-data-transfer": {
+    "first_seen": "2026-07-31T13:53:14.070Z",
+    "last_seen": "2026-07-31T13:53:14.070Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T13:53:14.070Z"
+  },
+  "nuyoah-ai-works/nuyoah-xiezhen-prompt": {
+    "first_seen": "2026-07-31T13:53:14.570Z",
+    "last_seen": "2026-07-31T13:53:14.570Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T13:53:14.570Z"
+  },
+  "tsirysndr/panini": {
+    "first_seen": "2026-07-31T13:53:16.504Z",
+    "last_seen": "2026-07-31T13:53:16.504Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-14T13:53:16.504Z"
+  },
+  "gimanh/taskview-community": {
+    "first_seen": "2026-07-31T13:53:17.070Z",
+    "last_seen": "2026-07-31T13:53:17.070Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-07T13:53:17.070Z"
+  },
+  "nsokin/leia": {
+    "first_seen": "2026-07-31T13:53:17.933Z",
+    "last_seen": "2026-07-31T13:53:17.933Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-14T13:53:17.933Z"
+  },
+  "xatuke/markdowngg": {
+    "first_seen": "2026-07-31T13:53:18.246Z",
+    "last_seen": "2026-07-31T13:53:18.246Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-08-14T13:53:18.246Z"
+  },
+  "jobehi/macos-process-killer": {
+    "first_seen": "2026-07-31T13:53:18.579Z",
+    "last_seen": "2026-07-31T13:53:18.579Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-14T13:53:18.579Z"
   }
 }
