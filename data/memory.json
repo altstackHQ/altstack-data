@@ -46218,5 +46218,58 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-15T08:13:08.794Z"
+  },
+  "openai/ten-proofs": {
+    "first_seen": "2026-08-01T13:08:20.392Z",
+    "last_seen": "2026-08-01T13:08:20.392Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T13:08:20.381Z"
+  },
+  "jayamurka/relayhelix": {
+    "first_seen": "2026-08-01T13:08:21.767Z",
+    "last_seen": "2026-08-01T13:08:21.767Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T13:08:21.767Z"
+  },
+  "hinikaa/wisp": {
+    "first_seen": "2026-08-01T13:08:22.047Z",
+    "last_seen": "2026-08-01T13:08:22.047Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-15T13:08:22.047Z"
+  },
+  "pochenai/nano-llm-posttraining": {
+    "first_seen": "2026-08-01T13:08:22.340Z",
+    "last_seen": "2026-08-01T13:08:22.340Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-15T13:08:22.340Z"
+  },
+  "trrahul/xamlmcp": {
+    "first_seen": "2026-08-01T13:08:22.652Z",
+    "last_seen": "2026-08-01T13:08:22.652Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-15T13:08:22.652Z"
   }
 }
