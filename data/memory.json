@@ -46124,5 +46124,99 @@
     "reason": "low_stars",
     "stars": 12,
     "cooldown_until": "2026-08-15T02:23:22.779Z"
+  },
+  "s1dashu/animated-voiceover": {
+    "first_seen": "2026-08-01T08:13:05.978Z",
+    "last_seen": "2026-08-01T08:13:05.978Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T08:13:05.967Z"
+  },
+  "vyom-26/wave-racer": {
+    "first_seen": "2026-08-01T08:13:06.354Z",
+    "last_seen": "2026-08-01T08:13:06.354Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T08:13:06.354Z"
+  },
+  "liangnjupt/vistouch": {
+    "first_seen": "2026-08-01T08:13:06.782Z",
+    "last_seen": "2026-08-01T08:13:06.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T08:13:06.781Z"
+  },
+  "anewcan/ucas-grade-monitor": {
+    "first_seen": "2026-08-01T08:13:07.221Z",
+    "last_seen": "2026-08-01T08:13:07.221Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T08:13:07.221Z"
+  },
+  "helloaiden0305/odm_helper_demo": {
+    "first_seen": "2026-08-01T08:13:07.643Z",
+    "last_seen": "2026-08-01T08:13:07.643Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T08:13:07.643Z"
+  },
+  "notheidiot/windogeos": {
+    "first_seen": "2026-08-01T08:13:07.952Z",
+    "last_seen": "2026-08-01T08:13:07.952Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-08-15T08:13:07.952Z"
+  },
+  "nikolarhristov/ste-code": {
+    "first_seen": "2026-08-01T08:13:08.246Z",
+    "last_seen": "2026-08-01T08:13:08.246Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-15T08:13:08.246Z"
+  },
+  "zhurong2020/pyobfus": {
+    "first_seen": "2026-08-01T08:13:08.523Z",
+    "last_seen": "2026-08-01T08:13:08.523Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-15T08:13:08.523Z"
+  },
+  "j-sofia/whisperkeys": {
+    "first_seen": "2026-08-01T08:13:08.794Z",
+    "last_seen": "2026-08-01T08:13:08.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-15T08:13:08.794Z"
   }
 }
