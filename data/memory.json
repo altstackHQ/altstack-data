@@ -46271,5 +46271,165 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-15T13:08:22.652Z"
+  },
+  "asdafgs419/extreme-fps-boost": {
+    "first_seen": "2026-08-01T19:02:11.570Z",
+    "last_seen": "2026-08-01T19:02:11.570Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T19:02:11.561Z"
+  },
+  "luckyzyx/luckytool": {
+    "first_seen": "2026-08-01T19:02:12.069Z",
+    "last_seen": "2026-08-01T19:02:12.069Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T19:02:12.069Z"
+  },
+  "anionex/codex-deepseek-vision": {
+    "first_seen": "2026-08-01T19:02:13.089Z",
+    "last_seen": "2026-08-01T19:02:13.089Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T19:02:13.089Z"
+  },
+  "archastro/scopey": {
+    "first_seen": "2026-08-01T19:02:13.574Z",
+    "last_seen": "2026-08-01T19:02:13.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T19:02:13.574Z"
+  },
+  "lamlam25/protocol": {
+    "first_seen": "2026-08-01T19:02:14.056Z",
+    "last_seen": "2026-08-01T19:02:14.056Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T19:02:14.056Z"
+  },
+  "aurorallm/aurora": {
+    "first_seen": "2026-08-01T19:02:14.946Z",
+    "last_seen": "2026-08-01T19:02:14.946Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-08-15T19:02:14.946Z"
+  },
+  "wienerdog-ai/wienerdog": {
+    "first_seen": "2026-08-01T19:02:15.285Z",
+    "last_seen": "2026-08-01T19:02:15.285Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-15T19:02:15.285Z"
+  },
+  "thongor77/netmnt": {
+    "first_seen": "2026-08-01T19:02:15.578Z",
+    "last_seen": "2026-08-01T19:02:15.578Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-15T19:02:15.578Z"
+  },
+  "arora-sir/tufhub": {
+    "first_seen": "2026-08-01T19:02:15.929Z",
+    "last_seen": "2026-08-01T19:02:15.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-15T19:02:15.929Z"
+  },
+  "anyaa-labs/agent-skills": {
+    "first_seen": "2026-08-01T19:02:16.266Z",
+    "last_seen": "2026-08-01T19:02:16.266Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-15T19:02:16.266Z"
+  },
+  "temple-compute/pantheon": {
+    "first_seen": "2026-08-01T19:02:16.602Z",
+    "last_seen": "2026-08-01T19:02:16.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-15T19:02:16.602Z"
+  },
+  "chad/iroh-drop": {
+    "first_seen": "2026-08-01T19:02:16.891Z",
+    "last_seen": "2026-08-01T19:02:16.891Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-15T19:02:16.891Z"
+  },
+  "edison7009/openlongevity": {
+    "first_seen": "2026-08-01T19:02:17.206Z",
+    "last_seen": "2026-08-01T19:02:17.206Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-15T19:02:17.206Z"
+  },
+  "vijaym2k6/steerplane": {
+    "first_seen": "2026-08-01T19:02:17.508Z",
+    "last_seen": "2026-08-01T19:02:17.508Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-15T19:02:17.508Z"
+  },
+  "chaboud/goulash": {
+    "first_seen": "2026-08-01T19:02:17.909Z",
+    "last_seen": "2026-08-01T19:02:17.909Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-15T19:02:17.909Z"
   }
 }
