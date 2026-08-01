@@ -45941,5 +45941,188 @@
     "reason": "low_stars",
     "stars": 9,
     "cooldown_until": "2026-08-14T19:18:16.746Z"
+  },
+  "0xwilliamortiz/ratchet": {
+    "first_seen": "2026-08-01T02:23:08.704Z",
+    "last_seen": "2026-08-01T02:23:08.704Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:08.693Z"
+  },
+  "johnpetrov-1996k1/cs2-xone-undetected": {
+    "first_seen": "2026-08-01T02:23:10.066Z",
+    "last_seen": "2026-08-01T02:23:10.066Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:10.066Z"
+  },
+  "l00sed/termixer": {
+    "first_seen": "2026-08-01T02:23:10.743Z",
+    "last_seen": "2026-08-01T02:23:10.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:10.743Z"
+  },
+  "tonbistudio/buzz-skills": {
+    "first_seen": "2026-08-01T02:23:13.005Z",
+    "last_seen": "2026-08-01T02:23:13.005Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:13.005Z"
+  },
+  "pauliusos/pallet-town-3d": {
+    "first_seen": "2026-08-01T02:23:13.997Z",
+    "last_seen": "2026-08-01T02:23:13.997Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:13.997Z"
+  },
+  "frontisai/openrsi": {
+    "first_seen": "2026-08-01T02:23:14.697Z",
+    "last_seen": "2026-08-01T02:23:14.697Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:14.697Z"
+  },
+  "kingsparta69/chainlink-twap-research": {
+    "first_seen": "2026-08-01T02:23:15.355Z",
+    "last_seen": "2026-08-01T02:23:15.355Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:15.355Z"
+  },
+  "elder-plinius/gl4ss": {
+    "first_seen": "2026-08-01T02:23:15.982Z",
+    "last_seen": "2026-08-01T02:23:15.982Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:15.982Z"
+  },
+  "liucongg/awesome-open-llms": {
+    "first_seen": "2026-08-01T02:23:16.665Z",
+    "last_seen": "2026-08-01T02:23:16.665Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:16.665Z"
+  },
+  "cryptoku39/signalrelay": {
+    "first_seen": "2026-08-01T02:23:17.384Z",
+    "last_seen": "2026-08-01T02:23:17.384Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:17.384Z"
+  },
+  "cryptoku39/signalcraft": {
+    "first_seen": "2026-08-01T02:23:18.101Z",
+    "last_seen": "2026-08-01T02:23:18.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:18.101Z"
+  },
+  "cryptoku39/modelhelix": {
+    "first_seen": "2026-08-01T02:23:18.817Z",
+    "last_seen": "2026-08-01T02:23:18.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:18.817Z"
+  },
+  "cryptoku39/vaultcore": {
+    "first_seen": "2026-08-01T02:23:19.458Z",
+    "last_seen": "2026-08-01T02:23:19.458Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:19.458Z"
+  },
+  "cryptoku39/advancedmodel": {
+    "first_seen": "2026-08-01T02:23:20.092Z",
+    "last_seen": "2026-08-01T02:23:20.092Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:20.092Z"
+  },
+  "cryptoku39/agentlink": {
+    "first_seen": "2026-08-01T02:23:20.769Z",
+    "last_seen": "2026-08-01T02:23:20.769Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-08T02:23:20.769Z"
+  },
+  "penca-io/penca": {
+    "first_seen": "2026-08-01T02:23:21.189Z",
+    "last_seen": "2026-08-01T02:23:21.189Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-15T02:23:21.189Z"
+  },
+  "the1truedan/shreddit": {
+    "first_seen": "2026-08-01T02:23:22.353Z",
+    "last_seen": "2026-08-01T02:23:22.353Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-15T02:23:22.353Z"
+  },
+  "lace-ai/gai": {
+    "first_seen": "2026-08-01T02:23:22.779Z",
+    "last_seen": "2026-08-01T02:23:22.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-08-15T02:23:22.779Z"
   }
 }
