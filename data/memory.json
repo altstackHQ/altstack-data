@@ -46618,5 +46618,69 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-16T02:14:42.058Z"
+  },
+  "chen10191200-hue/glassquota": {
+    "first_seen": "2026-08-02T08:14:19.231Z",
+    "last_seen": "2026-08-02T08:14:19.231Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-09T08:14:19.215Z"
+  },
+  "chenjin-cmd/wechat-miniprogram-builder": {
+    "first_seen": "2026-08-02T08:14:19.794Z",
+    "last_seen": "2026-08-02T08:14:19.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-09T08:14:19.794Z"
+  },
+  "kotagit75/btfy": {
+    "first_seen": "2026-08-02T08:14:20.823Z",
+    "last_seen": "2026-08-02T08:14:20.823Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-16T08:14:20.823Z"
+  },
+  "bandarlabs/cobalt": {
+    "first_seen": "2026-08-02T08:14:21.168Z",
+    "last_seen": "2026-08-02T08:14:21.168Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-16T08:14:21.168Z"
+  },
+  "sovereign34/agent-protocol-notes": {
+    "first_seen": "2026-08-02T08:14:21.496Z",
+    "last_seen": "2026-08-02T08:14:21.496Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-16T08:14:21.496Z"
+  },
+  "jonhardwick-spec/ccn": {
+    "first_seen": "2026-08-02T08:14:21.815Z",
+    "last_seen": "2026-08-02T08:14:21.815Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-16T08:14:21.815Z"
   }
 }
