@@ -47223,5 +47223,68 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-17T14:28:45.746Z"
+  },
+  "disler/super-simple-software-factory": {
+    "first_seen": "2026-08-03T19:31:53.255Z",
+    "last_seen": "2026-08-03T19:31:53.255Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T19:31:53.243Z"
+  },
+  "marcossete/awesome-free-ai-course-notes": {
+    "first_seen": "2026-08-03T19:31:53.965Z",
+    "last_seen": "2026-08-03T19:31:53.965Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T19:31:53.965Z"
+  },
+  "kaomei/stickman-video-director": {
+    "first_seen": "2026-08-03T19:31:56.189Z",
+    "last_seen": "2026-08-03T19:31:56.189Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T19:31:56.189Z"
+  },
+  "mmcdole/lunar": {
+    "first_seen": "2026-08-03T19:31:57.257Z",
+    "last_seen": "2026-08-03T19:31:57.257Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-17T19:31:57.257Z"
+  },
+  "viktorringnes/hackernews": {
+    "first_seen": "2026-08-03T19:31:57.664Z",
+    "last_seen": "2026-08-03T19:31:57.664Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-17T19:31:57.664Z"
+  },
+  "gtutino/cco": {
+    "first_seen": "2026-08-03T19:31:58.027Z",
+    "last_seen": "2026-08-03T19:31:58.027Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-17T19:31:58.027Z"
   }
 }
