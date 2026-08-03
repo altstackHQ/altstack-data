@@ -47170,5 +47170,58 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-08-17T09:34:40.669Z"
+  },
+  "trianglesector/simple_checker_2026_new": {
+    "first_seen": "2026-08-03T14:28:41.996Z",
+    "last_seen": "2026-08-03T14:28:41.996Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T14:28:41.985Z"
+  },
+  "garagehq/nightcrawler": {
+    "first_seen": "2026-08-03T14:28:44.772Z",
+    "last_seen": "2026-08-03T14:28:44.772Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T14:28:44.772Z"
+  },
+  "yikerman/semantic-search": {
+    "first_seen": "2026-08-03T14:28:45.099Z",
+    "last_seen": "2026-08-03T14:28:45.099Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-17T14:28:45.099Z"
+  },
+  "marktolson/runthru": {
+    "first_seen": "2026-08-03T14:28:45.448Z",
+    "last_seen": "2026-08-03T14:28:45.448Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-17T14:28:45.448Z"
+  },
+  "punnerud/mperubiks": {
+    "first_seen": "2026-08-03T14:28:45.746Z",
+    "last_seen": "2026-08-03T14:28:45.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-17T14:28:45.746Z"
   }
 }
