@@ -47118,5 +47118,57 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-17T02:22:53.438Z"
+  },
+  "imsai-sh/zhuzhiliao": {
+    "first_seen": "2026-08-03T09:34:35.889Z",
+    "last_seen": "2026-08-03T09:34:35.889Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T09:34:35.879Z"
+  },
+  "patchy631/time-to-first-token": {
+    "first_seen": "2026-08-03T09:34:36.542Z",
+    "last_seen": "2026-08-03T09:34:36.542Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T09:34:36.542Z"
+  },
+  "lalalune/outreachr": {
+    "first_seen": "2026-08-03T09:34:37.862Z",
+    "last_seen": "2026-08-03T09:34:37.862Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-10T09:34:37.862Z"
+  },
+  "paycan-app/paycan": {
+    "first_seen": "2026-08-03T09:34:40.292Z",
+    "last_seen": "2026-08-03T09:34:40.292Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-08-17T09:34:40.292Z"
+  },
+  "punnerud/mpedb": {
+    "first_seen": "2026-08-03T09:34:40.669Z",
+    "last_seen": "2026-08-03T09:34:40.669Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-17T09:34:40.669Z"
   }
 }
