@@ -47286,5 +47286,209 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-17T19:31:58.027Z"
+  },
+  "joeseesun/qiaomu-seo": {
+    "first_seen": "2026-08-04T02:02:42.705Z",
+    "last_seen": "2026-08-04T02:02:42.705Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:42.693Z"
+  },
+  "eczachly/databricks-ai-bootcamp-capstone": {
+    "first_seen": "2026-08-04T02:02:45.305Z",
+    "last_seen": "2026-08-04T02:02:45.305Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:45.305Z"
+  },
+  "alexan0618/zkky": {
+    "first_seen": "2026-08-04T02:02:46.185Z",
+    "last_seen": "2026-08-04T02:02:46.185Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:46.185Z"
+  },
+  "eczachly/databricks-lakebase-app-day-1": {
+    "first_seen": "2026-08-04T02:02:47.427Z",
+    "last_seen": "2026-08-04T02:02:47.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:47.427Z"
+  },
+  "typewriter03/desko": {
+    "first_seen": "2026-08-04T02:02:48.221Z",
+    "last_seen": "2026-08-04T02:02:48.221Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:48.221Z"
+  },
+  "sophiamyang/finger-frame-effect-ai": {
+    "first_seen": "2026-08-04T02:02:48.912Z",
+    "last_seen": "2026-08-04T02:02:48.912Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:48.912Z"
+  },
+  "bennjordan/alphasteg": {
+    "first_seen": "2026-08-04T02:02:50.381Z",
+    "last_seen": "2026-08-04T02:02:50.381Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:50.381Z"
+  },
+  "yuhuangerdi/indusecagent": {
+    "first_seen": "2026-08-04T02:02:51.549Z",
+    "last_seen": "2026-08-04T02:02:51.549Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:51.549Z"
+  },
+  "nfzerox/virtualmaconipad": {
+    "first_seen": "2026-08-04T02:02:52.215Z",
+    "last_seen": "2026-08-04T02:02:52.215Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:52.215Z"
+  },
+  "xyaz1313/phoenix": {
+    "first_seen": "2026-08-04T02:02:53.590Z",
+    "last_seen": "2026-08-04T02:02:53.590Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:53.590Z"
+  },
+  "alexngdev99/rork-medieval-3d-chess": {
+    "first_seen": "2026-08-04T02:02:54.332Z",
+    "last_seen": "2026-08-04T02:02:54.332Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:54.332Z"
+  },
+  "1lck/lithe-idea": {
+    "first_seen": "2026-08-04T02:02:55.405Z",
+    "last_seen": "2026-08-04T02:02:55.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:55.405Z"
+  },
+  "jal-co/holosticker": {
+    "first_seen": "2026-08-04T02:02:56.287Z",
+    "last_seen": "2026-08-04T02:02:56.287Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:56.287Z"
+  },
+  "henry-taylores548/addmc-server-launcher": {
+    "first_seen": "2026-08-04T02:02:56.954Z",
+    "last_seen": "2026-08-04T02:02:56.954Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:56.954Z"
+  },
+  "pi0/rangi": {
+    "first_seen": "2026-08-04T02:02:57.888Z",
+    "last_seen": "2026-08-04T02:02:57.888Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:57.888Z"
+  },
+  "unkn0wn-dx/re-harmony": {
+    "first_seen": "2026-08-04T02:02:59.483Z",
+    "last_seen": "2026-08-04T02:02:59.483Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T02:02:59.483Z"
+  },
+  "mrwaip/svelte-rs": {
+    "first_seen": "2026-08-04T02:02:59.896Z",
+    "last_seen": "2026-08-04T02:02:59.896Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-08-18T02:02:59.896Z"
+  },
+  "ok/mirall-app": {
+    "first_seen": "2026-08-04T02:03:00.658Z",
+    "last_seen": "2026-08-04T02:03:00.658Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-08-18T02:03:00.658Z"
+  },
+  "higagan/modelfuzz": {
+    "first_seen": "2026-08-04T02:03:01.427Z",
+    "last_seen": "2026-08-04T02:03:01.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-08-18T02:03:01.427Z"
+  },
+  "ayarse/popkorn": {
+    "first_seen": "2026-08-04T02:03:02.799Z",
+    "last_seen": "2026-08-04T02:03:02.799Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-08-18T02:03:02.799Z"
   }
 }
