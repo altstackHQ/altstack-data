@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-07-28T13:54:02.787Z",
-    "times_seen": 15,
+    "last_seen": "2026-08-04T13:59:16.751Z",
+    "times_seen": 16,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-04T13:54:02.773Z"
+    "cooldown_until": "2026-08-11T13:59:16.737Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -47583,5 +47583,90 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-18T08:30:17.145Z"
+  },
+  "packets/vanta": {
+    "first_seen": "2026-08-04T13:59:20.755Z",
+    "last_seen": "2026-08-04T13:59:20.755Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T13:59:20.755Z"
+  },
+  "haidarjbeily7/cargo-frisk": {
+    "first_seen": "2026-08-04T13:59:23.636Z",
+    "last_seen": "2026-08-04T13:59:23.636Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T13:59:23.636Z"
+  },
+  "kropdx/reflection-engine": {
+    "first_seen": "2026-08-04T13:59:24.316Z",
+    "last_seen": "2026-08-04T13:59:24.316Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T13:59:24.316Z"
+  },
+  "stevevitali/agent-skills": {
+    "first_seen": "2026-08-04T13:59:25.446Z",
+    "last_seen": "2026-08-04T13:59:25.446Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-18T13:59:25.446Z"
+  },
+  "rokib16x/listnr": {
+    "first_seen": "2026-08-04T13:59:25.815Z",
+    "last_seen": "2026-08-04T13:59:25.815Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-18T13:59:25.815Z"
+  },
+  "gowtham-sai-yadav/entangle": {
+    "first_seen": "2026-08-04T13:59:26.252Z",
+    "last_seen": "2026-08-04T13:59:26.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-08-18T13:59:26.252Z"
+  },
+  "subvertnormality/paranoia-local": {
+    "first_seen": "2026-08-04T13:59:26.659Z",
+    "last_seen": "2026-08-04T13:59:26.659Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-18T13:59:26.659Z"
+  },
+  "feirai/vultrino": {
+    "first_seen": "2026-08-04T13:59:27.051Z",
+    "last_seen": "2026-08-04T13:59:27.051Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-18T13:59:27.051Z"
   }
 }
