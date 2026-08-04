@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-07-28T08:26:17.473Z",
-    "times_seen": 15,
+    "last_seen": "2026-08-04T08:30:02.392Z",
+    "times_seen": 16,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-04T08:26:17.459Z"
+    "cooldown_until": "2026-08-11T08:30:02.380Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-07-28T08:26:20.404Z",
-    "times_seen": 15,
+    "last_seen": "2026-08-04T08:30:06.692Z",
+    "times_seen": 16,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-04T08:26:20.404Z"
+    "cooldown_until": "2026-08-11T08:30:06.692Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -47490,5 +47490,98 @@
     "reason": "low_stars",
     "stars": 15,
     "cooldown_until": "2026-08-18T02:03:02.799Z"
+  },
+  "leonickson1/swiftlet": {
+    "first_seen": "2026-08-04T08:30:08.166Z",
+    "last_seen": "2026-08-04T08:30:08.166Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T08:30:08.166Z"
+  },
+  "accio-lab/realreplicabench": {
+    "first_seen": "2026-08-04T08:30:10.321Z",
+    "last_seen": "2026-08-04T08:30:10.321Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T08:30:10.321Z"
+  },
+  "mr-funny/hbg-classical-poem-silk-video": {
+    "first_seen": "2026-08-04T08:30:12.028Z",
+    "last_seen": "2026-08-04T08:30:12.028Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T08:30:12.028Z"
+  },
+  "hanaayane/remielle-codex-pet": {
+    "first_seen": "2026-08-04T08:30:12.679Z",
+    "last_seen": "2026-08-04T08:30:12.679Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T08:30:12.679Z"
+  },
+  "amap-ml/longhorizon-harness": {
+    "first_seen": "2026-08-04T08:30:13.442Z",
+    "last_seen": "2026-08-04T08:30:13.442Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T08:30:13.442Z"
+  },
+  "texpile/texpile": {
+    "first_seen": "2026-08-04T08:30:16.042Z",
+    "last_seen": "2026-08-04T08:30:16.042Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-11T08:30:16.042Z"
+  },
+  "yeet-src/httpwatch": {
+    "first_seen": "2026-08-04T08:30:16.411Z",
+    "last_seen": "2026-08-04T08:30:16.411Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-18T08:30:16.411Z"
+  },
+  "shiningpr1sm/javamultitool": {
+    "first_seen": "2026-08-04T08:30:16.780Z",
+    "last_seen": "2026-08-04T08:30:16.780Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-18T08:30:16.780Z"
+  },
+  "spenego/obidos": {
+    "first_seen": "2026-08-04T08:30:17.145Z",
+    "last_seen": "2026-08-04T08:30:17.145Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-18T08:30:17.145Z"
   }
 }
