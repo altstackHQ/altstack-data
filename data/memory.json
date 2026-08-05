@@ -48140,5 +48140,100 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-19T13:56:53.062Z"
+  },
+  "oil-oil/codex-deepseek-subagent": {
+    "first_seen": "2026-08-05T19:24:02.392Z",
+    "last_seen": "2026-08-05T19:24:02.392Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T19:24:02.375Z"
+  },
+  "sophiamyang/finger-frame-effect-lucy": {
+    "first_seen": "2026-08-05T19:24:02.997Z",
+    "last_seen": "2026-08-05T19:24:02.997Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T19:24:02.997Z"
+  },
+  "adrida/hud-mode": {
+    "first_seen": "2026-08-05T19:24:03.354Z",
+    "last_seen": "2026-08-05T19:24:03.354Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-19T19:24:03.353Z"
+  },
+  "t76-org/drpd": {
+    "first_seen": "2026-08-05T19:24:04.027Z",
+    "last_seen": "2026-08-05T19:24:04.027Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T19:24:04.027Z"
+  },
+  "mac-at-sifsys/sif-1.0": {
+    "first_seen": "2026-08-05T19:24:04.346Z",
+    "last_seen": "2026-08-05T19:24:04.346Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-19T19:24:04.346Z"
+  },
+  "kotro-labs/kotro-proxy-engine": {
+    "first_seen": "2026-08-05T19:24:04.750Z",
+    "last_seen": "2026-08-05T19:24:04.750Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-08-19T19:24:04.750Z"
+  },
+  "watchfire-io/watchfire": {
+    "first_seen": "2026-08-05T19:24:05.374Z",
+    "last_seen": "2026-08-05T19:24:05.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T19:24:05.374Z"
+  },
+  "lucidos-dev/lucidos": {
+    "first_seen": "2026-08-05T19:24:05.717Z",
+    "last_seen": "2026-08-05T19:24:05.717Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-19T19:24:05.717Z"
+  },
+  "aadisang/hand-wave": {
+    "first_seen": "2026-08-05T19:24:06.085Z",
+    "last_seen": "2026-08-05T19:24:06.085Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-19T19:24:06.085Z"
   }
 }
