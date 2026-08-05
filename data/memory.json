@@ -48077,5 +48077,68 @@
     "reason": "low_stars",
     "stars": 12,
     "cooldown_until": "2026-08-19T08:28:51.779Z"
+  },
+  "mikiarlo3/awesome-growth-hacking-skills": {
+    "first_seen": "2026-08-05T13:56:49.190Z",
+    "last_seen": "2026-08-05T13:56:49.190Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T13:56:49.178Z"
+  },
+  "binaryify/open-kimi-ppt-skill": {
+    "first_seen": "2026-08-05T13:56:50.607Z",
+    "last_seen": "2026-08-05T13:56:50.607Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T13:56:50.607Z"
+  },
+  "onurcelep/labgrid-mcp": {
+    "first_seen": "2026-08-05T13:56:51.898Z",
+    "last_seen": "2026-08-05T13:56:51.898Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-19T13:56:51.898Z"
+  },
+  "makethisbetter/makethisbetter-js": {
+    "first_seen": "2026-08-05T13:56:52.385Z",
+    "last_seen": "2026-08-05T13:56:52.385Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T13:56:52.385Z"
+  },
+  "augustusw/audio-tldr-skill": {
+    "first_seen": "2026-08-05T13:56:52.698Z",
+    "last_seen": "2026-08-05T13:56:52.698Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-08-19T13:56:52.698Z"
+  },
+  "overcheck/overcheck": {
+    "first_seen": "2026-08-05T13:56:53.062Z",
+    "last_seen": "2026-08-05T13:56:53.062Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-19T13:56:53.062Z"
   }
 }
