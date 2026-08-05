@@ -47883,5 +47883,148 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-18T19:25:05.286Z"
+  },
+  "kkkkhazix/human-writing": {
+    "first_seen": "2026-08-05T02:01:47.230Z",
+    "last_seen": "2026-08-05T02:01:47.230Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:47.220Z"
+  },
+  "xmarre/comfyui-spectrum-minimax-h3": {
+    "first_seen": "2026-08-05T02:01:47.929Z",
+    "last_seen": "2026-08-05T02:01:47.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:47.929Z"
+  },
+  "fuxicodex/fuxi": {
+    "first_seen": "2026-08-05T02:01:48.624Z",
+    "last_seen": "2026-08-05T02:01:48.624Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:48.624Z"
+  },
+  "cristicretu/diri": {
+    "first_seen": "2026-08-05T02:01:49.262Z",
+    "last_seen": "2026-08-05T02:01:49.262Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:49.262Z"
+  },
+  "kijai/comfyui-solattn_triton": {
+    "first_seen": "2026-08-05T02:01:50.650Z",
+    "last_seen": "2026-08-05T02:01:50.650Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:50.650Z"
+  },
+  "helpmeeadice/te-speed-minimaxh3-oss": {
+    "first_seen": "2026-08-05T02:01:52.038Z",
+    "last_seen": "2026-08-05T02:01:52.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:52.038Z"
+  },
+  "nooncin667/robloxscripthub": {
+    "first_seen": "2026-08-05T02:01:52.703Z",
+    "last_seen": "2026-08-05T02:01:52.703Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:52.703Z"
+  },
+  "liyue-aigc/female-outfit-director": {
+    "first_seen": "2026-08-05T02:01:53.397Z",
+    "last_seen": "2026-08-05T02:01:53.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:53.397Z"
+  },
+  "hermes-brasil/hermes-brasil": {
+    "first_seen": "2026-08-05T02:01:54.871Z",
+    "last_seen": "2026-08-05T02:01:54.871Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:54.871Z"
+  },
+  "achrefelouafi/avatarcastingabilitiesthreejs": {
+    "first_seen": "2026-08-05T02:01:55.538Z",
+    "last_seen": "2026-08-05T02:01:55.538Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:55.538Z"
+  },
+  "zzzlc0405/photo-abstract-editorial": {
+    "first_seen": "2026-08-05T02:01:56.244Z",
+    "last_seen": "2026-08-05T02:01:56.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T02:01:56.243Z"
+  },
+  "brian-armstrong/fec": {
+    "first_seen": "2026-08-05T02:01:57.290Z",
+    "last_seen": "2026-08-05T02:01:57.290Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-08-19T02:01:57.290Z"
+  },
+  "qainsights/pleasantries": {
+    "first_seen": "2026-08-05T02:01:57.637Z",
+    "last_seen": "2026-08-05T02:01:57.637Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-19T02:01:57.637Z"
+  },
+  "andrewfader/yanes": {
+    "first_seen": "2026-08-05T02:01:57.984Z",
+    "last_seen": "2026-08-05T02:01:57.984Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-19T02:01:57.984Z"
   }
 }
