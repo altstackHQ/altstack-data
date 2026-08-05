@@ -48026,5 +48026,56 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-19T02:01:57.984Z"
+  },
+  "criptogus/hermesoffice": {
+    "first_seen": "2026-08-05T08:28:48.256Z",
+    "last_seen": "2026-08-05T08:28:48.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T08:28:48.243Z"
+  },
+  "jd-opensource/joyai-video-edit": {
+    "first_seen": "2026-08-05T08:28:49.344Z",
+    "last_seen": "2026-08-05T08:28:49.344Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T08:28:49.344Z"
+  },
+  "tr1dae/comfyui-minimaxh3_latentupscaler": {
+    "first_seen": "2026-08-05T08:28:49.821Z",
+    "last_seen": "2026-08-05T08:28:49.821Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T08:28:49.821Z"
+  },
+  "huangserva/comfyui_minimaxh3_director": {
+    "first_seen": "2026-08-05T08:28:50.893Z",
+    "last_seen": "2026-08-05T08:28:50.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-12T08:28:50.893Z"
+  },
+  "mcp-box/mcpscore": {
+    "first_seen": "2026-08-05T08:28:51.779Z",
+    "last_seen": "2026-08-05T08:28:51.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-08-19T08:28:51.779Z"
   }
 }
