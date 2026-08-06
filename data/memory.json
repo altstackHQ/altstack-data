@@ -48460,5 +48460,48 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-20T08:27:13.350Z"
+  },
+  "larryvrh/comfyui-minimax-h3-turbo": {
+    "first_seen": "2026-08-06T13:54:14.844Z",
+    "last_seen": "2026-08-06T13:54:14.844Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T13:54:14.832Z"
+  },
+  "palamim/starboard": {
+    "first_seen": "2026-08-06T13:54:15.184Z",
+    "last_seen": "2026-08-06T13:54:15.184Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-20T13:54:15.184Z"
+  },
+  "slickfast/github-dashboard-template": {
+    "first_seen": "2026-08-06T13:54:15.511Z",
+    "last_seen": "2026-08-06T13:54:15.511Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-20T13:54:15.511Z"
+  },
+  "piemontef/t": {
+    "first_seen": "2026-08-06T13:54:15.815Z",
+    "last_seen": "2026-08-06T13:54:15.815Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-20T13:54:15.815Z"
   }
 }
