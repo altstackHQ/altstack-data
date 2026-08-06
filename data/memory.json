@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-07-30T08:16:30.722Z",
-    "times_seen": 10,
+    "last_seen": "2026-08-06T08:27:04.294Z",
+    "times_seen": 11,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-08-06T08:16:30.706Z"
+    "cooldown_until": "2026-08-13T08:27:04.280Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -48429,5 +48429,36 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-20T02:05:59.043Z"
+  },
+  "akalikbergenov/cyclop": {
+    "first_seen": "2026-08-06T08:27:12.168Z",
+    "last_seen": "2026-08-06T08:27:12.168Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T08:27:12.168Z"
+  },
+  "pradipta/wallfacer": {
+    "first_seen": "2026-08-06T08:27:12.930Z",
+    "last_seen": "2026-08-06T08:27:12.930Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T08:27:12.930Z"
+  },
+  "narasimha1997/sift": {
+    "first_seen": "2026-08-06T08:27:13.350Z",
+    "last_seen": "2026-08-06T08:27:13.350Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-20T08:27:13.350Z"
   }
 }
