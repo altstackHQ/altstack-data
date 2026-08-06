@@ -48235,5 +48235,199 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-08-19T19:24:06.085Z"
+  },
+  "0xwilliamortiz/claude-red": {
+    "first_seen": "2026-08-06T02:05:50.130Z",
+    "last_seen": "2026-08-06T02:05:50.130Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:50.117Z"
+  },
+  "domaup/coldcard-poc": {
+    "first_seen": "2026-08-06T02:05:51.442Z",
+    "last_seen": "2026-08-06T02:05:51.442Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:51.442Z"
+  },
+  "lincwang123-bot/moonlit-stories": {
+    "first_seen": "2026-08-06T02:05:52.288Z",
+    "last_seen": "2026-08-06T02:05:52.288Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:52.288Z"
+  },
+  "mika50000/gpt-link": {
+    "first_seen": "2026-08-06T02:05:52.688Z",
+    "last_seen": "2026-08-06T02:05:52.688Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:52.688Z"
+  },
+  "margelo/ai-chat-demo": {
+    "first_seen": "2026-08-06T02:05:53.139Z",
+    "last_seen": "2026-08-06T02:05:53.139Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:53.139Z"
+  },
+  "aimixer/comfyui_minimaxh3_director": {
+    "first_seen": "2026-08-06T02:05:53.603Z",
+    "last_seen": "2026-08-06T02:05:53.603Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:53.603Z"
+  },
+  "seesee75-commits/comfyui-minimaxh3-director": {
+    "first_seen": "2026-08-06T02:05:54.001Z",
+    "last_seen": "2026-08-06T02:05:54.001Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:54.001Z"
+  },
+  "tamesenseiangular/blooketauto-soft": {
+    "first_seen": "2026-08-06T02:05:54.459Z",
+    "last_seen": "2026-08-06T02:05:54.459Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:54.459Z"
+  },
+  "utopia-v/codex-deepseek-subagent": {
+    "first_seen": "2026-08-06T02:05:54.911Z",
+    "last_seen": "2026-08-06T02:05:54.911Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:54.911Z"
+  },
+  "stanuwu/d2-prebl-explorer-info": {
+    "first_seen": "2026-08-06T02:05:55.838Z",
+    "last_seen": "2026-08-06T02:05:55.838Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:55.838Z"
+  },
+  "432539/gpt": {
+    "first_seen": "2026-08-06T02:05:56.243Z",
+    "last_seen": "2026-08-06T02:05:56.243Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:56.243Z"
+  },
+  "kimglee/cambium": {
+    "first_seen": "2026-08-06T02:05:56.657Z",
+    "last_seen": "2026-08-06T02:05:56.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:56.657Z"
+  },
+  "pengchujin/tower": {
+    "first_seen": "2026-08-06T02:05:57.029Z",
+    "last_seen": "2026-08-06T02:05:57.029Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:57.029Z"
+  },
+  "fontwow/fontwow.github.io": {
+    "first_seen": "2026-08-06T02:05:57.469Z",
+    "last_seen": "2026-08-06T02:05:57.469Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:57.469Z"
+  },
+  "zirakin/airport-recommendation": {
+    "first_seen": "2026-08-06T02:05:57.897Z",
+    "last_seen": "2026-08-06T02:05:57.897Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-13T02:05:57.897Z"
+  },
+  "capysc/capy-cli": {
+    "first_seen": "2026-08-06T02:05:58.197Z",
+    "last_seen": "2026-08-06T02:05:58.197Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-08-20T02:05:58.197Z"
+  },
+  "matt-w-horn/morningprint": {
+    "first_seen": "2026-08-06T02:05:58.482Z",
+    "last_seen": "2026-08-06T02:05:58.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-20T02:05:58.482Z"
+  },
+  "lucasolopes/arxid": {
+    "first_seen": "2026-08-06T02:05:58.731Z",
+    "last_seen": "2026-08-06T02:05:58.731Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-20T02:05:58.731Z"
+  },
+  "matheuscamarques/pon_beam": {
+    "first_seen": "2026-08-06T02:05:59.043Z",
+    "last_seen": "2026-08-06T02:05:59.043Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-20T02:05:59.043Z"
   }
 }
