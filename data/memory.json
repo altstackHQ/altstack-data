@@ -48620,5 +48620,207 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-08-20T23:54:56.477Z"
+  },
+  "t8mars/comfyui-minimax-h3-audio-t8": {
+    "first_seen": "2026-08-07T02:25:47.187Z",
+    "last_seen": "2026-08-07T02:25:47.187Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:47.174Z"
+  },
+  "context-labs/i-need-h200s": {
+    "first_seen": "2026-08-07T02:25:47.934Z",
+    "last_seen": "2026-08-07T02:25:47.934Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:47.934Z"
+  },
+  "ridgerookpattern/comix-autoclipper": {
+    "first_seen": "2026-08-07T02:25:48.620Z",
+    "last_seen": "2026-08-07T02:25:48.620Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:48.620Z"
+  },
+  "1038lab/comfyui-minimax-h3-promptor": {
+    "first_seen": "2026-08-07T02:25:49.270Z",
+    "last_seen": "2026-08-07T02:25:49.270Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:49.270Z"
+  },
+  "zestfulpulse/ios-app-store-submit": {
+    "first_seen": "2026-08-07T02:25:49.940Z",
+    "last_seen": "2026-08-07T02:25:49.940Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:49.940Z"
+  },
+  "okky-x0f/qoder-creator": {
+    "first_seen": "2026-08-07T02:25:50.641Z",
+    "last_seen": "2026-08-07T02:25:50.641Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:50.641Z"
+  },
+  "chunkithwang/design-playful-app-icons": {
+    "first_seen": "2026-08-07T02:25:51.289Z",
+    "last_seen": "2026-08-07T02:25:51.289Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:51.289Z"
+  },
+  "nkxx188/comfyui-minimaxh3-easy": {
+    "first_seen": "2026-08-07T02:25:51.995Z",
+    "last_seen": "2026-08-07T02:25:51.995Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:51.995Z"
+  },
+  "eternityspring/shuohao-skills": {
+    "first_seen": "2026-08-07T02:25:53.401Z",
+    "last_seen": "2026-08-07T02:25:53.401Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:53.401Z"
+  },
+  "erikfiala/google-maps-scraper": {
+    "first_seen": "2026-08-07T02:25:54.115Z",
+    "last_seen": "2026-08-07T02:25:54.115Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:54.115Z"
+  },
+  "eticmedya/vibecodingex": {
+    "first_seen": "2026-08-07T02:25:54.772Z",
+    "last_seen": "2026-08-07T02:25:54.772Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:54.772Z"
+  },
+  "v4bel/zapscape": {
+    "first_seen": "2026-08-07T02:25:55.455Z",
+    "last_seen": "2026-08-07T02:25:55.455Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:55.455Z"
+  },
+  "figureryoway/musescore-fx-premium": {
+    "first_seen": "2026-08-07T02:25:56.209Z",
+    "last_seen": "2026-08-07T02:25:56.209Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:56.209Z"
+  },
+  "dembsky/propmotion": {
+    "first_seen": "2026-08-07T02:25:56.904Z",
+    "last_seen": "2026-08-07T02:25:56.904Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:56.904Z"
+  },
+  "plankerescalator/mobiletrans-plus-core": {
+    "first_seen": "2026-08-07T02:25:57.574Z",
+    "last_seen": "2026-08-07T02:25:57.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:57.574Z"
+  },
+  "lbx154/argus": {
+    "first_seen": "2026-08-07T02:25:58.186Z",
+    "last_seen": "2026-08-07T02:25:58.186Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:58.186Z"
+  },
+  "dlcccc71913/skill-make-photo-stamp-archive": {
+    "first_seen": "2026-08-07T02:25:58.837Z",
+    "last_seen": "2026-08-07T02:25:58.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:58.837Z"
+  },
+  "whitedns/whitevpn-desktop": {
+    "first_seen": "2026-08-07T02:25:59.541Z",
+    "last_seen": "2026-08-07T02:25:59.541Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T02:25:59.541Z"
+  },
+  "noambrand/kivun-terminal-wsl": {
+    "first_seen": "2026-08-07T02:25:59.886Z",
+    "last_seen": "2026-08-07T02:25:59.886Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-08-21T02:25:59.886Z"
+  },
+  "mateuszmyalski/makessg": {
+    "first_seen": "2026-08-07T02:26:00.439Z",
+    "last_seen": "2026-08-07T02:26:00.439Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-21T02:26:00.439Z"
   }
 }
