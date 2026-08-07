@@ -48822,5 +48822,15 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-21T02:26:00.439Z"
+  },
+  "bozhoudev/x-growth-handbook": {
+    "first_seen": "2026-08-07T07:14:20.734Z",
+    "last_seen": "2026-08-07T07:14:20.734Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T07:14:20.722Z"
   }
 }
