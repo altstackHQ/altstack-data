@@ -48873,5 +48873,69 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-21T12:52:50.678Z"
+  },
+  "armsx2/armsx3": {
+    "first_seen": "2026-08-07T18:48:26.111Z",
+    "last_seen": "2026-08-07T18:48:26.111Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T18:48:26.097Z"
+  },
+  "wyzer-lang/wyzer": {
+    "first_seen": "2026-08-07T18:48:26.593Z",
+    "last_seen": "2026-08-07T18:48:26.593Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T18:48:26.593Z"
+  },
+  "tanrax/bitpoint": {
+    "first_seen": "2026-08-07T18:48:27.423Z",
+    "last_seen": "2026-08-07T18:48:27.423Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-21T18:48:27.423Z"
+  },
+  "yikerman/tamron-lens-control": {
+    "first_seen": "2026-08-07T18:48:27.740Z",
+    "last_seen": "2026-08-07T18:48:27.740Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-21T18:48:27.740Z"
+  },
+  "ieroboticsailab/rodeo": {
+    "first_seen": "2026-08-07T18:48:28.055Z",
+    "last_seen": "2026-08-07T18:48:28.055Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-21T18:48:28.055Z"
+  },
+  "tpatrouillat/tokease": {
+    "first_seen": "2026-08-07T18:48:29.060Z",
+    "last_seen": "2026-08-07T18:48:29.060Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-21T18:48:29.060Z"
   }
 }
