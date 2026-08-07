@@ -48832,5 +48832,46 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-14T07:14:20.722Z"
+  },
+  "shiqiaoshangxue/aetheris": {
+    "first_seen": "2026-08-07T12:52:47.917Z",
+    "last_seen": "2026-08-07T12:52:47.917Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T12:52:47.906Z"
+  },
+  "sowarma/wp2shell-poc": {
+    "first_seen": "2026-08-07T12:52:48.538Z",
+    "last_seen": "2026-08-07T12:52:48.538Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T12:52:48.538Z"
+  },
+  "maliubiao/dgx-spark-2-deepseek-flash-0731": {
+    "first_seen": "2026-08-07T12:52:49.103Z",
+    "last_seen": "2026-08-07T12:52:49.103Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-14T12:52:49.103Z"
+  },
+  "satyasairay/remembrane": {
+    "first_seen": "2026-08-07T12:52:50.678Z",
+    "last_seen": "2026-08-07T12:52:50.678Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-21T12:52:50.678Z"
   }
 }
