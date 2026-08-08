@@ -48937,5 +48937,199 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-21T18:48:29.060Z"
+  },
+  "xoreaxeaxeax/asm-hall-of-shame": {
+    "first_seen": "2026-08-08T01:12:19.770Z",
+    "last_seen": "2026-08-08T01:12:19.770Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:19.757Z"
+  },
+  "mengto/sketchbook": {
+    "first_seen": "2026-08-08T01:12:20.788Z",
+    "last_seen": "2026-08-08T01:12:20.788Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:20.788Z"
+  },
+  "flaminis/dalaran": {
+    "first_seen": "2026-08-08T01:12:21.761Z",
+    "last_seen": "2026-08-08T01:12:21.761Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:21.761Z"
+  },
+  "v4c38/esp32-fluidbox": {
+    "first_seen": "2026-08-08T01:12:22.247Z",
+    "last_seen": "2026-08-08T01:12:22.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:22.247Z"
+  },
+  "daved-lab2001o0/adopt-me-roblox-script": {
+    "first_seen": "2026-08-08T01:12:22.695Z",
+    "last_seen": "2026-08-08T01:12:22.695Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:22.695Z"
+  },
+  "yu-0312/editorial-vision-studio": {
+    "first_seen": "2026-08-08T01:12:23.577Z",
+    "last_seen": "2026-08-08T01:12:23.577Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:23.577Z"
+  },
+  "jmarshall23/quake_4_alpha": {
+    "first_seen": "2026-08-08T01:12:24.010Z",
+    "last_seen": "2026-08-08T01:12:24.010Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:24.010Z"
+  },
+  "wtfox/luna.nvim": {
+    "first_seen": "2026-08-08T01:12:24.443Z",
+    "last_seen": "2026-08-08T01:12:24.443Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:24.443Z"
+  },
+  "lingbol088-spec/codex-gpt-5.6-5.5-instruct": {
+    "first_seen": "2026-08-08T01:12:24.922Z",
+    "last_seen": "2026-08-08T01:12:24.922Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:24.922Z"
+  },
+  "scavin/batteryhealth": {
+    "first_seen": "2026-08-08T01:12:25.402Z",
+    "last_seen": "2026-08-08T01:12:25.402Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:25.402Z"
+  },
+  "xoreaxeaxeax/smiiiiiiiiiiiiiiii": {
+    "first_seen": "2026-08-08T01:12:25.898Z",
+    "last_seen": "2026-08-08T01:12:25.898Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:25.898Z"
+  },
+  "samin100/codex-ios-assistant": {
+    "first_seen": "2026-08-08T01:12:27.407Z",
+    "last_seen": "2026-08-08T01:12:27.407Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:27.407Z"
+  },
+  "bomwiki/partmode": {
+    "first_seen": "2026-08-08T01:12:27.878Z",
+    "last_seen": "2026-08-08T01:12:27.878Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:27.878Z"
+  },
+  "bvsden/intimacy-guide-replication": {
+    "first_seen": "2026-08-08T01:12:28.319Z",
+    "last_seen": "2026-08-08T01:12:28.319Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:28.319Z"
+  },
+  "ryancswallace/jobman": {
+    "first_seen": "2026-08-08T01:12:29.252Z",
+    "last_seen": "2026-08-08T01:12:29.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-22T01:12:29.252Z"
+  },
+  "martinus/oans": {
+    "first_seen": "2026-08-08T01:12:29.628Z",
+    "last_seen": "2026-08-08T01:12:29.628Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-22T01:12:29.628Z"
+  },
+  "roku-oss/dirblock": {
+    "first_seen": "2026-08-08T01:12:30.798Z",
+    "last_seen": "2026-08-08T01:12:30.798Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-22T01:12:30.798Z"
+  },
+  "mcpp-community/mcpp": {
+    "first_seen": "2026-08-08T01:12:31.273Z",
+    "last_seen": "2026-08-08T01:12:31.273Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T01:12:31.273Z"
+  },
+  "tacyan/zaivern-code": {
+    "first_seen": "2026-08-08T01:12:31.592Z",
+    "last_seen": "2026-08-08T01:12:31.592Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-22T01:12:31.592Z"
   }
 }
