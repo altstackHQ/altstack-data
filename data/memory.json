@@ -49131,5 +49131,57 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-22T01:12:31.592Z"
+  },
+  "ruudkoeyvoets/polymarket-trading-bot-twap": {
+    "first_seen": "2026-08-08T06:43:13.434Z",
+    "last_seen": "2026-08-08T06:43:13.434Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T06:43:13.421Z"
+  },
+  "3169657175/gpt-webcodex": {
+    "first_seen": "2026-08-08T06:43:13.908Z",
+    "last_seen": "2026-08-08T06:43:13.908Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T06:43:13.908Z"
+  },
+  "alfiecg24/titan": {
+    "first_seen": "2026-08-08T06:43:14.344Z",
+    "last_seen": "2026-08-08T06:43:14.344Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T06:43:14.344Z"
+  },
+  "mukundzha/scrut": {
+    "first_seen": "2026-08-08T06:43:16.193Z",
+    "last_seen": "2026-08-08T06:43:16.193Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-22T06:43:16.193Z"
+  },
+  "podiom/podiom": {
+    "first_seen": "2026-08-08T06:43:16.546Z",
+    "last_seen": "2026-08-08T06:43:16.546Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-22T06:43:16.546Z"
   }
 }
