@@ -49255,5 +49255,152 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-15T12:37:33.886Z"
+  },
+  "mengto/kage": {
+    "first_seen": "2026-08-08T18:30:36.776Z",
+    "last_seen": "2026-08-08T18:30:36.776Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T18:30:36.763Z"
+  },
+  "aashaexo/soundshuman": {
+    "first_seen": "2026-08-08T18:30:38.258Z",
+    "last_seen": "2026-08-08T18:30:38.258Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T18:30:38.258Z"
+  },
+  "goroman/vibewatch": {
+    "first_seen": "2026-08-08T18:30:38.965Z",
+    "last_seen": "2026-08-08T18:30:38.965Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T18:30:38.965Z"
+  },
+  "nikodemon80/comfyui-h3-motion-context": {
+    "first_seen": "2026-08-08T18:30:39.635Z",
+    "last_seen": "2026-08-08T18:30:39.635Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T18:30:39.635Z"
+  },
+  "paoloanzn/pi-black": {
+    "first_seen": "2026-08-08T18:30:40.344Z",
+    "last_seen": "2026-08-08T18:30:40.344Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T18:30:40.344Z"
+  },
+  "sindhusp/kindle-mdns-rcvr": {
+    "first_seen": "2026-08-08T18:30:40.743Z",
+    "last_seen": "2026-08-08T18:30:40.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-22T18:30:40.743Z"
+  },
+  "ar9av/clippy": {
+    "first_seen": "2026-08-08T18:30:41.156Z",
+    "last_seen": "2026-08-08T18:30:41.156Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-22T18:30:41.156Z"
+  },
+  "skorotkiewicz/algebruh": {
+    "first_seen": "2026-08-08T18:30:41.540Z",
+    "last_seen": "2026-08-08T18:30:41.540Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-22T18:30:41.540Z"
+  },
+  "viggy28/pg_savior": {
+    "first_seen": "2026-08-08T18:30:42.235Z",
+    "last_seen": "2026-08-08T18:30:42.235Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T18:30:42.235Z"
+  },
+  "alpbahadur/49agents": {
+    "first_seen": "2026-08-08T18:30:42.939Z",
+    "last_seen": "2026-08-08T18:30:42.939Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-15T18:30:42.939Z"
+  },
+  "hyperlogue/captain-miao": {
+    "first_seen": "2026-08-08T18:30:43.384Z",
+    "last_seen": "2026-08-08T18:30:43.384Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-08-22T18:30:43.384Z"
+  },
+  "ryanzhou/dsv4-codex-proxy": {
+    "first_seen": "2026-08-08T18:30:43.815Z",
+    "last_seen": "2026-08-08T18:30:43.815Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-22T18:30:43.815Z"
+  },
+  "ozkanpakdil/geotop": {
+    "first_seen": "2026-08-08T18:30:44.187Z",
+    "last_seen": "2026-08-08T18:30:44.187Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-22T18:30:44.187Z"
+  },
+  "kannandreams/secchi": {
+    "first_seen": "2026-08-08T18:30:44.600Z",
+    "last_seen": "2026-08-08T18:30:44.600Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-08-22T18:30:44.600Z"
   }
 }
