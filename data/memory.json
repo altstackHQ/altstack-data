@@ -49690,5 +49690,100 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-23T06:47:21.236Z"
+  },
+  "sateezg/codex-bridge": {
+    "first_seen": "2026-08-09T12:40:08.672Z",
+    "last_seen": "2026-08-09T12:40:08.672Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-16T12:40:08.657Z"
+  },
+  "miqdadbadjuber/anti-slop": {
+    "first_seen": "2026-08-09T12:40:09.687Z",
+    "last_seen": "2026-08-09T12:40:09.687Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-16T12:40:09.687Z"
+  },
+  "jayjokerr/arknights-pixel-autofill": {
+    "first_seen": "2026-08-09T12:40:10.125Z",
+    "last_seen": "2026-08-09T12:40:10.125Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-16T12:40:10.125Z"
+  },
+  "howieyoung/cli-times": {
+    "first_seen": "2026-08-09T12:40:10.456Z",
+    "last_seen": "2026-08-09T12:40:10.456Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-23T12:40:10.456Z"
+  },
+  "squint-cljs/choq": {
+    "first_seen": "2026-08-09T12:40:10.746Z",
+    "last_seen": "2026-08-09T12:40:10.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-23T12:40:10.746Z"
+  },
+  "aantich/oneringai": {
+    "first_seen": "2026-08-09T12:40:11.178Z",
+    "last_seen": "2026-08-09T12:40:11.178Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-16T12:40:11.178Z"
+  },
+  "kaibuildsai/kindle-for-whoop": {
+    "first_seen": "2026-08-09T12:40:11.556Z",
+    "last_seen": "2026-08-09T12:40:11.556Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-23T12:40:11.556Z"
+  },
+  "ahmadpiran/restoredrill": {
+    "first_seen": "2026-08-09T12:40:11.881Z",
+    "last_seen": "2026-08-09T12:40:11.881Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-23T12:40:11.881Z"
+  },
+  "rehanrana11/evidence-verify": {
+    "first_seen": "2026-08-09T12:40:12.141Z",
+    "last_seen": "2026-08-09T12:40:12.141Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-23T12:40:12.141Z"
   }
 }
