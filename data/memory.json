@@ -49627,5 +49627,68 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-23T01:17:49.277Z"
+  },
+  "mewamew/my_ai_town": {
+    "first_seen": "2026-08-09T06:47:19.531Z",
+    "last_seen": "2026-08-09T06:47:19.531Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-16T06:47:19.517Z"
+  },
+  "jmarshall23/tech5": {
+    "first_seen": "2026-08-09T06:47:19.967Z",
+    "last_seen": "2026-08-09T06:47:19.967Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-16T06:47:19.967Z"
+  },
+  "yinglingh/limioryn": {
+    "first_seen": "2026-08-09T06:47:20.370Z",
+    "last_seen": "2026-08-09T06:47:20.370Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-16T06:47:20.370Z"
+  },
+  "tohid4n/qwen3.8-max-local-coding": {
+    "first_seen": "2026-08-09T06:47:20.678Z",
+    "last_seen": "2026-08-09T06:47:20.678Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-23T06:47:20.678Z"
+  },
+  "opscart/opscart-k8s-watcher": {
+    "first_seen": "2026-08-09T06:47:20.975Z",
+    "last_seen": "2026-08-09T06:47:20.975Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-23T06:47:20.975Z"
+  },
+  "pjhkorea/photonic-mesh-fng-router": {
+    "first_seen": "2026-08-09T06:47:21.236Z",
+    "last_seen": "2026-08-09T06:47:21.236Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-23T06:47:21.236Z"
   }
 }
