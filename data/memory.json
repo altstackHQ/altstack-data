@@ -50280,5 +50280,67 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-17T07:21:59.211Z"
+  },
+  "fzakaria/nixpkgs-multiverse": {
+    "first_seen": "2026-08-10T12:57:21.448Z",
+    "last_seen": "2026-08-10T12:57:21.448Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T12:57:21.434Z"
+  },
+  "wild-canyonhoxo3344/ai-trading-bot-codepen": {
+    "first_seen": "2026-08-10T12:57:23.038Z",
+    "last_seen": "2026-08-10T12:57:23.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T12:57:23.038Z"
+  },
+  "rit3zh/expo-content-transition": {
+    "first_seen": "2026-08-10T12:57:24.068Z",
+    "last_seen": "2026-08-10T12:57:24.068Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T12:57:24.068Z"
+  },
+  "ilearn-agent/janus": {
+    "first_seen": "2026-08-10T12:57:24.942Z",
+    "last_seen": "2026-08-10T12:57:24.942Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T12:57:24.942Z"
+  },
+  "getpassmint/passmint": {
+    "first_seen": "2026-08-10T12:57:25.320Z",
+    "last_seen": "2026-08-10T12:57:25.320Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-24T12:57:25.320Z"
+  },
+  "armin5872/optiqra": {
+    "first_seen": "2026-08-10T12:57:25.713Z",
+    "last_seen": "2026-08-10T12:57:25.713Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-24T12:57:25.713Z"
   }
 }
