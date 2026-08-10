@@ -50342,5 +50342,152 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-08-24T12:57:25.713Z"
+  },
+  "antirez/h3.c": {
+    "first_seen": "2026-08-10T18:51:05.407Z",
+    "last_seen": "2026-08-10T18:51:05.407Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T18:51:05.393Z"
+  },
+  "nutllwhy/seedance-tvc-director": {
+    "first_seen": "2026-08-10T18:51:06.158Z",
+    "last_seen": "2026-08-10T18:51:06.158Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T18:51:06.158Z"
+  },
+  "shinyquagsire23/klepton": {
+    "first_seen": "2026-08-10T18:51:06.870Z",
+    "last_seen": "2026-08-10T18:51:06.870Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T18:51:06.870Z"
+  },
+  "eagerwrenmey8308/uniswap-arbitrage-bot": {
+    "first_seen": "2026-08-10T18:51:08.535Z",
+    "last_seen": "2026-08-10T18:51:08.535Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T18:51:08.535Z"
+  },
+  "johnkinyanjui/sprite-maker": {
+    "first_seen": "2026-08-10T18:51:09.236Z",
+    "last_seen": "2026-08-10T18:51:09.236Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T18:51:09.236Z"
+  },
+  "antigmalabs/ante": {
+    "first_seen": "2026-08-10T18:51:10.009Z",
+    "last_seen": "2026-08-10T18:51:10.009Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T18:51:10.009Z"
+  },
+  "lore-hex/quillcode": {
+    "first_seen": "2026-08-10T18:51:10.427Z",
+    "last_seen": "2026-08-10T18:51:10.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-24T18:51:10.427Z"
+  },
+  "juror-ai/juror": {
+    "first_seen": "2026-08-10T18:51:11.138Z",
+    "last_seen": "2026-08-10T18:51:11.138Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T18:51:11.138Z"
+  },
+  "monjurulkarim/privateredact": {
+    "first_seen": "2026-08-10T18:51:11.572Z",
+    "last_seen": "2026-08-10T18:51:11.572Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-24T18:51:11.572Z"
+  },
+  "publications-and-more/pub": {
+    "first_seen": "2026-08-10T18:51:12.003Z",
+    "last_seen": "2026-08-10T18:51:12.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-24T18:51:12.003Z"
+  },
+  "eliorpom-cmd/to-be-downloaded": {
+    "first_seen": "2026-08-10T18:51:12.452Z",
+    "last_seen": "2026-08-10T18:51:12.452Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-08-24T18:51:12.452Z"
+  },
+  "missingstudio/eva": {
+    "first_seen": "2026-08-10T18:51:12.835Z",
+    "last_seen": "2026-08-10T18:51:12.835Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-24T18:51:12.835Z"
+  },
+  "skyzer/skills": {
+    "first_seen": "2026-08-10T18:51:13.244Z",
+    "last_seen": "2026-08-10T18:51:13.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-24T18:51:13.244Z"
+  },
+  "david-oconnor/bio_tools": {
+    "first_seen": "2026-08-10T18:51:13.674Z",
+    "last_seen": "2026-08-10T18:51:13.674Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-24T18:51:13.674Z"
   }
 }
