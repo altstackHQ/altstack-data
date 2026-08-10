@@ -50216,5 +50216,69 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-24T01:19:43.094Z"
+  },
+  "stratopi-org/stratopi": {
+    "first_seen": "2026-08-10T07:21:57.249Z",
+    "last_seen": "2026-08-10T07:21:57.249Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-08-24T07:21:57.235Z"
+  },
+  "yaminbakoh4-dot/nexusmem": {
+    "first_seen": "2026-08-10T07:21:57.576Z",
+    "last_seen": "2026-08-10T07:21:57.576Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-24T07:21:57.576Z"
+  },
+  "memcode-ai/memcode": {
+    "first_seen": "2026-08-10T07:21:57.897Z",
+    "last_seen": "2026-08-10T07:21:57.897Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-24T07:21:57.897Z"
+  },
+  "erikwb/blueferry": {
+    "first_seen": "2026-08-10T07:21:58.230Z",
+    "last_seen": "2026-08-10T07:21:58.230Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-24T07:21:58.230Z"
+  },
+  "perso-ai/perso-dubbing-plugin": {
+    "first_seen": "2026-08-10T07:21:58.750Z",
+    "last_seen": "2026-08-10T07:21:58.750Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T07:21:58.750Z"
+  },
+  "haseebkhalid1507/synapscli": {
+    "first_seen": "2026-08-10T07:21:59.211Z",
+    "last_seen": "2026-08-10T07:21:59.211Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-17T07:21:59.211Z"
   }
 }
