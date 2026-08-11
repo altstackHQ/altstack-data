@@ -50683,5 +50683,106 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-25T01:18:14.999Z"
+  },
+  "gvzdv/claudish-to-english": {
+    "first_seen": "2026-08-11T06:59:00.892Z",
+    "last_seen": "2026-08-11T06:59:00.892Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:00.880Z"
+  },
+  "surya-koritala/loomfeed": {
+    "first_seen": "2026-08-11T06:59:03.066Z",
+    "last_seen": "2026-08-11T06:59:03.066Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:03.066Z"
+  },
+  "ayi-ai/nie-grassroots-logic": {
+    "first_seen": "2026-08-11T06:59:03.763Z",
+    "last_seen": "2026-08-11T06:59:03.763Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:03.763Z"
+  },
+  "0xjohnnydev/filzaslop": {
+    "first_seen": "2026-08-11T06:59:04.558Z",
+    "last_seen": "2026-08-11T06:59:04.558Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:04.558Z"
+  },
+  "ericzakariasson/gloss": {
+    "first_seen": "2026-08-11T06:59:05.255Z",
+    "last_seen": "2026-08-11T06:59:05.255Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:05.255Z"
+  },
+  "kkx94/oss-init": {
+    "first_seen": "2026-08-11T06:59:05.952Z",
+    "last_seen": "2026-08-11T06:59:05.952Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:05.952Z"
+  },
+  "lexmount/moli": {
+    "first_seen": "2026-08-11T06:59:06.764Z",
+    "last_seen": "2026-08-11T06:59:06.764Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:06.764Z"
+  },
+  "op7418/guizang-sports-skill": {
+    "first_seen": "2026-08-11T06:59:07.467Z",
+    "last_seen": "2026-08-11T06:59:07.467Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:07.467Z"
+  },
+  "activeing123/mcptoon": {
+    "first_seen": "2026-08-11T06:59:08.139Z",
+    "last_seen": "2026-08-11T06:59:08.139Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T06:59:08.139Z"
+  },
+  "samiam95124/basht": {
+    "first_seen": "2026-08-11T06:59:08.506Z",
+    "last_seen": "2026-08-11T06:59:08.506Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-25T06:59:08.506Z"
   }
 }
