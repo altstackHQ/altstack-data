@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-08-04T08:30:02.392Z",
-    "times_seen": 16,
+    "last_seen": "2026-08-11T12:53:32.289Z",
+    "times_seen": 17,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-11T08:30:02.380Z"
+    "cooldown_until": "2026-08-18T12:53:32.274Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-08-04T08:30:06.692Z",
-    "times_seen": 16,
+    "last_seen": "2026-08-11T12:53:36.134Z",
+    "times_seen": 17,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-11T08:30:06.692Z"
+    "cooldown_until": "2026-08-18T12:53:36.134Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -35730,14 +35730,14 @@
   },
   "switchboard-sdk/edgespeech": {
     "first_seen": "2026-07-09T19:38:27.338Z",
-    "last_seen": "2026-07-09T19:38:27.338Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-11T12:53:43.906Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 7,
-    "cooldown_until": "2026-07-23T19:38:27.338Z"
+    "stars": 11,
+    "cooldown_until": "2026-08-25T12:53:43.906Z"
   },
   "forgedculture/legibility-field-kit": {
     "first_seen": "2026-07-09T19:38:27.684Z",
@@ -50784,5 +50784,119 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-25T06:59:08.506Z"
+  },
+  "zhangzf1119/financial_intelligence_system_web": {
+    "first_seen": "2026-08-11T12:53:38.434Z",
+    "last_seen": "2026-08-11T12:53:38.434Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T12:53:38.434Z"
+  },
+  "0xnyn/airship": {
+    "first_seen": "2026-08-11T12:53:39.003Z",
+    "last_seen": "2026-08-11T12:53:39.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T12:53:39.003Z"
+  },
+  "prathamesh01110/prathamesh-docs": {
+    "first_seen": "2026-08-11T12:53:39.633Z",
+    "last_seen": "2026-08-11T12:53:39.633Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T12:53:39.633Z"
+  },
+  "eurekazang/cloudfolder": {
+    "first_seen": "2026-08-11T12:53:40.196Z",
+    "last_seen": "2026-08-11T12:53:40.196Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T12:53:40.196Z"
+  },
+  "50kg/image-to-slice": {
+    "first_seen": "2026-08-11T12:53:40.803Z",
+    "last_seen": "2026-08-11T12:53:40.803Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T12:53:40.803Z"
+  },
+  "zinklu/orca-orchestration": {
+    "first_seen": "2026-08-11T12:53:41.336Z",
+    "last_seen": "2026-08-11T12:53:41.336Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T12:53:41.336Z"
+  },
+  "prathamesh01110/marcos": {
+    "first_seen": "2026-08-11T12:53:41.889Z",
+    "last_seen": "2026-08-11T12:53:41.889Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T12:53:41.889Z"
+  },
+  "barvhaim/honeymcp": {
+    "first_seen": "2026-08-11T12:53:42.921Z",
+    "last_seen": "2026-08-11T12:53:42.921Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-08-25T12:53:42.921Z"
+  },
+  "stared/trmnl-x-claude-codex": {
+    "first_seen": "2026-08-11T12:53:43.246Z",
+    "last_seen": "2026-08-11T12:53:43.246Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-25T12:53:43.246Z"
+  },
+  "devfoundry-labs/configledger": {
+    "first_seen": "2026-08-11T12:53:43.557Z",
+    "last_seen": "2026-08-11T12:53:43.557Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-25T12:53:43.557Z"
+  },
+  "paracosmos-studio/tallier": {
+    "first_seen": "2026-08-11T12:53:44.265Z",
+    "last_seen": "2026-08-11T12:53:44.265Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-08-25T12:53:44.265Z"
   }
 }
