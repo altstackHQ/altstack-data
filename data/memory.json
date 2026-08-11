@@ -17902,14 +17902,14 @@
   },
   "mochow13/keen-code": {
     "first_seen": "2026-06-03T16:30:29.977Z",
-    "last_seen": "2026-06-03T16:30:29.977Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-11T01:18:13.867Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 18,
-    "cooldown_until": "2026-06-17T16:30:29.977Z"
+    "cooldown_until": "2026-08-18T01:18:13.867Z"
   },
   "axelwickm/or-tools-wasm": {
     "first_seen": "2026-06-03T16:30:31.893Z",
@@ -50489,5 +50489,199 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-24T18:51:13.674Z"
+  },
+  "swping999/scene-card-studio": {
+    "first_seen": "2026-08-11T01:18:02.714Z",
+    "last_seen": "2026-08-11T01:18:02.714Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:02.701Z"
+  },
+  "crimson-willow3w9ena/mev-terminal-bot": {
+    "first_seen": "2026-08-11T01:18:03.428Z",
+    "last_seen": "2026-08-11T01:18:03.428Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:03.428Z"
+  },
+  "iktok90-design/ai-smart-contract-auditor": {
+    "first_seen": "2026-08-11T01:18:04.214Z",
+    "last_seen": "2026-08-11T01:18:04.214Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:04.214Z"
+  },
+  "dan-techdev1998j3/binancetrandingbog": {
+    "first_seen": "2026-08-11T01:18:04.942Z",
+    "last_seen": "2026-08-11T01:18:04.942Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:04.942Z"
+  },
+  "omacom-io/ttfx": {
+    "first_seen": "2026-08-11T01:18:05.684Z",
+    "last_seen": "2026-08-11T01:18:05.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:05.684Z"
+  },
+  "gongchang2020/ollama-gui-manager": {
+    "first_seen": "2026-08-11T01:18:06.324Z",
+    "last_seen": "2026-08-11T01:18:06.324Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:06.324Z"
+  },
+  "kekovick79/geoguessr-cheat": {
+    "first_seen": "2026-08-11T01:18:06.969Z",
+    "last_seen": "2026-08-11T01:18:06.969Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:06.969Z"
+  },
+  "lassejlv/gpui-starter": {
+    "first_seen": "2026-08-11T01:18:07.759Z",
+    "last_seen": "2026-08-11T01:18:07.759Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:07.759Z"
+  },
+  "fabian-schwarz56/dandys-world-script-hub-v2026": {
+    "first_seen": "2026-08-11T01:18:08.459Z",
+    "last_seen": "2026-08-11T01:18:08.459Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:08.459Z"
+  },
+  "evanmiller862/instagram-automation-toolkit": {
+    "first_seen": "2026-08-11T01:18:09.145Z",
+    "last_seen": "2026-08-11T01:18:09.145Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:09.145Z"
+  },
+  "fisherhugo922/apex-rust-pc-script-exec": {
+    "first_seen": "2026-08-11T01:18:09.872Z",
+    "last_seen": "2026-08-11T01:18:09.872Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:09.872Z"
+  },
+  "hannesfischer87/cs2-skin-changer-hub": {
+    "first_seen": "2026-08-11T01:18:10.554Z",
+    "last_seen": "2026-08-11T01:18:10.554Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:10.554Z"
+  },
+  "zhiningsun/industrial-mcp": {
+    "first_seen": "2026-08-11T01:18:11.271Z",
+    "last_seen": "2026-08-11T01:18:11.271Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:11.271Z"
+  },
+  "alexvogel92/zorara-lua-script-hub": {
+    "first_seen": "2026-08-11T01:18:12.009Z",
+    "last_seen": "2026-08-11T01:18:12.009Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:12.009Z"
+  },
+  "mason-krueger1957/cs2-market-skin-radar": {
+    "first_seen": "2026-08-11T01:18:12.688Z",
+    "last_seen": "2026-08-11T01:18:12.688Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-18T01:18:12.688Z"
+  },
+  "leog/ai-pulse": {
+    "first_seen": "2026-08-11T01:18:13.091Z",
+    "last_seen": "2026-08-11T01:18:13.091Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-25T01:18:13.091Z"
+  },
+  "matonhp5108/opencodex": {
+    "first_seen": "2026-08-11T01:18:14.235Z",
+    "last_seen": "2026-08-11T01:18:14.235Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-08-25T01:18:14.235Z"
+  },
+  "winipedia/pyrig": {
+    "first_seen": "2026-08-11T01:18:14.619Z",
+    "last_seen": "2026-08-11T01:18:14.619Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-08-25T01:18:14.618Z"
+  },
+  "anishmoncivarghese/docsift": {
+    "first_seen": "2026-08-11T01:18:14.999Z",
+    "last_seen": "2026-08-11T01:18:14.999Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-25T01:18:14.999Z"
   }
 }
