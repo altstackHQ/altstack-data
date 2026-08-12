@@ -51099,5 +51099,182 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-08-25T19:03:19.279Z"
+  },
+  "sohaibdevv/youtube-music": {
+    "first_seen": "2026-08-12T01:25:47.468Z",
+    "last_seen": "2026-08-12T01:25:47.468Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:47.457Z"
+  },
+  "msnightmare/shieldbreak": {
+    "first_seen": "2026-08-12T01:25:47.898Z",
+    "last_seen": "2026-08-12T01:25:47.898Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:47.898Z"
+  },
+  "forcequitos/bad_query": {
+    "first_seen": "2026-08-12T01:25:48.325Z",
+    "last_seen": "2026-08-12T01:25:48.325Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:48.325Z"
+  },
+  "milind-soni/openmausbot": {
+    "first_seen": "2026-08-12T01:25:48.682Z",
+    "last_seen": "2026-08-12T01:25:48.682Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:48.682Z"
+  },
+  "mikiane/claude-watermark-cleaner": {
+    "first_seen": "2026-08-12T01:25:49.146Z",
+    "last_seen": "2026-08-12T01:25:49.146Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:49.146Z"
+  },
+  "kianzzz/book-sales-video": {
+    "first_seen": "2026-08-12T01:25:49.520Z",
+    "last_seen": "2026-08-12T01:25:49.520Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:49.520Z"
+  },
+  "jordyidk/slopkit": {
+    "first_seen": "2026-08-12T01:25:49.945Z",
+    "last_seen": "2026-08-12T01:25:49.945Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:49.945Z"
+  },
+  "superwired-labs/pulp": {
+    "first_seen": "2026-08-12T01:25:50.208Z",
+    "last_seen": "2026-08-12T01:25:50.208Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-26T01:25:50.208Z"
+  },
+  "bikeshaving/termdom": {
+    "first_seen": "2026-08-12T01:25:50.673Z",
+    "last_seen": "2026-08-12T01:25:50.673Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:50.673Z"
+  },
+  "builtbystef/beaver-backlog": {
+    "first_seen": "2026-08-12T01:25:50.956Z",
+    "last_seen": "2026-08-12T01:25:50.956Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-26T01:25:50.956Z"
+  },
+  "sarensw/macpacker": {
+    "first_seen": "2026-08-12T01:25:51.396Z",
+    "last_seen": "2026-08-12T01:25:51.396Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:51.396Z"
+  },
+  "tempesta-tech/xfw": {
+    "first_seen": "2026-08-12T01:25:51.872Z",
+    "last_seen": "2026-08-12T01:25:51.872Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T01:25:51.872Z"
+  },
+  "wdanfort/thinkingtype": {
+    "first_seen": "2026-08-12T01:25:52.149Z",
+    "last_seen": "2026-08-12T01:25:52.149Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-26T01:25:52.149Z"
+  },
+  "tackx/c8": {
+    "first_seen": "2026-08-12T01:25:52.458Z",
+    "last_seen": "2026-08-12T01:25:52.458Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-26T01:25:52.458Z"
+  },
+  "assembledev/edgepad": {
+    "first_seen": "2026-08-12T01:25:52.728Z",
+    "last_seen": "2026-08-12T01:25:52.728Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-08-26T01:25:52.728Z"
+  },
+  "vishal-dehurdle/hypersae": {
+    "first_seen": "2026-08-12T01:25:53.039Z",
+    "last_seen": "2026-08-12T01:25:53.039Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-26T01:25:53.039Z"
+  },
+  "rfgplk/cjson.cpp": {
+    "first_seen": "2026-08-12T01:25:53.311Z",
+    "last_seen": "2026-08-12T01:25:53.311Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-26T01:25:53.311Z"
   }
 }
