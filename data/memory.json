@@ -51306,5 +51306,57 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-19T07:24:24.664Z"
+  },
+  "guillaumemeyer/watermarks-remover": {
+    "first_seen": "2026-08-12T12:58:04.685Z",
+    "last_seen": "2026-08-12T12:58:04.685Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T12:58:04.673Z"
+  },
+  "sgnihttcejbo/chainlink-example": {
+    "first_seen": "2026-08-12T12:58:05.322Z",
+    "last_seen": "2026-08-12T12:58:05.322Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T12:58:05.322Z"
+  },
+  "yixuan-wu39/bandminton": {
+    "first_seen": "2026-08-12T12:58:06.054Z",
+    "last_seen": "2026-08-12T12:58:06.054Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T12:58:06.054Z"
+  },
+  "dmitrigoloubentsev/llm-tests": {
+    "first_seen": "2026-08-12T12:58:06.472Z",
+    "last_seen": "2026-08-12T12:58:06.472Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-26T12:58:06.472Z"
+  },
+  "triuzzi/brave-devtools-mcp": {
+    "first_seen": "2026-08-12T12:58:07.614Z",
+    "last_seen": "2026-08-12T12:58:07.614Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-08-26T12:58:07.614Z"
   }
 }
