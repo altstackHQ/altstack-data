@@ -51358,5 +51358,153 @@
     "reason": "low_stars",
     "stars": 21,
     "cooldown_until": "2026-08-26T12:58:07.614Z"
+  },
+  "dmmulroy/anti-slop": {
+    "first_seen": "2026-08-12T18:56:24.078Z",
+    "last_seen": "2026-08-12T18:56:24.078Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T18:56:24.066Z"
+  },
+  "hisn00w/asu-skills": {
+    "first_seen": "2026-08-12T18:56:24.852Z",
+    "last_seen": "2026-08-12T18:56:24.852Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T18:56:24.852Z"
+  },
+  "radishxn/run-abroad": {
+    "first_seen": "2026-08-12T18:56:25.607Z",
+    "last_seen": "2026-08-12T18:56:25.607Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T18:56:25.607Z"
+  },
+  "mddidd/mdd-sim-gateway": {
+    "first_seen": "2026-08-12T18:56:26.314Z",
+    "last_seen": "2026-08-12T18:56:26.314Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T18:56:26.314Z"
+  },
+  "xie0s/xie0s-code": {
+    "first_seen": "2026-08-12T18:56:27.113Z",
+    "last_seen": "2026-08-12T18:56:27.113Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T18:56:27.113Z"
+  },
+  "simo4kawave1337/cs2-universal-macros-v1.0.0": {
+    "first_seen": "2026-08-12T18:56:27.813Z",
+    "last_seen": "2026-08-12T18:56:27.813Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T18:56:27.813Z"
+  },
+  "overflowy/zhist": {
+    "first_seen": "2026-08-12T18:56:28.216Z",
+    "last_seen": "2026-08-12T18:56:28.216Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-08-26T18:56:28.216Z"
+  },
+  "abhixhek/aakit": {
+    "first_seen": "2026-08-12T18:56:28.613Z",
+    "last_seen": "2026-08-12T18:56:28.613Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-26T18:56:28.613Z"
+  },
+  "corbym/locomo-recordari": {
+    "first_seen": "2026-08-12T18:56:29.734Z",
+    "last_seen": "2026-08-12T18:56:29.734Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-26T18:56:29.734Z"
+  },
+  "personaljarvis/personaljarvis": {
+    "first_seen": "2026-08-12T18:56:30.099Z",
+    "last_seen": "2026-08-12T18:56:30.099Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-08-26T18:56:30.099Z"
+  },
+  "sarthakuwar/aileaks": {
+    "first_seen": "2026-08-12T18:56:30.498Z",
+    "last_seen": "2026-08-12T18:56:30.498Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-26T18:56:30.498Z"
+  },
+  "andreylukin/bough": {
+    "first_seen": "2026-08-12T18:56:30.929Z",
+    "last_seen": "2026-08-12T18:56:30.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-26T18:56:30.929Z"
+  },
+  "brookstalley/hallucinote": {
+    "first_seen": "2026-08-12T18:56:31.295Z",
+    "last_seen": "2026-08-12T18:56:31.295Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-26T18:56:31.295Z"
+  },
+  "zrainbow1275/bentodesk": {
+    "first_seen": "2026-08-12T18:56:31.683Z",
+    "last_seen": "2026-08-12T18:56:31.683Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-08-26T18:56:31.683Z"
   }
 }
