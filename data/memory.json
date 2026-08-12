@@ -14463,14 +14463,14 @@
   },
   "arcademakersources/arcademaker": {
     "first_seen": "2026-05-25T14:52:27.897Z",
-    "last_seen": "2026-05-25T14:52:27.897Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-12T07:24:25.951Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 19,
-    "cooldown_until": "2026-06-08T14:52:27.897Z"
+    "cooldown_until": "2026-08-19T07:24:25.951Z"
   },
   "dominikhei/cardamon": {
     "first_seen": "2026-05-25T14:52:28.309Z",
@@ -51276,5 +51276,35 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-26T01:25:53.311Z"
+  },
+  "frs0n/gestaltedit": {
+    "first_seen": "2026-08-12T07:24:23.385Z",
+    "last_seen": "2026-08-12T07:24:23.385Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T07:24:23.370Z"
+  },
+  "dengzi008/dramalens": {
+    "first_seen": "2026-08-12T07:24:24.003Z",
+    "last_seen": "2026-08-12T07:24:24.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T07:24:24.002Z"
+  },
+  "elonbiz/hackoctoberfest": {
+    "first_seen": "2026-08-12T07:24:24.664Z",
+    "last_seen": "2026-08-12T07:24:24.664Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-19T07:24:24.664Z"
   }
 }
