@@ -51506,5 +51506,150 @@
     "reason": "low_stars",
     "stars": 20,
     "cooldown_until": "2026-08-26T18:56:31.683Z"
+  },
+  "lilvli/portable-vna": {
+    "first_seen": "2026-08-13T01:27:18.860Z",
+    "last_seen": "2026-08-13T01:27:18.860Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:18.847Z"
+  },
+  "aveifritikqion/kmsauto2026": {
+    "first_seen": "2026-08-13T01:27:19.528Z",
+    "last_seen": "2026-08-13T01:27:19.528Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:19.528Z"
+  },
+  "thebuggeddev/empire": {
+    "first_seen": "2026-08-13T01:27:20.191Z",
+    "last_seen": "2026-08-13T01:27:20.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:20.191Z"
+  },
+  "wbh604/fund-guy-skill": {
+    "first_seen": "2026-08-13T01:27:20.917Z",
+    "last_seen": "2026-08-13T01:27:20.917Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:20.917Z"
+  },
+  "sssst9s/xq": {
+    "first_seen": "2026-08-13T01:27:21.674Z",
+    "last_seen": "2026-08-13T01:27:21.674Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:21.674Z"
+  },
+  "siliconjungle/inkwell-webgpu-water": {
+    "first_seen": "2026-08-13T01:27:22.353Z",
+    "last_seen": "2026-08-13T01:27:22.353Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:22.353Z"
+  },
+  "yimmenuofficial/yimmenu": {
+    "first_seen": "2026-08-13T01:27:23.112Z",
+    "last_seen": "2026-08-13T01:27:23.112Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:23.111Z"
+  },
+  "lyramakesmusic/neuralese-leaker": {
+    "first_seen": "2026-08-13T01:27:23.747Z",
+    "last_seen": "2026-08-13T01:27:23.747Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:23.747Z"
+  },
+  "dosu-ai/decant": {
+    "first_seen": "2026-08-13T01:27:24.179Z",
+    "last_seen": "2026-08-13T01:27:24.179Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-08-27T01:27:24.178Z"
+  },
+  "reachpad/greentree": {
+    "first_seen": "2026-08-13T01:27:24.605Z",
+    "last_seen": "2026-08-13T01:27:24.605Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-27T01:27:24.605Z"
+  },
+  "abhishek-verma/pane": {
+    "first_seen": "2026-08-13T01:27:25.034Z",
+    "last_seen": "2026-08-13T01:27:25.034Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-08-27T01:27:25.034Z"
+  },
+  "prettydiff/aphorio": {
+    "first_seen": "2026-08-13T01:27:25.395Z",
+    "last_seen": "2026-08-13T01:27:25.395Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-08-27T01:27:25.395Z"
+  },
+  "aradar46/mooneva-cycle-private-period-tracker": {
+    "first_seen": "2026-08-13T01:27:25.778Z",
+    "last_seen": "2026-08-13T01:27:25.778Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-08-27T01:27:25.778Z"
+  },
+  "starrykit/starrykit-plugin": {
+    "first_seen": "2026-08-13T01:27:26.491Z",
+    "last_seen": "2026-08-13T01:27:26.491Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T01:27:26.491Z"
   }
 }
