@@ -51651,5 +51651,36 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-20T01:27:26.491Z"
+  },
+  "shadcn-labs/pdfcn": {
+    "first_seen": "2026-08-13T07:19:49.529Z",
+    "last_seen": "2026-08-13T07:19:49.529Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T07:19:49.517Z"
+  },
+  "xz1915/flavor-structure-analyzer": {
+    "first_seen": "2026-08-13T07:19:50.238Z",
+    "last_seen": "2026-08-13T07:19:50.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T07:19:50.238Z"
+  },
+  "tejas821/rule-lite": {
+    "first_seen": "2026-08-13T07:19:50.621Z",
+    "last_seen": "2026-08-13T07:19:50.621Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-27T07:19:50.621Z"
   }
 }
