@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-08-06T08:27:04.294Z",
-    "times_seen": 11,
+    "last_seen": "2026-08-13T13:04:19.744Z",
+    "times_seen": 12,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-08-13T08:27:04.280Z"
+    "cooldown_until": "2026-08-20T13:04:19.729Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -51682,5 +51682,67 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-27T07:19:50.621Z"
+  },
+  "deepseek-ai/deepseek-harness": {
+    "first_seen": "2026-08-13T13:04:23.389Z",
+    "last_seen": "2026-08-13T13:04:23.389Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T13:04:23.389Z"
+  },
+  "gfodor/legal-skills": {
+    "first_seen": "2026-08-13T13:04:23.950Z",
+    "last_seen": "2026-08-13T13:04:23.950Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T13:04:23.950Z"
+  },
+  "wzchav/tokentab": {
+    "first_seen": "2026-08-13T13:04:24.474Z",
+    "last_seen": "2026-08-13T13:04:24.474Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T13:04:24.474Z"
+  },
+  "stanuwu/sunrise": {
+    "first_seen": "2026-08-13T13:04:24.918Z",
+    "last_seen": "2026-08-13T13:04:24.918Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-20T13:04:24.918Z"
+  },
+  "rockeet/relational-to-kv": {
+    "first_seen": "2026-08-13T13:04:25.249Z",
+    "last_seen": "2026-08-13T13:04:25.249Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-27T13:04:25.249Z"
+  },
+  "emahmoudnabil/slnmap": {
+    "first_seen": "2026-08-13T13:04:25.545Z",
+    "last_seen": "2026-08-13T13:04:25.545Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-08-27T13:04:25.545Z"
   }
 }
