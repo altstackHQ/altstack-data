@@ -51981,5 +51981,98 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-08-28T01:27:03.004Z"
+  },
+  "karakeep-app/karakeep": {
+    "first_seen": "2026-08-14T07:17:56.244Z",
+    "last_seen": "2026-08-14T07:17:56.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T07:17:56.233Z"
+  },
+  "alchaincyf/deepseek-harness-orange-book": {
+    "first_seen": "2026-08-14T07:17:56.818Z",
+    "last_seen": "2026-08-14T07:17:56.818Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T07:17:56.818Z"
+  },
+  "vercel-labs/eve-software-factory-template": {
+    "first_seen": "2026-08-14T07:17:57.656Z",
+    "last_seen": "2026-08-14T07:17:57.656Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T07:17:57.656Z"
+  },
+  "nanmicoder/dsh-agent-teams": {
+    "first_seen": "2026-08-14T07:17:58.191Z",
+    "last_seen": "2026-08-14T07:17:58.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T07:17:58.191Z"
+  },
+  "n-allpass/modex-mh-agent": {
+    "first_seen": "2026-08-14T07:17:58.785Z",
+    "last_seen": "2026-08-14T07:17:58.785Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T07:17:58.785Z"
+  },
+  "electricitysheep/dsh-handbook": {
+    "first_seen": "2026-08-14T07:18:00.762Z",
+    "last_seen": "2026-08-14T07:18:00.762Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T07:18:00.762Z"
+  },
+  "comalice/ubom-v4": {
+    "first_seen": "2026-08-14T07:18:01.126Z",
+    "last_seen": "2026-08-14T07:18:01.126Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-28T07:18:01.126Z"
+  },
+  "mskazemi/yazses": {
+    "first_seen": "2026-08-14T07:18:01.455Z",
+    "last_seen": "2026-08-14T07:18:01.455Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-08-28T07:18:01.455Z"
+  },
+  "tsirysndr/bsdkrun": {
+    "first_seen": "2026-08-14T07:18:01.794Z",
+    "last_seen": "2026-08-14T07:18:01.794Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 16,
+    "cooldown_until": "2026-08-28T07:18:01.794Z"
   }
 }
