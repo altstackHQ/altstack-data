@@ -18478,14 +18478,14 @@
   },
   "squillo/aph": {
     "first_seen": "2026-06-04T20:00:39.456Z",
-    "last_seen": "2026-06-04T20:00:39.456Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-14T18:46:18.165Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 1,
-    "cooldown_until": "2026-06-18T20:00:39.456Z"
+    "stars": 7,
+    "cooldown_until": "2026-08-28T18:46:18.165Z"
   },
   "cjmielke/neuroanswer": {
     "first_seen": "2026-06-04T20:00:39.735Z",
@@ -48580,13 +48580,13 @@
   },
   "nanonets/graft": {
     "first_seen": "2026-08-06T23:54:54.557Z",
-    "last_seen": "2026-08-06T23:54:54.557Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-14T18:46:17.045Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-13T23:54:54.557Z"
+    "cooldown_until": "2026-08-21T18:46:17.045Z"
   },
   "karanrajsurya/catqueue_npm_package": {
     "first_seen": "2026-08-06T23:54:54.933Z",
@@ -52126,5 +52126,91 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-08-28T12:54:46.161Z"
+  },
+  "xiaobright/dsh-anchored-standard": {
+    "first_seen": "2026-08-14T18:46:16.632Z",
+    "last_seen": "2026-08-14T18:46:16.632Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T18:46:16.618Z"
+  },
+  "notactuallytreyanastasio/shoehorn": {
+    "first_seen": "2026-08-14T18:46:17.349Z",
+    "last_seen": "2026-08-14T18:46:17.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-08-28T18:46:17.349Z"
+  },
+  "var-raphael/gnat": {
+    "first_seen": "2026-08-14T18:46:18.512Z",
+    "last_seen": "2026-08-14T18:46:18.512Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-28T18:46:18.512Z"
+  },
+  "emilresearch/ragless": {
+    "first_seen": "2026-08-14T18:46:18.819Z",
+    "last_seen": "2026-08-14T18:46:18.819Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-08-28T18:46:18.819Z"
+  },
+  "openlabs-so/openanalytics": {
+    "first_seen": "2026-08-14T18:46:19.296Z",
+    "last_seen": "2026-08-14T18:46:19.296Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T18:46:19.296Z"
+  },
+  "rorz/karma-bar": {
+    "first_seen": "2026-08-14T18:46:19.593Z",
+    "last_seen": "2026-08-14T18:46:19.593Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-28T18:46:19.593Z"
+  },
+  "bxrne/dstest": {
+    "first_seen": "2026-08-14T18:46:19.895Z",
+    "last_seen": "2026-08-14T18:46:19.895Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-28T18:46:19.895Z"
+  },
+  "mupt-ai/self-bench": {
+    "first_seen": "2026-08-14T18:46:20.277Z",
+    "last_seen": "2026-08-14T18:46:20.277Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-28T18:46:20.277Z"
   }
 }
