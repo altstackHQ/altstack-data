@@ -52074,5 +52074,57 @@
     "reason": "low_stars",
     "stars": 16,
     "cooldown_until": "2026-08-28T07:18:01.794Z"
+  },
+  "anywhere-labs/deepseek-harness-desktop": {
+    "first_seen": "2026-08-14T12:54:43.782Z",
+    "last_seen": "2026-08-14T12:54:43.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T12:54:43.771Z"
+  },
+  "decionis/agent-safe-pipeline": {
+    "first_seen": "2026-08-14T12:54:44.580Z",
+    "last_seen": "2026-08-14T12:54:44.580Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T12:54:44.580Z"
+  },
+  "dataelement/dsh-desktop": {
+    "first_seen": "2026-08-14T12:54:45.332Z",
+    "last_seen": "2026-08-14T12:54:45.332Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-21T12:54:45.332Z"
+  },
+  "choiyounggi/cliclaw": {
+    "first_seen": "2026-08-14T12:54:45.743Z",
+    "last_seen": "2026-08-14T12:54:45.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-28T12:54:45.743Z"
+  },
+  "opencomplai/opencomplai": {
+    "first_seen": "2026-08-14T12:54:46.161Z",
+    "last_seen": "2026-08-14T12:54:46.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-28T12:54:46.161Z"
   }
 }
