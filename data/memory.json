@@ -52441,5 +52441,25 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-08-29T06:29:09.914Z"
+  },
+  "myyangyunfan/dsh_desktop": {
+    "first_seen": "2026-08-15T12:28:03.605Z",
+    "last_seen": "2026-08-15T12:28:03.605Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T12:28:03.592Z"
+  },
+  "dsh-market/dsh-market": {
+    "first_seen": "2026-08-15T12:28:04.121Z",
+    "last_seen": "2026-08-15T12:28:04.121Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T12:28:04.121Z"
   }
 }
