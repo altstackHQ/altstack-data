@@ -52461,5 +52461,88 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-22T12:28:04.121Z"
+  },
+  "xyiqq/skilldoctor": {
+    "first_seen": "2026-08-15T18:21:47.801Z",
+    "last_seen": "2026-08-15T18:21:47.801Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T18:21:47.789Z"
+  },
+  "zouyuxuan122/deepseek-harness-eac": {
+    "first_seen": "2026-08-15T18:21:48.475Z",
+    "last_seen": "2026-08-15T18:21:48.475Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T18:21:48.475Z"
+  },
+  "sheberdavid/v4-flash-godmode-opencode-go": {
+    "first_seen": "2026-08-15T18:21:49.191Z",
+    "last_seen": "2026-08-15T18:21:49.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T18:21:49.191Z"
+  },
+  "bit-team/backintime": {
+    "first_seen": "2026-08-15T18:21:49.863Z",
+    "last_seen": "2026-08-15T18:21:49.863Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T18:21:49.863Z"
+  },
+  "giovannicst/frontstep": {
+    "first_seen": "2026-08-15T18:21:50.232Z",
+    "last_seen": "2026-08-15T18:21:50.232Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-29T18:21:50.232Z"
+  },
+  "kuzand/hopsum": {
+    "first_seen": "2026-08-15T18:21:50.619Z",
+    "last_seen": "2026-08-15T18:21:50.619Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-29T18:21:50.619Z"
+  },
+  "abdomk1998/awesome-digital-escape-tools": {
+    "first_seen": "2026-08-15T18:21:51.333Z",
+    "last_seen": "2026-08-15T18:21:51.333Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T18:21:51.333Z"
+  },
+  "brian-mwirigi/kvcachescope": {
+    "first_seen": "2026-08-15T18:21:51.773Z",
+    "last_seen": "2026-08-15T18:21:51.773Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-29T18:21:51.773Z"
   }
 }
