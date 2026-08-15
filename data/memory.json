@@ -52212,5 +52212,159 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-08-28T18:46:20.277Z"
+  },
+  "smontlouis/bible-strong-avatar-lab": {
+    "first_seen": "2026-08-15T00:56:57.105Z",
+    "last_seen": "2026-08-15T00:56:57.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:56:57.090Z"
+  },
+  "turtle2209/bigfish": {
+    "first_seen": "2026-08-15T00:56:57.473Z",
+    "last_seen": "2026-08-15T00:56:57.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:56:57.473Z"
+  },
+  "awaker-ote/wakegpt": {
+    "first_seen": "2026-08-15T00:56:57.919Z",
+    "last_seen": "2026-08-15T00:56:57.919Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:56:57.919Z"
+  },
+  "awaker-ote/readingspace-mn": {
+    "first_seen": "2026-08-15T00:56:58.385Z",
+    "last_seen": "2026-08-15T00:56:58.385Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:56:58.385Z"
+  },
+  "liseami/chunui": {
+    "first_seen": "2026-08-15T00:56:58.824Z",
+    "last_seen": "2026-08-15T00:56:58.824Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:56:58.824Z"
+  },
+  "omdsh-dev/dsh-at-file": {
+    "first_seen": "2026-08-15T00:56:59.229Z",
+    "last_seen": "2026-08-15T00:56:59.229Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:56:59.229Z"
+  },
+  "huiliyi37/dsh-tianshu-tui": {
+    "first_seen": "2026-08-15T00:56:59.640Z",
+    "last_seen": "2026-08-15T00:56:59.640Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:56:59.640Z"
+  },
+  "soloists25wipe/roblox-pack-executor-2026": {
+    "first_seen": "2026-08-15T00:57:00.567Z",
+    "last_seen": "2026-08-15T00:57:00.567Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:57:00.567Z"
+  },
+  "sjc88661/multi-agent-discuss": {
+    "first_seen": "2026-08-15T00:57:01.019Z",
+    "last_seen": "2026-08-15T00:57:01.019Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:57:01.019Z"
+  },
+  "steven-kid/deepseek-harness-desktop": {
+    "first_seen": "2026-08-15T00:57:01.402Z",
+    "last_seen": "2026-08-15T00:57:01.402Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:57:01.402Z"
+  },
+  "lajosdeme/mole": {
+    "first_seen": "2026-08-15T00:57:01.851Z",
+    "last_seen": "2026-08-15T00:57:01.851Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-22T00:57:01.851Z"
+  },
+  "myaa2913/agentic-task-management": {
+    "first_seen": "2026-08-15T00:57:02.699Z",
+    "last_seen": "2026-08-15T00:57:02.699Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-29T00:57:02.699Z"
+  },
+  "mangluu/overleaf-comments-export": {
+    "first_seen": "2026-08-15T00:57:03.018Z",
+    "last_seen": "2026-08-15T00:57:03.018Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-08-29T00:57:03.018Z"
+  },
+  "wevna/wevna": {
+    "first_seen": "2026-08-15T00:57:03.298Z",
+    "last_seen": "2026-08-15T00:57:03.298Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-29T00:57:03.298Z"
+  },
+  "spacepacket1/e3d-pilot": {
+    "first_seen": "2026-08-15T00:57:03.580Z",
+    "last_seen": "2026-08-15T00:57:03.580Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-29T00:57:03.580Z"
   }
 }
