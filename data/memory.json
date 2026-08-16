@@ -52799,5 +52799,57 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-08-30T01:00:11.624Z"
+  },
+  "nervercc/gpt_nerver": {
+    "first_seen": "2026-08-16T06:32:05.497Z",
+    "last_seen": "2026-08-16T06:32:05.497Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-23T06:32:05.484Z"
+  },
+  "romanbhq2000w8/medusa-fh6-v2.menu": {
+    "first_seen": "2026-08-16T06:32:06.130Z",
+    "last_seen": "2026-08-16T06:32:06.130Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-23T06:32:06.130Z"
+  },
+  "antinomie-lab/dsh-explore": {
+    "first_seen": "2026-08-16T06:32:06.811Z",
+    "last_seen": "2026-08-16T06:32:06.811Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-23T06:32:06.811Z"
+  },
+  "betocmn/widen": {
+    "first_seen": "2026-08-16T06:32:07.197Z",
+    "last_seen": "2026-08-16T06:32:07.197Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-08-30T06:32:07.197Z"
+  },
+  "sebastiancarlos/snafu": {
+    "first_seen": "2026-08-16T06:32:07.588Z",
+    "last_seen": "2026-08-16T06:32:07.588Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-08-30T06:32:07.588Z"
   }
 }
