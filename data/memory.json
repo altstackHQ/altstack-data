@@ -5105,14 +5105,14 @@
   },
   "scastiel/kado": {
     "first_seen": "2026-05-04T02:30:09.504Z",
-    "last_seen": "2026-05-04T02:30:09.504Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-16T18:21:46.032Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 9,
-    "cooldown_until": "2026-05-18T02:30:09.504Z"
+    "cooldown_until": "2026-08-23T18:21:46.032Z"
   },
   "boxlite-ai/boxlite": {
     "first_seen": "2026-05-04T02:30:10.041Z",
@@ -52963,5 +52963,99 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-08-30T12:29:46.843Z"
+  },
+  "cocofhu/anime-find": {
+    "first_seen": "2026-08-16T18:21:44.024Z",
+    "last_seen": "2026-08-16T18:21:44.024Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-23T18:21:44.010Z"
+  },
+  "anonrig/router": {
+    "first_seen": "2026-08-16T18:21:44.452Z",
+    "last_seen": "2026-08-16T18:21:44.452Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-23T18:21:44.452Z"
+  },
+  "leonq8/comfyui-allinone-minimaxh3": {
+    "first_seen": "2026-08-16T18:21:44.859Z",
+    "last_seen": "2026-08-16T18:21:44.859Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-23T18:21:44.859Z"
+  },
+  "vandith1/agent-guard": {
+    "first_seen": "2026-08-16T18:21:45.590Z",
+    "last_seen": "2026-08-16T18:21:45.590Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-30T18:21:45.590Z"
+  },
+  "emrearmagan/atlas.nvim": {
+    "first_seen": "2026-08-16T18:21:46.530Z",
+    "last_seen": "2026-08-16T18:21:46.530Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-23T18:21:46.530Z"
+  },
+  "marsbos/flynt.js": {
+    "first_seen": "2026-08-16T18:21:46.828Z",
+    "last_seen": "2026-08-16T18:21:46.828Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-08-30T18:21:46.828Z"
+  },
+  "ninjahawk/swarmsimj": {
+    "first_seen": "2026-08-16T18:21:47.056Z",
+    "last_seen": "2026-08-16T18:21:47.056Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "sib-project/sib": {
+    "first_seen": "2026-08-16T18:21:47.337Z",
+    "last_seen": "2026-08-16T18:21:47.337Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-08-30T18:21:47.337Z"
+  },
+  "trylynceus/jobs": {
+    "first_seen": "2026-08-16T18:21:47.614Z",
+    "last_seen": "2026-08-16T18:21:47.614Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-08-30T18:21:47.614Z"
   }
 }
