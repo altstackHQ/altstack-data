@@ -53028,8 +53028,8 @@
   },
   "ninjahawk/swarmsimj": {
     "first_seen": "2026-08-16T18:21:47.056Z",
-    "last_seen": "2026-08-17T06:43:29.177Z",
-    "times_seen": 3,
+    "last_seen": "2026-08-17T12:34:22.051Z",
+    "times_seen": 4,
     "sources": [
       "hackernews"
     ],
@@ -53280,5 +53280,90 @@
     "reason": "low_stars",
     "stars": 18,
     "cooldown_until": "2026-08-31T06:43:29.467Z"
+  },
+  "miaai-lab/qwen3.8-27b-sglang-dgx-spark": {
+    "first_seen": "2026-08-17T12:34:20.122Z",
+    "last_seen": "2026-08-17T12:34:20.122Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-24T12:34:20.109Z"
+  },
+  "devin-axis/deepseek-design": {
+    "first_seen": "2026-08-17T12:34:20.625Z",
+    "last_seen": "2026-08-17T12:34:20.625Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-24T12:34:20.625Z"
+  },
+  "byteforge9190/trusted-project": {
+    "first_seen": "2026-08-17T12:34:21.190Z",
+    "last_seen": "2026-08-17T12:34:21.190Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-24T12:34:21.190Z"
+  },
+  "radium0090/compute-gateway": {
+    "first_seen": "2026-08-17T12:34:21.530Z",
+    "last_seen": "2026-08-17T12:34:21.530Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-31T12:34:21.530Z"
+  },
+  "tommyjepsen/repliflow": {
+    "first_seen": "2026-08-17T12:34:21.808Z",
+    "last_seen": "2026-08-17T12:34:21.808Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-31T12:34:21.808Z"
+  },
+  "searchstefano/agenticschema": {
+    "first_seen": "2026-08-17T12:34:22.379Z",
+    "last_seen": "2026-08-17T12:34:22.379Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-31T12:34:22.379Z"
+  },
+  "gogainda/mdview-cli": {
+    "first_seen": "2026-08-17T12:34:22.710Z",
+    "last_seen": "2026-08-17T12:34:22.710Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-08-31T12:34:22.710Z"
+  },
+  "lgxz/winuse": {
+    "first_seen": "2026-08-17T12:34:23.544Z",
+    "last_seen": "2026-08-17T12:34:23.544Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-08-31T12:34:23.544Z"
   }
 }
