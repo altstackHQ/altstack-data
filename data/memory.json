@@ -53365,5 +53365,46 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-08-31T12:34:23.544Z"
+  },
+  "yetone/cumora": {
+    "first_seen": "2026-08-17T18:37:44.090Z",
+    "last_seen": "2026-08-17T18:37:44.090Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-24T18:37:44.076Z"
+  },
+  "yevanchen/reclaim-code-entropy": {
+    "first_seen": "2026-08-17T18:37:44.919Z",
+    "last_seen": "2026-08-17T18:37:44.919Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-24T18:37:44.919Z"
+  },
+  "liventruth/ul-smf-cache-compression": {
+    "first_seen": "2026-08-17T18:37:47.052Z",
+    "last_seen": "2026-08-17T18:37:47.052Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-08-31T18:37:47.052Z"
+  },
+  "inkeep/visimer": {
+    "first_seen": "2026-08-17T18:37:47.684Z",
+    "last_seen": "2026-08-17T18:37:47.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-24T18:37:47.684Z"
   }
 }
