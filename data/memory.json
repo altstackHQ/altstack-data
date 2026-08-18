@@ -53658,5 +53658,111 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-25T06:40:44.990Z"
+  },
+  "sigmanticai/qwen7binferencechip": {
+    "first_seen": "2026-08-18T12:42:09.411Z",
+    "last_seen": "2026-08-18T12:42:09.411Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-25T12:42:09.402Z"
+  },
+  "wang2122/sprix-sage-router": {
+    "first_seen": "2026-08-18T12:42:09.927Z",
+    "last_seen": "2026-08-18T12:42:09.927Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-25T12:42:09.927Z"
+  },
+  "mirros-lab/harnesseval-w": {
+    "first_seen": "2026-08-18T12:42:10.457Z",
+    "last_seen": "2026-08-18T12:42:10.457Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-25T12:42:10.457Z"
+  },
+  "mengto/sylva": {
+    "first_seen": "2026-08-18T12:42:10.946Z",
+    "last_seen": "2026-08-18T12:42:10.946Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-25T12:42:10.946Z"
+  },
+  "tianzizhiming-svg/agentbridge": {
+    "first_seen": "2026-08-18T12:42:11.795Z",
+    "last_seen": "2026-08-18T12:42:11.795Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-01T12:42:11.795Z"
+  },
+  "anqlproject/anql": {
+    "first_seen": "2026-08-18T12:42:12.105Z",
+    "last_seen": "2026-08-18T12:42:12.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-01T12:42:12.105Z"
+  },
+  "softcane/agents-workbook": {
+    "first_seen": "2026-08-18T12:42:12.405Z",
+    "last_seen": "2026-08-18T12:42:12.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-01T12:42:12.405Z"
+  },
+  "univeracity/vyral": {
+    "first_seen": "2026-08-18T12:42:12.746Z",
+    "last_seen": "2026-08-18T12:42:12.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-01T12:42:12.746Z"
+  },
+  "ariescar/anycreature": {
+    "first_seen": "2026-08-18T12:42:13.073Z",
+    "last_seen": "2026-08-18T12:42:13.073Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-01T12:42:13.073Z"
+  },
+  "tamnd/amz-cli": {
+    "first_seen": "2026-08-18T12:42:13.371Z",
+    "last_seen": "2026-08-18T12:42:13.371Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-01T12:42:13.371Z"
   }
 }
