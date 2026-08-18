@@ -53638,5 +53638,25 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-01T00:56:26.465Z"
+  },
+  "elysia395/dsh-wallpaper-engine": {
+    "first_seen": "2026-08-18T06:40:44.541Z",
+    "last_seen": "2026-08-18T06:40:44.541Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-25T06:40:44.528Z"
+  },
+  "op7418/pilot-harness": {
+    "first_seen": "2026-08-18T06:40:44.990Z",
+    "last_seen": "2026-08-18T06:40:44.990Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-25T06:40:44.990Z"
   }
 }
