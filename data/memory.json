@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-08-11T19:03:01.962Z",
-    "times_seen": 17,
+    "last_seen": "2026-08-19T00:57:06.222Z",
+    "times_seen": 18,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-18T19:03:01.948Z"
+    "cooldown_until": "2026-08-26T00:57:06.208Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -53923,5 +53923,179 @@
     "reason": "low_stars",
     "stars": 9,
     "cooldown_until": "2026-09-01T18:31:03.397Z"
+  },
+  "denissergeevitch/desktop-fly": {
+    "first_seen": "2026-08-19T00:57:08.922Z",
+    "last_seen": "2026-08-19T00:57:08.922Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:08.922Z"
+  },
+  "littledivy/dgit": {
+    "first_seen": "2026-08-19T00:57:09.334Z",
+    "last_seen": "2026-08-19T00:57:09.334Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:09.334Z"
+  },
+  "thisisgm/omarchy-pods": {
+    "first_seen": "2026-08-19T00:57:09.771Z",
+    "last_seen": "2026-08-19T00:57:09.771Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:09.771Z"
+  },
+  "daniel-p-green/nbj-write-clearly": {
+    "first_seen": "2026-08-19T00:57:10.216Z",
+    "last_seen": "2026-08-19T00:57:10.216Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:10.216Z"
+  },
+  "bezumiya/golivebypass": {
+    "first_seen": "2026-08-19T00:57:10.703Z",
+    "last_seen": "2026-08-19T00:57:10.703Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:10.703Z"
+  },
+  "d4ncboz/qoder-workflow": {
+    "first_seen": "2026-08-19T00:57:11.110Z",
+    "last_seen": "2026-08-19T00:57:11.110Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:11.110Z"
+  },
+  "xianxie6/stamp-edge-skill": {
+    "first_seen": "2026-08-19T00:57:11.483Z",
+    "last_seen": "2026-08-19T00:57:11.483Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:11.483Z"
+  },
+  "byteforge9190/casino-game-sportsbook-sports-betting": {
+    "first_seen": "2026-08-19T00:57:11.943Z",
+    "last_seen": "2026-08-19T00:57:11.943Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:11.943Z"
+  },
+  "owngoalstudio/ighostty": {
+    "first_seen": "2026-08-19T00:57:12.366Z",
+    "last_seen": "2026-08-19T00:57:12.366Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:12.366Z"
+  },
+  "liyue-aigc/seedance-2-5-video-director": {
+    "first_seen": "2026-08-19T00:57:12.780Z",
+    "last_seen": "2026-08-19T00:57:12.780Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:12.780Z"
+  },
+  "air-embodied-brain/zetta-embodiment": {
+    "first_seen": "2026-08-19T00:57:13.308Z",
+    "last_seen": "2026-08-19T00:57:13.308Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:13.308Z"
+  },
+  "ygurin/framework-penguin": {
+    "first_seen": "2026-08-19T00:57:13.815Z",
+    "last_seen": "2026-08-19T00:57:13.815Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:13.815Z"
+  },
+  "argus-testing/argus": {
+    "first_seen": "2026-08-19T00:57:14.591Z",
+    "last_seen": "2026-08-19T00:57:14.591Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-09-02T00:57:14.591Z"
+  },
+  "cjchanh/aaap-challenge": {
+    "first_seen": "2026-08-19T00:57:14.882Z",
+    "last_seen": "2026-08-19T00:57:14.882Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-02T00:57:14.882Z"
+  },
+  "craton-co/craton-bolt": {
+    "first_seen": "2026-08-19T00:57:15.185Z",
+    "last_seen": "2026-08-19T00:57:15.185Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-09-02T00:57:15.185Z"
+  },
+  "physiclaw/physiclaw": {
+    "first_seen": "2026-08-19T00:57:16.067Z",
+    "last_seen": "2026-08-19T00:57:16.067Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T00:57:16.067Z"
+  },
+  "operatorproject/extctl": {
+    "first_seen": "2026-08-19T00:57:16.378Z",
+    "last_seen": "2026-08-19T00:57:16.378Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-02T00:57:16.378Z"
   }
 }
