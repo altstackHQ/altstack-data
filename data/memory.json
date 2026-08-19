@@ -54191,5 +54191,45 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-02T06:41:47.046Z"
+  },
+  "jetbrains/benjamin-plus-skill": {
+    "first_seen": "2026-08-19T12:36:40.153Z",
+    "last_seen": "2026-08-19T12:36:40.153Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T12:36:40.140Z"
+  },
+  "vvxw/deploy-vercel": {
+    "first_seen": "2026-08-19T12:36:40.648Z",
+    "last_seen": "2026-08-19T12:36:40.648Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T12:36:40.648Z"
+  },
+  "missuo/herdrm": {
+    "first_seen": "2026-08-19T12:36:41.218Z",
+    "last_seen": "2026-08-19T12:36:41.218Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T12:36:41.218Z"
+  },
+  "nklmilojevic/sofka": {
+    "first_seen": "2026-08-19T12:36:42.414Z",
+    "last_seen": "2026-08-19T12:36:42.414Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-26T12:36:42.414Z"
   }
 }
