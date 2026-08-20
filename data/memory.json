@@ -54551,5 +54551,48 @@
     "reason": "low_stars",
     "stars": 19,
     "cooldown_until": "2026-09-03T06:38:15.849Z"
+  },
+  "xdreizein666/getcontact-cli": {
+    "first_seen": "2026-08-20T12:37:50.323Z",
+    "last_seen": "2026-08-20T12:37:50.323Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T12:37:50.310Z"
+  },
+  "alioces/chinese-core-building": {
+    "first_seen": "2026-08-20T12:37:50.756Z",
+    "last_seen": "2026-08-20T12:37:50.756Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-09-19T12:37:50.756Z"
+  },
+  "urtti/ez": {
+    "first_seen": "2026-08-20T12:37:54.210Z",
+    "last_seen": "2026-08-20T12:37:54.210Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-09-03T12:37:54.210Z"
+  },
+  "wtedw/nanoalphazero": {
+    "first_seen": "2026-08-20T12:37:55.374Z",
+    "last_seen": "2026-08-20T12:37:55.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-09-03T12:37:55.374Z"
   }
 }
