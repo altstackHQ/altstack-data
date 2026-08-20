@@ -54510,5 +54510,46 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-27T00:56:54.229Z"
+  },
+  "lanicer/cve-2026-41940-poc": {
+    "first_seen": "2026-08-20T06:38:11.711Z",
+    "last_seen": "2026-08-20T06:38:11.711Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T06:38:11.696Z"
+  },
+  "smnetstudio/starlive": {
+    "first_seen": "2026-08-20T06:38:13.483Z",
+    "last_seen": "2026-08-20T06:38:13.483Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T06:38:13.483Z"
+  },
+  "matraix-ai/matraix-persona-8b": {
+    "first_seen": "2026-08-20T06:38:15.548Z",
+    "last_seen": "2026-08-20T06:38:15.548Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T06:38:15.548Z"
+  },
+  "zackb/tether": {
+    "first_seen": "2026-08-20T06:38:15.849Z",
+    "last_seen": "2026-08-20T06:38:15.849Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-09-03T06:38:15.849Z"
   }
 }
