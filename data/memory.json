@@ -42670,13 +42670,13 @@
   },
   "vinvai/vinvai": {
     "first_seen": "2026-07-24T19:18:55.743Z",
-    "last_seen": "2026-07-24T19:18:55.743Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-20T00:56:55.053Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-31T19:18:55.743Z"
+    "cooldown_until": "2026-08-27T00:56:55.053Z"
   },
   "mikehasa/agentacct": {
     "first_seen": "2026-07-25T02:10:53.887Z",
@@ -54369,5 +54369,146 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-02T18:27:31.272Z"
+  },
+  "s0lness/awesome-esp32": {
+    "first_seen": "2026-08-20T00:56:42.366Z",
+    "last_seen": "2026-08-20T00:56:42.366Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-09-19T00:56:42.353Z"
+  },
+  "meteornox/deepseek-balance-whale-widget": {
+    "first_seen": "2026-08-20T00:56:42.963Z",
+    "last_seen": "2026-08-20T00:56:42.963Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:42.963Z"
+  },
+  "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents": {
+    "first_seen": "2026-08-20T00:56:43.607Z",
+    "last_seen": "2026-08-20T00:56:43.607Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:43.607Z"
+  },
+  "trungdq88/mechanical-deployables-treejs": {
+    "first_seen": "2026-08-20T00:56:44.281Z",
+    "last_seen": "2026-08-20T00:56:44.281Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:44.281Z"
+  },
+  "asen-goat-mine/boujoy-harness": {
+    "first_seen": "2026-08-20T00:56:44.943Z",
+    "last_seen": "2026-08-20T00:56:44.943Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:44.943Z"
+  },
+  "clayzhang-tw/claude-academic-workflow-zh": {
+    "first_seen": "2026-08-20T00:56:47.075Z",
+    "last_seen": "2026-08-20T00:56:47.075Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:47.075Z"
+  },
+  "hexquic/freevlessvpnrussia": {
+    "first_seen": "2026-08-20T00:56:47.796Z",
+    "last_seen": "2026-08-20T00:56:47.796Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:47.796Z"
+  },
+  "sam70361/emotion-ball": {
+    "first_seen": "2026-08-20T00:56:48.485Z",
+    "last_seen": "2026-08-20T00:56:48.485Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:48.485Z"
+  },
+  "xuanyuanzhifeng/dsh-plugin-agent-workflow": {
+    "first_seen": "2026-08-20T00:56:49.152Z",
+    "last_seen": "2026-08-20T00:56:49.152Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:49.152Z"
+  },
+  "ainxietylab/vidscribe": {
+    "first_seen": "2026-08-20T00:56:49.848Z",
+    "last_seen": "2026-08-20T00:56:49.848Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:49.848Z"
+  },
+  "zer0condition/goodmanskernel": {
+    "first_seen": "2026-08-20T00:56:50.567Z",
+    "last_seen": "2026-08-20T00:56:50.567Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:50.567Z"
+  },
+  "muqy1818/openyoink": {
+    "first_seen": "2026-08-20T00:56:51.311Z",
+    "last_seen": "2026-08-20T00:56:51.311Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:51.311Z"
+  },
+  "only-cli/oc": {
+    "first_seen": "2026-08-20T00:56:53.527Z",
+    "last_seen": "2026-08-20T00:56:53.527Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:53.527Z"
+  },
+  "priorlabs/relarena": {
+    "first_seen": "2026-08-20T00:56:54.229Z",
+    "last_seen": "2026-08-20T00:56:54.229Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T00:56:54.229Z"
   }
 }
