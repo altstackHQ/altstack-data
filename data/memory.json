@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-08-13T13:04:19.744Z",
-    "times_seen": 12,
+    "last_seen": "2026-08-20T18:41:35.797Z",
+    "times_seen": 13,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-08-20T13:04:19.729Z"
+    "cooldown_until": "2026-08-27T18:41:35.780Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -54594,5 +54594,79 @@
     "reason": "low_stars",
     "stars": 14,
     "cooldown_until": "2026-09-03T12:37:55.374Z"
+  },
+  "oil-oil/dsh-oil-creator": {
+    "first_seen": "2026-08-20T18:41:42.753Z",
+    "last_seen": "2026-08-20T18:41:42.753Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T18:41:42.753Z"
+  },
+  "paulsp94/omacosy": {
+    "first_seen": "2026-08-20T18:41:43.282Z",
+    "last_seen": "2026-08-20T18:41:43.282Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-27T18:41:43.282Z"
+  },
+  "andrewckor/evepad": {
+    "first_seen": "2026-08-20T18:41:44.281Z",
+    "last_seen": "2026-08-20T18:41:44.281Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-03T18:41:44.281Z"
+  },
+  "cwest/okfctl": {
+    "first_seen": "2026-08-20T18:41:44.593Z",
+    "last_seen": "2026-08-20T18:41:44.593Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-03T18:41:44.593Z"
+  },
+  "shallowbyte/parmar": {
+    "first_seen": "2026-08-20T18:41:44.964Z",
+    "last_seen": "2026-08-20T18:41:44.964Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-03T18:41:44.964Z"
+  },
+  "marketplace/actions": {
+    "first_seen": "2026-08-20T18:41:45.194Z",
+    "last_seen": "2026-08-20T18:41:45.194Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "vladislav-kalinkin/ullis": {
+    "first_seen": "2026-08-20T18:41:45.539Z",
+    "last_seen": "2026-08-20T18:41:45.539Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-03T18:41:45.539Z"
   }
 }
