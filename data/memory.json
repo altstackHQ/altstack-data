@@ -36585,13 +36585,13 @@
   },
   "ch-bas/cctv-camera-database": {
     "first_seen": "2026-07-11T13:08:37.286Z",
-    "last_seen": "2026-07-11T13:08:37.286Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-21T01:00:59.147Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-18T13:08:37.286Z"
+    "cooldown_until": "2026-08-28T01:00:59.147Z"
   },
   "nhevers/project-r0x": {
     "first_seen": "2026-07-11T18:55:44.404Z",
@@ -54650,8 +54650,8 @@
   },
   "marketplace/actions": {
     "first_seen": "2026-08-20T18:41:45.194Z",
-    "last_seen": "2026-08-20T18:41:45.194Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-21T01:00:59.449Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
@@ -54668,5 +54668,175 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-03T18:41:45.539Z"
+  },
+  "leutenegger/vanity-eth": {
+    "first_seen": "2026-08-21T01:00:45.177Z",
+    "last_seen": "2026-08-21T01:00:45.177Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:45.164Z"
+  },
+  "leutenegger/coldcard-airgap": {
+    "first_seen": "2026-08-21T01:00:45.814Z",
+    "last_seen": "2026-08-21T01:00:45.814Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:45.814Z"
+  },
+  "d4ncboz/github-farm": {
+    "first_seen": "2026-08-21T01:00:47.329Z",
+    "last_seen": "2026-08-21T01:00:47.329Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:47.329Z"
+  },
+  "cclank/lanshu-create-ai-presenter-video": {
+    "first_seen": "2026-08-21T01:00:48.015Z",
+    "last_seen": "2026-08-21T01:00:48.015Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:48.015Z"
+  },
+  "jinzijian/evotrace": {
+    "first_seen": "2026-08-21T01:00:48.749Z",
+    "last_seen": "2026-08-21T01:00:48.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:48.749Z"
+  },
+  "dhananjaybhosale/hilight-studio": {
+    "first_seen": "2026-08-21T01:00:49.458Z",
+    "last_seen": "2026-08-21T01:00:49.458Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:49.458Z"
+  },
+  "yujunzhixue/dsh-purge": {
+    "first_seen": "2026-08-21T01:00:50.189Z",
+    "last_seen": "2026-08-21T01:00:50.189Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:50.189Z"
+  },
+  "turkiyeyapayzekaakademisi/computer-vision-workshop": {
+    "first_seen": "2026-08-21T01:00:50.845Z",
+    "last_seen": "2026-08-21T01:00:50.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:50.845Z"
+  },
+  "zseven-w/dsh-ios": {
+    "first_seen": "2026-08-21T01:00:51.515Z",
+    "last_seen": "2026-08-21T01:00:51.515Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:51.515Z"
+  },
+  "huacnlee/omamail": {
+    "first_seen": "2026-08-21T01:00:52.183Z",
+    "last_seen": "2026-08-21T01:00:52.183Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:52.183Z"
+  },
+  "neofollower/neofollower-smm-reseller-api-for-woocommerce": {
+    "first_seen": "2026-08-21T01:00:53.113Z",
+    "last_seen": "2026-08-21T01:00:53.113Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:53.113Z"
+  },
+  "neofollower/neofollower-smm-panel-api": {
+    "first_seen": "2026-08-21T01:00:53.814Z",
+    "last_seen": "2026-08-21T01:00:53.814Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:53.814Z"
+  },
+  "ivan-w-19f0/roblox-executor-2026-no-key": {
+    "first_seen": "2026-08-21T01:00:54.569Z",
+    "last_seen": "2026-08-21T01:00:54.569Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:54.569Z"
+  },
+  "zhengzihaopku/roboecc": {
+    "first_seen": "2026-08-21T01:00:55.300Z",
+    "last_seen": "2026-08-21T01:00:55.300Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:55.300Z"
+  },
+  "amagine-ai/amagine3d": {
+    "first_seen": "2026-08-21T01:00:56.040Z",
+    "last_seen": "2026-08-21T01:00:56.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:56.040Z"
+  },
+  "zhengzihaopku/kerv": {
+    "first_seen": "2026-08-21T01:00:56.721Z",
+    "last_seen": "2026-08-21T01:00:56.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:56.721Z"
+  },
+  "thuanmazda/hcmut-report-template": {
+    "first_seen": "2026-08-21T01:00:57.616Z",
+    "last_seen": "2026-08-21T01:00:57.616Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T01:00:57.616Z"
   }
 }
