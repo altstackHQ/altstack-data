@@ -54650,8 +54650,8 @@
   },
   "marketplace/actions": {
     "first_seen": "2026-08-20T18:41:45.194Z",
-    "last_seen": "2026-08-21T01:00:59.449Z",
-    "times_seen": 2,
+    "last_seen": "2026-08-21T06:43:44.778Z",
+    "times_seen": 3,
     "sources": [
       "hackernews"
     ],
@@ -54838,5 +54838,65 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-28T01:00:57.616Z"
+  },
+  "jaime0815/wechatwatcher": {
+    "first_seen": "2026-08-21T06:43:41.037Z",
+    "last_seen": "2026-08-21T06:43:41.037Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T06:43:41.023Z"
+  },
+  "franselstadt/elvet": {
+    "first_seen": "2026-08-21T06:43:42.485Z",
+    "last_seen": "2026-08-21T06:43:42.485Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T06:43:42.485Z"
+  },
+  "kunchenguid/grok-ship": {
+    "first_seen": "2026-08-21T06:43:43.092Z",
+    "last_seen": "2026-08-21T06:43:43.092Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T06:43:43.092Z"
+  },
+  "url-market-torzon/url-market-torzon": {
+    "first_seen": "2026-08-21T06:43:43.779Z",
+    "last_seen": "2026-08-21T06:43:43.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T06:43:43.779Z"
+  },
+  "sxzz/hanji": {
+    "first_seen": "2026-08-21T06:43:44.506Z",
+    "last_seen": "2026-08-21T06:43:44.506Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T06:43:44.506Z"
+  },
+  "donkeycut/donkey": {
+    "first_seen": "2026-08-21T06:43:45.436Z",
+    "last_seen": "2026-08-21T06:43:45.436Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-28T06:43:45.436Z"
   }
 }
