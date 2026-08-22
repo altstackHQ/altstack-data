@@ -55304,5 +55304,56 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-05T00:57:05.636Z"
+  },
+  "jordanwei1/jiaojie-skill": {
+    "first_seen": "2026-08-22T06:31:47.891Z",
+    "last_seen": "2026-08-22T06:31:47.891Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-29T06:31:47.876Z"
+  },
+  "lb623/no-negative-echo": {
+    "first_seen": "2026-08-22T06:31:48.547Z",
+    "last_seen": "2026-08-22T06:31:48.547Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-29T06:31:48.547Z"
+  },
+  "dcouple/terminal-minceraft": {
+    "first_seen": "2026-08-22T06:31:50.673Z",
+    "last_seen": "2026-08-22T06:31:50.673Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-29T06:31:50.673Z"
+  },
+  "chenshuo2004/cs-board": {
+    "first_seen": "2026-08-22T06:31:51.374Z",
+    "last_seen": "2026-08-22T06:31:51.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-29T06:31:51.374Z"
+  },
+  "arihantdeva/heimdall": {
+    "first_seen": "2026-08-22T06:31:53.832Z",
+    "last_seen": "2026-08-22T06:31:53.832Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-09-05T06:31:53.832Z"
   }
 }
