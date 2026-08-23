@@ -1757,14 +1757,14 @@
   },
   "awesome-foss/awesome-sysadmin": {
     "first_seen": "2026-04-08T13:45:47.994Z",
-    "last_seen": "2026-08-16T12:29:37.918Z",
-    "times_seen": 8,
+    "last_seen": "2026-08-23T12:30:26.368Z",
+    "times_seen": 9,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-08-23T12:29:37.906Z"
+    "cooldown_until": "2026-08-30T12:30:26.354Z"
   },
   "dokploy/dokploy": {
     "first_seen": "2026-04-08T13:45:48.345Z",
@@ -55827,5 +55827,87 @@
     "reason": "low_stars",
     "stars": 10,
     "cooldown_until": "2026-09-06T06:33:05.818Z"
+  },
+  "josiah-nelson/eidos": {
+    "first_seen": "2026-08-23T12:30:29.223Z",
+    "last_seen": "2026-08-23T12:30:29.223Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T12:30:29.223Z"
+  },
+  "localai-org/kimodo.cpp": {
+    "first_seen": "2026-08-23T12:30:30.099Z",
+    "last_seen": "2026-08-23T12:30:30.099Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T12:30:30.099Z"
+  },
+  "preporato/claude-certification-guide": {
+    "first_seen": "2026-08-23T12:30:30.799Z",
+    "last_seen": "2026-08-23T12:30:30.799Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T12:30:30.799Z"
+  },
+  "kunchenguid/backpass": {
+    "first_seen": "2026-08-23T12:30:32.209Z",
+    "last_seen": "2026-08-23T12:30:32.209Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T12:30:32.209Z"
+  },
+  "cyunlab/narrant": {
+    "first_seen": "2026-08-23T12:30:33.197Z",
+    "last_seen": "2026-08-23T12:30:33.197Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T12:30:33.197Z"
+  },
+  "luke321/vault-graph": {
+    "first_seen": "2026-08-23T12:30:33.893Z",
+    "last_seen": "2026-08-23T12:30:33.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T12:30:33.893Z"
+  },
+  "tooppoo/enozunu": {
+    "first_seen": "2026-08-23T12:30:34.275Z",
+    "last_seen": "2026-08-23T12:30:34.275Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-06T12:30:34.275Z"
+  },
+  "comerade2134/archsentry": {
+    "first_seen": "2026-08-23T12:30:35.341Z",
+    "last_seen": "2026-08-23T12:30:35.341Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-06T12:30:35.341Z"
   }
 }
