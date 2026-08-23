@@ -55590,5 +55590,190 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-05T18:22:18.576Z"
+  },
+  "aj-2-c-2-a/undress-designses": {
+    "first_seen": "2026-08-23T01:01:17.979Z",
+    "last_seen": "2026-08-23T01:01:17.979Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:17.965Z"
+  },
+  "nateherkai/scroll-craft": {
+    "first_seen": "2026-08-23T01:01:18.382Z",
+    "last_seen": "2026-08-23T01:01:18.382Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:18.382Z"
+  },
+  "zhaoxuya520/meshlan": {
+    "first_seen": "2026-08-23T01:01:19.165Z",
+    "last_seen": "2026-08-23T01:01:19.165Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:19.165Z"
+  },
+  "h9-tec/ai-glossary-handbook": {
+    "first_seen": "2026-08-23T01:01:19.582Z",
+    "last_seen": "2026-08-23T01:01:19.582Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:19.582Z"
+  },
+  "bendrape1-byte/silk-design": {
+    "first_seen": "2026-08-23T01:01:20.011Z",
+    "last_seen": "2026-08-23T01:01:20.011Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:20.011Z"
+  },
+  "beescuit/chatflare": {
+    "first_seen": "2026-08-23T01:01:20.392Z",
+    "last_seen": "2026-08-23T01:01:20.392Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:20.392Z"
+  },
+  "marksvia/usbliter8remote": {
+    "first_seen": "2026-08-23T01:01:20.808Z",
+    "last_seen": "2026-08-23T01:01:20.808Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:20.808Z"
+  },
+  "rushiranpise/sorry-google": {
+    "first_seen": "2026-08-23T01:01:21.307Z",
+    "last_seen": "2026-08-23T01:01:21.307Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:21.307Z"
+  },
+  "unclecode/modelprint": {
+    "first_seen": "2026-08-23T01:01:21.738Z",
+    "last_seen": "2026-08-23T01:01:21.738Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:21.738Z"
+  },
+  "bam-bam-2/solo-skills": {
+    "first_seen": "2026-08-23T01:01:22.196Z",
+    "last_seen": "2026-08-23T01:01:22.196Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:22.196Z"
+  },
+  "programasweights/claudish": {
+    "first_seen": "2026-08-23T01:01:23.064Z",
+    "last_seen": "2026-08-23T01:01:23.064Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:23.064Z"
+  },
+  "nishantsaini2331/pw-earners-code": {
+    "first_seen": "2026-08-23T01:01:23.545Z",
+    "last_seen": "2026-08-23T01:01:23.545Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:23.545Z"
+  },
+  "donbytyqi/scenebox": {
+    "first_seen": "2026-08-23T01:01:24.034Z",
+    "last_seen": "2026-08-23T01:01:24.034Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T01:01:24.034Z"
+  },
+  "jumptoskyfree/flying-paper": {
+    "first_seen": "2026-08-23T01:01:25.188Z",
+    "last_seen": "2026-08-23T01:01:25.188Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-06T01:01:25.188Z"
+  },
+  "apvarun/no-telemetry": {
+    "first_seen": "2026-08-23T01:01:25.452Z",
+    "last_seen": "2026-08-23T01:01:25.452Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-06T01:01:25.452Z"
+  },
+  "baturyilmaz/readingisfun": {
+    "first_seen": "2026-08-23T01:01:25.721Z",
+    "last_seen": "2026-08-23T01:01:25.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-06T01:01:25.721Z"
+  },
+  "namo-robotics/namo_complete": {
+    "first_seen": "2026-08-23T01:01:26.050Z",
+    "last_seen": "2026-08-23T01:01:26.050Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-06T01:01:26.050Z"
+  },
+  "parthuss/stash": {
+    "first_seen": "2026-08-23T01:01:26.328Z",
+    "last_seen": "2026-08-23T01:01:26.328Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-06T01:01:26.328Z"
   }
 }
