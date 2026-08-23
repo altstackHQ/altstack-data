@@ -55909,5 +55909,71 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-06T12:30:35.341Z"
+  },
+  "codesoap/rmp": {
+    "first_seen": "2026-08-23T18:22:13.053Z",
+    "last_seen": "2026-08-23T18:22:13.053Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-06T18:22:13.040Z"
+  },
+  "ptmrio/harness-subagent": {
+    "first_seen": "2026-08-23T18:22:13.342Z",
+    "last_seen": "2026-08-23T18:22:13.342Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-06T18:22:13.342Z"
+  },
+  "infomaniac777/ringdl2": {
+    "first_seen": "2026-08-23T18:22:14.245Z",
+    "last_seen": "2026-08-23T18:22:14.245Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-06T18:22:14.245Z"
+  },
+  "291-group/lan-sheriff": {
+    "first_seen": "2026-08-23T18:22:14.561Z",
+    "last_seen": "2026-08-23T18:22:14.561Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-06T18:22:14.561Z"
+  },
+  "lbrndnr/beeper": {
+    "first_seen": "2026-08-23T18:22:14.881Z",
+    "last_seen": "2026-08-23T18:22:14.881Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-06T18:22:14.881Z"
+  },
+  "majesticlabs-dev/writing-eval": {
+    "first_seen": "2026-08-23T18:22:15.198Z",
+    "last_seen": "2026-08-23T18:22:15.198Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-06T18:22:15.198Z"
   }
 }
