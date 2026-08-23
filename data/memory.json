@@ -55775,5 +55775,57 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-06T01:01:26.328Z"
+  },
+  "duty1g/x64dbg-mcp-server": {
+    "first_seen": "2026-08-23T06:33:03.102Z",
+    "last_seen": "2026-08-23T06:33:03.102Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T06:33:03.089Z"
+  },
+  "ashlixy17/pcb_lightgraph_portable": {
+    "first_seen": "2026-08-23T06:33:04.512Z",
+    "last_seen": "2026-08-23T06:33:04.512Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T06:33:04.512Z"
+  },
+  "ripmilla/netwalk": {
+    "first_seen": "2026-08-23T06:33:05.191Z",
+    "last_seen": "2026-08-23T06:33:05.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-30T06:33:05.191Z"
+  },
+  "jamedjo/git-hunk": {
+    "first_seen": "2026-08-23T06:33:05.493Z",
+    "last_seen": "2026-08-23T06:33:05.493Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-06T06:33:05.493Z"
+  },
+  "gojiplus/layoutlens": {
+    "first_seen": "2026-08-23T06:33:05.818Z",
+    "last_seen": "2026-08-23T06:33:05.818Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-09-06T06:33:05.818Z"
   }
 }
