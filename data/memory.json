@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-08-17T00:58:12.795Z",
-    "times_seen": 16,
+    "last_seen": "2026-08-24T00:59:10.565Z",
+    "times_seen": 17,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-08-24T00:58:12.785Z"
+    "cooldown_until": "2026-08-31T00:59:10.548Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -55975,5 +55975,146 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-09-06T18:22:15.198Z"
+  },
+  "weiss-ultimatesavior/tyranor-next": {
+    "first_seen": "2026-08-24T00:59:18.068Z",
+    "last_seen": "2026-08-24T00:59:18.068Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:18.068Z"
+  },
+  "charliie-dev/claude-code-hidden-settings": {
+    "first_seen": "2026-08-24T00:59:18.635Z",
+    "last_seen": "2026-08-24T00:59:18.635Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:18.635Z"
+  },
+  "pilastdigit/code-with-claude": {
+    "first_seen": "2026-08-24T00:59:19.229Z",
+    "last_seen": "2026-08-24T00:59:19.229Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:19.229Z"
+  },
+  "hanyuanwang/livestream-agent-studio": {
+    "first_seen": "2026-08-24T00:59:19.811Z",
+    "last_seen": "2026-08-24T00:59:19.811Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:19.811Z"
+  },
+  "itshen/source-reading-methodology": {
+    "first_seen": "2026-08-24T00:59:20.399Z",
+    "last_seen": "2026-08-24T00:59:20.399Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:20.399Z"
+  },
+  "totec448-spec/chat-on-steroids": {
+    "first_seen": "2026-08-24T00:59:21.551Z",
+    "last_seen": "2026-08-24T00:59:21.551Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:21.551Z"
+  },
+  "blendmaidintrigue/e621": {
+    "first_seen": "2026-08-24T00:59:22.131Z",
+    "last_seen": "2026-08-24T00:59:22.131Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:22.131Z"
+  },
+  "benja/ask": {
+    "first_seen": "2026-08-24T00:59:22.708Z",
+    "last_seen": "2026-08-24T00:59:22.708Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:22.708Z"
+  },
+  "yxxbc/downvid": {
+    "first_seen": "2026-08-24T00:59:23.269Z",
+    "last_seen": "2026-08-24T00:59:23.269Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:23.269Z"
+  },
+  "joeseesun/qmreader-ios": {
+    "first_seen": "2026-08-24T00:59:23.837Z",
+    "last_seen": "2026-08-24T00:59:23.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:23.837Z"
+  },
+  "cripacx/mediagen": {
+    "first_seen": "2026-08-24T00:59:24.428Z",
+    "last_seen": "2026-08-24T00:59:24.428Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:24.428Z"
+  },
+  "taruntomar122/better-voice": {
+    "first_seen": "2026-08-24T00:59:25.064Z",
+    "last_seen": "2026-08-24T00:59:25.064Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:25.064Z"
+  },
+  "bbaudio-2025/comfyui-mmh3-ultimateupscale": {
+    "first_seen": "2026-08-24T00:59:25.596Z",
+    "last_seen": "2026-08-24T00:59:25.596Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T00:59:25.596Z"
+  },
+  "enplabs/spotwarp": {
+    "first_seen": "2026-08-24T00:59:26.690Z",
+    "last_seen": "2026-08-24T00:59:26.690Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-07T00:59:26.690Z"
   }
 }
