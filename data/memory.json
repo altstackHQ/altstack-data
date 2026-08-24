@@ -56116,5 +56116,15 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-07T00:59:26.690Z"
+  },
+  "b-nnett/grok-bot-0.18-reconstructed": {
+    "first_seen": "2026-08-24T06:46:02.682Z",
+    "last_seen": "2026-08-24T06:46:02.682Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T06:46:02.671Z"
   }
 }
