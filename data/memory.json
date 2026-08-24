@@ -56146,5 +56146,35 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-31T12:39:43.591Z"
+  },
+  "fzakaria/selfdb": {
+    "first_seen": "2026-08-24T18:33:34.322Z",
+    "last_seen": "2026-08-24T18:33:34.322Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T18:33:34.307Z"
+  },
+  "alchaincyf/huashu-excel": {
+    "first_seen": "2026-08-24T18:33:34.865Z",
+    "last_seen": "2026-08-24T18:33:34.865Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T18:33:34.865Z"
+  },
+  "lxf746/outlook-auto-register": {
+    "first_seen": "2026-08-24T18:33:35.993Z",
+    "last_seen": "2026-08-24T18:33:35.993Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T18:33:35.993Z"
   }
 }
