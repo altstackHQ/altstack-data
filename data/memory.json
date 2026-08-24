@@ -56126,5 +56126,25 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-08-31T06:46:02.671Z"
+  },
+  "kevin-v-eng97e2/how-to-fish-utility": {
+    "first_seen": "2026-08-24T12:39:42.646Z",
+    "last_seen": "2026-08-24T12:39:42.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T12:39:42.632Z"
+  },
+  "alpindale/gpt2.cmake": {
+    "first_seen": "2026-08-24T12:39:43.591Z",
+    "last_seen": "2026-08-24T12:39:43.591Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-08-31T12:39:43.591Z"
   }
 }
