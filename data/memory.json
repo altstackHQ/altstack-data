@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-08-18T18:30:52.478Z",
-    "times_seen": 18,
+    "last_seen": "2026-08-25T18:33:33.292Z",
+    "times_seen": 19,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-25T18:30:52.462Z"
+    "cooldown_until": "2026-09-01T18:33:33.276Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -56603,5 +56603,166 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-09-08T12:45:10.239Z"
+  },
+  "themartiano/try-omarchy": {
+    "first_seen": "2026-08-25T18:33:41.521Z",
+    "last_seen": "2026-08-25T18:33:41.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T18:33:41.521Z"
+  },
+  "yding-git/personal-edge-proxy": {
+    "first_seen": "2026-08-25T18:33:42.108Z",
+    "last_seen": "2026-08-25T18:33:42.108Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T18:33:42.108Z"
+  },
+  "straniero44/wenai": {
+    "first_seen": "2026-08-25T18:33:42.721Z",
+    "last_seen": "2026-08-25T18:33:42.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T18:33:42.721Z"
+  },
+  "jeffhajewski/latticedb": {
+    "first_seen": "2026-08-25T18:33:43.348Z",
+    "last_seen": "2026-08-25T18:33:43.348Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T18:33:43.348Z"
+  },
+  "mukundzha/crilio": {
+    "first_seen": "2026-08-25T18:33:43.697Z",
+    "last_seen": "2026-08-25T18:33:43.697Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-08T18:33:43.697Z"
+  },
+  "rudrasatani13/cot-redteam-agent": {
+    "first_seen": "2026-08-25T18:33:44.035Z",
+    "last_seen": "2026-08-25T18:33:44.035Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-08T18:33:44.035Z"
+  },
+  "netraruntime/netra-kernel": {
+    "first_seen": "2026-08-25T18:33:44.430Z",
+    "last_seen": "2026-08-25T18:33:44.430Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-09-08T18:33:44.430Z"
+  },
+  "cssllcio/typeclip": {
+    "first_seen": "2026-08-25T18:33:44.776Z",
+    "last_seen": "2026-08-25T18:33:44.776Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-08T18:33:44.776Z"
+  },
+  "identities-ai/ratify-agent-relay-harness": {
+    "first_seen": "2026-08-25T18:33:45.125Z",
+    "last_seen": "2026-08-25T18:33:45.125Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-08T18:33:45.125Z"
+  },
+  "prescott-data/jarviscore-framework": {
+    "first_seen": "2026-08-25T18:33:45.540Z",
+    "last_seen": "2026-08-25T18:33:45.540Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-09-08T18:33:45.540Z"
+  },
+  "thebaycloud/bay": {
+    "first_seen": "2026-08-25T18:33:46.780Z",
+    "last_seen": "2026-08-25T18:33:46.780Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-09-08T18:33:46.780Z"
+  },
+  "paaloeye/jsonrpc-stdio-proxy": {
+    "first_seen": "2026-08-25T18:33:47.137Z",
+    "last_seen": "2026-08-25T18:33:47.137Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-08T18:33:47.137Z"
+  },
+  "luiscleto/shepherdr": {
+    "first_seen": "2026-08-25T18:33:47.491Z",
+    "last_seen": "2026-08-25T18:33:47.491Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-08T18:33:47.491Z"
+  },
+  "iya-lang/ciyac": {
+    "first_seen": "2026-08-25T18:33:47.838Z",
+    "last_seen": "2026-08-25T18:33:47.838Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-08T18:33:47.838Z"
+  },
+  "berba-q/gpt-watermark": {
+    "first_seen": "2026-08-25T18:33:48.176Z",
+    "last_seen": "2026-08-25T18:33:48.176Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-08T18:33:48.176Z"
   }
 }
