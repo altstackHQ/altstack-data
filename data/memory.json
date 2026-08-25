@@ -56552,5 +56552,56 @@
     "reason": "low_stars",
     "stars": 22,
     "cooldown_until": "2026-09-08T06:37:54.285Z"
+  },
+  "robertgolds1/gradient": {
+    "first_seen": "2026-08-25T12:45:06.510Z",
+    "last_seen": "2026-08-25T12:45:06.510Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T12:45:06.497Z"
+  },
+  "zhuyifang/tonghuasun-agent": {
+    "first_seen": "2026-08-25T12:45:08.593Z",
+    "last_seen": "2026-08-25T12:45:08.593Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T12:45:08.593Z"
+  },
+  "achrefelouafi/linearabilityextthreejs": {
+    "first_seen": "2026-08-25T12:45:09.239Z",
+    "last_seen": "2026-08-25T12:45:09.239Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T12:45:09.239Z"
+  },
+  "jingyi-wu-richael/replicate-video-ad": {
+    "first_seen": "2026-08-25T12:45:09.861Z",
+    "last_seen": "2026-08-25T12:45:09.861Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T12:45:09.861Z"
+  },
+  "mazieres/majinbook": {
+    "first_seen": "2026-08-25T12:45:10.239Z",
+    "last_seen": "2026-08-25T12:45:10.239Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-08T12:45:10.239Z"
   }
 }
