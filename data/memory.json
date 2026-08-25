@@ -56501,5 +56501,56 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-09-08T00:59:31.143Z"
+  },
+  "mediatoraxle/how-to-fish-trainer": {
+    "first_seen": "2026-08-25T06:37:51.727Z",
+    "last_seen": "2026-08-25T06:37:51.727Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T06:37:51.715Z"
+  },
+  "bryllim/workout-guide": {
+    "first_seen": "2026-08-25T06:37:52.124Z",
+    "last_seen": "2026-08-25T06:37:52.124Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T06:37:52.124Z"
+  },
+  "czm15053/linuxdo-idea-ui": {
+    "first_seen": "2026-08-25T06:37:53.486Z",
+    "last_seen": "2026-08-25T06:37:53.486Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T06:37:53.485Z"
+  },
+  "amosblomqvist/learn": {
+    "first_seen": "2026-08-25T06:37:53.929Z",
+    "last_seen": "2026-08-25T06:37:53.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-01T06:37:53.929Z"
+  },
+  "dragthelake/ambient-context": {
+    "first_seen": "2026-08-25T06:37:54.285Z",
+    "last_seen": "2026-08-25T06:37:54.285Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 22,
+    "cooldown_until": "2026-09-08T06:37:54.285Z"
   }
 }
