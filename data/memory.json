@@ -57081,5 +57081,108 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-09-09T06:39:47.133Z"
+  },
+  "wide-trace/open-higgsfield": {
+    "first_seen": "2026-08-26T12:42:04.632Z",
+    "last_seen": "2026-08-26T12:42:04.632Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T12:42:04.618Z"
+  },
+  "tencent/wemm-embedding": {
+    "first_seen": "2026-08-26T12:42:05.103Z",
+    "last_seen": "2026-08-26T12:42:05.103Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T12:42:05.103Z"
+  },
+  "gtlhuyidan-sketch/life-ipo": {
+    "first_seen": "2026-08-26T12:42:05.563Z",
+    "last_seen": "2026-08-26T12:42:05.563Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T12:42:05.563Z"
+  },
+  "seedleap/zing-world-model": {
+    "first_seen": "2026-08-26T12:42:05.994Z",
+    "last_seen": "2026-08-26T12:42:05.994Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T12:42:05.994Z"
+  },
+  "ooocooc/open-skill-sunset": {
+    "first_seen": "2026-08-26T12:42:06.419Z",
+    "last_seen": "2026-08-26T12:42:06.419Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T12:42:06.419Z"
+  },
+  "lc248902/imc-prosperity-4-backtester": {
+    "first_seen": "2026-08-26T12:42:06.925Z",
+    "last_seen": "2026-08-26T12:42:06.925Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T12:42:06.924Z"
+  },
+  "cheng-liang1/real-company-interview-ai-coding-projects": {
+    "first_seen": "2026-08-26T12:42:07.369Z",
+    "last_seen": "2026-08-26T12:42:07.369Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T12:42:07.369Z"
+  },
+  "gbin/defragger": {
+    "first_seen": "2026-08-26T12:42:08.172Z",
+    "last_seen": "2026-08-26T12:42:08.172Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-09T12:42:08.172Z"
+  },
+  "rubinoslaw/player-vs-computer": {
+    "first_seen": "2026-08-26T12:42:08.459Z",
+    "last_seen": "2026-08-26T12:42:08.459Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-09T12:42:08.459Z"
+  },
+  "siddharth7113/sktime-cli": {
+    "first_seen": "2026-08-26T12:42:08.789Z",
+    "last_seen": "2026-08-26T12:42:08.789Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-09T12:42:08.789Z"
   }
 }
