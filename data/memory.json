@@ -57184,5 +57184,146 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-09T12:42:08.789Z"
+  },
+  "techcomet122583/polymarket-telegram-bot": {
+    "first_seen": "2026-08-26T19:42:34.257Z",
+    "last_seen": "2026-08-26T19:42:34.257Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T19:42:34.244Z"
+  },
+  "qwenlm/qwen3.8-flash-next": {
+    "first_seen": "2026-08-26T19:42:34.859Z",
+    "last_seen": "2026-08-26T19:42:34.859Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T19:42:34.859Z"
+  },
+  "swufe-db-group/texlite": {
+    "first_seen": "2026-08-26T19:42:35.238Z",
+    "last_seen": "2026-08-26T19:42:35.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-09-09T19:42:35.238Z"
+  },
+  "fireinbelly/biomass-conversion-index-monitoring-system": {
+    "first_seen": "2026-08-26T19:42:35.597Z",
+    "last_seen": "2026-08-26T19:42:35.597Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-09T19:42:35.596Z"
+  },
+  "itsperini/kuma-voice": {
+    "first_seen": "2026-08-26T19:42:35.930Z",
+    "last_seen": "2026-08-26T19:42:35.930Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-09T19:42:35.930Z"
+  },
+  "vscarpenter/agentmachinist": {
+    "first_seen": "2026-08-26T19:42:36.283Z",
+    "last_seen": "2026-08-26T19:42:36.283Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-09T19:42:36.283Z"
+  },
+  "muhammadmahadazher/modelmri": {
+    "first_seen": "2026-08-26T19:42:37.321Z",
+    "last_seen": "2026-08-26T19:42:37.321Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-09T19:42:37.321Z"
+  },
+  "cyb3ralbert/chapter-zero": {
+    "first_seen": "2026-08-26T19:42:37.673Z",
+    "last_seen": "2026-08-26T19:42:37.673Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-09T19:42:37.672Z"
+  },
+  "signal-all/shelfprotocol": {
+    "first_seen": "2026-08-26T19:42:38.013Z",
+    "last_seen": "2026-08-26T19:42:38.013Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-09T19:42:38.013Z"
+  },
+  "ben-nour/snowtask": {
+    "first_seen": "2026-08-26T19:42:38.386Z",
+    "last_seen": "2026-08-26T19:42:38.386Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-09T19:42:38.386Z"
+  },
+  "gi-dellav/otter": {
+    "first_seen": "2026-08-26T19:42:38.732Z",
+    "last_seen": "2026-08-26T19:42:38.732Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-09T19:42:38.732Z"
+  },
+  "cuemap-dev/cuemap": {
+    "first_seen": "2026-08-26T19:42:39.125Z",
+    "last_seen": "2026-08-26T19:42:39.125Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-09T19:42:39.125Z"
+  },
+  "mauroforlin/ebm-lens": {
+    "first_seen": "2026-08-26T19:42:39.474Z",
+    "last_seen": "2026-08-26T19:42:39.474Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-09T19:42:39.474Z"
   }
 }
