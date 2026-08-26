@@ -57009,5 +57009,77 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-09-09T01:00:35.499Z"
+  },
+  "wonderfulearth/primitive-operation-painter": {
+    "first_seen": "2026-08-26T06:39:43.547Z",
+    "last_seen": "2026-08-26T06:39:43.547Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T06:39:43.538Z"
+  },
+  "bansheepatronmake/ai-helper-menu": {
+    "first_seen": "2026-08-26T06:39:44.093Z",
+    "last_seen": "2026-08-26T06:39:44.093Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T06:39:44.093Z"
+  },
+  "max-m-hq2001c0/how-to-fish-mods": {
+    "first_seen": "2026-08-26T06:39:44.706Z",
+    "last_seen": "2026-08-26T06:39:44.706Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T06:39:44.706Z"
+  },
+  "dave-code-io91m6/how-to-fish-ultimate-trainer": {
+    "first_seen": "2026-08-26T06:39:45.257Z",
+    "last_seen": "2026-08-26T06:39:45.257Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T06:39:45.257Z"
+  },
+  "mulgadc/spinifex": {
+    "first_seen": "2026-08-26T06:39:46.420Z",
+    "last_seen": "2026-08-26T06:39:46.420Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-02T06:39:46.420Z"
+  },
+  "angeldevmobile/orion": {
+    "first_seen": "2026-08-26T06:39:46.755Z",
+    "last_seen": "2026-08-26T06:39:46.755Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-09T06:39:46.755Z"
+  },
+  "reachpad/reachpad-cli": {
+    "first_seen": "2026-08-26T06:39:47.133Z",
+    "last_seen": "2026-08-26T06:39:47.133Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-09T06:39:47.133Z"
   }
 }
