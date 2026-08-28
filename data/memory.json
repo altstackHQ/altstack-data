@@ -53828,13 +53828,13 @@
   },
   "alex-reysa/singular-lite": {
     "first_seen": "2026-08-18T18:31:00.328Z",
-    "last_seen": "2026-08-18T18:31:00.328Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-28T08:40:35.355Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-25T18:31:00.328Z"
+    "cooldown_until": "2026-09-04T08:40:35.355Z"
   },
   "atillalab/site-health": {
     "first_seen": "2026-08-18T18:31:00.677Z",
@@ -57721,5 +57721,198 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-10T21:39:04.899Z"
+  },
+  "sapientinc/praxist": {
+    "first_seen": "2026-08-28T08:40:22.181Z",
+    "last_seen": "2026-08-28T08:40:22.181Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:22.168Z"
+  },
+  "kkkkhazix/sun-style-writing": {
+    "first_seen": "2026-08-28T08:40:22.837Z",
+    "last_seen": "2026-08-28T08:40:22.837Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:22.837Z"
+  },
+  "crmne/fastpotify": {
+    "first_seen": "2026-08-28T08:40:23.508Z",
+    "last_seen": "2026-08-28T08:40:23.508Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:23.508Z"
+  },
+  "rhevorn/confetti": {
+    "first_seen": "2026-08-28T08:40:24.215Z",
+    "last_seen": "2026-08-28T08:40:24.215Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:24.215Z"
+  },
+  "tencent-hunyuan/hy4-preview": {
+    "first_seen": "2026-08-28T08:40:24.906Z",
+    "last_seen": "2026-08-28T08:40:24.906Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:24.906Z"
+  },
+  "robbyant-research/zero-wam": {
+    "first_seen": "2026-08-28T08:40:25.585Z",
+    "last_seen": "2026-08-28T08:40:25.585Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:25.585Z"
+  },
+  "onlyterp/opengrok": {
+    "first_seen": "2026-08-28T08:40:26.263Z",
+    "last_seen": "2026-08-28T08:40:26.263Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:26.263Z"
+  },
+  "0xbakeer/qwen38-flash-next-spark": {
+    "first_seen": "2026-08-28T08:40:26.970Z",
+    "last_seen": "2026-08-28T08:40:26.970Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:26.970Z"
+  },
+  "your-quantguy/entropy-arb": {
+    "first_seen": "2026-08-28T08:40:27.752Z",
+    "last_seen": "2026-08-28T08:40:27.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:27.752Z"
+  },
+  "tonyd2wild/glm-5.3-flash-nvfp4-dflash2-2x-dgx-spark": {
+    "first_seen": "2026-08-28T08:40:28.460Z",
+    "last_seen": "2026-08-28T08:40:28.460Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:28.460Z"
+  },
+  "s1n6h/pentest-harness": {
+    "first_seen": "2026-08-28T08:40:29.222Z",
+    "last_seen": "2026-08-28T08:40:29.222Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:29.222Z"
+  },
+  "experientiallabs/experiential": {
+    "first_seen": "2026-08-28T08:40:29.956Z",
+    "last_seen": "2026-08-28T08:40:29.956Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:29.956Z"
+  },
+  "elyosh/opentie": {
+    "first_seen": "2026-08-28T08:40:30.652Z",
+    "last_seen": "2026-08-28T08:40:30.652Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:30.652Z"
+  },
+  "opslane/opslane": {
+    "first_seen": "2026-08-28T08:40:31.724Z",
+    "last_seen": "2026-08-28T08:40:31.724Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 22,
+    "cooldown_until": "2026-09-11T08:40:31.724Z"
+  },
+  "indexflowing/indexflow-core": {
+    "first_seen": "2026-08-28T08:40:32.430Z",
+    "last_seen": "2026-08-28T08:40:32.430Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:32.430Z"
+  },
+  "carlos-menezes/caravan": {
+    "first_seen": "2026-08-28T08:40:33.128Z",
+    "last_seen": "2026-08-28T08:40:33.128Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:33.128Z"
+  },
+  "wjordan/go-binsync": {
+    "first_seen": "2026-08-28T08:40:33.458Z",
+    "last_seen": "2026-08-28T08:40:33.458Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-09-11T08:40:33.458Z"
+  },
+  "statemediafm/statemediafmradio": {
+    "first_seen": "2026-08-28T08:40:33.831Z",
+    "last_seen": "2026-08-28T08:40:33.831Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-11T08:40:33.831Z"
+  },
+  "twelvesec/pwnpad": {
+    "first_seen": "2026-08-28T08:40:34.607Z",
+    "last_seen": "2026-08-28T08:40:34.607Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T08:40:34.607Z"
   }
 }
