@@ -49298,13 +49298,13 @@
   },
   "paoloanzn/pi-black": {
     "first_seen": "2026-08-08T18:30:40.344Z",
-    "last_seen": "2026-08-08T18:30:40.344Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-28T21:41:06.649Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-15T18:30:40.344Z"
+    "cooldown_until": "2026-09-04T21:41:06.649Z"
   },
   "sindhusp/kindle-mdns-rcvr": {
     "first_seen": "2026-08-08T18:30:40.743Z",
@@ -57914,5 +57914,227 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-04T08:40:34.607Z"
+  },
+  "xiaoduoya/codex-with-chatgpt": {
+    "first_seen": "2026-08-28T21:41:02.495Z",
+    "last_seen": "2026-08-28T21:41:02.495Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:02.480Z"
+  },
+  "nanako0129/sepia": {
+    "first_seen": "2026-08-28T21:41:02.922Z",
+    "last_seen": "2026-08-28T21:41:02.922Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:02.922Z"
+  },
+  "metamask-ai/metamask-desktop": {
+    "first_seen": "2026-08-28T21:41:03.403Z",
+    "last_seen": "2026-08-28T21:41:03.403Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:03.403Z"
+  },
+  "jprx/darwin-vm": {
+    "first_seen": "2026-08-28T21:41:03.821Z",
+    "last_seen": "2026-08-28T21:41:03.821Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:03.821Z"
+  },
+  "morten-buur/nordef-matrix-open-control": {
+    "first_seen": "2026-08-28T21:41:04.218Z",
+    "last_seen": "2026-08-28T21:41:04.218Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:04.218Z"
+  },
+  "mirros-lab/code-as-world": {
+    "first_seen": "2026-08-28T21:41:04.689Z",
+    "last_seen": "2026-08-28T21:41:04.689Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:04.689Z"
+  },
+  "fuad403273/gradientrank": {
+    "first_seen": "2026-08-28T21:41:05.146Z",
+    "last_seen": "2026-08-28T21:41:05.146Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:05.146Z"
+  },
+  "alberto4442/latentvault": {
+    "first_seen": "2026-08-28T21:41:05.639Z",
+    "last_seen": "2026-08-28T21:41:05.639Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:05.639Z"
+  },
+  "algorithmicresearchgroup/fnscribe": {
+    "first_seen": "2026-08-28T21:41:05.953Z",
+    "last_seen": "2026-08-28T21:41:05.953Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-09-11T21:41:05.953Z"
+  },
+  "sseshachala/conductai": {
+    "first_seen": "2026-08-28T21:41:06.235Z",
+    "last_seen": "2026-08-28T21:41:06.235Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-09-11T21:41:06.235Z"
+  },
+  "stanford-mast/blast": {
+    "first_seen": "2026-08-28T21:41:07.089Z",
+    "last_seen": "2026-08-28T21:41:07.089Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-04T21:41:07.089Z"
+  },
+  "idogol24/weir": {
+    "first_seen": "2026-08-28T21:41:07.413Z",
+    "last_seen": "2026-08-28T21:41:07.413Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-09-11T21:41:07.413Z"
+  },
+  "mehranmarxian/openlayer": {
+    "first_seen": "2026-08-28T21:41:07.747Z",
+    "last_seen": "2026-08-28T21:41:07.747Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-09-11T21:41:07.747Z"
+  },
+  "bart6114/loofah": {
+    "first_seen": "2026-08-28T21:41:08.055Z",
+    "last_seen": "2026-08-28T21:41:08.055Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-11T21:41:08.055Z"
+  },
+  "gojiplus/understudy": {
+    "first_seen": "2026-08-28T21:41:08.407Z",
+    "last_seen": "2026-08-28T21:41:08.407Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-11T21:41:08.407Z"
+  },
+  "kvist-lang/kvist": {
+    "first_seen": "2026-08-28T21:41:08.722Z",
+    "last_seen": "2026-08-28T21:41:08.722Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-09-11T21:41:08.722Z"
+  },
+  "shadok-ai/shadok-ai": {
+    "first_seen": "2026-08-28T21:41:09.022Z",
+    "last_seen": "2026-08-28T21:41:09.022Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-11T21:41:09.022Z"
+  },
+  "nilbuild/rundown": {
+    "first_seen": "2026-08-28T21:41:09.361Z",
+    "last_seen": "2026-08-28T21:41:09.361Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-11T21:41:09.361Z"
+  },
+  "oxixes/splatit": {
+    "first_seen": "2026-08-28T21:41:09.637Z",
+    "last_seen": "2026-08-28T21:41:09.637Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-11T21:41:09.637Z"
+  },
+  "ramanujan-computing/ramanujan": {
+    "first_seen": "2026-08-28T21:41:09.991Z",
+    "last_seen": "2026-08-28T21:41:09.991Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-09-11T21:41:09.991Z"
+  },
+  "grith-ai/grith": {
+    "first_seen": "2026-08-28T21:41:10.781Z",
+    "last_seen": "2026-08-28T21:41:10.781Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-11T21:41:10.781Z"
   }
 }
