@@ -58136,5 +58136,146 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-11T21:41:10.781Z"
+  },
+  "hkqr/my-free-code": {
+    "first_seen": "2026-08-29T05:18:37.981Z",
+    "last_seen": "2026-08-29T05:18:37.981Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:37.966Z"
+  },
+  "leveetememorialize/gta-6-download-cyberleek": {
+    "first_seen": "2026-08-29T05:18:38.551Z",
+    "last_seen": "2026-08-29T05:18:38.551Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:38.551Z"
+  },
+  "pgrundev/pgterm": {
+    "first_seen": "2026-08-29T05:18:39.733Z",
+    "last_seen": "2026-08-29T05:18:39.733Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:39.733Z"
+  },
+  "kingbootoshi/facetime-bridge": {
+    "first_seen": "2026-08-29T05:18:40.324Z",
+    "last_seen": "2026-08-29T05:18:40.324Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:40.324Z"
+  },
+  "orange2ai/new-concept-writing": {
+    "first_seen": "2026-08-29T05:18:40.953Z",
+    "last_seen": "2026-08-29T05:18:40.953Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:40.953Z"
+  },
+  "sgyno09-source/reference-video-director": {
+    "first_seen": "2026-08-29T05:18:41.569Z",
+    "last_seen": "2026-08-29T05:18:41.569Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:41.569Z"
+  },
+  "tradecatlabs/shulihuazixuecongshu": {
+    "first_seen": "2026-08-29T05:18:42.153Z",
+    "last_seen": "2026-08-29T05:18:42.153Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:42.153Z"
+  },
+  "camilleroux/genart-skill": {
+    "first_seen": "2026-08-29T05:18:42.749Z",
+    "last_seen": "2026-08-29T05:18:42.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:42.749Z"
+  },
+  "morpheapp/pothelper": {
+    "first_seen": "2026-08-29T05:18:43.326Z",
+    "last_seen": "2026-08-29T05:18:43.326Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:43.326Z"
+  },
+  "spatiaos/procedura": {
+    "first_seen": "2026-08-29T05:18:43.925Z",
+    "last_seen": "2026-08-29T05:18:43.925Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:43.925Z"
+  },
+  "keshav-exe/markdown-graphs": {
+    "first_seen": "2026-08-29T05:18:44.565Z",
+    "last_seen": "2026-08-29T05:18:44.565Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:44.565Z"
+  },
+  "cicada8-research/iwa-tools": {
+    "first_seen": "2026-08-29T05:18:45.193Z",
+    "last_seen": "2026-08-29T05:18:45.193Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:45.193Z"
+  },
+  "husker/a2acast": {
+    "first_seen": "2026-08-29T05:18:45.503Z",
+    "last_seen": "2026-08-29T05:18:45.503Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-12T05:18:45.502Z"
+  },
+  "wholiver/metis": {
+    "first_seen": "2026-08-29T05:18:47.471Z",
+    "last_seen": "2026-08-29T05:18:47.471Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T05:18:47.471Z"
   }
 }
