@@ -58340,5 +58340,182 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-12T12:10:51.460Z"
+  },
+  "msnightmare/hardbreacher": {
+    "first_seen": "2026-08-29T20:20:00.026Z",
+    "last_seen": "2026-08-29T20:20:00.026Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:00.012Z"
+  },
+  "jordyzomer/lemmalog": {
+    "first_seen": "2026-08-29T20:20:00.615Z",
+    "last_seen": "2026-08-29T20:20:00.615Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:00.615Z"
+  },
+  "afifjaziminkamaruzuan-lgtm/mod-organizer-2-download": {
+    "first_seen": "2026-08-29T20:20:01.191Z",
+    "last_seen": "2026-08-29T20:20:01.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:01.191Z"
+  },
+  "asasen2198/bcuninstaller-guide": {
+    "first_seen": "2026-08-29T20:20:01.839Z",
+    "last_seen": "2026-08-29T20:20:01.839Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:01.839Z"
+  },
+  "kielj1zzyyy/startallback-alternative": {
+    "first_seen": "2026-08-29T20:20:02.437Z",
+    "last_seen": "2026-08-29T20:20:02.437Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:02.437Z"
+  },
+  "ogidy/game-booster-2026": {
+    "first_seen": "2026-08-29T20:20:03.081Z",
+    "last_seen": "2026-08-29T20:20:03.081Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:03.081Z"
+  },
+  "cyberdilshan123/elden-ring-cheat-table": {
+    "first_seen": "2026-08-29T20:20:03.662Z",
+    "last_seen": "2026-08-29T20:20:03.662Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:03.662Z"
+  },
+  "kionooon/ddu-guide-companion": {
+    "first_seen": "2026-08-29T20:20:04.242Z",
+    "last_seen": "2026-08-29T20:20:04.242Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:04.242Z"
+  },
+  "krisraven/qwiksi": {
+    "first_seen": "2026-08-29T20:20:05.175Z",
+    "last_seen": "2026-08-29T20:20:05.175Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-12T20:20:05.175Z"
+  },
+  "mainak55512/flint": {
+    "first_seen": "2026-08-29T20:20:06.147Z",
+    "last_seen": "2026-08-29T20:20:06.147Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-12T20:20:06.147Z"
+  },
+  "cpldcpu/pico-faces": {
+    "first_seen": "2026-08-29T20:20:06.824Z",
+    "last_seen": "2026-08-29T20:20:06.824Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:06.824Z"
+  },
+  "michaelaz774/repoworld": {
+    "first_seen": "2026-08-29T20:20:07.194Z",
+    "last_seen": "2026-08-29T20:20:07.194Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-12T20:20:07.194Z"
+  },
+  "duqaxxx/seedeep": {
+    "first_seen": "2026-08-29T20:20:07.488Z",
+    "last_seen": "2026-08-29T20:20:07.488Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-09-12T20:20:07.488Z"
+  },
+  "tuckerwales/stumpzlib": {
+    "first_seen": "2026-08-29T20:20:07.809Z",
+    "last_seen": "2026-08-29T20:20:07.809Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-12T20:20:07.809Z"
+  },
+  "see-sol-lab/deepseekgui": {
+    "first_seen": "2026-08-29T20:20:08.206Z",
+    "last_seen": "2026-08-29T20:20:08.206Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-12T20:20:08.206Z"
+  },
+  "qcfe/phpez": {
+    "first_seen": "2026-08-29T20:20:08.573Z",
+    "last_seen": "2026-08-29T20:20:08.573Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-12T20:20:08.573Z"
+  },
+  "lennney/stop-that-shit": {
+    "first_seen": "2026-08-29T20:20:09.147Z",
+    "last_seen": "2026-08-29T20:20:09.147Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T20:20:09.147Z"
   }
 }
