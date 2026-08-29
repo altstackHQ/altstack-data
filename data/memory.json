@@ -58277,5 +58277,68 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-05T05:18:47.471Z"
+  },
+  "amap-cvlab/abot-recon": {
+    "first_seen": "2026-08-29T12:10:47.270Z",
+    "last_seen": "2026-08-29T12:10:47.270Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T12:10:47.257Z"
+  },
+  "usedotai/dot-reflex": {
+    "first_seen": "2026-08-29T12:10:47.890Z",
+    "last_seen": "2026-08-29T12:10:47.890Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T12:10:47.890Z"
+  },
+  "ritenv/tokensift": {
+    "first_seen": "2026-08-29T12:10:49.594Z",
+    "last_seen": "2026-08-29T12:10:49.594Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-09-12T12:10:49.594Z"
+  },
+  "urml-mars/urml": {
+    "first_seen": "2026-08-29T12:10:50.196Z",
+    "last_seen": "2026-08-29T12:10:50.196Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-05T12:10:50.196Z"
+  },
+  "indexflowing/agentbridge": {
+    "first_seen": "2026-08-29T12:10:51.132Z",
+    "last_seen": "2026-08-29T12:10:51.132Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-12T12:10:51.132Z"
+  },
+  "yevhens-hue/claude-skills-starter-kit": {
+    "first_seen": "2026-08-29T12:10:51.460Z",
+    "last_seen": "2026-08-29T12:10:51.460Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-12T12:10:51.460Z"
   }
 }
