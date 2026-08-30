@@ -1757,14 +1757,14 @@
   },
   "awesome-foss/awesome-sysadmin": {
     "first_seen": "2026-04-08T13:45:47.994Z",
-    "last_seen": "2026-08-23T12:30:26.368Z",
-    "times_seen": 9,
+    "last_seen": "2026-08-30T15:55:38.908Z",
+    "times_seen": 10,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-08-30T12:30:26.354Z"
+    "cooldown_until": "2026-09-06T15:55:38.897Z"
   },
   "dokploy/dokploy": {
     "first_seen": "2026-04-08T13:45:48.345Z",
@@ -14463,14 +14463,14 @@
   },
   "arcademakersources/arcademaker": {
     "first_seen": "2026-05-25T14:52:27.897Z",
-    "last_seen": "2026-08-12T07:24:25.951Z",
-    "times_seen": 2,
+    "last_seen": "2026-08-30T15:55:41.559Z",
+    "times_seen": 3,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "stars": 19,
-    "cooldown_until": "2026-08-19T07:24:25.951Z"
+    "cooldown_until": "2026-09-06T15:55:41.559Z"
   },
   "dominikhei/cardamon": {
     "first_seen": "2026-05-25T14:52:28.309Z",
@@ -49175,14 +49175,14 @@
   },
   "podiom/podiom": {
     "first_seen": "2026-08-08T06:43:16.546Z",
-    "last_seen": "2026-08-08T06:43:16.546Z",
-    "times_seen": 1,
+    "last_seen": "2026-08-30T15:55:41.893Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 2,
-    "cooldown_until": "2026-08-22T06:43:16.546Z"
+    "stars": 9,
+    "cooldown_until": "2026-09-13T15:55:41.893Z"
   },
   "pingmike2/freebuff2api-wokers": {
     "first_seen": "2026-08-08T12:37:30.132Z",
@@ -58828,5 +58828,26 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-13T11:07:07.304Z"
+  },
+  "jlrouzies-fr/dlss5-feeder": {
+    "first_seen": "2026-08-30T15:55:41.023Z",
+    "last_seen": "2026-08-30T15:55:41.023Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T15:55:41.023Z"
+  },
+  "modiqo/spewer": {
+    "first_seen": "2026-08-30T15:55:42.270Z",
+    "last_seen": "2026-08-30T15:55:42.270Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T15:55:42.270Z"
   }
 }
