@@ -58785,5 +58785,48 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-13T03:12:21.739Z"
+  },
+  "shaktimani222/video-converter-free-2026": {
+    "first_seen": "2026-08-30T11:07:04.660Z",
+    "last_seen": "2026-08-30T11:07:04.660Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T11:07:04.645Z"
+  },
+  "aniketwathore/bolnee-chat": {
+    "first_seen": "2026-08-30T11:07:06.312Z",
+    "last_seen": "2026-08-30T11:07:06.312Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T11:07:06.312Z"
+  },
+  "huangchihhungleo/solar-atlas-gesture": {
+    "first_seen": "2026-08-30T11:07:06.795Z",
+    "last_seen": "2026-08-30T11:07:06.795Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-13T11:07:06.795Z"
+  },
+  "shotium/n8n-nodes-shotium": {
+    "first_seen": "2026-08-30T11:07:07.304Z",
+    "last_seen": "2026-08-30T11:07:07.304Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-13T11:07:07.304Z"
   }
 }
