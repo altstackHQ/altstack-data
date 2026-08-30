@@ -58849,5 +58849,77 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-13T15:55:42.270Z"
+  },
+  "ckakorlies-ai/fling-trainer-index": {
+    "first_seen": "2026-08-30T20:26:25.750Z",
+    "last_seen": "2026-08-30T20:26:25.750Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T20:26:25.736Z"
+  },
+  "rkevx21/grind-survivors-trainer": {
+    "first_seen": "2026-08-30T20:26:26.404Z",
+    "last_seen": "2026-08-30T20:26:26.404Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T20:26:26.404Z"
+  },
+  "kichii/rainmeter-setup-2026": {
+    "first_seen": "2026-08-30T20:26:27.020Z",
+    "last_seen": "2026-08-30T20:26:27.020Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T20:26:27.020Z"
+  },
+  "roandejager/hillock": {
+    "first_seen": "2026-08-30T20:26:27.599Z",
+    "last_seen": "2026-08-30T20:26:27.599Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T20:26:27.599Z"
+  },
+  "tenglvjun/mktero": {
+    "first_seen": "2026-08-30T20:26:28.194Z",
+    "last_seen": "2026-08-30T20:26:28.194Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T20:26:28.194Z"
+  },
+  "ndom91/opencode-hud": {
+    "first_seen": "2026-08-30T20:26:28.516Z",
+    "last_seen": "2026-08-30T20:26:28.516Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T20:26:28.516Z"
+  },
+  "romboai/rose-1h-nmr": {
+    "first_seen": "2026-08-30T20:26:28.947Z",
+    "last_seen": "2026-08-30T20:26:28.947Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-13T20:26:28.947Z"
   }
 }
