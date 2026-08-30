@@ -58517,5 +58517,273 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-05T20:20:09.147Z"
+  },
+  "cbrock84/headcount": {
+    "first_seen": "2026-08-30T03:12:11.892Z",
+    "last_seen": "2026-08-30T03:12:11.892Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:11.879Z"
+  },
+  "wldnjs8022/single-player-mod-menu": {
+    "first_seen": "2026-08-30T03:12:12.332Z",
+    "last_seen": "2026-08-30T03:12:12.332Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:12.332Z"
+  },
+  "abdulmoiz162005/pc-game-trainers-2026": {
+    "first_seen": "2026-08-30T03:12:12.761Z",
+    "last_seen": "2026-08-30T03:12:12.761Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:12.761Z"
+  },
+  "nitishkumar2303/driver-updater-honest": {
+    "first_seen": "2026-08-30T03:12:13.191Z",
+    "last_seen": "2026-08-30T03:12:13.191Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:13.191Z"
+  },
+  "sergeyret42/windows-debloater-25h2": {
+    "first_seen": "2026-08-30T03:12:13.606Z",
+    "last_seen": "2026-08-30T03:12:13.606Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:13.606Z"
+  },
+  "nooour2/buzz-transcriber-alt": {
+    "first_seen": "2026-08-30T03:12:14.051Z",
+    "last_seen": "2026-08-30T03:12:14.051Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:14.051Z"
+  },
+  "hassanai119/nightreign-trainer": {
+    "first_seen": "2026-08-30T03:12:14.450Z",
+    "last_seen": "2026-08-30T03:12:14.450Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:14.450Z"
+  },
+  "24vojo-coder/rembg-gui-batch": {
+    "first_seen": "2026-08-30T03:12:14.859Z",
+    "last_seen": "2026-08-30T03:12:14.859Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:14.859Z"
+  },
+  "meharabpigeon/remove-windows-ai": {
+    "first_seen": "2026-08-30T03:12:15.248Z",
+    "last_seen": "2026-08-30T03:12:15.248Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:15.248Z"
+  },
+  "vivekkkumar99/roblox-fps-unlocker-2026": {
+    "first_seen": "2026-08-30T03:12:15.649Z",
+    "last_seen": "2026-08-30T03:12:15.649Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:15.649Z"
+  },
+  "adarshrane22/gibbed-editors-guide": {
+    "first_seen": "2026-08-30T03:12:16.051Z",
+    "last_seen": "2026-08-30T03:12:16.051Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:16.051Z"
+  },
+  "agrim-kumar/auto-clicker-opensource": {
+    "first_seen": "2026-08-30T03:12:16.442Z",
+    "last_seen": "2026-08-30T03:12:16.442Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:16.442Z"
+  },
+  "chrisgith0b/bloxstrap-fast-flags": {
+    "first_seen": "2026-08-30T03:12:16.860Z",
+    "last_seen": "2026-08-30T03:12:16.860Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:16.860Z"
+  },
+  "hassanrehman11/skychart-trainer": {
+    "first_seen": "2026-08-30T03:12:17.275Z",
+    "last_seen": "2026-08-30T03:12:17.275Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:17.275Z"
+  },
+  "jbieyashvi/reshade-alternative": {
+    "first_seen": "2026-08-30T03:12:17.698Z",
+    "last_seen": "2026-08-30T03:12:17.698Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:17.698Z"
+  },
+  "daniyelne/save-editor-toolkit": {
+    "first_seen": "2026-08-30T03:12:18.086Z",
+    "last_seen": "2026-08-30T03:12:18.086Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:18.086Z"
+  },
+  "ddgtestdev-ionics/ollama-gui-simple": {
+    "first_seen": "2026-08-30T03:12:18.501Z",
+    "last_seen": "2026-08-30T03:12:18.501Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:18.501Z"
+  },
+  "heavydharylson/wemod-free-alternative": {
+    "first_seen": "2026-08-30T03:12:18.925Z",
+    "last_seen": "2026-08-30T03:12:18.925Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-06T03:12:18.925Z"
+  },
+  "k7cfo/remove-your-data": {
+    "first_seen": "2026-08-30T03:12:19.220Z",
+    "last_seen": "2026-08-30T03:12:19.220Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-09-13T03:12:19.220Z"
+  },
+  "iwasoftcom/ai-docs-standard": {
+    "first_seen": "2026-08-30T03:12:19.999Z",
+    "last_seen": "2026-08-30T03:12:19.999Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T03:12:19.999Z"
+  },
+  "ssh-ache/ssh-ache": {
+    "first_seen": "2026-08-30T03:12:20.276Z",
+    "last_seen": "2026-08-30T03:12:20.276Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T03:12:20.276Z"
+  },
+  "viktorinkov/shook": {
+    "first_seen": "2026-08-30T03:12:20.554Z",
+    "last_seen": "2026-08-30T03:12:20.554Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T03:12:20.554Z"
+  },
+  "rysh-ai/rysh-cli-code": {
+    "first_seen": "2026-08-30T03:12:20.844Z",
+    "last_seen": "2026-08-30T03:12:20.844Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-13T03:12:20.844Z"
+  },
+  "tidesparrow/shadowing-english": {
+    "first_seen": "2026-08-30T03:12:21.139Z",
+    "last_seen": "2026-08-30T03:12:21.139Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-13T03:12:21.139Z"
+  },
+  "zerofhacker/vibeguard": {
+    "first_seen": "2026-08-30T03:12:21.438Z",
+    "last_seen": "2026-08-30T03:12:21.438Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T03:12:21.438Z"
+  },
+  "tballochi/daily-briefing": {
+    "first_seen": "2026-08-30T03:12:21.739Z",
+    "last_seen": "2026-08-30T03:12:21.739Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-13T03:12:21.739Z"
   }
 }
