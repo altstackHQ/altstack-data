@@ -4946,5 +4946,29 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
-  }
+ }
+ {
+  "slug": "sim",
+  "name": "Sim",
+  "category": "Automation",
+  "is_open_source": true,
+  "pricing_model": "Free Self-Hosted / Paid Cloud",
+  "website": "https://sim.ai",
+  "description": "Open-source AI agent workflow platform. Visual canvas, 1,000+ integrations, every major model provider, and RAG knowledge bases built in.",
+  "alternatives": ["Zapier", "Make", "Workato", "n8n"],
+  "tags": ["automation", "ai-agents", "workflow", "self-hosted", "mcp", "rag"],
+  "logo_url": "",
+  "avg_monthly_cost": 0,
+  "pros": [
+    "Apache 2.0 with patent grant, not fair-code",
+    "Designed for AI agents rather than retrofitted",
+    "Deploys as API, webhook, chat, or MCP server",
+    "Free tier is fully functional, not a limited trial"
+  ],
+  "cons": [
+    "Fewer total integrations than Zapier",
+    "Smaller community and template library than n8n",
+    "Self-hosting requires managing Postgres"
+  ]
+ }
 ]
