@@ -59413,5 +59413,128 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-14T12:36:49.358Z"
+  },
+  "blendi-remade/interdimensional-game": {
+    "first_seen": "2026-08-31T22:26:51.225Z",
+    "last_seen": "2026-08-31T22:26:51.225Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:51.215Z"
+  },
+  "subsy/skill-cabinet": {
+    "first_seen": "2026-08-31T22:26:51.707Z",
+    "last_seen": "2026-08-31T22:26:51.707Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:51.707Z"
+  },
+  "mizorewww/course2md": {
+    "first_seen": "2026-08-31T22:26:52.833Z",
+    "last_seen": "2026-08-31T22:26:52.833Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:52.833Z"
+  },
+  "pigeonalembic/happ": {
+    "first_seen": "2026-08-31T22:26:53.922Z",
+    "last_seen": "2026-08-31T22:26:53.922Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:53.922Z"
+  },
+  "mattrajops2093d5/meccha-camoflage": {
+    "first_seen": "2026-08-31T22:26:54.400Z",
+    "last_seen": "2026-08-31T22:26:54.400Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:54.400Z"
+  },
+  "charlie754/game-optimizer-cpus-threads-optimizer": {
+    "first_seen": "2026-08-31T22:26:54.950Z",
+    "last_seen": "2026-08-31T22:26:54.950Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:54.950Z"
+  },
+  "alpbahadur/49-ide": {
+    "first_seen": "2026-08-31T22:26:55.568Z",
+    "last_seen": "2026-08-31T22:26:55.568Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:55.568Z"
+  },
+  "elixir-volt/astral": {
+    "first_seen": "2026-08-31T22:26:56.129Z",
+    "last_seen": "2026-08-31T22:26:56.129Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:56.128Z"
+  },
+  "licensedetector/cli": {
+    "first_seen": "2026-08-31T22:26:56.980Z",
+    "last_seen": "2026-08-31T22:26:56.980Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-14T22:26:56.980Z"
+  },
+  "getcassis/ontology-bootstrap": {
+    "first_seen": "2026-08-31T22:26:57.331Z",
+    "last_seen": "2026-08-31T22:26:57.331Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-14T22:26:57.331Z"
+  },
+  "zenbu-labs/terminal-browser": {
+    "first_seen": "2026-08-31T22:26:57.840Z",
+    "last_seen": "2026-08-31T22:26:57.840Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T22:26:57.840Z"
+  },
+  "project-nexus-yr/xyzzy": {
+    "first_seen": "2026-08-31T22:26:58.146Z",
+    "last_seen": "2026-08-31T22:26:58.146Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-14T22:26:58.146Z"
   }
 }
