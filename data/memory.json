@@ -59255,5 +59255,163 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-07T03:06:24.977Z"
+  },
+  "gangtailorupgrade/coomertool": {
+    "first_seen": "2026-08-31T12:36:42.550Z",
+    "last_seen": "2026-08-31T12:36:42.550Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T12:36:42.536Z"
+  },
+  "slightbasebo/fragment-api-dev": {
+    "first_seen": "2026-08-31T12:36:43.099Z",
+    "last_seen": "2026-08-31T12:36:43.099Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T12:36:43.099Z"
+  },
+  "siknet/freepep": {
+    "first_seen": "2026-08-31T12:36:44.101Z",
+    "last_seen": "2026-08-31T12:36:44.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T12:36:44.101Z"
+  },
+  "tetreesex/tetreesagent_ex": {
+    "first_seen": "2026-08-31T12:36:44.605Z",
+    "last_seen": "2026-08-31T12:36:44.605Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T12:36:44.605Z"
+  },
+  "amap-ml/looparena": {
+    "first_seen": "2026-08-31T12:36:45.752Z",
+    "last_seen": "2026-08-31T12:36:45.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T12:36:45.752Z"
+  },
+  "sharptoolbox/ontology-driven-dev": {
+    "first_seen": "2026-08-31T12:36:46.194Z",
+    "last_seen": "2026-08-31T12:36:46.194Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T12:36:46.194Z"
+  },
+  "rileycx/strafe": {
+    "first_seen": "2026-08-31T12:36:46.698Z",
+    "last_seen": "2026-08-31T12:36:46.698Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-07T12:36:46.698Z"
+  },
+  "sktguha/sktstreamer": {
+    "first_seen": "2026-08-31T12:36:47.045Z",
+    "last_seen": "2026-08-31T12:36:47.045Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-14T12:36:47.045Z"
+  },
+  "lovettsendit/hedgemony": {
+    "first_seen": "2026-08-31T12:36:47.366Z",
+    "last_seen": "2026-08-31T12:36:47.366Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-14T12:36:47.366Z"
+  },
+  "alexellis/glm-5.3-flash-4x-dgx-spark-switchless": {
+    "first_seen": "2026-08-31T12:36:47.741Z",
+    "last_seen": "2026-08-31T12:36:47.741Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-09-14T12:36:47.741Z"
+  },
+  "glukicov/slideops": {
+    "first_seen": "2026-08-31T12:36:48.093Z",
+    "last_seen": "2026-08-31T12:36:48.093Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-14T12:36:48.093Z"
+  },
+  "proxmint/free-proxy-list": {
+    "first_seen": "2026-08-31T12:36:48.410Z",
+    "last_seen": "2026-08-31T12:36:48.410Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-09-30T12:36:48.410Z"
+  },
+  "top-celestial-company-ltd/dros-vajraclaw-hacker": {
+    "first_seen": "2026-08-31T12:36:48.721Z",
+    "last_seen": "2026-08-31T12:36:48.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-14T12:36:48.721Z"
+  },
+  "anhydrite/pi-quota-monitoring": {
+    "first_seen": "2026-08-31T12:36:49.043Z",
+    "last_seen": "2026-08-31T12:36:49.043Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-14T12:36:49.043Z"
+  },
+  "anishmoncivarghese/sonde": {
+    "first_seen": "2026-08-31T12:36:49.358Z",
+    "last_seen": "2026-08-31T12:36:49.358Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-14T12:36:49.358Z"
   }
 }
