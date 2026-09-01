@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-08-25T18:33:33.292Z",
-    "times_seen": 19,
+    "last_seen": "2026-09-01T20:26:38.018Z",
+    "times_seen": 20,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-01T18:33:33.276Z"
+    "cooldown_until": "2026-09-08T20:26:38.005Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -55422,13 +55422,13 @@
   },
   "tgo-app-dev/vpipe": {
     "first_seen": "2026-08-22T12:29:33.519Z",
-    "last_seen": "2026-08-22T12:29:33.519Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-01T20:26:47.198Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-29T12:29:33.519Z"
+    "cooldown_until": "2026-09-08T20:26:47.198Z"
   },
   "nour-yahyaoui/c-road": {
     "first_seen": "2026-08-22T18:22:12.985Z",
@@ -59843,5 +59843,86 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-15T15:58:50.640Z"
+  },
+  "sharonh43297/cloudflare-turnstile-examples": {
+    "first_seen": "2026-09-01T20:26:43.260Z",
+    "last_seen": "2026-09-01T20:26:43.260Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T20:26:43.260Z"
+  },
+  "mahdidavoodi7/react-native-continued-task": {
+    "first_seen": "2026-09-01T20:26:43.865Z",
+    "last_seen": "2026-09-01T20:26:43.865Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T20:26:43.865Z"
+  },
+  "parsifal1986/tokensburned": {
+    "first_seen": "2026-09-01T20:26:44.450Z",
+    "last_seen": "2026-09-01T20:26:44.450Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T20:26:44.450Z"
+  },
+  "circuitsavage/cloudflare-turnstile-reversed": {
+    "first_seen": "2026-09-01T20:26:44.984Z",
+    "last_seen": "2026-09-01T20:26:44.984Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T20:26:44.984Z"
+  },
+  "inletcardinalstrait/telegramfix": {
+    "first_seen": "2026-09-01T20:26:45.533Z",
+    "last_seen": "2026-09-01T20:26:45.533Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T20:26:45.533Z"
+  },
+  "void4code/void4code": {
+    "first_seen": "2026-09-01T20:26:46.073Z",
+    "last_seen": "2026-09-01T20:26:46.073Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T20:26:46.073Z"
+  },
+  "carloslfu/slotstream": {
+    "first_seen": "2026-09-01T20:26:46.621Z",
+    "last_seen": "2026-09-01T20:26:46.621Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T20:26:46.621Z"
+  },
+  "adam-s/lanes": {
+    "first_seen": "2026-09-01T20:26:48.268Z",
+    "last_seen": "2026-09-01T20:26:48.268Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-15T20:26:48.268Z"
   }
 }
