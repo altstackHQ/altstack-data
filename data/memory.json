@@ -59536,5 +59536,157 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-14T22:26:58.146Z"
+  },
+  "pigeonalembic/happ-vpn": {
+    "first_seen": "2026-09-01T03:18:58.756Z",
+    "last_seen": "2026-09-01T03:18:58.756Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:18:58.741Z"
+  },
+  "productdevbook/cizgile": {
+    "first_seen": "2026-09-01T03:18:59.180Z",
+    "last_seen": "2026-09-01T03:18:59.180Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:18:59.180Z"
+  },
+  "yilujian/easy-writing": {
+    "first_seen": "2026-09-01T03:18:59.622Z",
+    "last_seen": "2026-09-01T03:18:59.622Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:18:59.622Z"
+  },
+  "v2space-labs/shader-for-interfaces": {
+    "first_seen": "2026-09-01T03:19:00.132Z",
+    "last_seen": "2026-09-01T03:19:00.132Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:00.132Z"
+  },
+  "tyche-mkr/scientific-agent-skills": {
+    "first_seen": "2026-09-01T03:19:00.576Z",
+    "last_seen": "2026-09-01T03:19:00.576Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:00.576Z"
+  },
+  "heyman333/agent-notion-template-docs": {
+    "first_seen": "2026-09-01T03:19:01.040Z",
+    "last_seen": "2026-09-01T03:19:01.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:01.040Z"
+  },
+  "nickname21kmr/gameops-investigator": {
+    "first_seen": "2026-09-01T03:19:01.444Z",
+    "last_seen": "2026-09-01T03:19:01.444Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:01.444Z"
+  },
+  "bytare/multichain-drainer-tool": {
+    "first_seen": "2026-09-01T03:19:01.845Z",
+    "last_seen": "2026-09-01T03:19:01.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:01.845Z"
+  },
+  "tony-cudo/walletgen": {
+    "first_seen": "2026-09-01T03:19:02.278Z",
+    "last_seen": "2026-09-01T03:19:02.278Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:02.278Z"
+  },
+  "hydromancerroute/discordfix": {
+    "first_seen": "2026-09-01T03:19:02.700Z",
+    "last_seen": "2026-09-01T03:19:02.700Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:02.700Z"
+  },
+  "purkatyy/dlss5-": {
+    "first_seen": "2026-09-01T03:19:03.118Z",
+    "last_seen": "2026-09-01T03:19:03.118Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:03.118Z"
+  },
+  "pubstomping/proxy-harvester": {
+    "first_seen": "2026-09-01T03:19:03.572Z",
+    "last_seen": "2026-09-01T03:19:03.572Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:03.572Z"
+  },
+  "anightmonarch/codex-bridge-chatgpt": {
+    "first_seen": "2026-09-01T03:19:04.009Z",
+    "last_seen": "2026-09-01T03:19:04.009Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T03:19:04.009Z"
+  },
+  "nanlogic/saccade": {
+    "first_seen": "2026-09-01T03:19:04.754Z",
+    "last_seen": "2026-09-01T03:19:04.754Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-15T03:19:04.754Z"
+  },
+  "interrupt21h/tubeviz": {
+    "first_seen": "2026-09-01T03:19:05.033Z",
+    "last_seen": "2026-09-01T03:19:05.033Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-15T03:19:05.033Z"
   }
 }
