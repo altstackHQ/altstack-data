@@ -59688,5 +59688,97 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-15T03:19:05.033Z"
+  },
+  "tsouth89/omakade": {
+    "first_seen": "2026-09-01T10:59:36.391Z",
+    "last_seen": "2026-09-01T10:59:36.391Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T10:59:36.378Z"
+  },
+  "amap-ml/dreamx-creator": {
+    "first_seen": "2026-09-01T10:59:37.105Z",
+    "last_seen": "2026-09-01T10:59:37.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T10:59:37.105Z"
+  },
+  "behemothvanworkshop/fixdiscord": {
+    "first_seen": "2026-09-01T10:59:37.867Z",
+    "last_seen": "2026-09-01T10:59:37.867Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T10:59:37.867Z"
+  },
+  "givemeadc/mainline-guardian": {
+    "first_seen": "2026-09-01T10:59:38.542Z",
+    "last_seen": "2026-09-01T10:59:38.542Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T10:59:38.542Z"
+  },
+  "virtualtaknot/happ-vpn": {
+    "first_seen": "2026-09-01T10:59:39.241Z",
+    "last_seen": "2026-09-01T10:59:39.241Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T10:59:39.241Z"
+  },
+  "chandrabhanu-prusty/jarvis-frontend": {
+    "first_seen": "2026-09-01T10:59:39.872Z",
+    "last_seen": "2026-09-01T10:59:39.872Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T10:59:39.872Z"
+  },
+  "faisalkindi/dlss5oneclick": {
+    "first_seen": "2026-09-01T10:59:40.557Z",
+    "last_seen": "2026-09-01T10:59:40.557Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-08T10:59:40.557Z"
+  },
+  "martincrespoc/security-team---workspace-": {
+    "first_seen": "2026-09-01T10:59:41.649Z",
+    "last_seen": "2026-09-01T10:59:41.649Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-15T10:59:41.649Z"
+  },
+  "jystervinou/claude-code-arcade": {
+    "first_seen": "2026-09-01T10:59:42.006Z",
+    "last_seen": "2026-09-01T10:59:42.006Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-15T10:59:42.006Z"
   }
 }
