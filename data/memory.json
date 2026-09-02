@@ -52567,13 +52567,13 @@
   },
   "zsvirt/zsvirt": {
     "first_seen": "2026-08-16T01:00:01.422Z",
-    "last_seen": "2026-08-16T01:00:01.422Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-02T15:51:49.142Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-23T01:00:01.422Z"
+    "cooldown_until": "2026-09-09T15:51:49.142Z"
   },
   "morsyxbt/nft-public-mint": {
     "first_seen": "2026-08-16T01:00:01.856Z",
@@ -60148,5 +60148,68 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-16T10:28:21.911Z"
+  },
+  "2akouwu/reverify": {
+    "first_seen": "2026-09-02T15:51:48.156Z",
+    "last_seen": "2026-09-02T15:51:48.156Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T15:51:48.144Z"
+  },
+  "lisitskyaa/comfyui-dlss5-nr": {
+    "first_seen": "2026-09-02T15:51:48.653Z",
+    "last_seen": "2026-09-02T15:51:48.653Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T15:51:48.653Z"
+  },
+  "steveharrison/openenrichment": {
+    "first_seen": "2026-09-02T15:51:49.922Z",
+    "last_seen": "2026-09-02T15:51:49.922Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-16T15:51:49.922Z"
+  },
+  "speakeasy-api/kit": {
+    "first_seen": "2026-09-02T15:51:50.224Z",
+    "last_seen": "2026-09-02T15:51:50.224Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-09-16T15:51:50.224Z"
+  },
+  "karnyadavdev/fontwizard": {
+    "first_seen": "2026-09-02T15:51:50.646Z",
+    "last_seen": "2026-09-02T15:51:50.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T15:51:50.646Z"
+  },
+  "shudv/easy-markdown-review-ado": {
+    "first_seen": "2026-09-02T15:51:50.987Z",
+    "last_seen": "2026-09-02T15:51:50.987Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-16T15:51:50.987Z"
   }
 }
