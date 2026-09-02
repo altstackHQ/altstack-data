@@ -60025,5 +60025,128 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-16T02:31:01.021Z"
+  },
+  "dreamers-laboratory/agent-fleet-manager": {
+    "first_seen": "2026-09-02T10:28:15.014Z",
+    "last_seen": "2026-09-02T10:28:15.014Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:15.000Z"
+  },
+  "kydlikebtc/awesome-grokbot": {
+    "first_seen": "2026-09-02T10:28:15.690Z",
+    "last_seen": "2026-09-02T10:28:15.690Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:15.690Z"
+  },
+  "human-agent-society/reef": {
+    "first_seen": "2026-09-02T10:28:16.367Z",
+    "last_seen": "2026-09-02T10:28:16.367Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:16.367Z"
+  },
+  "nixfred/blip": {
+    "first_seen": "2026-09-02T10:28:17.004Z",
+    "last_seen": "2026-09-02T10:28:17.004Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:17.004Z"
+  },
+  "kinexbtdev/rh-swap": {
+    "first_seen": "2026-09-02T10:28:17.681Z",
+    "last_seen": "2026-09-02T10:28:17.681Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:17.681Z"
+  },
+  "richiemcilroy/chippytea": {
+    "first_seen": "2026-09-02T10:28:18.241Z",
+    "last_seen": "2026-09-02T10:28:18.241Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:18.241Z"
+  },
+  "liufelix2004/god-minmax-h3": {
+    "first_seen": "2026-09-02T10:28:18.927Z",
+    "last_seen": "2026-09-02T10:28:18.927Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:18.927Z"
+  },
+  "lunarxuan/image-prompt-reverse": {
+    "first_seen": "2026-09-02T10:28:19.588Z",
+    "last_seen": "2026-09-02T10:28:19.588Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:19.588Z"
+  },
+  "yczz/oc-english": {
+    "first_seen": "2026-09-02T10:28:20.208Z",
+    "last_seen": "2026-09-02T10:28:20.208Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T10:28:20.208Z"
+  },
+  "nanlogic/markdown-gatekeeper": {
+    "first_seen": "2026-09-02T10:28:21.216Z",
+    "last_seen": "2026-09-02T10:28:21.216Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-16T10:28:21.216Z"
+  },
+  "adecubed/gigamail": {
+    "first_seen": "2026-09-02T10:28:21.563Z",
+    "last_seen": "2026-09-02T10:28:21.563Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-16T10:28:21.563Z"
+  },
+  "andrewhannigan/shed": {
+    "first_seen": "2026-09-02T10:28:21.911Z",
+    "last_seen": "2026-09-02T10:28:21.911Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-16T10:28:21.911Z"
   }
 }
