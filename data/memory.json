@@ -56606,13 +56606,13 @@
   },
   "themartiano/try-omarchy": {
     "first_seen": "2026-08-25T18:33:41.521Z",
-    "last_seen": "2026-08-25T18:33:41.521Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-02T20:26:41.494Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-01T18:33:41.521Z"
+    "cooldown_until": "2026-09-09T20:26:41.494Z"
   },
   "yding-git/personal-edge-proxy": {
     "first_seen": "2026-08-25T18:33:42.108Z",
@@ -60211,5 +60211,69 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-16T15:51:50.987Z"
+  },
+  "shadcn-ui/cn": {
+    "first_seen": "2026-09-02T20:26:39.350Z",
+    "last_seen": "2026-09-02T20:26:39.350Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T20:26:39.335Z"
+  },
+  "anthropics/commerce-agents": {
+    "first_seen": "2026-09-02T20:26:40.108Z",
+    "last_seen": "2026-09-02T20:26:40.108Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T20:26:40.108Z"
+  },
+  "asalsali/codeknow": {
+    "first_seen": "2026-09-02T20:26:42.554Z",
+    "last_seen": "2026-09-02T20:26:42.554Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-16T20:26:42.554Z"
+  },
+  "8protons/powblock": {
+    "first_seen": "2026-09-02T20:26:42.942Z",
+    "last_seen": "2026-09-02T20:26:42.942Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-09-16T20:26:42.942Z"
+  },
+  "jason-doyle/agentic-data-kernal": {
+    "first_seen": "2026-09-02T20:26:43.546Z",
+    "last_seen": "2026-09-02T20:26:43.546Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-16T20:26:43.546Z"
+  },
+  "pickpj/big-b-router": {
+    "first_seen": "2026-09-02T20:26:43.956Z",
+    "last_seen": "2026-09-02T20:26:43.956Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-16T20:26:43.956Z"
   }
 }
