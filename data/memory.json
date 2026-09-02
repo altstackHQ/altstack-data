@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-08-26T01:00:11.226Z",
-    "times_seen": 19,
+    "last_seen": "2026-09-02T02:30:53.191Z",
+    "times_seen": 20,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-02T01:00:11.211Z"
+    "cooldown_until": "2026-09-09T02:30:53.175Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -1800,14 +1800,14 @@
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
-    "last_seen": "2026-08-26T01:00:16.962Z",
-    "times_seen": 17,
+    "last_seen": "2026-09-02T02:30:56.606Z",
+    "times_seen": 18,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-02T01:00:16.962Z"
+    "cooldown_until": "2026-09-09T02:30:56.606Z"
   },
   "farzaa/clicky": {
     "first_seen": "2026-04-08T13:45:50.138Z",
@@ -59924,5 +59924,106 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-15T20:26:48.268Z"
+  },
+  "c22dev/badnotes": {
+    "first_seen": "2026-09-02T02:30:57.012Z",
+    "last_seen": "2026-09-02T02:30:57.012Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:30:57.012Z"
+  },
+  "lihaoyun6/comfyui-h3vae_trt": {
+    "first_seen": "2026-09-02T02:30:57.493Z",
+    "last_seen": "2026-09-02T02:30:57.493Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:30:57.493Z"
+  },
+  "joeseesun/qiaomu-book-reader": {
+    "first_seen": "2026-09-02T02:30:57.925Z",
+    "last_seen": "2026-09-02T02:30:57.925Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:30:57.925Z"
+  },
+  "niawjunior/aipass-bridge": {
+    "first_seen": "2026-09-02T02:30:58.390Z",
+    "last_seen": "2026-09-02T02:30:58.390Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:30:58.390Z"
+  },
+  "coneconductor/telegramfix": {
+    "first_seen": "2026-09-02T02:30:58.828Z",
+    "last_seen": "2026-09-02T02:30:58.828Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:30:58.828Z"
+  },
+  "kcc920926-droid/explain_me": {
+    "first_seen": "2026-09-02T02:30:59.328Z",
+    "last_seen": "2026-09-02T02:30:59.328Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:30:59.328Z"
+  },
+  "kinexbtdev/morpho-stock-vault": {
+    "first_seen": "2026-09-02T02:30:59.739Z",
+    "last_seen": "2026-09-02T02:30:59.739Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:30:59.739Z"
+  },
+  "ara-mkr/wonder-pill": {
+    "first_seen": "2026-09-02T02:31:00.224Z",
+    "last_seen": "2026-09-02T02:31:00.224Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:31:00.224Z"
+  },
+  "boulderminister/discordfix": {
+    "first_seen": "2026-09-02T02:31:00.700Z",
+    "last_seen": "2026-09-02T02:31:00.700Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-09T02:31:00.700Z"
+  },
+  "glitcher255/kaden-terminal": {
+    "first_seen": "2026-09-02T02:31:01.021Z",
+    "last_seen": "2026-09-02T02:31:01.021Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-16T02:31:01.021Z"
   }
 }
