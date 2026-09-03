@@ -60415,5 +60415,118 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-10T02:38:40.656Z"
+  },
+  "dreamers-laboratory/image-to-3d-pipeline": {
+    "first_seen": "2026-09-03T10:41:46.400Z",
+    "last_seen": "2026-09-03T10:41:46.400Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:46.386Z"
+  },
+  "msnightmare/falconflank": {
+    "first_seen": "2026-09-03T10:41:47.097Z",
+    "last_seen": "2026-09-03T10:41:47.097Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:47.097Z"
+  },
+  "openvdn/vdn-minimax-h3": {
+    "first_seen": "2026-09-03T10:41:47.818Z",
+    "last_seen": "2026-09-03T10:41:47.818Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:47.818Z"
+  },
+  "dreamers-laboratory/timeseries-atlas": {
+    "first_seen": "2026-09-03T10:41:48.568Z",
+    "last_seen": "2026-09-03T10:41:48.568Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:48.568Z"
+  },
+  "segfault42/ios-gps-spoofer": {
+    "first_seen": "2026-09-03T10:41:49.319Z",
+    "last_seen": "2026-09-03T10:41:49.319Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:49.319Z"
+  },
+  "codejunkie99/fable-orchestrator": {
+    "first_seen": "2026-09-03T10:41:50.018Z",
+    "last_seen": "2026-09-03T10:41:50.018Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:50.018Z"
+  },
+  "dreamers-laboratory/ai-evaluation-framework": {
+    "first_seen": "2026-09-03T10:41:50.745Z",
+    "last_seen": "2026-09-03T10:41:50.745Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:50.745Z"
+  },
+  "op7418/guizang-yingzao-skill": {
+    "first_seen": "2026-09-03T10:41:51.490Z",
+    "last_seen": "2026-09-03T10:41:51.490Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T10:41:51.490Z"
+  },
+  "siris9476/pulsarforge": {
+    "first_seen": "2026-09-03T10:41:52.800Z",
+    "last_seen": "2026-09-03T10:41:52.800Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-17T10:41:52.800Z"
+  },
+  "xaskasdf/the-simpsons-hit-and-run": {
+    "first_seen": "2026-09-03T10:41:53.356Z",
+    "last_seen": "2026-09-03T10:41:53.356Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-17T10:41:53.356Z"
+  },
+  "barats/shrl-io": {
+    "first_seen": "2026-09-03T10:41:54.468Z",
+    "last_seen": "2026-09-03T10:41:54.468Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-17T10:41:54.468Z"
   }
 }
