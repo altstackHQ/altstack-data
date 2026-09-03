@@ -24273,13 +24273,13 @@
   },
   "ctxrs/ctx": {
     "first_seen": "2026-06-16T20:45:53.000Z",
-    "last_seen": "2026-08-21T18:35:43.562Z",
-    "times_seen": 3,
+    "last_seen": "2026-09-03T15:40:51.713Z",
+    "times_seen": 4,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-28T18:35:43.562Z"
+    "cooldown_until": "2026-09-10T15:40:51.713Z"
   },
   "m1n-n9/paper-lifecycle": {
     "first_seen": "2026-06-17T03:36:01.135Z",
@@ -60528,5 +60528,69 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-17T10:41:54.468Z"
+  },
+  "sonicloudco/recorder": {
+    "first_seen": "2026-09-03T15:40:49.566Z",
+    "last_seen": "2026-09-03T15:40:49.566Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T15:40:49.552Z"
+  },
+  "ganeshmshetty/openclip": {
+    "first_seen": "2026-09-03T15:40:51.220Z",
+    "last_seen": "2026-09-03T15:40:51.220Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T15:40:51.220Z"
+  },
+  "siris9476/forkforensics": {
+    "first_seen": "2026-09-03T15:40:52.030Z",
+    "last_seen": "2026-09-03T15:40:52.030Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-17T15:40:52.030Z"
+  },
+  "mr-tabata/mreditor": {
+    "first_seen": "2026-09-03T15:40:52.349Z",
+    "last_seen": "2026-09-03T15:40:52.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-09-17T15:40:52.349Z"
+  },
+  "nhobin219/litelink": {
+    "first_seen": "2026-09-03T15:40:52.669Z",
+    "last_seen": "2026-09-03T15:40:52.669Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-17T15:40:52.669Z"
+  },
+  "whoreson/picolm": {
+    "first_seen": "2026-09-03T15:40:54.089Z",
+    "last_seen": "2026-09-03T15:40:54.089Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-09-17T15:40:54.089Z"
   }
 }
