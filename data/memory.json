@@ -60275,5 +60275,145 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-09-16T20:26:43.956Z"
+  },
+  "philolabs/fable51-worlds": {
+    "first_seen": "2026-09-03T02:38:34.850Z",
+    "last_seen": "2026-09-03T02:38:34.850Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:34.836Z"
+  },
+  "zekuncheng/novoweave": {
+    "first_seen": "2026-09-03T02:38:35.290Z",
+    "last_seen": "2026-09-03T02:38:35.290Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:35.290Z"
+  },
+  "gozen3ji/consulting-pptx-skill": {
+    "first_seen": "2026-09-03T02:38:35.713Z",
+    "last_seen": "2026-09-03T02:38:35.713Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:35.713Z"
+  },
+  "mercor-intelligence/apexagents-skyrl-recipe": {
+    "first_seen": "2026-09-03T02:38:36.203Z",
+    "last_seen": "2026-09-03T02:38:36.203Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:36.203Z"
+  },
+  "aaronyi97/image-story-video-wizard": {
+    "first_seen": "2026-09-03T02:38:36.653Z",
+    "last_seen": "2026-09-03T02:38:36.653Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:36.653Z"
+  },
+  "romangojiberryai/gojiberryai-sales-os": {
+    "first_seen": "2026-09-03T02:38:37.151Z",
+    "last_seen": "2026-09-03T02:38:37.151Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:37.151Z"
+  },
+  "slightlyuseless/pons-launch-engine": {
+    "first_seen": "2026-09-03T02:38:37.597Z",
+    "last_seen": "2026-09-03T02:38:37.597Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:37.597Z"
+  },
+  "kalai2005bse-del/smart-bus": {
+    "first_seen": "2026-09-03T02:38:38.017Z",
+    "last_seen": "2026-09-03T02:38:38.017Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:38.017Z"
+  },
+  "lnkiai/m3e-canvas": {
+    "first_seen": "2026-09-03T02:38:38.418Z",
+    "last_seen": "2026-09-03T02:38:38.418Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:38.418Z"
+  },
+  "peter123023/awesome-free-llm-api": {
+    "first_seen": "2026-09-03T02:38:38.870Z",
+    "last_seen": "2026-09-03T02:38:38.870Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:38.870Z"
+  },
+  "hebertporto/appstore-forge": {
+    "first_seen": "2026-09-03T02:38:39.281Z",
+    "last_seen": "2026-09-03T02:38:39.281Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:39.281Z"
+  },
+  "maas6696/cloudflare-challenge-clearance": {
+    "first_seen": "2026-09-03T02:38:39.755Z",
+    "last_seen": "2026-09-03T02:38:39.755Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:39.755Z"
+  },
+  "kowalski76057/cf-turnstile-token": {
+    "first_seen": "2026-09-03T02:38:40.213Z",
+    "last_seen": "2026-09-03T02:38:40.213Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:40.213Z"
+  },
+  "adtexterry-lgtm/unigit-ecosystem": {
+    "first_seen": "2026-09-03T02:38:40.656Z",
+    "last_seen": "2026-09-03T02:38:40.656Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T02:38:40.656Z"
   }
 }
