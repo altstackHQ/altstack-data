@@ -60592,5 +60592,101 @@
     "reason": "low_stars",
     "stars": 9,
     "cooldown_until": "2026-09-17T15:40:54.089Z"
+  },
+  "nahrek/polyledger": {
+    "first_seen": "2026-09-03T20:25:51.286Z",
+    "last_seen": "2026-09-03T20:25:51.286Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T20:25:51.272Z"
+  },
+  "thisisgm/flea": {
+    "first_seen": "2026-09-03T20:25:51.721Z",
+    "last_seen": "2026-09-03T20:25:51.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T20:25:51.721Z"
+  },
+  "crackanimad0r/mesaos": {
+    "first_seen": "2026-09-03T20:25:53.025Z",
+    "last_seen": "2026-09-03T20:25:53.025Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-17T20:25:53.025Z"
+  },
+  "openvurp/openvurp": {
+    "first_seen": "2026-09-03T20:25:54.208Z",
+    "last_seen": "2026-09-03T20:25:54.208Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-17T20:25:54.208Z"
+  },
+  "nominal-io/instro": {
+    "first_seen": "2026-09-03T20:25:54.685Z",
+    "last_seen": "2026-09-03T20:25:54.685Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-10T20:25:54.685Z"
+  },
+  "fiv0/triplox": {
+    "first_seen": "2026-09-03T20:25:54.972Z",
+    "last_seen": "2026-09-03T20:25:54.972Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-09-17T20:25:54.972Z"
+  },
+  "graviterra/ensemble-prover": {
+    "first_seen": "2026-09-03T20:25:55.261Z",
+    "last_seen": "2026-09-03T20:25:55.261Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-17T20:25:55.261Z"
+  },
+  "gioblu/npc-forge": {
+    "first_seen": "2026-09-03T20:25:55.588Z",
+    "last_seen": "2026-09-03T20:25:55.588Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-09-17T20:25:55.588Z"
+  },
+  "sadofriod/graphrag-ts": {
+    "first_seen": "2026-09-03T20:25:55.874Z",
+    "last_seen": "2026-09-03T20:25:55.874Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-17T20:25:55.874Z"
   }
 }
