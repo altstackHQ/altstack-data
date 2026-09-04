@@ -60874,5 +60874,46 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-18T02:40:55.569Z"
+  },
+  "danielblnc/dlss-nr-on-amd": {
+    "first_seen": "2026-09-04T10:26:07.914Z",
+    "last_seen": "2026-09-04T10:26:07.914Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-11T10:26:07.896Z"
+  },
+  "inclusionai/choruz": {
+    "first_seen": "2026-09-04T10:26:08.923Z",
+    "last_seen": "2026-09-04T10:26:08.923Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-11T10:26:08.923Z"
+  },
+  "aurict/aurict": {
+    "first_seen": "2026-09-04T10:26:09.924Z",
+    "last_seen": "2026-09-04T10:26:09.924Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-11T10:26:09.924Z"
+  },
+  "oborchers/proqi": {
+    "first_seen": "2026-09-04T10:26:10.216Z",
+    "last_seen": "2026-09-04T10:26:10.216Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-09-18T10:26:10.216Z"
   }
 }
