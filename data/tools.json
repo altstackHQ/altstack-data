@@ -1752,6 +1752,38 @@
     }
   },
   {
+    "slug": "posnic",
+    "name": "Posnic",
+    "category": "E-commerce",
+    "is_open_source": true,
+    "github_repo": "Posnic/POS",
+    "stars": 3,
+    "website": "https://posnic.io/",
+    "description": "Free offline-first open source POS and billing software for retail shops and restaurants, with local checkout and online/offline workflows.",
+    "tags": [
+      "POS",
+      "Billing Software",
+      "Offline POS",
+      "Online/Offline POS",
+      "retail",
+      "restaurant",
+      "inventory"
+    ],
+    "pros": [
+      "Desktop and self-hosted server options keep checkout data on shop-controlled infrastructure",
+      "Retail and restaurant billing workflows include inventory, tax invoices, returns, held bills, and kitchen order tickets",
+      "Windows, macOS, and Linux packages are published with a stable v1.6.1 release"
+    ],
+    "cons": [
+      "Young open-source project with a small public GitHub community",
+      "Release packages bundle separately licensed components that need package-level license review"
+    ],
+    "last_commit": "2026-09-02T14:07:45Z",
+    "language": "JavaScript",
+    "license": "AGPL-3.0",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=posnic.io"
+  },
+  {
     "slug": "docusign",
     "name": "DocuSign",
     "category": "Legal",
