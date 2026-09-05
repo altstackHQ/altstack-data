@@ -61329,5 +61329,57 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-19T09:52:55.144Z"
+  },
+  "appllama/liquid-glass-screens": {
+    "first_seen": "2026-09-05T14:27:03.971Z",
+    "last_seen": "2026-09-05T14:27:03.971Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T14:27:03.960Z"
+  },
+  "34306/vphone-web": {
+    "first_seen": "2026-09-05T14:27:04.998Z",
+    "last_seen": "2026-09-05T14:27:04.998Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T14:27:04.998Z"
+  },
+  "johnj-eng96n9/discord-token-generator": {
+    "first_seen": "2026-09-05T14:27:05.460Z",
+    "last_seen": "2026-09-05T14:27:05.460Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T14:27:05.460Z"
+  },
+  "openwhale-labs/md2pdf": {
+    "first_seen": "2026-09-05T14:27:05.827Z",
+    "last_seen": "2026-09-05T14:27:05.827Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-19T14:27:05.827Z"
+  },
+  "antonyrag/ragleap-core": {
+    "first_seen": "2026-09-05T14:27:06.141Z",
+    "last_seen": "2026-09-05T14:27:06.141Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-09-19T14:27:06.141Z"
   }
 }
