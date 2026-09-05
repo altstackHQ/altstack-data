@@ -61064,5 +61064,195 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-18T20:11:35.541Z"
+  },
+  "anthropics/fermats-last-theorem": {
+    "first_seen": "2026-09-05T02:35:55.001Z",
+    "last_seen": "2026-09-05T02:35:55.001Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:35:54.987Z"
+  },
+  "brendazure/balena-simple": {
+    "first_seen": "2026-09-05T02:35:56.373Z",
+    "last_seen": "2026-09-05T02:35:56.373Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:35:56.373Z"
+  },
+  "saganaki22/comfyui-vdn-h3": {
+    "first_seen": "2026-09-05T02:35:57.020Z",
+    "last_seen": "2026-09-05T02:35:57.020Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:35:57.020Z"
+  },
+  "bjarneo/omarchy-workspace-layout": {
+    "first_seen": "2026-09-05T02:35:57.720Z",
+    "last_seen": "2026-09-05T02:35:57.720Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:35:57.720Z"
+  },
+  "sohu-mptc/flashrec": {
+    "first_seen": "2026-09-05T02:35:58.479Z",
+    "last_seen": "2026-09-05T02:35:58.479Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:35:58.479Z"
+  },
+  "miaai-lab/qwen3.8-flash-next-single-dgx-spark": {
+    "first_seen": "2026-09-05T02:35:59.167Z",
+    "last_seen": "2026-09-05T02:35:59.167Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:35:59.167Z"
+  },
+  "podsfamily/pods": {
+    "first_seen": "2026-09-05T02:35:59.878Z",
+    "last_seen": "2026-09-05T02:35:59.878Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:35:59.878Z"
+  },
+  "adytm404/whatsapp-web.view": {
+    "first_seen": "2026-09-05T02:36:00.574Z",
+    "last_seen": "2026-09-05T02:36:00.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:00.574Z"
+  },
+  "dripips/plain-prose": {
+    "first_seen": "2026-09-05T02:36:01.449Z",
+    "last_seen": "2026-09-05T02:36:01.449Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:01.449Z"
+  },
+  "joe-bell/skills": {
+    "first_seen": "2026-09-05T02:36:02.848Z",
+    "last_seen": "2026-09-05T02:36:02.848Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:02.848Z"
+  },
+  "marcus-king-lab1991m4/cursor-free-trial-reset": {
+    "first_seen": "2026-09-05T02:36:03.457Z",
+    "last_seen": "2026-09-05T02:36:03.457Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:03.457Z"
+  },
+  "adenaufal/nafkah": {
+    "first_seen": "2026-09-05T02:36:04.207Z",
+    "last_seen": "2026-09-05T02:36:04.207Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:04.207Z"
+  },
+  "yuxuan2003/awesome-gui-agent-security": {
+    "first_seen": "2026-09-05T02:36:04.893Z",
+    "last_seen": "2026-09-05T02:36:04.893Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:04.893Z"
+  },
+  "danielroe/my-bad": {
+    "first_seen": "2026-09-05T02:36:05.565Z",
+    "last_seen": "2026-09-05T02:36:05.565Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:05.565Z"
+  },
+  "san3ncrypt3d/vulnometry": {
+    "first_seen": "2026-09-05T02:36:06.217Z",
+    "last_seen": "2026-09-05T02:36:06.217Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:06.217Z"
+  },
+  "jacktulli/linux-explorer": {
+    "first_seen": "2026-09-05T02:36:07.020Z",
+    "last_seen": "2026-09-05T02:36:07.020Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:07.020Z"
+  },
+  "mantitup-org/vista": {
+    "first_seen": "2026-09-05T02:36:07.698Z",
+    "last_seen": "2026-09-05T02:36:07.698Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:07.698Z"
+  },
+  "jpneagle/dlss5-webcam-demo": {
+    "first_seen": "2026-09-05T02:36:08.388Z",
+    "last_seen": "2026-09-05T02:36:08.388Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:08.388Z"
+  },
+  "powdervendor/discord-zapret": {
+    "first_seen": "2026-09-05T02:36:09.174Z",
+    "last_seen": "2026-09-05T02:36:09.174Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T02:36:09.174Z"
   }
 }
