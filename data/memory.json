@@ -61381,5 +61381,162 @@
     "reason": "low_stars",
     "stars": 9,
     "cooldown_until": "2026-09-19T14:27:06.141Z"
+  },
+  "ashemag/human-atlas": {
+    "first_seen": "2026-09-05T19:50:53.290Z",
+    "last_seen": "2026-09-05T19:50:53.290Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:50:53.280Z"
+  },
+  "vinzdg/codenotch": {
+    "first_seen": "2026-09-05T19:50:54.320Z",
+    "last_seen": "2026-09-05T19:50:54.320Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:50:54.320Z"
+  },
+  "pierrenade/short-video-generator-ai": {
+    "first_seen": "2026-09-05T19:50:54.845Z",
+    "last_seen": "2026-09-05T19:50:54.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:50:54.845Z"
+  },
+  "andranikfuturelabs/voicetransleter_v3": {
+    "first_seen": "2026-09-05T19:50:55.300Z",
+    "last_seen": "2026-09-05T19:50:55.300Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:50:55.300Z"
+  },
+  "edoardolunardi/kugiri": {
+    "first_seen": "2026-09-05T19:50:55.765Z",
+    "last_seen": "2026-09-05T19:50:55.765Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:50:55.765Z"
+  },
+  "kitlangton/rolling-number": {
+    "first_seen": "2026-09-05T19:50:56.896Z",
+    "last_seen": "2026-09-05T19:50:56.896Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:50:56.896Z"
+  },
+  "hsandhu/mobilecode": {
+    "first_seen": "2026-09-05T19:50:57.182Z",
+    "last_seen": "2026-09-05T19:50:57.182Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-19T19:50:57.182Z"
+  },
+  "stachon/hc2html": {
+    "first_seen": "2026-09-05T19:50:57.479Z",
+    "last_seen": "2026-09-05T19:50:57.479Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-19T19:50:57.479Z"
+  },
+  "alpbahadur/interns-review-plugin": {
+    "first_seen": "2026-09-05T19:50:57.809Z",
+    "last_seen": "2026-09-05T19:50:57.809Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-19T19:50:57.809Z"
+  },
+  "luiscleto/weherd": {
+    "first_seen": "2026-09-05T19:50:58.087Z",
+    "last_seen": "2026-09-05T19:50:58.087Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-19T19:50:58.087Z"
+  },
+  "karvy-singh/osdc-wa": {
+    "first_seen": "2026-09-05T19:50:58.398Z",
+    "last_seen": "2026-09-05T19:50:58.398Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-09-19T19:50:58.398Z"
+  },
+  "yiaany/mcpay": {
+    "first_seen": "2026-09-05T19:50:58.722Z",
+    "last_seen": "2026-09-05T19:50:58.722Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-09-19T19:50:58.722Z"
+  },
+  "brisk4t/tossedthetvkepttheremote": {
+    "first_seen": "2026-09-05T19:50:59.199Z",
+    "last_seen": "2026-09-05T19:50:59.199Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:50:59.199Z"
+  },
+  "shaqkao/screenshotify": {
+    "first_seen": "2026-09-05T19:51:00.275Z",
+    "last_seen": "2026-09-05T19:51:00.275Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-12T19:51:00.275Z"
+  },
+  "juntz-g1thub/ultracpp": {
+    "first_seen": "2026-09-05T19:51:00.751Z",
+    "last_seen": "2026-09-05T19:51:00.751Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-19T19:51:00.751Z"
   }
 }
