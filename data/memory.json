@@ -61703,5 +61703,68 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-20T02:32:32.405Z"
+  },
+  "rhuancruz/swiftui-logo-draw": {
+    "first_seen": "2026-09-06T10:09:29.770Z",
+    "last_seen": "2026-09-06T10:09:29.770Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T10:09:29.757Z"
+  },
+  "nicholas2519/python-cloudflare-turnstile": {
+    "first_seen": "2026-09-06T10:09:30.965Z",
+    "last_seen": "2026-09-06T10:09:30.965Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T10:09:30.965Z"
+  },
+  "yang0/handraw-style": {
+    "first_seen": "2026-09-06T10:09:31.504Z",
+    "last_seen": "2026-09-06T10:09:31.504Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T10:09:31.504Z"
+  },
+  "jonaraphael/slock": {
+    "first_seen": "2026-09-06T10:09:31.866Z",
+    "last_seen": "2026-09-06T10:09:31.866Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-20T10:09:31.866Z"
+  },
+  "nigrosimone/llms-robot-arena": {
+    "first_seen": "2026-09-06T10:09:32.174Z",
+    "last_seen": "2026-09-06T10:09:32.174Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-20T10:09:32.174Z"
+  },
+  "vitaliyhayda/claude-transplant": {
+    "first_seen": "2026-09-06T10:09:32.515Z",
+    "last_seen": "2026-09-06T10:09:32.515Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-20T10:09:32.515Z"
   }
 }
