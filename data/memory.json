@@ -1757,14 +1757,14 @@
   },
   "awesome-foss/awesome-sysadmin": {
     "first_seen": "2026-04-08T13:45:47.994Z",
-    "last_seen": "2026-08-30T15:55:38.908Z",
-    "times_seen": 10,
+    "last_seen": "2026-09-06T19:55:00.144Z",
+    "times_seen": 11,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-06T15:55:38.897Z"
+    "cooldown_until": "2026-09-13T19:55:00.130Z"
   },
   "dokploy/dokploy": {
     "first_seen": "2026-04-08T13:45:48.345Z",
@@ -61884,5 +61884,57 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-20T14:49:27.203Z"
+  },
+  "biusberline/cloudflare-turnstile-solver": {
+    "first_seen": "2026-09-06T19:55:01.869Z",
+    "last_seen": "2026-09-06T19:55:01.869Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T19:55:01.869Z"
+  },
+  "jarvis322/macos-sysdata": {
+    "first_seen": "2026-09-06T19:55:02.477Z",
+    "last_seen": "2026-09-06T19:55:02.477Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T19:55:02.477Z"
+  },
+  "brinkravenmodify/how-to-fish-trainer": {
+    "first_seen": "2026-09-06T19:55:02.994Z",
+    "last_seen": "2026-09-06T19:55:02.994Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T19:55:02.994Z"
+  },
+  "rcarmo/swift-smart-prompter": {
+    "first_seen": "2026-09-06T19:55:04.677Z",
+    "last_seen": "2026-09-06T19:55:04.677Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-20T19:55:04.677Z"
+  },
+  "kkkamur07/indic-modernbert": {
+    "first_seen": "2026-09-06T19:55:04.982Z",
+    "last_seen": "2026-09-06T19:55:04.982Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-20T19:55:04.982Z"
   }
 }
