@@ -61538,5 +61538,170 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-09-19T19:51:00.751Z"
+  },
+  "burakgon/stop-stutter": {
+    "first_seen": "2026-09-06T02:32:26.262Z",
+    "last_seen": "2026-09-06T02:32:26.262Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:26.243Z"
+  },
+  "brendazure/robinhood-meme-token-stock-launchpad": {
+    "first_seen": "2026-09-06T02:32:26.744Z",
+    "last_seen": "2026-09-06T02:32:26.744Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:26.744Z"
+  },
+  "ashemag/model-x-studio": {
+    "first_seen": "2026-09-06T02:32:27.127Z",
+    "last_seen": "2026-09-06T02:32:27.127Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:27.127Z"
+  },
+  "okf-memory/okf-agent-memory": {
+    "first_seen": "2026-09-06T02:32:27.983Z",
+    "last_seen": "2026-09-06T02:32:27.983Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:27.983Z"
+  },
+  "donvito/codex-astra-luna-orchestrator": {
+    "first_seen": "2026-09-06T02:32:28.373Z",
+    "last_seen": "2026-09-06T02:32:28.373Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:28.373Z"
+  },
+  "dannymac180/astra-advisor": {
+    "first_seen": "2026-09-06T02:32:28.779Z",
+    "last_seen": "2026-09-06T02:32:28.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:28.779Z"
+  },
+  "0x-ihrr/xiaobai-skills": {
+    "first_seen": "2026-09-06T02:32:29.178Z",
+    "last_seen": "2026-09-06T02:32:29.178Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:29.178Z"
+  },
+  "shaheer-00/claude-adhd": {
+    "first_seen": "2026-09-06T02:32:29.561Z",
+    "last_seen": "2026-09-06T02:32:29.561Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:29.561Z"
+  },
+  "agfnow/agentflow": {
+    "first_seen": "2026-09-06T02:32:29.990Z",
+    "last_seen": "2026-09-06T02:32:29.990Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:29.990Z"
+  },
+  "stephengreen220/rivals-script-2026": {
+    "first_seen": "2026-09-06T02:32:30.449Z",
+    "last_seen": "2026-09-06T02:32:30.449Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:30.449Z"
+  },
+  "toplyasquare/multichain-drainer-tool": {
+    "first_seen": "2026-09-06T02:32:30.952Z",
+    "last_seen": "2026-09-06T02:32:30.952Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T02:32:30.952Z"
+  },
+  "modecir/fast-cutvid": {
+    "first_seen": "2026-09-06T02:32:31.262Z",
+    "last_seen": "2026-09-06T02:32:31.262Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-20T02:32:31.262Z"
+  },
+  "gojiplus/wikifuse": {
+    "first_seen": "2026-09-06T02:32:31.535Z",
+    "last_seen": "2026-09-06T02:32:31.535Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-20T02:32:31.535Z"
+  },
+  "angeldevmobile/seam": {
+    "first_seen": "2026-09-06T02:32:31.818Z",
+    "last_seen": "2026-09-06T02:32:31.818Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-20T02:32:31.818Z"
+  },
+  "sleetdrop/vibexcel": {
+    "first_seen": "2026-09-06T02:32:32.094Z",
+    "last_seen": "2026-09-06T02:32:32.094Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-20T02:32:32.094Z"
+  },
+  "leodeim/colimui": {
+    "first_seen": "2026-09-06T02:32:32.405Z",
+    "last_seen": "2026-09-06T02:32:32.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-20T02:32:32.405Z"
   }
 }
