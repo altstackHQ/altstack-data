@@ -3471,6 +3471,33 @@
     }
   },
   {
+    "slug": "orkas",
+    "name": "Orkas",
+    "category": "AI Interfaces",
+    "is_open_source": true,
+    "github_repo": "Orkas-AI/Orkas",
+    "website": "https://orkas.ai/?source=gh_altstack",
+    "description": "Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.",
+    "pros": [
+      "Multi-agent orchestration through one conversation",
+      "Local-first desktop workspace",
+      "MIT-licensed open source"
+    ],
+    "cons": [
+      "Remote model providers require network access"
+    ],
+    "stars": 725,
+    "language": "TypeScript",
+    "license": "MIT License",
+    "tags": [
+      "AI",
+      "Desktop",
+      "Multi-Agent"
+    ],
+    "hosting_type": "self-hosted",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=orkas.ai"
+  },
+  {
     "slug": "lm-studio",
     "name": "LM Studio",
     "category": "AI Runners",
