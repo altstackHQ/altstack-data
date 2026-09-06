@@ -5105,14 +5105,14 @@
   },
   "scastiel/kado": {
     "first_seen": "2026-05-04T02:30:09.504Z",
-    "last_seen": "2026-08-16T18:21:46.032Z",
-    "times_seen": 2,
+    "last_seen": "2026-09-06T14:49:24.198Z",
+    "times_seen": 3,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "stars": 9,
-    "cooldown_until": "2026-08-23T18:21:46.032Z"
+    "cooldown_until": "2026-09-13T14:49:24.198Z"
   },
   "boxlite-ai/boxlite": {
     "first_seen": "2026-05-04T02:30:10.041Z",
@@ -61766,5 +61766,123 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-20T10:09:32.515Z"
+  },
+  "evangelosvlachos96-dotcom/booking-microservices": {
+    "first_seen": "2026-09-06T14:49:20.917Z",
+    "last_seen": "2026-09-06T14:49:20.917Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T14:49:20.900Z"
+  },
+  "ramazancetinkaya/global-timezone-tracker": {
+    "first_seen": "2026-09-06T14:49:22.779Z",
+    "last_seen": "2026-09-06T14:49:22.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T14:49:22.779Z"
+  },
+  "aniketwathore/ramanujan": {
+    "first_seen": "2026-09-06T14:49:23.196Z",
+    "last_seen": "2026-09-06T14:49:23.196Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-20T14:49:23.196Z"
+  },
+  "lakbud/vernllm": {
+    "first_seen": "2026-09-06T14:49:23.521Z",
+    "last_seen": "2026-09-06T14:49:23.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-20T14:49:23.521Z"
+  },
+  "infomaniac777/dsnitch": {
+    "first_seen": "2026-09-06T14:49:24.606Z",
+    "last_seen": "2026-09-06T14:49:24.606Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-20T14:49:24.606Z"
+  },
+  "pt-perkasa-pilar-utama/testate": {
+    "first_seen": "2026-09-06T14:49:25.040Z",
+    "last_seen": "2026-09-06T14:49:25.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-20T14:49:25.040Z"
+  },
+  "philphilphil/blunderbase": {
+    "first_seen": "2026-09-06T14:49:25.333Z",
+    "last_seen": "2026-09-06T14:49:25.333Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-20T14:49:25.333Z"
+  },
+  "drl990114/markflowy": {
+    "first_seen": "2026-09-06T14:49:26.092Z",
+    "last_seen": "2026-09-06T14:49:26.092Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-13T14:49:26.092Z"
+  },
+  "rashedint32/claude-hl": {
+    "first_seen": "2026-09-06T14:49:26.498Z",
+    "last_seen": "2026-09-06T14:49:26.498Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-20T14:49:26.498Z"
+  },
+  "astralmaster/autohttps": {
+    "first_seen": "2026-09-06T14:49:26.897Z",
+    "last_seen": "2026-09-06T14:49:26.897Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-20T14:49:26.897Z"
+  },
+  "divakarungatla/wayfinder": {
+    "first_seen": "2026-09-06T14:49:27.203Z",
+    "last_seen": "2026-09-06T14:49:27.203Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-20T14:49:27.203Z"
   }
 }
