@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-08-31T03:06:01.372Z",
-    "times_seen": 18,
+    "last_seen": "2026-09-07T11:24:30.101Z",
+    "times_seen": 19,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-07T03:06:01.357Z"
+    "cooldown_until": "2026-09-14T11:24:30.082Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -33457,14 +33457,14 @@
   },
   "0xmmo/crew": {
     "first_seen": "2026-07-04T08:31:19.612Z",
-    "last_seen": "2026-07-04T08:31:19.612Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-07T11:24:40.822Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 0,
-    "cooldown_until": "2026-07-18T08:31:19.612Z"
+    "stars": 21,
+    "cooldown_until": "2026-09-21T11:24:40.822Z"
   },
   "vansh-j/copycopy": {
     "first_seen": "2026-07-04T08:31:19.997Z",
@@ -62103,5 +62103,180 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-21T02:30:18.747Z"
+  },
+  "everettfish/holo-card-studio": {
+    "first_seen": "2026-09-07T11:24:34.050Z",
+    "last_seen": "2026-09-07T11:24:34.050Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:34.050Z"
+  },
+  "kunchenguid/kun": {
+    "first_seen": "2026-09-07T11:24:34.496Z",
+    "last_seen": "2026-09-07T11:24:34.496Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:34.496Z"
+  },
+  "jtydhr88/screenwriting-skills": {
+    "first_seen": "2026-09-07T11:24:35.053Z",
+    "last_seen": "2026-09-07T11:24:35.053Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:35.053Z"
+  },
+  "int64ago/vistep": {
+    "first_seen": "2026-09-07T11:24:36.056Z",
+    "last_seen": "2026-09-07T11:24:36.056Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:36.056Z"
+  },
+  "theo-kirby/tmax": {
+    "first_seen": "2026-09-07T11:24:36.527Z",
+    "last_seen": "2026-09-07T11:24:36.527Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:36.527Z"
+  },
+  "i-am-manware/manware-s-ai-learning-toolkit": {
+    "first_seen": "2026-09-07T11:24:36.959Z",
+    "last_seen": "2026-09-07T11:24:36.959Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:36.959Z"
+  },
+  "sdcb/simdpaddleocr": {
+    "first_seen": "2026-09-07T11:24:37.423Z",
+    "last_seen": "2026-09-07T11:24:37.423Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:37.423Z"
+  },
+  "bangtutorial/bang-motion": {
+    "first_seen": "2026-09-07T11:24:37.845Z",
+    "last_seen": "2026-09-07T11:24:37.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:37.845Z"
+  },
+  "theclues/tradegenuis-box": {
+    "first_seen": "2026-09-07T11:24:38.254Z",
+    "last_seen": "2026-09-07T11:24:38.254Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:38.254Z"
+  },
+  "wz1119/codex-minecraft-gameplay": {
+    "first_seen": "2026-09-07T11:24:38.656Z",
+    "last_seen": "2026-09-07T11:24:38.656Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:38.656Z"
+  },
+  "timgordontg/engrim": {
+    "first_seen": "2026-09-07T11:24:39.165Z",
+    "last_seen": "2026-09-07T11:24:39.165Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:39.165Z"
+  },
+  "lantunnel/lantunnel": {
+    "first_seen": "2026-09-07T11:24:39.517Z",
+    "last_seen": "2026-09-07T11:24:39.517Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-09-21T11:24:39.517Z"
+  },
+  "sanexxxx777/server-hardening-playbook": {
+    "first_seen": "2026-09-07T11:24:39.903Z",
+    "last_seen": "2026-09-07T11:24:39.903Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-09-21T11:24:39.903Z"
+  },
+  "mercurjs/mercur": {
+    "first_seen": "2026-09-07T11:24:40.386Z",
+    "last_seen": "2026-09-07T11:24:40.386Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T11:24:40.386Z"
+  },
+  "djcj-website/djcjarcade": {
+    "first_seen": "2026-09-07T11:24:41.156Z",
+    "last_seen": "2026-09-07T11:24:41.156Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-21T11:24:41.156Z"
+  },
+  "xaloqi/xaloqi-testlab-core": {
+    "first_seen": "2026-09-07T11:24:41.445Z",
+    "last_seen": "2026-09-07T11:24:41.445Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-21T11:24:41.445Z"
+  },
+  "wissemb11/wb-flow": {
+    "first_seen": "2026-09-07T11:24:41.816Z",
+    "last_seen": "2026-09-07T11:24:41.816Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-21T11:24:41.816Z"
   }
 }
