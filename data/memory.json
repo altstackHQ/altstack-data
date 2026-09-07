@@ -62363,5 +62363,59 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-21T17:07:00.665Z"
+  },
+  "achimala/dream-loop": {
+    "first_seen": "2026-09-07T21:02:57.504Z",
+    "last_seen": "2026-09-07T21:02:57.504Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-14T21:02:57.488Z"
+  },
+  "kernelshard/expose": {
+    "first_seen": "2026-09-07T21:02:58.299Z",
+    "last_seen": "2026-09-07T21:02:58.299Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-09-21T21:02:58.299Z"
+  },
+  "steven-p-walsh/possess": {
+    "first_seen": "2026-09-07T21:02:58.619Z",
+    "last_seen": "2026-09-07T21:02:58.619Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-21T21:02:58.619Z"
+  },
+  "shortyping/snag": {
+    "first_seen": "2026-09-07T21:02:58.921Z",
+    "last_seen": "2026-09-07T21:02:58.921Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-21T21:02:58.921Z"
+  },
+  "mukundzha/hazzel": {
+    "first_seen": "2026-09-07T21:02:59.300Z",
+    "last_seen": "2026-09-07T21:02:59.300Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-21T21:02:59.300Z"
   }
 }
