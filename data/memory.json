@@ -62417,5 +62417,187 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-21T21:02:59.300Z"
+  },
+  "vii-cae/hyalite--liquid-glass": {
+    "first_seen": "2026-09-08T02:42:58.594Z",
+    "last_seen": "2026-09-08T02:42:58.594Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:42:58.576Z"
+  },
+  "aizhimou/javranking-extension": {
+    "first_seen": "2026-09-08T02:42:59.397Z",
+    "last_seen": "2026-09-08T02:42:59.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:42:59.397Z"
+  },
+  "xflare-bot/pokemonlive": {
+    "first_seen": "2026-09-08T02:42:59.809Z",
+    "last_seen": "2026-09-08T02:42:59.809Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:42:59.809Z"
+  },
+  "openwam-official/openwam": {
+    "first_seen": "2026-09-08T02:43:00.296Z",
+    "last_seen": "2026-09-08T02:43:00.296Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:00.296Z"
+  },
+  "chadhurley25075-png/pd-bridge": {
+    "first_seen": "2026-09-08T02:43:00.782Z",
+    "last_seen": "2026-09-08T02:43:00.782Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:00.782Z"
+  },
+  "albertchamberlain/awesome-okf": {
+    "first_seen": "2026-09-08T02:43:01.256Z",
+    "last_seen": "2026-09-08T02:43:01.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:01.256Z"
+  },
+  "lfzk550/fanzha-ai-proxy": {
+    "first_seen": "2026-09-08T02:43:01.658Z",
+    "last_seen": "2026-09-08T02:43:01.658Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:01.658Z"
+  },
+  "dingbo3603-ui/ming-official-atlas": {
+    "first_seen": "2026-09-08T02:43:02.021Z",
+    "last_seen": "2026-09-08T02:43:02.021Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:02.021Z"
+  },
+  "v-modal/vmodal_sdk_robotics": {
+    "first_seen": "2026-09-08T02:43:02.531Z",
+    "last_seen": "2026-09-08T02:43:02.531Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:02.531Z"
+  },
+  "bsab/france-mcp-servers": {
+    "first_seen": "2026-09-08T02:43:02.972Z",
+    "last_seen": "2026-09-08T02:43:02.972Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:02.972Z"
+  },
+  "gta-v-aimbot-gza/.github": {
+    "first_seen": "2026-09-08T02:43:03.436Z",
+    "last_seen": "2026-09-08T02:43:03.436Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:03.436Z"
+  },
+  "scottstevenson/superastra": {
+    "first_seen": "2026-09-08T02:43:03.865Z",
+    "last_seen": "2026-09-08T02:43:03.865Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:03.865Z"
+  },
+  "xzf-thu/breezetts2_mac_streaming": {
+    "first_seen": "2026-09-08T02:43:04.335Z",
+    "last_seen": "2026-09-08T02:43:04.335Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:04.335Z"
+  },
+  "vheissu/hit-and-run-web": {
+    "first_seen": "2026-09-08T02:43:06.722Z",
+    "last_seen": "2026-09-08T02:43:06.722Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:06.722Z"
+  },
+  "umlink/java-full-stack": {
+    "first_seen": "2026-09-08T02:43:07.137Z",
+    "last_seen": "2026-09-08T02:43:07.137Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:07.137Z"
+  },
+  "sadpainy/stuxnet": {
+    "first_seen": "2026-09-08T02:43:07.584Z",
+    "last_seen": "2026-09-08T02:43:07.584Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T02:43:07.583Z"
+  },
+  "duncancarroll/gorillaquake": {
+    "first_seen": "2026-09-08T02:43:08.397Z",
+    "last_seen": "2026-09-08T02:43:08.397Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-22T02:43:08.397Z"
+  },
+  "janrakete/healthcore-bulp.io": {
+    "first_seen": "2026-09-08T02:43:08.743Z",
+    "last_seen": "2026-09-08T02:43:08.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-22T02:43:08.743Z"
   }
 }
