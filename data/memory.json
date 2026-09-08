@@ -62723,5 +62723,89 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-22T10:28:55.447Z"
+  },
+  "gazijarin/itsgiving": {
+    "first_seen": "2026-09-08T15:53:17.710Z",
+    "last_seen": "2026-09-08T15:53:17.710Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T15:53:17.693Z"
+  },
+  "eternity4719/howtolivebetter": {
+    "first_seen": "2026-09-08T15:53:18.831Z",
+    "last_seen": "2026-09-08T15:53:18.831Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T15:53:18.831Z"
+  },
+  "tristanbuckmaster/fluid_lean": {
+    "first_seen": "2026-09-08T15:53:19.247Z",
+    "last_seen": "2026-09-08T15:53:19.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T15:53:19.247Z"
+  },
+  "scaleninja/drivesync": {
+    "first_seen": "2026-09-08T15:53:20.083Z",
+    "last_seen": "2026-09-08T15:53:20.083Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-09-22T15:53:20.083Z"
+  },
+  "devkitshq/notifkit": {
+    "first_seen": "2026-09-08T15:53:22.292Z",
+    "last_seen": "2026-09-08T15:53:22.292Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T15:53:22.292Z"
+  },
+  "john-comptonemail-com/malinois": {
+    "first_seen": "2026-09-08T15:53:22.585Z",
+    "last_seen": "2026-09-08T15:53:22.585Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-22T15:53:22.585Z"
+  },
+  "byteatatime/oweka": {
+    "first_seen": "2026-09-08T15:53:23.590Z",
+    "last_seen": "2026-09-08T15:53:23.590Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-22T15:53:23.590Z"
+  },
+  "gi-dellav/multistack": {
+    "first_seen": "2026-09-08T15:53:23.902Z",
+    "last_seen": "2026-09-08T15:53:23.902Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-09-22T15:53:23.902Z"
   }
 }
