@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-09-01T20:26:38.018Z",
-    "times_seen": 20,
+    "last_seen": "2026-09-08T20:37:31.704Z",
+    "times_seen": 21,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-08T20:26:38.005Z"
+    "cooldown_until": "2026-09-15T20:37:31.684Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -62807,5 +62807,119 @@
     "reason": "low_stars",
     "stars": 15,
     "cooldown_until": "2026-09-22T15:53:23.902Z"
+  },
+  "openai/navierstokesandeuler": {
+    "first_seen": "2026-09-08T20:37:36.627Z",
+    "last_seen": "2026-09-08T20:37:36.627Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T20:37:36.627Z"
+  },
+  "henryzawadzki6542/cloudflare-turnstile-bypass": {
+    "first_seen": "2026-09-08T20:37:37.244Z",
+    "last_seen": "2026-09-08T20:37:37.244Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T20:37:37.244Z"
+  },
+  "lbeilc/rhinelabui": {
+    "first_seen": "2026-09-08T20:37:38.432Z",
+    "last_seen": "2026-09-08T20:37:38.432Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T20:37:38.432Z"
+  },
+  "stratumworldnail/glm-flash-multimodal-client": {
+    "first_seen": "2026-09-08T20:37:39.001Z",
+    "last_seen": "2026-09-08T20:37:39.001Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T20:37:39.001Z"
+  },
+  "nursetrolley/fable-desktop-unlocker": {
+    "first_seen": "2026-09-08T20:37:39.685Z",
+    "last_seen": "2026-09-08T20:37:39.685Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T20:37:39.685Z"
+  },
+  "mudbardmanor/gemini-pro-activator": {
+    "first_seen": "2026-09-08T20:37:40.322Z",
+    "last_seen": "2026-09-08T20:37:40.322Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T20:37:40.322Z"
+  },
+  "spinnerappreciate/glm-flash-offline-client": {
+    "first_seen": "2026-09-08T20:37:40.871Z",
+    "last_seen": "2026-09-08T20:37:40.871Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-15T20:37:40.871Z"
+  },
+  "jolexxa/bestie": {
+    "first_seen": "2026-09-08T20:37:43.183Z",
+    "last_seen": "2026-09-08T20:37:43.183Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-22T20:37:43.183Z"
+  },
+  "tigerlang/dragon": {
+    "first_seen": "2026-09-08T20:37:43.577Z",
+    "last_seen": "2026-09-08T20:37:43.577Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-22T20:37:43.577Z"
+  },
+  "greenstevester/postgres-schema-gallery": {
+    "first_seen": "2026-09-08T20:37:43.924Z",
+    "last_seen": "2026-09-08T20:37:43.924Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-22T20:37:43.924Z"
+  },
+  "mchl-labs/chronovec": {
+    "first_seen": "2026-09-08T20:37:44.382Z",
+    "last_seen": "2026-09-08T20:37:44.382Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-22T20:37:44.382Z"
   }
 }
