@@ -2780,6 +2780,72 @@
     }
   },
   {
+    "slug": "jasper",
+    "name": "Jasper",
+    "category": "Marketing",
+    "is_open_source": false,
+    "pricing_model": "Paid",
+    "website": "https://www.jasper.ai",
+    "description": "AI content platform for marketing teams, with brand voice controls and SEO templates.",
+    "alternatives": [
+      "altorank"
+    ],
+    "tags": [
+      "AI",
+      "Content",
+      "Marketing",
+      "SEO"
+    ],
+    "logo_url": "https://unavatar.io/jasper.ai?fallback=https://www.google.com/s2/favicons?sz=128%26domain=jasper.ai",
+    "avg_monthly_cost": 69,
+    "pros": [
+      "Mature brand voice and style controls",
+      "Large template library for marketing copy",
+      "Team collaboration and brand guidelines built in"
+    ],
+    "cons": [
+      "No self-hosting; content and brand data live with the vendor",
+      "Priced per seat, so team costs scale quickly",
+      "Writing-first: no keyword research, rank tracking or CMS publishing"
+    ],
+    "has_deployable_alternative": true
+  },
+  {
+    "slug": "altorank",
+    "name": "AltoRank",
+    "category": "Marketing",
+    "is_open_source": true,
+    "github_repo": "AltoRank/altorank",
+    "stars": 1,
+    "website": "https://altorank.co",
+    "description": "AI SEO content engine: keyword research, domain audit, drafting with scoring and fact-checking, rank tracking, AI-answer visibility, and publishing to 13 destinations across 10 CMS platforms. A person approves every article; no API or MCP call can publish a draft.",
+    "pros": [
+      "Whole product is open source under AGPL-3.0, with no feature-gated tier",
+      "Runs the full loop from keyword to published article, not one step of it",
+      "Self-hostable against your own Supabase and your own API keys",
+      "Ships an MCP server, so an AI assistant can drive it"
+    ],
+    "cons": [
+      "Pre-launch: no paying customers and no case studies yet",
+      "Needs your own Anthropic and DataForSEO keys to be useful",
+      "No packaged CLI yet"
+    ],
+    "last_commit": "2026-09-07T00:00:00Z",
+    "language": "TypeScript",
+    "license": "GNU Affero General Public License v3.0",
+    "tags": [
+      "SEO",
+      "AI",
+      "Content",
+      "Marketing",
+      "GEO"
+    ],
+    "logo_url": "https://unavatar.io/altorank.co?fallback=https://www.google.com/s2/favicons?sz=128%26domain=altorank.co",
+    "alternatives": [],
+    "hosting_type": "self-hosted",
+    "avg_monthly_cost": 0
+  },
+  {
     "slug": "dokku",
     "name": "Dokku",
     "category": "DevOps",
