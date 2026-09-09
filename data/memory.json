@@ -20791,13 +20791,13 @@
   },
   "mljar/supertree": {
     "first_seen": "2026-06-09T09:34:25.857Z",
-    "last_seen": "2026-06-09T09:34:25.857Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-09T10:40:05.785Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-06-16T09:34:25.857Z"
+    "cooldown_until": "2026-09-16T10:40:05.785Z"
   },
   "rohasnagpal/ai-blueprint": {
     "first_seen": "2026-06-09T09:34:26.156Z",
@@ -21364,14 +21364,14 @@
   },
   "rentruewang/inversql": {
     "first_seen": "2026-06-10T15:23:23.488Z",
-    "last_seen": "2026-06-10T15:23:23.488Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-09T10:40:04.812Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 12,
-    "cooldown_until": "2026-06-24T15:23:23.488Z"
+    "stars": 19,
+    "cooldown_until": "2026-09-23T10:40:04.812Z"
   },
   "tjhdev/camel-mono": {
     "first_seen": "2026-06-10T15:23:23.876Z",
@@ -54650,8 +54650,8 @@
   },
   "marketplace/actions": {
     "first_seen": "2026-08-20T18:41:45.194Z",
-    "last_seen": "2026-08-21T12:37:09.825Z",
-    "times_seen": 4,
+    "last_seen": "2026-09-09T10:40:04.505Z",
+    "times_seen": 5,
     "sources": [
       "hackernews"
     ],
@@ -63035,5 +63035,112 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-23T02:43:25.054Z"
+  },
+  "com-phantom/phantom-wallet-desktop": {
+    "first_seen": "2026-09-09T10:40:00.008Z",
+    "last_seen": "2026-09-09T10:40:00.008Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T10:39:59.991Z"
+  },
+  "omni-interaction-gander/omni-interaction-agent": {
+    "first_seen": "2026-09-09T10:40:01.247Z",
+    "last_seen": "2026-09-09T10:40:01.247Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T10:40:01.247Z"
+  },
+  "jaskirat1616/mactap-app": {
+    "first_seen": "2026-09-09T10:40:01.907Z",
+    "last_seen": "2026-09-09T10:40:01.907Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T10:40:01.907Z"
+  },
+  "injectinglabs/injoffice": {
+    "first_seen": "2026-09-09T10:40:03.572Z",
+    "last_seen": "2026-09-09T10:40:03.572Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-23T10:40:03.572Z"
+  },
+  "paguasmar/veloxml-deploy": {
+    "first_seen": "2026-09-09T10:40:05.161Z",
+    "last_seen": "2026-09-09T10:40:05.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-23T10:40:05.161Z"
+  },
+  "abhaykashyap03/grok-cli": {
+    "first_seen": "2026-09-09T10:40:06.254Z",
+    "last_seen": "2026-09-09T10:40:06.254Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-23T10:40:06.254Z"
+  },
+  "agent-sh/linubot": {
+    "first_seen": "2026-09-09T10:40:06.699Z",
+    "last_seen": "2026-09-09T10:40:06.699Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-23T10:40:06.699Z"
+  },
+  "jerriclynsjohn/tmux-agent-pulse": {
+    "first_seen": "2026-09-09T10:40:07.083Z",
+    "last_seen": "2026-09-09T10:40:07.083Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-23T10:40:07.083Z"
+  },
+  "boldaxolotl/booley": {
+    "first_seen": "2026-09-09T10:40:07.410Z",
+    "last_seen": "2026-09-09T10:40:07.410Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-23T10:40:07.410Z"
+  },
+  "oasys-works/oecs": {
+    "first_seen": "2026-09-09T10:40:07.824Z",
+    "last_seen": "2026-09-09T10:40:07.824Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-09-23T10:40:07.824Z"
   }
 }
