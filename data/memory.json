@@ -40733,14 +40733,14 @@
   },
   "yamafaktory/whetuu": {
     "first_seen": "2026-07-20T19:45:00.434Z",
-    "last_seen": "2026-07-20T19:45:00.434Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-09T20:19:55.857Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 0,
-    "cooldown_until": "2026-08-03T19:45:00.434Z"
+    "cooldown_until": "2026-09-16T20:19:55.840Z"
   },
   "awesoftsolutions/idea_meta-muse-2048-game": {
     "first_seen": "2026-07-20T19:45:00.807Z",
@@ -54650,8 +54650,8 @@
   },
   "marketplace/actions": {
     "first_seen": "2026-08-20T18:41:45.194Z",
-    "last_seen": "2026-09-09T15:49:04.958Z",
-    "times_seen": 6,
+    "last_seen": "2026-09-09T20:19:56.161Z",
+    "times_seen": 7,
     "sources": [
       "hackernews"
     ],
@@ -63195,5 +63195,38 @@
     "reason": "low_stars",
     "stars": 18,
     "cooldown_until": "2026-09-23T15:49:05.338Z"
+  },
+  "switchboard-sdk/hybrid-voice-agent-sample": {
+    "first_seen": "2026-09-09T20:19:57.030Z",
+    "last_seen": "2026-09-09T20:19:57.030Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-23T20:19:57.030Z"
+  },
+  "exabrial/locksmith": {
+    "first_seen": "2026-09-09T20:19:57.379Z",
+    "last_seen": "2026-09-09T20:19:57.379Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "EUPL-1.2",
+    "cooldown_until": "2026-10-09T20:19:57.379Z"
+  },
+  "rist-os/rist-os-handset": {
+    "first_seen": "2026-09-09T20:19:57.770Z",
+    "last_seen": "2026-09-09T20:19:57.770Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-23T20:19:57.770Z"
   }
 }
