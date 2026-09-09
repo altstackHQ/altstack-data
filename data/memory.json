@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-09-02T02:30:53.191Z",
-    "times_seen": 20,
+    "last_seen": "2026-09-09T02:43:11.715Z",
+    "times_seen": 21,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-09T02:30:53.175Z"
+    "cooldown_until": "2026-09-16T02:43:11.696Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -1800,14 +1800,14 @@
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
-    "last_seen": "2026-09-02T02:30:56.606Z",
-    "times_seen": 18,
+    "last_seen": "2026-09-09T02:43:16.476Z",
+    "times_seen": 19,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-09T02:30:56.606Z"
+    "cooldown_until": "2026-09-16T02:43:16.476Z"
   },
   "farzaa/clicky": {
     "first_seen": "2026-04-08T13:45:50.138Z",
@@ -62921,5 +62921,119 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-22T20:37:44.382Z"
+  },
+  "sdli1995/dlssg_for_sm86": {
+    "first_seen": "2026-09-09T02:43:17.065Z",
+    "last_seen": "2026-09-09T02:43:17.065Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T02:43:17.065Z"
+  },
+  "coccofresco/triaevum": {
+    "first_seen": "2026-09-09T02:43:18.306Z",
+    "last_seen": "2026-09-09T02:43:18.306Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T02:43:18.306Z"
+  },
+  "mubix/cyber-resume-reviewer-skill": {
+    "first_seen": "2026-09-09T02:43:18.841Z",
+    "last_seen": "2026-09-09T02:43:18.841Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T02:43:18.841Z"
+  },
+  "frz2004/longrun-harness": {
+    "first_seen": "2026-09-09T02:43:20.034Z",
+    "last_seen": "2026-09-09T02:43:20.034Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T02:43:20.034Z"
+  },
+  "wieslawsoltes/gridline": {
+    "first_seen": "2026-09-09T02:43:20.669Z",
+    "last_seen": "2026-09-09T02:43:20.669Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T02:43:20.669Z"
+  },
+  "msnightmare/shieldcrash": {
+    "first_seen": "2026-09-09T02:43:21.301Z",
+    "last_seen": "2026-09-09T02:43:21.301Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T02:43:21.301Z"
+  },
+  "agamrossen/volanti": {
+    "first_seen": "2026-09-09T02:43:23.728Z",
+    "last_seen": "2026-09-09T02:43:23.728Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T02:43:23.728Z"
+  },
+  "narralabs/routi": {
+    "first_seen": "2026-09-09T02:43:24.072Z",
+    "last_seen": "2026-09-09T02:43:24.072Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-23T02:43:24.072Z"
+  },
+  "omgitsbase/llmash": {
+    "first_seen": "2026-09-09T02:43:24.401Z",
+    "last_seen": "2026-09-09T02:43:24.401Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-09-23T02:43:24.401Z"
+  },
+  "richet/bounce-router": {
+    "first_seen": "2026-09-09T02:43:24.738Z",
+    "last_seen": "2026-09-09T02:43:24.738Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-23T02:43:24.738Z"
+  },
+  "domwane/workers-personal-agent": {
+    "first_seen": "2026-09-09T02:43:25.054Z",
+    "last_seen": "2026-09-09T02:43:25.054Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-23T02:43:25.054Z"
   }
 }
