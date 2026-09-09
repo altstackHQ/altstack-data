@@ -44390,13 +44390,13 @@
   },
   "ctrlb-hq/ctrlb-decompose": {
     "first_seen": "2026-07-28T13:54:11.501Z",
-    "last_seen": "2026-07-28T13:54:11.501Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-09T15:49:04.365Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-04T13:54:11.501Z"
+    "cooldown_until": "2026-09-16T15:49:04.365Z"
   },
   "braveann011/ai-halo-valuation-bias": {
     "first_seen": "2026-07-28T13:54:11.913Z",
@@ -54650,8 +54650,8 @@
   },
   "marketplace/actions": {
     "first_seen": "2026-08-20T18:41:45.194Z",
-    "last_seen": "2026-09-09T10:40:04.505Z",
-    "times_seen": 5,
+    "last_seen": "2026-09-09T15:49:04.958Z",
+    "times_seen": 6,
     "sources": [
       "hackernews"
     ],
@@ -63142,5 +63142,58 @@
     "reason": "low_stars",
     "stars": 15,
     "cooldown_until": "2026-09-23T10:40:07.824Z"
+  },
+  "nagisanzenin/truanayangi": {
+    "first_seen": "2026-09-09T15:49:02.329Z",
+    "last_seen": "2026-09-09T15:49:02.329Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T15:49:02.312Z"
+  },
+  "jnz/inslib": {
+    "first_seen": "2026-09-09T15:49:03.508Z",
+    "last_seen": "2026-09-09T15:49:03.508Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-16T15:49:03.508Z"
+  },
+  "atomburstofficial/geiger": {
+    "first_seen": "2026-09-09T15:49:03.853Z",
+    "last_seen": "2026-09-09T15:49:03.853Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-09-23T15:49:03.853Z"
+  },
+  "fvdhmbai/guardrail": {
+    "first_seen": "2026-09-09T15:49:04.681Z",
+    "last_seen": "2026-09-09T15:49:04.681Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-23T15:49:04.681Z"
+  },
+  "atomijd/jdbasic": {
+    "first_seen": "2026-09-09T15:49:05.338Z",
+    "last_seen": "2026-09-09T15:49:05.338Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-09-23T15:49:05.338Z"
   }
 }
