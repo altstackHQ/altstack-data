@@ -63462,5 +63462,117 @@
     "reason": "low_stars",
     "stars": 10,
     "cooldown_until": "2026-09-24T02:45:30.009Z"
+  },
+  "edge0-ai/edge0": {
+    "first_seen": "2026-09-10T10:27:13.476Z",
+    "last_seen": "2026-09-10T10:27:13.476Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:13.460Z"
+  },
+  "yureii1996/cek-probe-model": {
+    "first_seen": "2026-09-10T10:27:14.167Z",
+    "last_seen": "2026-09-10T10:27:14.167Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:14.167Z"
+  },
+  "deepseek-ai/deepselect": {
+    "first_seen": "2026-09-10T10:27:14.959Z",
+    "last_seen": "2026-09-10T10:27:14.959Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:14.959Z"
+  },
+  "kevinzakka/mjbatch": {
+    "first_seen": "2026-09-10T10:27:16.302Z",
+    "last_seen": "2026-09-10T10:27:16.302Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:16.302Z"
+  },
+  "tue09/awesome-reasoning-generalization": {
+    "first_seen": "2026-09-10T10:27:16.965Z",
+    "last_seen": "2026-09-10T10:27:16.965Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:16.965Z"
+  },
+  "yi1108/printfilm": {
+    "first_seen": "2026-09-10T10:27:17.557Z",
+    "last_seen": "2026-09-10T10:27:17.557Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:17.557Z"
+  },
+  "mizzlelover/gongwen-gbt9704-skill": {
+    "first_seen": "2026-09-10T10:27:18.163Z",
+    "last_seen": "2026-09-10T10:27:18.163Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:18.163Z"
+  },
+  "viettranx/3dviz-pro-max": {
+    "first_seen": "2026-09-10T10:27:18.758Z",
+    "last_seen": "2026-09-10T10:27:18.758Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:18.758Z"
+  },
+  "mrmcsoftware/searchenginesuite": {
+    "first_seen": "2026-09-10T10:27:20.448Z",
+    "last_seen": "2026-09-10T10:27:20.448Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-24T10:27:20.448Z"
+  },
+  "jcpsimmons/gbdl": {
+    "first_seen": "2026-09-10T10:27:20.864Z",
+    "last_seen": "2026-09-10T10:27:20.864Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-24T10:27:20.864Z"
+  },
+  "ostefani/subnetlens": {
+    "first_seen": "2026-09-10T10:27:22.921Z",
+    "last_seen": "2026-09-10T10:27:22.921Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T10:27:22.921Z"
   }
 }
