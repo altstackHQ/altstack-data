@@ -56544,14 +56544,14 @@
   },
   "dragthelake/ambient-context": {
     "first_seen": "2026-08-25T06:37:54.285Z",
-    "last_seen": "2026-08-25T06:37:54.285Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-10T15:44:10.364Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 22,
-    "cooldown_until": "2026-09-08T06:37:54.285Z"
+    "cooldown_until": "2026-09-17T15:44:10.364Z"
   },
   "robertgolds1/gradient": {
     "first_seen": "2026-08-25T12:45:06.510Z",
@@ -63574,5 +63574,69 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-17T10:27:22.921Z"
+  },
+  "deepseek-ai/deepjit": {
+    "first_seen": "2026-09-10T15:44:06.346Z",
+    "last_seen": "2026-09-10T15:44:06.346Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T15:44:06.330Z"
+  },
+  "deepseek-ai/deepseek-recipe": {
+    "first_seen": "2026-09-10T15:44:06.914Z",
+    "last_seen": "2026-09-10T15:44:06.914Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-17T15:44:06.914Z"
+  },
+  "tommyjepsen/apparat-ui": {
+    "first_seen": "2026-09-10T15:44:09.029Z",
+    "last_seen": "2026-09-10T15:44:09.029Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-24T15:44:09.029Z"
+  },
+  "nit-tin/oz": {
+    "first_seen": "2026-09-10T15:44:09.405Z",
+    "last_seen": "2026-09-10T15:44:09.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-24T15:44:09.405Z"
+  },
+  "omarirfa/rideshare_market": {
+    "first_seen": "2026-09-10T15:44:09.755Z",
+    "last_seen": "2026-09-10T15:44:09.755Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-24T15:44:09.755Z"
+  },
+  "albertamat/vaultisse": {
+    "first_seen": "2026-09-10T15:44:10.770Z",
+    "last_seen": "2026-09-10T15:44:10.770Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-24T15:44:10.770Z"
   }
 }
