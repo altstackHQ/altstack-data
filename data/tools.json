@@ -1758,7 +1758,7 @@
     "is_open_source": true,
     "github_repo": "Posnic/POS",
     "stars": 3,
-    "website": "https://posnic.io/",
+    "website": "https://www.posnic.com/",
     "description": "Free offline-first open source POS and billing software for retail shops and restaurants, with local checkout and online/offline workflows.",
     "tags": [
       "POS",
@@ -1781,7 +1781,7 @@
     "last_commit": "2026-09-08T12:24:11Z",
     "language": "JavaScript",
     "license": "AGPL-3.0",
-    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=posnic.io"
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.posnic.com"
   },
   {
     "slug": "docusign",
