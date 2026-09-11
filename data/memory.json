@@ -64106,5 +64106,90 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-25T15:45:09.783Z"
+  },
+  "arastey/lunel": {
+    "first_seen": "2026-09-11T20:22:34.645Z",
+    "last_seen": "2026-09-11T20:22:34.645Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T20:22:34.630Z"
+  },
+  "paradise-runner/toast": {
+    "first_seen": "2026-09-11T20:22:35.915Z",
+    "last_seen": "2026-09-11T20:22:35.915Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T20:22:35.914Z"
+  },
+  "godot-pty/gpty": {
+    "first_seen": "2026-09-11T20:22:36.537Z",
+    "last_seen": "2026-09-11T20:22:36.537Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T20:22:36.537Z"
+  },
+  "paulknysh/raggy": {
+    "first_seen": "2026-09-11T20:22:36.886Z",
+    "last_seen": "2026-09-11T20:22:36.886Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-09-25T20:22:36.886Z"
+  },
+  "victorioberra/mistatic": {
+    "first_seen": "2026-09-11T20:22:37.256Z",
+    "last_seen": "2026-09-11T20:22:37.256Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-25T20:22:37.256Z"
+  },
+  "rubnogueira/streameriux": {
+    "first_seen": "2026-09-11T20:22:38.375Z",
+    "last_seen": "2026-09-11T20:22:38.375Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-25T20:22:38.375Z"
+  },
+  "hashamtanveer-41/tubemerger": {
+    "first_seen": "2026-09-11T20:22:38.752Z",
+    "last_seen": "2026-09-11T20:22:38.752Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-25T20:22:38.752Z"
+  },
+  "avtandil-abu/jira-ai-auditor": {
+    "first_seen": "2026-09-11T20:22:39.150Z",
+    "last_seen": "2026-09-11T20:22:39.150Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-25T20:22:39.150Z"
   }
 }
