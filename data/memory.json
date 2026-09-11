@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-09-04T02:40:39.108Z",
-    "times_seen": 15,
+    "last_seen": "2026-09-11T10:29:54.212Z",
+    "times_seen": 16,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-11T02:40:39.094Z"
+    "cooldown_until": "2026-09-18T10:29:54.194Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -63939,5 +63939,99 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-09-25T02:38:35.958Z"
+  },
+  "faizpi/bank-sampah": {
+    "first_seen": "2026-09-11T10:30:00.875Z",
+    "last_seen": "2026-09-11T10:30:00.875Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T10:30:00.875Z"
+  },
+  "xsolla-baku-gametech-hackathon/team-enthuzone": {
+    "first_seen": "2026-09-11T10:30:03.732Z",
+    "last_seen": "2026-09-11T10:30:03.732Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T10:30:03.732Z"
+  },
+  "xsolla-baku-gametech-hackathon/team-noclip": {
+    "first_seen": "2026-09-11T10:30:04.745Z",
+    "last_seen": "2026-09-11T10:30:04.745Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T10:30:04.745Z"
+  },
+  "dhananjaybhosale/macduo": {
+    "first_seen": "2026-09-11T10:30:05.601Z",
+    "last_seen": "2026-09-11T10:30:05.601Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T10:30:05.601Z"
+  },
+  "himanshuj16/algo-trading-skills": {
+    "first_seen": "2026-09-11T10:30:07.360Z",
+    "last_seen": "2026-09-11T10:30:07.360Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T10:30:07.360Z"
+  },
+  "boundflow/charter": {
+    "first_seen": "2026-09-11T10:30:08.655Z",
+    "last_seen": "2026-09-11T10:30:08.655Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-09-25T10:30:08.655Z"
+  },
+  "spencerldixon/lime": {
+    "first_seen": "2026-09-11T10:30:09.083Z",
+    "last_seen": "2026-09-11T10:30:09.083Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-25T10:30:09.083Z"
+  },
+  "just-not-google/bineuron": {
+    "first_seen": "2026-09-11T10:30:09.525Z",
+    "last_seen": "2026-09-11T10:30:09.525Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-09-25T10:30:09.525Z"
+  },
+  "itsloganmann/symphony": {
+    "first_seen": "2026-09-11T10:30:09.931Z",
+    "last_seen": "2026-09-11T10:30:09.931Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-25T10:30:09.931Z"
   }
 }
