@@ -63723,5 +63723,221 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-24T20:22:14.979Z"
+  },
+  "x4gpanell/3x-ui_runonflux": {
+    "first_seen": "2026-09-11T02:38:26.279Z",
+    "last_seen": "2026-09-11T02:38:26.279Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:26.261Z"
+  },
+  "r44vc0rp/opensend": {
+    "first_seen": "2026-09-11T02:38:26.721Z",
+    "last_seen": "2026-09-11T02:38:26.721Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:26.721Z"
+  },
+  "furkan-bayrak/lg-tv-blocklist": {
+    "first_seen": "2026-09-11T02:38:27.018Z",
+    "last_seen": "2026-09-11T02:38:27.018Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-10-11T02:38:27.018Z"
+  },
+  "ngocdaobao/a-survey-on-looped-transformers": {
+    "first_seen": "2026-09-11T02:38:27.458Z",
+    "last_seen": "2026-09-11T02:38:27.458Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:27.458Z"
+  },
+  "joshuaswarren/omarchy-apple-dev": {
+    "first_seen": "2026-09-11T02:38:27.944Z",
+    "last_seen": "2026-09-11T02:38:27.944Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:27.944Z"
+  },
+  "da7-tech/sureforge": {
+    "first_seen": "2026-09-11T02:38:28.389Z",
+    "last_seen": "2026-09-11T02:38:28.389Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:28.389Z"
+  },
+  "eperez28/sonar.cool": {
+    "first_seen": "2026-09-11T02:38:28.904Z",
+    "last_seen": "2026-09-11T02:38:28.904Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:28.904Z"
+  },
+  "sumimakito/mac-duo": {
+    "first_seen": "2026-09-11T02:38:29.412Z",
+    "last_seen": "2026-09-11T02:38:29.412Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:29.412Z"
+  },
+  "supersonic/tlpe": {
+    "first_seen": "2026-09-11T02:38:29.861Z",
+    "last_seen": "2026-09-11T02:38:29.861Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:29.861Z"
+  },
+  "durdoom/rdp-scripts": {
+    "first_seen": "2026-09-11T02:38:30.298Z",
+    "last_seen": "2026-09-11T02:38:30.298Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:30.298Z"
+  },
+  "elijah-semyonov/duolikeanimation": {
+    "first_seen": "2026-09-11T02:38:30.790Z",
+    "last_seen": "2026-09-11T02:38:30.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:30.790Z"
+  },
+  "npjvdbgm/galaxy-swapper-2026": {
+    "first_seen": "2026-09-11T02:38:31.298Z",
+    "last_seen": "2026-09-11T02:38:31.298Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:31.298Z"
+  },
+  "zhihui-hu/one-ip": {
+    "first_seen": "2026-09-11T02:38:31.727Z",
+    "last_seen": "2026-09-11T02:38:31.727Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:31.727Z"
+  },
+  "jh3y/lid-plane": {
+    "first_seen": "2026-09-11T02:38:32.210Z",
+    "last_seen": "2026-09-11T02:38:32.210Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:32.210Z"
+  },
+  "chuspeeism/iphone-duo": {
+    "first_seen": "2026-09-11T02:38:32.701Z",
+    "last_seen": "2026-09-11T02:38:32.701Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:32.701Z"
+  },
+  "eskim2001/dsh-cloud": {
+    "first_seen": "2026-09-11T02:38:33.165Z",
+    "last_seen": "2026-09-11T02:38:33.165Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-18T02:38:33.165Z"
+  },
+  "vasinov/ridge-core": {
+    "first_seen": "2026-09-11T02:38:34.615Z",
+    "last_seen": "2026-09-11T02:38:34.615Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-25T02:38:34.615Z"
+  },
+  "polign/vector-transfer": {
+    "first_seen": "2026-09-11T02:38:34.920Z",
+    "last_seen": "2026-09-11T02:38:34.920Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-25T02:38:34.920Z"
+  },
+  "crajah/post-graph-rag": {
+    "first_seen": "2026-09-11T02:38:35.205Z",
+    "last_seen": "2026-09-11T02:38:35.205Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-25T02:38:35.205Z"
+  },
+  "vitas/dsh-model-pricing": {
+    "first_seen": "2026-09-11T02:38:35.622Z",
+    "last_seen": "2026-09-11T02:38:35.622Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-25T02:38:35.622Z"
+  },
+  "kidus-m/marucheck": {
+    "first_seen": "2026-09-11T02:38:35.958Z",
+    "last_seen": "2026-09-11T02:38:35.958Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-25T02:38:35.958Z"
   }
 }
