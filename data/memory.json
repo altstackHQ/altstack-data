@@ -64463,5 +64463,58 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-26T14:53:20.976Z"
+  },
+  "blixvip/motionclone": {
+    "first_seen": "2026-09-12T20:05:30.904Z",
+    "last_seen": "2026-09-12T20:05:30.904Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T20:05:30.886Z"
+  },
+  "kutekhoaisan/yolov11n_raspberrypi5": {
+    "first_seen": "2026-09-12T20:05:31.218Z",
+    "last_seen": "2026-09-12T20:05:31.218Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-26T20:05:31.218Z"
+  },
+  "javier-barrio/mycc": {
+    "first_seen": "2026-09-12T20:05:31.559Z",
+    "last_seen": "2026-09-12T20:05:31.559Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-26T20:05:31.559Z"
+  },
+  "powturbo/turbobench": {
+    "first_seen": "2026-09-12T20:05:32.064Z",
+    "last_seen": "2026-09-12T20:05:32.064Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T20:05:32.064Z"
+  },
+  "oldzoomer-ru/nodehistj": {
+    "first_seen": "2026-09-12T20:05:32.394Z",
+    "last_seen": "2026-09-12T20:05:32.394Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-26T20:05:32.394Z"
   }
 }
