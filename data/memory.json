@@ -64399,5 +64399,69 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-26T09:59:03.997Z"
+  },
+  "kruzovic7/ai-data-extractor": {
+    "first_seen": "2026-09-12T14:53:18.937Z",
+    "last_seen": "2026-09-12T14:53:18.937Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T14:53:18.921Z"
+  },
+  "arikchakma/gpu-time": {
+    "first_seen": "2026-09-12T14:53:19.585Z",
+    "last_seen": "2026-09-12T14:53:19.585Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T14:53:19.585Z"
+  },
+  "plathsoven/maestro": {
+    "first_seen": "2026-09-12T14:53:19.967Z",
+    "last_seen": "2026-09-12T14:53:19.967Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-26T14:53:19.967Z"
+  },
+  "eremes81/game-design-ai-practice-en": {
+    "first_seen": "2026-09-12T14:53:20.266Z",
+    "last_seen": "2026-09-12T14:53:20.266Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-26T14:53:20.266Z"
+  },
+  "carlos-menezes/srvquery": {
+    "first_seen": "2026-09-12T14:53:20.625Z",
+    "last_seen": "2026-09-12T14:53:20.625Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-26T14:53:20.625Z"
+  },
+  "famasya/portspan": {
+    "first_seen": "2026-09-12T14:53:20.976Z",
+    "last_seen": "2026-09-12T14:53:20.976Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-26T14:53:20.976Z"
   }
 }
