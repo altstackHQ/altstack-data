@@ -60691,13 +60691,13 @@
   },
   "zackriya-solutions/meetily": {
     "first_seen": "2026-09-04T02:40:43.726Z",
-    "last_seen": "2026-09-04T02:40:43.726Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-12T02:47:36.064Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-11T02:40:43.726Z"
+    "cooldown_until": "2026-09-19T02:47:36.047Z"
   },
   "what1f/kitter": {
     "first_seen": "2026-09-04T02:40:44.999Z",
@@ -64191,5 +64191,161 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-25T20:22:39.150Z"
+  },
+  "unstablebuild/rune": {
+    "first_seen": "2026-09-12T02:47:36.600Z",
+    "last_seen": "2026-09-12T02:47:36.600Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:36.600Z"
+  },
+  "peggykangkang02/xialingguo-ip": {
+    "first_seen": "2026-09-12T02:47:38.694Z",
+    "last_seen": "2026-09-12T02:47:38.694Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:38.694Z"
+  },
+  "fankchen/tracecrate": {
+    "first_seen": "2026-09-12T02:47:39.291Z",
+    "last_seen": "2026-09-12T02:47:39.291Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:39.291Z"
+  },
+  "iucc123/bendmac": {
+    "first_seen": "2026-09-12T02:47:39.838Z",
+    "last_seen": "2026-09-12T02:47:39.838Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:39.838Z"
+  },
+  "nhovongoc0-max/meme-radar": {
+    "first_seen": "2026-09-12T02:47:40.295Z",
+    "last_seen": "2026-09-12T02:47:40.295Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:40.294Z"
+  },
+  "makrsas/inferno-ios": {
+    "first_seen": "2026-09-12T02:47:40.800Z",
+    "last_seen": "2026-09-12T02:47:40.800Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:40.800Z"
+  },
+  "opensourcevillain/bendable": {
+    "first_seen": "2026-09-12T02:47:41.294Z",
+    "last_seen": "2026-09-12T02:47:41.294Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:41.294Z"
+  },
+  "mirza-rizvi/resolvehq": {
+    "first_seen": "2026-09-12T02:47:41.748Z",
+    "last_seen": "2026-09-12T02:47:41.748Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:41.748Z"
+  },
+  "adarshent/spnda": {
+    "first_seen": "2026-09-12T02:47:42.037Z",
+    "last_seen": "2026-09-12T02:47:42.037Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 20,
+    "cooldown_until": "2026-09-26T02:47:42.037Z"
+  },
+  "zachsaw/graphify-csharp": {
+    "first_seen": "2026-09-12T02:47:42.326Z",
+    "last_seen": "2026-09-12T02:47:42.326Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-09-26T02:47:42.326Z"
+  },
+  "michaelpgifford/claude-read-aloud": {
+    "first_seen": "2026-09-12T02:47:42.610Z",
+    "last_seen": "2026-09-12T02:47:42.610Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-26T02:47:42.610Z"
+  },
+  "bkovacev/keychron-macos": {
+    "first_seen": "2026-09-12T02:47:42.949Z",
+    "last_seen": "2026-09-12T02:47:42.949Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-26T02:47:42.949Z"
+  },
+  "azzenabidi/omagem": {
+    "first_seen": "2026-09-12T02:47:43.280Z",
+    "last_seen": "2026-09-12T02:47:43.280Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-26T02:47:43.280Z"
+  },
+  "haxybaxy/video-pedal": {
+    "first_seen": "2026-09-12T02:47:43.746Z",
+    "last_seen": "2026-09-12T02:47:43.746Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T02:47:43.746Z"
+  },
+  "sorena-ai/leagueaicoach": {
+    "first_seen": "2026-09-12T02:47:44.101Z",
+    "last_seen": "2026-09-12T02:47:44.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-26T02:47:44.101Z"
   }
 }
