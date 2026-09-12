@@ -64347,5 +64347,57 @@
     "reason": "low_stars",
     "stars": 6,
     "cooldown_until": "2026-09-26T02:47:44.101Z"
+  },
+  "defileoo/yoink": {
+    "first_seen": "2026-09-12T09:59:01.056Z",
+    "last_seen": "2026-09-12T09:59:01.056Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T09:59:01.039Z"
+  },
+  "argona7/stampede": {
+    "first_seen": "2026-09-12T09:59:02.868Z",
+    "last_seen": "2026-09-12T09:59:02.868Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T09:59:02.868Z"
+  },
+  "scalattice/dont-hit-send": {
+    "first_seen": "2026-09-12T09:59:03.196Z",
+    "last_seen": "2026-09-12T09:59:03.196Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-26T09:59:03.196Z"
+  },
+  "holaboss-ai/holaos": {
+    "first_seen": "2026-09-12T09:59:03.681Z",
+    "last_seen": "2026-09-12T09:59:03.681Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-19T09:59:03.681Z"
+  },
+  "spyhack225/next-notes": {
+    "first_seen": "2026-09-12T09:59:03.997Z",
+    "last_seen": "2026-09-12T09:59:03.997Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-26T09:59:03.997Z"
   }
 }
