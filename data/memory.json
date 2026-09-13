@@ -64783,5 +64783,110 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-27T02:46:14.150Z"
+  },
+  "cobanov/awesome-fly": {
+    "first_seen": "2026-09-13T10:59:32.190Z",
+    "last_seen": "2026-09-13T10:59:32.190Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-10-13T10:59:32.162Z"
+  },
+  "zjwzcx/awesome-astra-embodied-ai": {
+    "first_seen": "2026-09-13T10:59:32.636Z",
+    "last_seen": "2026-09-13T10:59:32.636Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T10:59:32.636Z"
+  },
+  "max99x/wutw-public": {
+    "first_seen": "2026-09-13T10:59:32.954Z",
+    "last_seen": "2026-09-13T10:59:32.954Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-10-13T10:59:32.954Z"
+  },
+  "suoha888/cj-defi-handbook": {
+    "first_seen": "2026-09-13T10:59:33.436Z",
+    "last_seen": "2026-09-13T10:59:33.436Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T10:59:33.436Z"
+  },
+  "jcx396905-gif/duofold-android": {
+    "first_seen": "2026-09-13T10:59:33.879Z",
+    "last_seen": "2026-09-13T10:59:33.879Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T10:59:33.879Z"
+  },
+  "aoripus/easy-for-gaokun": {
+    "first_seen": "2026-09-13T10:59:34.349Z",
+    "last_seen": "2026-09-13T10:59:34.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T10:59:34.349Z"
+  },
+  "ashleyotooligan/ant-1": {
+    "first_seen": "2026-09-13T10:59:34.801Z",
+    "last_seen": "2026-09-13T10:59:34.801Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T10:59:34.801Z"
+  },
+  "takaakit/astah-pro-mcp": {
+    "first_seen": "2026-09-13T10:59:35.076Z",
+    "last_seen": "2026-09-13T10:59:35.076Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-09-27T10:59:35.076Z"
+  },
+  "hussain004/forma": {
+    "first_seen": "2026-09-13T10:59:35.380Z",
+    "last_seen": "2026-09-13T10:59:35.380Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-27T10:59:35.380Z"
+  },
+  "phyra-research/roamux": {
+    "first_seen": "2026-09-13T10:59:36.179Z",
+    "last_seen": "2026-09-13T10:59:36.179Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-27T10:59:36.179Z"
   }
 }
