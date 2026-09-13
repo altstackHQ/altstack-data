@@ -52055,14 +52055,14 @@
   },
   "mskazemi/yazses": {
     "first_seen": "2026-08-14T07:18:01.455Z",
-    "last_seen": "2026-08-14T07:18:01.455Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-13T02:46:11.632Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 8,
-    "cooldown_until": "2026-08-28T07:18:01.455Z"
+    "stars": 22,
+    "cooldown_until": "2026-09-27T02:46:11.632Z"
   },
   "tsirysndr/bsdkrun": {
     "first_seen": "2026-08-14T07:18:01.794Z",
@@ -64516,5 +64516,272 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-26T20:05:32.394Z"
+  },
+  "rizqinrr/viserys-agent": {
+    "first_seen": "2026-09-13T02:45:59.159Z",
+    "last_seen": "2026-09-13T02:45:59.159Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:45:59.144Z"
+  },
+  "yifanzhang-pro/recurrent-looped-tranformer": {
+    "first_seen": "2026-09-13T02:45:59.696Z",
+    "last_seen": "2026-09-13T02:45:59.696Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:45:59.696Z"
+  },
+  "chuloo/mural": {
+    "first_seen": "2026-09-13T02:46:00.347Z",
+    "last_seen": "2026-09-13T02:46:00.347Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:00.347Z"
+  },
+  "jlxc2001/macbook-duo": {
+    "first_seen": "2026-09-13T02:46:00.952Z",
+    "last_seen": "2026-09-13T02:46:00.952Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:00.952Z"
+  },
+  "smart-paocai/violettoolbox": {
+    "first_seen": "2026-09-13T02:46:01.566Z",
+    "last_seen": "2026-09-13T02:46:01.566Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:01.566Z"
+  },
+  "lyihub/pub-dsh-privacy-router": {
+    "first_seen": "2026-09-13T02:46:02.169Z",
+    "last_seen": "2026-09-13T02:46:02.169Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:02.169Z"
+  },
+  "qiuner/birdview": {
+    "first_seen": "2026-09-13T02:46:02.759Z",
+    "last_seen": "2026-09-13T02:46:02.759Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:02.759Z"
+  },
+  "way2pramil/awesome-kicad-projects": {
+    "first_seen": "2026-09-13T02:46:03.109Z",
+    "last_seen": "2026-09-13T02:46:03.109Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-10-13T02:46:03.109Z"
+  },
+  "syntaxmethod/cve-2026-42978-poc-research": {
+    "first_seen": "2026-09-13T02:46:03.680Z",
+    "last_seen": "2026-09-13T02:46:03.680Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:03.680Z"
+  },
+  "catchingl/o.status": {
+    "first_seen": "2026-09-13T02:46:04.273Z",
+    "last_seen": "2026-09-13T02:46:04.273Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:04.273Z"
+  },
+  "tropicalpackerroad/fortnite-esp-soft-aim-2026-slowlow-team-visual-assist-tool": {
+    "first_seen": "2026-09-13T02:46:04.834Z",
+    "last_seen": "2026-09-13T02:46:04.834Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:04.834Z"
+  },
+  "wyuzhi/qisi-video-remix": {
+    "first_seen": "2026-09-13T02:46:05.462Z",
+    "last_seen": "2026-09-13T02:46:05.462Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:05.462Z"
+  },
+  "syntaxmethod/cve-2026-41089-netlogon-rce-poc": {
+    "first_seen": "2026-09-13T02:46:06.065Z",
+    "last_seen": "2026-09-13T02:46:06.065Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:06.065Z"
+  },
+  "tonywjs/html-diagram": {
+    "first_seen": "2026-09-13T02:46:06.667Z",
+    "last_seen": "2026-09-13T02:46:06.667Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:06.667Z"
+  },
+  "faligame/parasite-eve-2-hd-remaster": {
+    "first_seen": "2026-09-13T02:46:07.273Z",
+    "last_seen": "2026-09-13T02:46:07.273Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:07.273Z"
+  },
+  "wildcard1719/rcws_v5": {
+    "first_seen": "2026-09-13T02:46:08.547Z",
+    "last_seen": "2026-09-13T02:46:08.547Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:08.547Z"
+  },
+  "pandaligx/rtx-fg-manager": {
+    "first_seen": "2026-09-13T02:46:09.179Z",
+    "last_seen": "2026-09-13T02:46:09.179Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:09.179Z"
+  },
+  "xu123-bob/baize": {
+    "first_seen": "2026-09-13T02:46:09.780Z",
+    "last_seen": "2026-09-13T02:46:09.780Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:09.780Z"
+  },
+  "nuyoah-ai-works/nuyoah-portrait-character-designer": {
+    "first_seen": "2026-09-13T02:46:10.403Z",
+    "last_seen": "2026-09-13T02:46:10.403Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:10.403Z"
+  },
+  "atbender/deepseek-v41-flash-mac-mini": {
+    "first_seen": "2026-09-13T02:46:10.951Z",
+    "last_seen": "2026-09-13T02:46:10.951Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T02:46:10.951Z"
+  },
+  "ringlochid/leotabs": {
+    "first_seen": "2026-09-13T02:46:11.282Z",
+    "last_seen": "2026-09-13T02:46:11.282Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-27T02:46:11.282Z"
+  },
+  "websites-on-computers/fleecevest": {
+    "first_seen": "2026-09-13T02:46:12.018Z",
+    "last_seen": "2026-09-13T02:46:12.018Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-27T02:46:12.018Z"
+  },
+  "ricardoborges/disktriage": {
+    "first_seen": "2026-09-13T02:46:12.368Z",
+    "last_seen": "2026-09-13T02:46:12.368Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-27T02:46:12.368Z"
+  },
+  "rakutentech/sorify": {
+    "first_seen": "2026-09-13T02:46:13.435Z",
+    "last_seen": "2026-09-13T02:46:13.435Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-09-27T02:46:13.435Z"
+  },
+  "khuynh22/agent-dev-team": {
+    "first_seen": "2026-09-13T02:46:13.830Z",
+    "last_seen": "2026-09-13T02:46:13.830Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-27T02:46:13.830Z"
+  },
+  "tommkruix/agentrulebench": {
+    "first_seen": "2026-09-13T02:46:14.150Z",
+    "last_seen": "2026-09-13T02:46:14.150Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-27T02:46:14.150Z"
   }
 }
