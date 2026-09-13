@@ -64954,5 +64954,67 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-27T15:31:03.844Z"
+  },
+  "govin-ai/dunhuang-aura-skill": {
+    "first_seen": "2026-09-13T20:11:27.259Z",
+    "last_seen": "2026-09-13T20:11:27.259Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T20:11:27.244Z"
+  },
+  "passnodesewer/serum-2-free": {
+    "first_seen": "2026-09-13T20:11:27.897Z",
+    "last_seen": "2026-09-13T20:11:27.897Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T20:11:27.897Z"
+  },
+  "poundifdef/plainoldanalytics": {
+    "first_seen": "2026-09-13T20:11:28.876Z",
+    "last_seen": "2026-09-13T20:11:28.876Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-27T20:11:28.876Z"
+  },
+  "runboth/runboth": {
+    "first_seen": "2026-09-13T20:11:29.202Z",
+    "last_seen": "2026-09-13T20:11:29.202Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-27T20:11:29.202Z"
+  },
+  "beam-cloud/beta9": {
+    "first_seen": "2026-09-13T20:11:29.838Z",
+    "last_seen": "2026-09-13T20:11:29.838Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T20:11:29.837Z"
+  },
+  "roman-16/proton-cli": {
+    "first_seen": "2026-09-13T20:11:30.457Z",
+    "last_seen": "2026-09-13T20:11:30.457Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-20T20:11:30.457Z"
   }
 }
