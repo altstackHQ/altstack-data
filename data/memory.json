@@ -64888,5 +64888,71 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-27T10:59:36.179Z"
+  },
+  "mukundzha/rendly": {
+    "first_seen": "2026-09-13T15:31:01.474Z",
+    "last_seen": "2026-09-13T15:31:01.474Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-27T15:31:01.457Z"
+  },
+  "makazhanalpamys/soup-connectome": {
+    "first_seen": "2026-09-13T15:31:01.851Z",
+    "last_seen": "2026-09-13T15:31:01.851Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-27T15:31:01.851Z"
+  },
+  "southclaws/oauthcli": {
+    "first_seen": "2026-09-13T15:31:02.177Z",
+    "last_seen": "2026-09-13T15:31:02.177Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-27T15:31:02.177Z"
+  },
+  "aeroscissorz/learnlance": {
+    "first_seen": "2026-09-13T15:31:02.565Z",
+    "last_seen": "2026-09-13T15:31:02.565Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-27T15:31:02.565Z"
+  },
+  "nosaveddata/neve_benchmarks": {
+    "first_seen": "2026-09-13T15:31:02.872Z",
+    "last_seen": "2026-09-13T15:31:02.872Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-27T15:31:02.872Z"
+  },
+  "eminsk/agentjit": {
+    "first_seen": "2026-09-13T15:31:03.844Z",
+    "last_seen": "2026-09-13T15:31:03.844Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-27T15:31:03.844Z"
   }
 }
