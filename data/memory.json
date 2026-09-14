@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-09-07T11:24:30.101Z",
-    "times_seen": 19,
+    "last_seen": "2026-09-14T11:34:27.260Z",
+    "times_seen": 20,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-14T11:24:30.082Z"
+    "cooldown_until": "2026-09-21T11:34:27.240Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -65202,5 +65202,131 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-28T03:00:46.757Z"
+  },
+  "anonymous-report-421/gpt-as-policy": {
+    "first_seen": "2026-09-14T11:34:32.101Z",
+    "last_seen": "2026-09-14T11:34:32.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T11:34:32.101Z"
+  },
+  "lingyired/status-trio": {
+    "first_seen": "2026-09-14T11:34:35.101Z",
+    "last_seen": "2026-09-14T11:34:35.101Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T11:34:35.101Z"
+  },
+  "moli13337/qq-network-protocol": {
+    "first_seen": "2026-09-14T11:34:35.820Z",
+    "last_seen": "2026-09-14T11:34:35.820Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T11:34:35.820Z"
+  },
+  "ai-sucks-butt/ai-sucks-butt": {
+    "first_seen": "2026-09-14T11:34:36.479Z",
+    "last_seen": "2026-09-14T11:34:36.479Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T11:34:36.479Z"
+  },
+  "norevert-robot/nv01-terminal": {
+    "first_seen": "2026-09-14T11:34:37.198Z",
+    "last_seen": "2026-09-14T11:34:37.198Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T11:34:37.197Z"
+  },
+  "p1ass/textlint-rule-preset-ai-words-ja": {
+    "first_seen": "2026-09-14T11:34:38.543Z",
+    "last_seen": "2026-09-14T11:34:38.543Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T11:34:38.543Z"
+  },
+  "himanshuj16/frank": {
+    "first_seen": "2026-09-14T11:34:38.974Z",
+    "last_seen": "2026-09-14T11:34:38.974Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-28T11:34:38.974Z"
+  },
+  "chaos-vy/chaostree": {
+    "first_seen": "2026-09-14T11:34:39.422Z",
+    "last_seen": "2026-09-14T11:34:39.422Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-09-28T11:34:39.422Z"
+  },
+  "roledio/roled": {
+    "first_seen": "2026-09-14T11:34:39.852Z",
+    "last_seen": "2026-09-14T11:34:39.852Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-28T11:34:39.852Z"
+  },
+  "openstatushq/health": {
+    "first_seen": "2026-09-14T11:34:40.302Z",
+    "last_seen": "2026-09-14T11:34:40.302Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-09-28T11:34:40.302Z"
+  },
+  "callbacked/neural-band-poc": {
+    "first_seen": "2026-09-14T11:34:40.653Z",
+    "last_seen": "2026-09-14T11:34:40.653Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-28T11:34:40.653Z"
+  },
+  "oleg-vdv/kepil": {
+    "first_seen": "2026-09-14T11:34:41.038Z",
+    "last_seen": "2026-09-14T11:34:41.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-28T11:34:41.038Z"
   }
 }
