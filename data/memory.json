@@ -65016,5 +65016,191 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-20T20:11:30.457Z"
+  },
+  "abomination81/copybot": {
+    "first_seen": "2026-09-14T03:00:37.039Z",
+    "last_seen": "2026-09-14T03:00:37.039Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:37.021Z"
+  },
+  "speedstu/cuda-for-amd-windows": {
+    "first_seen": "2026-09-14T03:00:37.675Z",
+    "last_seen": "2026-09-14T03:00:37.675Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:37.675Z"
+  },
+  "hunterplastable/solara-executor-free": {
+    "first_seen": "2026-09-14T03:00:38.322Z",
+    "last_seen": "2026-09-14T03:00:38.322Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:38.322Z"
+  },
+  "dr-tsng/altdb": {
+    "first_seen": "2026-09-14T03:00:38.940Z",
+    "last_seen": "2026-09-14T03:00:38.940Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:38.940Z"
+  },
+  "joaofranco03/duohinge": {
+    "first_seen": "2026-09-14T03:00:39.599Z",
+    "last_seen": "2026-09-14T03:00:39.599Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:39.599Z"
+  },
+  "mapmoverexcite/nexora": {
+    "first_seen": "2026-09-14T03:00:40.218Z",
+    "last_seen": "2026-09-14T03:00:40.218Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:40.218Z"
+  },
+  "lidge-jun/aside-codemode": {
+    "first_seen": "2026-09-14T03:00:40.804Z",
+    "last_seen": "2026-09-14T03:00:40.804Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:40.804Z"
+  },
+  "chemo823/wardogs-tactical-overlay": {
+    "first_seen": "2026-09-14T03:00:41.440Z",
+    "last_seen": "2026-09-14T03:00:41.440Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:41.440Z"
+  },
+  "wangmumu311/pms_delivery": {
+    "first_seen": "2026-09-14T03:00:41.994Z",
+    "last_seen": "2026-09-14T03:00:41.994Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:41.994Z"
+  },
+  "kazdenc/regen-icons": {
+    "first_seen": "2026-09-14T03:00:43.438Z",
+    "last_seen": "2026-09-14T03:00:43.438Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:43.438Z"
+  },
+  "leviidev/husk": {
+    "first_seen": "2026-09-14T03:00:44.051Z",
+    "last_seen": "2026-09-14T03:00:44.051Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:44.051Z"
+  },
+  "romanj-io99y5/marvel-performance-kit-2026": {
+    "first_seen": "2026-09-14T03:00:44.625Z",
+    "last_seen": "2026-09-14T03:00:44.625Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T03:00:44.625Z"
+  },
+  "antoineleclair/is-it-greg": {
+    "first_seen": "2026-09-14T03:00:44.961Z",
+    "last_seen": "2026-09-14T03:00:44.961Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-28T03:00:44.961Z"
+  },
+  "sorbalda/vibeworld": {
+    "first_seen": "2026-09-14T03:00:45.356Z",
+    "last_seen": "2026-09-14T03:00:45.356Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 17,
+    "cooldown_until": "2026-09-28T03:00:45.356Z"
+  },
+  "swobuforge/swobu": {
+    "first_seen": "2026-09-14T03:00:45.724Z",
+    "last_seen": "2026-09-14T03:00:45.724Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 15,
+    "cooldown_until": "2026-09-28T03:00:45.724Z"
+  },
+  "peter941221/kairo": {
+    "first_seen": "2026-09-14T03:00:46.050Z",
+    "last_seen": "2026-09-14T03:00:46.050Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-28T03:00:46.050Z"
+  },
+  "maxcomperatore/bipluk.com": {
+    "first_seen": "2026-09-14T03:00:46.434Z",
+    "last_seen": "2026-09-14T03:00:46.434Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-28T03:00:46.434Z"
+  },
+  "arhuman/dllog": {
+    "first_seen": "2026-09-14T03:00:46.757Z",
+    "last_seen": "2026-09-14T03:00:46.757Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-28T03:00:46.757Z"
   }
 }
