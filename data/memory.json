@@ -65485,5 +65485,47 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-09-28T17:30:15.113Z"
+  },
+  "atria-asi/atria-dawn-preview": {
+    "first_seen": "2026-09-14T21:21:13.361Z",
+    "last_seen": "2026-09-14T21:21:13.361Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T21:21:13.351Z"
+  },
+  "bsab/sweden-mcp-servers": {
+    "first_seen": "2026-09-14T21:21:13.900Z",
+    "last_seen": "2026-09-14T21:21:13.900Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-21T21:21:13.900Z"
+  },
+  "nimabeh/helical-time": {
+    "first_seen": "2026-09-14T21:21:14.254Z",
+    "last_seen": "2026-09-14T21:21:14.254Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-28T21:21:14.254Z"
+  },
+  "maazkhanxo/jobeasyapply-linkedin-auto-apply": {
+    "first_seen": "2026-09-14T21:21:15.171Z",
+    "last_seen": "2026-09-14T21:21:15.171Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-28T21:21:15.171Z"
   }
 }
