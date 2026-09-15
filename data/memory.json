@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-09-08T20:37:31.704Z",
-    "times_seen": 21,
+    "last_seen": "2026-09-15T20:48:18.725Z",
+    "times_seen": 22,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-15T20:37:31.684Z"
+    "cooldown_until": "2026-09-22T20:48:18.704Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -22586,14 +22586,14 @@
   },
   "gumieri/nenya": {
     "first_seen": "2026-06-13T02:54:52.103Z",
-    "last_seen": "2026-06-13T02:54:52.103Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-15T20:48:29.105Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 16,
-    "cooldown_until": "2026-06-27T02:54:52.103Z"
+    "cooldown_until": "2026-09-22T20:48:29.105Z"
   },
   "bingook/bingo": {
     "first_seen": "2026-06-13T09:03:14.059Z",
@@ -65970,5 +65970,70 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-29T16:06:41.571Z"
+  },
+  "saragordic/window-sweaters": {
+    "first_seen": "2026-09-15T20:48:24.517Z",
+    "last_seen": "2026-09-15T20:48:24.517Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T20:48:24.517Z"
+  },
+  "egoisutolabs/scipgo": {
+    "first_seen": "2026-09-15T20:48:25.492Z",
+    "last_seen": "2026-09-15T20:48:25.492Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-09-29T20:48:25.492Z"
+  },
+  "ctrlrun/ctrlrun": {
+    "first_seen": "2026-09-15T20:48:25.883Z",
+    "last_seen": "2026-09-15T20:48:25.883Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 22,
+    "cooldown_until": "2026-09-29T20:48:25.883Z"
+  },
+  "sebastien-burel/kaozkit": {
+    "first_seen": "2026-09-15T20:48:26.501Z",
+    "last_seen": "2026-09-15T20:48:26.501Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-29T20:48:26.501Z"
+  },
+  "kerneta/daidocs": {
+    "first_seen": "2026-09-15T20:48:27.624Z",
+    "last_seen": "2026-09-15T20:48:27.624Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 22,
+    "cooldown_until": "2026-09-29T20:48:27.624Z"
+  },
+  "sanchitkd/claude-meter": {
+    "first_seen": "2026-09-15T20:48:28.554Z",
+    "last_seen": "2026-09-15T20:48:28.554Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-29T20:48:28.554Z"
   }
 }
