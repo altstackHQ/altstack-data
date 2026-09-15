@@ -51476,14 +51476,14 @@
   },
   "andreylukin/bough": {
     "first_seen": "2026-08-12T18:56:30.929Z",
-    "last_seen": "2026-08-12T18:56:30.929Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-15T16:06:37.335Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 2,
-    "cooldown_until": "2026-08-26T18:56:30.929Z"
+    "stars": 9,
+    "cooldown_until": "2026-09-29T16:06:37.335Z"
   },
   "brookstalley/hallucinote": {
     "first_seen": "2026-08-12T18:56:31.295Z",
@@ -65864,5 +65864,111 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-09-29T10:54:54.521Z"
+  },
+  "letorig/video-generator-client": {
+    "first_seen": "2026-09-15T16:06:32.930Z",
+    "last_seen": "2026-09-15T16:06:32.930Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T16:06:32.914Z"
+  },
+  "killaboi/brokenpipe": {
+    "first_seen": "2026-09-15T16:06:35.088Z",
+    "last_seen": "2026-09-15T16:06:35.088Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T16:06:35.088Z"
+  },
+  "ordewell/ordewell": {
+    "first_seen": "2026-09-15T16:06:36.545Z",
+    "last_seen": "2026-09-15T16:06:36.545Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T16:06:36.545Z"
+  },
+  "greentfrapp/panel": {
+    "first_seen": "2026-09-15T16:06:36.949Z",
+    "last_seen": "2026-09-15T16:06:36.949Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 22,
+    "cooldown_until": "2026-09-29T16:06:36.948Z"
+  },
+  "stagas/livediff": {
+    "first_seen": "2026-09-15T16:06:37.694Z",
+    "last_seen": "2026-09-15T16:06:37.694Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-29T16:06:37.694Z"
+  },
+  "theronic/eacl": {
+    "first_seen": "2026-09-15T16:06:38.077Z",
+    "last_seen": "2026-09-15T16:06:38.077Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "EPL-2.0",
+    "cooldown_until": "2026-10-15T16:06:38.077Z"
+  },
+  "zshad0w7x/linux-doctor": {
+    "first_seen": "2026-09-15T16:06:38.451Z",
+    "last_seen": "2026-09-15T16:06:38.451Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-29T16:06:38.451Z"
+  },
+  "capek-dev/prokop": {
+    "first_seen": "2026-09-15T16:06:39.238Z",
+    "last_seen": "2026-09-15T16:06:39.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T16:06:39.238Z"
+  },
+  "blahblah23406/agent-comms": {
+    "first_seen": "2026-09-15T16:06:40.410Z",
+    "last_seen": "2026-09-15T16:06:40.410Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-29T16:06:40.410Z"
+  },
+  "mwbpnftechnology/tolutag": {
+    "first_seen": "2026-09-15T16:06:41.571Z",
+    "last_seen": "2026-09-15T16:06:41.571Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-29T16:06:41.571Z"
   }
 }
