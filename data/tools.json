@@ -3251,7 +3251,8 @@
     "description": "AI pair programmer by GitHub/OpenAI. Integrates into VS Code and JetBrains.",
     "alternatives": [
       "continue-dev",
-      "tabby"
+      "tabby",
+      "atomic-agent"
     ],
     "tags": [
       "AI",
@@ -3353,6 +3354,39 @@
       "agent": "sentinel",
       "timestamp": "2026-03-30T15:26:16.816Z"
     }
+  },
+  {
+    "slug": "atomic-agent",
+    "name": "Atomic Agent",
+    "category": "AI Coding",
+    "is_open_source": true,
+    "github_repo": "AtomicBot-ai/atomic-agent",
+    "website": "https://atomicagent.io",
+    "description": "Local-first CLI and TUI coding agent. Runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system.",
+    "pros": [
+      "Runs open-weight models entirely on your machine, no account or API key required",
+      "56 built-in tools for browser, filesystem, git, memory, and vision work",
+      "Supports MCP, so external tool servers plug straight in",
+      "Five-layer local memory keeps context across sessions",
+      "Single-command install on macOS, Linux, and Windows"
+    ],
+    "cons": [
+      "Developer preview: APIs, commands, config, and behavior are still moving",
+      "Terminal only, there is no web UI",
+      "Quality depends on the local model and the hardware you run it on"
+    ],
+    "stars": 2024,
+    "language": "TypeScript",
+    "license": "MIT License",
+    "tags": [
+      "AI",
+      "Coding",
+      "CLI",
+      "Local"
+    ],
+    "hardware_req": "8GB+ RAM",
+    "hosting_type": "self-hosted",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=atomicagent.io"
   },
   {
     "slug": "ollama",
