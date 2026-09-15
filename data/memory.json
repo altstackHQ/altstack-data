@@ -65527,5 +65527,221 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-09-28T21:21:15.171Z"
+  },
+  "999sian/melee-pc": {
+    "first_seen": "2026-09-15T03:02:55.242Z",
+    "last_seen": "2026-09-15T03:02:55.242Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:55.226Z"
+  },
+  "arsumbris/arsumbris": {
+    "first_seen": "2026-09-15T03:02:55.682Z",
+    "last_seen": "2026-09-15T03:02:55.682Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:55.682Z"
+  },
+  "jerryjliu/fly_ocr": {
+    "first_seen": "2026-09-15T03:02:56.669Z",
+    "last_seen": "2026-09-15T03:02:56.669Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:56.669Z"
+  },
+  "0xjohnnydev/airlift": {
+    "first_seen": "2026-09-15T03:02:57.032Z",
+    "last_seen": "2026-09-15T03:02:57.032Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:57.032Z"
+  },
+  "githubuser420x/fgoac-scooby": {
+    "first_seen": "2026-09-15T03:02:57.482Z",
+    "last_seen": "2026-09-15T03:02:57.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:57.482Z"
+  },
+  "frankweb33/flybrain-robot-bridge": {
+    "first_seen": "2026-09-15T03:02:57.873Z",
+    "last_seen": "2026-09-15T03:02:57.873Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:57.873Z"
+  },
+  "blueturboguy07/ghost-location": {
+    "first_seen": "2026-09-15T03:02:58.884Z",
+    "last_seen": "2026-09-15T03:02:58.884Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:58.884Z"
+  },
+  "abtanjir/valheim-seed-map-viewer-windows": {
+    "first_seen": "2026-09-15T03:02:59.466Z",
+    "last_seen": "2026-09-15T03:02:59.466Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:59.466Z"
+  },
+  "abtanjir/nba-2k27-cyberface-id-database": {
+    "first_seen": "2026-09-15T03:02:59.889Z",
+    "last_seen": "2026-09-15T03:02:59.889Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:02:59.889Z"
+  },
+  "abtanjir/hot-wheels-infinite-rush-cheat-table-reference": {
+    "first_seen": "2026-09-15T03:03:00.323Z",
+    "last_seen": "2026-09-15T03:03:00.323Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:03:00.323Z"
+  },
+  "abtanjir/fortnite-xp-map-codes-windows": {
+    "first_seen": "2026-09-15T03:03:00.810Z",
+    "last_seen": "2026-09-15T03:03:00.810Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:03:00.810Z"
+  },
+  "abtanjir/blue-lock-rivals-auto-goal-script-reference": {
+    "first_seen": "2026-09-15T03:03:01.295Z",
+    "last_seen": "2026-09-15T03:03:01.295Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:03:01.295Z"
+  },
+  "krixoko/diskstats": {
+    "first_seen": "2026-09-15T03:03:01.810Z",
+    "last_seen": "2026-09-15T03:03:01.810Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:03:01.810Z"
+  },
+  "360parminder/plants-vs-brainrots-afk-macro": {
+    "first_seen": "2026-09-15T03:03:02.258Z",
+    "last_seen": "2026-09-15T03:03:02.258Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:03:02.258Z"
+  },
+  "sdcb/hymt2sharp": {
+    "first_seen": "2026-09-15T03:03:02.687Z",
+    "last_seen": "2026-09-15T03:03:02.687Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T03:03:02.687Z"
+  },
+  "jamesryanatx/fcbnerd": {
+    "first_seen": "2026-09-15T03:03:02.984Z",
+    "last_seen": "2026-09-15T03:03:02.984Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 19,
+    "cooldown_until": "2026-09-29T03:03:02.984Z"
+  },
+  "deepclause/pi-box": {
+    "first_seen": "2026-09-15T03:03:03.854Z",
+    "last_seen": "2026-09-15T03:03:03.854Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-29T03:03:03.853Z"
+  },
+  "jquinteiroo/devrecap": {
+    "first_seen": "2026-09-15T03:03:04.602Z",
+    "last_seen": "2026-09-15T03:03:04.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-29T03:03:04.602Z"
+  },
+  "ryankung/zksm83": {
+    "first_seen": "2026-09-15T03:03:04.907Z",
+    "last_seen": "2026-09-15T03:03:04.907Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-29T03:03:04.907Z"
+  },
+  "magicbeansai/what-time": {
+    "first_seen": "2026-09-15T03:03:05.246Z",
+    "last_seen": "2026-09-15T03:03:05.246Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-29T03:03:05.246Z"
+  },
+  "chimit/shortcut-express": {
+    "first_seen": "2026-09-15T03:03:05.537Z",
+    "last_seen": "2026-09-15T03:03:05.537Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-29T03:03:05.537Z"
   }
 }
