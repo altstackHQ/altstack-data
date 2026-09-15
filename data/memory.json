@@ -65743,5 +65743,126 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-09-29T03:03:05.537Z"
+  },
+  "aetherlabsai/rsiagent": {
+    "first_seen": "2026-09-15T10:54:46.715Z",
+    "last_seen": "2026-09-15T10:54:46.715Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:46.697Z"
+  },
+  "fsecdev/threat-intelligence-hackers-forums": {
+    "first_seen": "2026-09-15T10:54:48.259Z",
+    "last_seen": "2026-09-15T10:54:48.259Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:48.259Z"
+  },
+  "errrc/kaogongzhentizhengliu": {
+    "first_seen": "2026-09-15T10:54:48.772Z",
+    "last_seen": "2026-09-15T10:54:48.772Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:48.772Z"
+  },
+  "lynnreal-ai/lynnreal-omni": {
+    "first_seen": "2026-09-15T10:54:49.400Z",
+    "last_seen": "2026-09-15T10:54:49.400Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:49.400Z"
+  },
+  "pliablepixels/gap-trap": {
+    "first_seen": "2026-09-15T10:54:49.937Z",
+    "last_seen": "2026-09-15T10:54:49.937Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:49.937Z"
+  },
+  "flmodel/flm": {
+    "first_seen": "2026-09-15T10:54:50.466Z",
+    "last_seen": "2026-09-15T10:54:50.466Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:50.466Z"
+  },
+  "mpociot/claude-siri-ai": {
+    "first_seen": "2026-09-15T10:54:51.005Z",
+    "last_seen": "2026-09-15T10:54:51.005Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:51.005Z"
+  },
+  "navaneethkrishnansuresh/inference-engineering": {
+    "first_seen": "2026-09-15T10:54:51.446Z",
+    "last_seen": "2026-09-15T10:54:51.446Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:51.446Z"
+  },
+  "shardgasscoop/lol-changer": {
+    "first_seen": "2026-09-15T10:54:52.060Z",
+    "last_seen": "2026-09-15T10:54:52.060Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:52.060Z"
+  },
+  "agentscope-java/agentscope-java": {
+    "first_seen": "2026-09-15T10:54:52.993Z",
+    "last_seen": "2026-09-15T10:54:52.993Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:52.993Z"
+  },
+  "onmyway133/claude-code-tips-tricks": {
+    "first_seen": "2026-09-15T10:54:53.488Z",
+    "last_seen": "2026-09-15T10:54:53.488Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-22T10:54:53.488Z"
+  },
+  "juwan-hwang/claude-mimic": {
+    "first_seen": "2026-09-15T10:54:54.521Z",
+    "last_seen": "2026-09-15T10:54:54.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-29T10:54:54.521Z"
   }
 }
