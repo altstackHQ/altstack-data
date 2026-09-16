@@ -66199,5 +66199,110 @@
     "reason": "low_stars",
     "stars": 8,
     "cooldown_until": "2026-09-30T10:44:10.081Z"
+  },
+  "theoephraim/awesome-cloudflare-selfhosted": {
+    "first_seen": "2026-09-16T16:06:37.367Z",
+    "last_seen": "2026-09-16T16:06:37.367Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T16:06:37.352Z"
+  },
+  "graafhenk/numberwang": {
+    "first_seen": "2026-09-16T16:06:39.221Z",
+    "last_seen": "2026-09-16T16:06:39.221Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T16:06:39.221Z"
+  },
+  "forrestknight/omarchy-key-promoter": {
+    "first_seen": "2026-09-16T16:06:40.483Z",
+    "last_seen": "2026-09-16T16:06:40.483Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T16:06:40.483Z"
+  },
+  "see-sol-lab/picxel": {
+    "first_seen": "2026-09-16T16:06:40.886Z",
+    "last_seen": "2026-09-16T16:06:40.886Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-30T16:06:40.886Z"
+  },
+  "fortitude-group/omnisbench": {
+    "first_seen": "2026-09-16T16:06:41.231Z",
+    "last_seen": "2026-09-16T16:06:41.231Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-30T16:06:41.231Z"
+  },
+  "ag3497120/cleanroom": {
+    "first_seen": "2026-09-16T16:06:41.553Z",
+    "last_seen": "2026-09-16T16:06:41.553Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-30T16:06:41.553Z"
+  },
+  "theletterf/comic-chat-ai": {
+    "first_seen": "2026-09-16T16:06:41.937Z",
+    "last_seen": "2026-09-16T16:06:41.937Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-30T16:06:41.937Z"
+  },
+  "seacloud-lab/seasearch": {
+    "first_seen": "2026-09-16T16:06:42.704Z",
+    "last_seen": "2026-09-16T16:06:42.704Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T16:06:42.704Z"
+  },
+  "huytd/whyblunder": {
+    "first_seen": "2026-09-16T16:06:43.040Z",
+    "last_seen": "2026-09-16T16:06:43.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-30T16:06:43.040Z"
+  },
+  "madarco/agentbox": {
+    "first_seen": "2026-09-16T16:06:43.598Z",
+    "last_seen": "2026-09-16T16:06:43.598Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T16:06:43.598Z"
   }
 }
