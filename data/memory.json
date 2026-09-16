@@ -1736,13 +1736,13 @@
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
-    "last_seen": "2026-09-09T02:43:11.715Z",
-    "times_seen": 21,
+    "last_seen": "2026-09-16T02:59:10.845Z",
+    "times_seen": 22,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-16T02:43:11.696Z"
+    "cooldown_until": "2026-09-23T02:59:10.833Z"
   },
   "photoprism/photoprism": {
     "first_seen": "2026-04-08T13:45:47.610Z",
@@ -1800,14 +1800,14 @@
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
-    "last_seen": "2026-09-09T02:43:16.476Z",
-    "times_seen": 19,
+    "last_seen": "2026-09-16T02:59:14.601Z",
+    "times_seen": 20,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-16T02:43:16.476Z"
+    "cooldown_until": "2026-09-23T02:59:14.600Z"
   },
   "farzaa/clicky": {
     "first_seen": "2026-04-08T13:45:50.138Z",
@@ -66035,5 +66035,158 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-09-29T20:48:28.554Z"
+  },
+  "bellevhagenesdss172/wardogs-ch3a7-undetec7": {
+    "first_seen": "2026-09-16T02:59:15.601Z",
+    "last_seen": "2026-09-16T02:59:15.601Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:15.601Z"
+  },
+  "opencoredev/bg0": {
+    "first_seen": "2026-09-16T02:59:16.236Z",
+    "last_seen": "2026-09-16T02:59:16.236Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:16.236Z"
+  },
+  "work-fisher/aifisher": {
+    "first_seen": "2026-09-16T02:59:16.718Z",
+    "last_seen": "2026-09-16T02:59:16.718Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:16.718Z"
+  },
+  "anmolkapil/plexo": {
+    "first_seen": "2026-09-16T02:59:17.254Z",
+    "last_seen": "2026-09-16T02:59:17.254Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:17.254Z"
+  },
+  "suversal/wrappin": {
+    "first_seen": "2026-09-16T02:59:17.825Z",
+    "last_seen": "2026-09-16T02:59:17.825Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:17.825Z"
+  },
+  "rocyan98/codexboard": {
+    "first_seen": "2026-09-16T02:59:18.334Z",
+    "last_seen": "2026-09-16T02:59:18.334Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:18.334Z"
+  },
+  "hirakujira/nein": {
+    "first_seen": "2026-09-16T02:59:18.844Z",
+    "last_seen": "2026-09-16T02:59:18.844Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:18.844Z"
+  },
+  "estherliu-lab/momo-soft-play": {
+    "first_seen": "2026-09-16T02:59:19.391Z",
+    "last_seen": "2026-09-16T02:59:19.391Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:19.391Z"
+  },
+  "ashhart/mcdma": {
+    "first_seen": "2026-09-16T02:59:19.955Z",
+    "last_seen": "2026-09-16T02:59:19.955Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:19.955Z"
+  },
+  "kevinnbass/metr-money-figure": {
+    "first_seen": "2026-09-16T02:59:20.508Z",
+    "last_seen": "2026-09-16T02:59:20.508Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:20.508Z"
+  },
+  "finna/herdr-hud": {
+    "first_seen": "2026-09-16T02:59:21.018Z",
+    "last_seen": "2026-09-16T02:59:21.018Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:21.018Z"
+  },
+  "pausan/agenttik": {
+    "first_seen": "2026-09-16T02:59:23.162Z",
+    "last_seen": "2026-09-16T02:59:23.162Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-30T02:59:23.162Z"
+  },
+  "daniel-sc/contextveil": {
+    "first_seen": "2026-09-16T02:59:23.507Z",
+    "last_seen": "2026-09-16T02:59:23.507Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-09-30T02:59:23.507Z"
+  },
+  "thurbeen/thurbox": {
+    "first_seen": "2026-09-16T02:59:24.113Z",
+    "last_seen": "2026-09-16T02:59:24.113Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T02:59:24.113Z"
+  },
+  "zoosky/accent-sass": {
+    "first_seen": "2026-09-16T02:59:24.436Z",
+    "last_seen": "2026-09-16T02:59:24.436Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-30T02:59:24.436Z"
   }
 }
