@@ -66188,5 +66188,16 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-30T02:59:24.436Z"
+  },
+  "selemis-com/kival": {
+    "first_seen": "2026-09-16T10:44:10.098Z",
+    "last_seen": "2026-09-16T10:44:10.098Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-09-30T10:44:10.081Z"
   }
 }
