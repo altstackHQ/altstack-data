@@ -66304,5 +66304,102 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-23T16:06:43.598Z"
+  },
+  "marcos66236/github-stars-history": {
+    "first_seen": "2026-09-16T20:47:43.979Z",
+    "last_seen": "2026-09-16T20:47:43.979Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T20:47:43.961Z"
+  },
+  "vinnylarouge/jevlike": {
+    "first_seen": "2026-09-16T20:47:44.845Z",
+    "last_seen": "2026-09-16T20:47:44.845Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-23T20:47:44.845Z"
+  },
+  "monid-ai/monid": {
+    "first_seen": "2026-09-16T20:47:45.585Z",
+    "last_seen": "2026-09-16T20:47:45.585Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-09-30T20:47:45.585Z"
+  },
+  "itskie/friday": {
+    "first_seen": "2026-09-16T20:47:45.899Z",
+    "last_seen": "2026-09-16T20:47:45.899Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-09-30T20:47:45.899Z"
+  },
+  "polarsen-io/padwan-llm": {
+    "first_seen": "2026-09-16T20:47:46.211Z",
+    "last_seen": "2026-09-16T20:47:46.211Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-09-30T20:47:46.211Z"
+  },
+  "devladpopov/aixm-parser": {
+    "first_seen": "2026-09-16T20:47:46.482Z",
+    "last_seen": "2026-09-16T20:47:46.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-09-30T20:47:46.482Z"
+  },
+  "chorylee/edge-ai-benchmarks": {
+    "first_seen": "2026-09-16T20:47:46.779Z",
+    "last_seen": "2026-09-16T20:47:46.779Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-09-30T20:47:46.779Z"
+  },
+  "lucastononro/cc-subway": {
+    "first_seen": "2026-09-16T20:47:47.060Z",
+    "last_seen": "2026-09-16T20:47:47.060Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-30T20:47:47.060Z"
+  },
+  "rccmb/oracle": {
+    "first_seen": "2026-09-16T20:47:47.343Z",
+    "last_seen": "2026-09-16T20:47:47.343Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-09-30T20:47:47.343Z"
   }
 }
