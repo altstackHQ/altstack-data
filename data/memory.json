@@ -66647,5 +66647,119 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-01T10:51:55.435Z"
+  },
+  "mak5er/aircard": {
+    "first_seen": "2026-09-17T16:05:55.170Z",
+    "last_seen": "2026-09-17T16:05:55.170Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T16:05:55.159Z"
+  },
+  "yynxxxxx/gpt_sub_analysis": {
+    "first_seen": "2026-09-17T16:05:56.875Z",
+    "last_seen": "2026-09-17T16:05:56.875Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T16:05:56.875Z"
+  },
+  "itz-anya/code-quote": {
+    "first_seen": "2026-09-17T16:05:57.466Z",
+    "last_seen": "2026-09-17T16:05:57.466Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T16:05:57.466Z"
+  },
+  "devagrawal09/jev-review": {
+    "first_seen": "2026-09-17T16:05:58.027Z",
+    "last_seen": "2026-09-17T16:05:58.027Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T16:05:58.027Z"
+  },
+  "thruwire/foreman": {
+    "first_seen": "2026-09-17T16:05:58.549Z",
+    "last_seen": "2026-09-17T16:05:58.549Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T16:05:58.549Z"
+  },
+  "sabbircode-dev/learning-python": {
+    "first_seen": "2026-09-17T16:05:59.040Z",
+    "last_seen": "2026-09-17T16:05:59.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T16:05:59.040Z"
+  },
+  "red-mutt/lytlnyblos": {
+    "first_seen": "2026-09-17T16:05:59.649Z",
+    "last_seen": "2026-09-17T16:05:59.649Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T16:05:59.649Z"
+  },
+  "commandertvis/thinkrail": {
+    "first_seen": "2026-09-17T16:06:00.105Z",
+    "last_seen": "2026-09-17T16:06:00.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-01T16:06:00.105Z"
+  },
+  "hyper-serve/video-uploader": {
+    "first_seen": "2026-09-17T16:06:00.441Z",
+    "last_seen": "2026-09-17T16:06:00.441Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-01T16:06:00.441Z"
+  },
+  "imron/bottle": {
+    "first_seen": "2026-09-17T16:06:00.806Z",
+    "last_seen": "2026-09-17T16:06:00.806Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-01T16:06:00.806Z"
+  },
+  "argonautlabsai/argodrive": {
+    "first_seen": "2026-09-17T16:06:01.125Z",
+    "last_seen": "2026-09-17T16:06:01.125Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-01T16:06:01.125Z"
   }
 }
