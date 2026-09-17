@@ -66585,5 +66585,67 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-01T03:02:50.426Z"
+  },
+  "browser-use/jev-ultrafast": {
+    "first_seen": "2026-09-17T10:51:50.685Z",
+    "last_seen": "2026-09-17T10:51:50.685Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T10:51:50.669Z"
+  },
+  "apimart-11/image2.5-api-gateway-apimart": {
+    "first_seen": "2026-09-17T10:51:51.785Z",
+    "last_seen": "2026-09-17T10:51:51.785Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T10:51:51.785Z"
+  },
+  "nmaas8388/github-ranking-audit": {
+    "first_seen": "2026-09-17T10:51:52.932Z",
+    "last_seen": "2026-09-17T10:51:52.932Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T10:51:52.932Z"
+  },
+  "fhshaik/typesafe-mario": {
+    "first_seen": "2026-09-17T10:51:54.678Z",
+    "last_seen": "2026-09-17T10:51:54.678Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T10:51:54.678Z"
+  },
+  "alphasolutionsrepo/interakt": {
+    "first_seen": "2026-09-17T10:51:55.091Z",
+    "last_seen": "2026-09-17T10:51:55.091Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-10-01T10:51:55.091Z"
+  },
+  "wonglok/effectnode-b3-template-code": {
+    "first_seen": "2026-09-17T10:51:55.435Z",
+    "last_seen": "2026-09-17T10:51:55.435Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-01T10:51:55.435Z"
   }
 }
