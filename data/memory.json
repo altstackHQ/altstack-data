@@ -66401,5 +66401,189 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-09-30T20:47:47.343Z"
+  },
+  "ctdal/cve-2026-41940-poc": {
+    "first_seen": "2026-09-17T03:02:40.920Z",
+    "last_seen": "2026-09-17T03:02:40.920Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:40.904Z"
+  },
+  "awlevin/typesafe-computer-use": {
+    "first_seen": "2026-09-17T03:02:42.114Z",
+    "last_seen": "2026-09-17T03:02:42.114Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:42.114Z"
+  },
+  "fiedri/awesome-android-apps": {
+    "first_seen": "2026-09-17T03:02:42.401Z",
+    "last_seen": "2026-09-17T03:02:42.401Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-10-17T03:02:42.401Z"
+  },
+  "davidmokos/expo-gpt-live": {
+    "first_seen": "2026-09-17T03:02:42.995Z",
+    "last_seen": "2026-09-17T03:02:42.995Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:42.995Z"
+  },
+  "spikecalls/flydrones": {
+    "first_seen": "2026-09-17T03:02:43.562Z",
+    "last_seen": "2026-09-17T03:02:43.562Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:43.562Z"
+  },
+  "theoleecj/openjev": {
+    "first_seen": "2026-09-17T03:02:44.097Z",
+    "last_seen": "2026-09-17T03:02:44.097Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:44.097Z"
+  },
+  "kdbhalala/avdslim": {
+    "first_seen": "2026-09-17T03:02:44.722Z",
+    "last_seen": "2026-09-17T03:02:44.722Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:44.722Z"
+  },
+  "dmtrkovalenko/bashka": {
+    "first_seen": "2026-09-17T03:02:45.283Z",
+    "last_seen": "2026-09-17T03:02:45.283Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:45.283Z"
+  },
+  "iamliquidx/telegram-clone-worker": {
+    "first_seen": "2026-09-17T03:02:45.859Z",
+    "last_seen": "2026-09-17T03:02:45.859Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:45.859Z"
+  },
+  "justoneapi-labs/xiaohongshu-api": {
+    "first_seen": "2026-09-17T03:02:46.383Z",
+    "last_seen": "2026-09-17T03:02:46.383Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:46.383Z"
+  },
+  "janice20435/cf-turnstile-token": {
+    "first_seen": "2026-09-17T03:02:46.969Z",
+    "last_seen": "2026-09-17T03:02:46.969Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:46.969Z"
+  },
+  "adonis-singh/re4": {
+    "first_seen": "2026-09-17T03:02:47.278Z",
+    "last_seen": "2026-09-17T03:02:47.278Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-10-17T03:02:47.278Z"
+  },
+  "jamiepinheiro/ipad_computer_use": {
+    "first_seen": "2026-09-17T03:02:48.114Z",
+    "last_seen": "2026-09-17T03:02:48.114Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:48.114Z"
+  },
+  "longer-sausage/ok-azurpromilia": {
+    "first_seen": "2026-09-17T03:02:48.662Z",
+    "last_seen": "2026-09-17T03:02:48.662Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:48.662Z"
+  },
+  "apple/xcode-project-format": {
+    "first_seen": "2026-09-17T03:02:49.232Z",
+    "last_seen": "2026-09-17T03:02:49.232Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:49.232Z"
+  },
+  "typesafeainate/dspy-typesafeify": {
+    "first_seen": "2026-09-17T03:02:49.769Z",
+    "last_seen": "2026-09-17T03:02:49.769Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T03:02:49.768Z"
+  },
+  "davejpeters/opencode-mentor": {
+    "first_seen": "2026-09-17T03:02:50.087Z",
+    "last_seen": "2026-09-17T03:02:50.087Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-01T03:02:50.087Z"
+  },
+  "cherthq/chert-facetime-opensource": {
+    "first_seen": "2026-09-17T03:02:50.426Z",
+    "last_seen": "2026-09-17T03:02:50.426Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-01T03:02:50.426Z"
   }
 }
