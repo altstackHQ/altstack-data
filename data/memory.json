@@ -46652,14 +46652,14 @@
   },
   "bandarlabs/cobalt": {
     "first_seen": "2026-08-02T08:14:21.168Z",
-    "last_seen": "2026-08-02T08:14:21.168Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-17T20:53:57.640Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 2,
-    "cooldown_until": "2026-08-16T08:14:21.168Z"
+    "cooldown_until": "2026-09-24T20:53:57.640Z"
   },
   "sovereign34/agent-protocol-notes": {
     "first_seen": "2026-08-02T08:14:21.496Z",
@@ -57691,14 +57691,14 @@
   },
   "coldteadotai/pr-lens": {
     "first_seen": "2026-08-27T21:39:03.540Z",
-    "last_seen": "2026-08-27T21:39:03.540Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-17T20:53:57.147Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 8,
-    "cooldown_until": "2026-09-10T21:39:03.540Z"
+    "cooldown_until": "2026-09-24T20:53:57.147Z"
   },
   "alvynmcq/diff-glance": {
     "first_seen": "2026-08-27T21:39:04.583Z",
@@ -66761,5 +66761,90 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-01T16:06:01.125Z"
+  },
+  "repoboost-hq/buy-github-stars": {
+    "first_seen": "2026-09-17T20:53:55.604Z",
+    "last_seen": "2026-09-17T20:53:55.604Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T20:53:55.587Z"
+  },
+  "mirkovicdev/hftengine": {
+    "first_seen": "2026-09-17T20:53:56.081Z",
+    "last_seen": "2026-09-17T20:53:56.081Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T20:53:56.081Z"
+  },
+  "demeyer1/autobot": {
+    "first_seen": "2026-09-17T20:53:56.430Z",
+    "last_seen": "2026-09-17T20:53:56.430Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-10-01T20:53:56.430Z"
+  },
+  "tackx/c8-ass": {
+    "first_seen": "2026-09-17T20:53:56.692Z",
+    "last_seen": "2026-09-17T20:53:56.692Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-01T20:53:56.692Z"
+  },
+  "jodan-alberts/sokit": {
+    "first_seen": "2026-09-17T20:53:57.909Z",
+    "last_seen": "2026-09-17T20:53:57.909Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-01T20:53:57.909Z"
+  },
+  "nidhi-singh02/agent-router": {
+    "first_seen": "2026-09-17T20:53:58.231Z",
+    "last_seen": "2026-09-17T20:53:58.231Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-01T20:53:58.231Z"
+  },
+  "ibr0r0/apeeye": {
+    "first_seen": "2026-09-17T20:53:58.570Z",
+    "last_seen": "2026-09-17T20:53:58.570Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-10-01T20:53:58.570Z"
+  },
+  "fif7y/pelmet": {
+    "first_seen": "2026-09-17T20:53:58.986Z",
+    "last_seen": "2026-09-17T20:53:58.986Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-24T20:53:58.986Z"
   }
 }
