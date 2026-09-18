@@ -67082,5 +67082,134 @@
     "reason": "low_stars",
     "stars": 7,
     "cooldown_until": "2026-10-02T15:42:21.091Z"
+  },
+  "robbietilton/compositor": {
+    "first_seen": "2026-09-18T20:19:10.232Z",
+    "last_seen": "2026-09-18T20:19:10.232Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T20:19:10.219Z"
+  },
+  "nandhakishorm/laya": {
+    "first_seen": "2026-09-18T20:19:10.749Z",
+    "last_seen": "2026-09-18T20:19:10.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T20:19:10.749Z"
+  },
+  "yibie/awesome-jev": {
+    "first_seen": "2026-09-18T20:19:13.089Z",
+    "last_seen": "2026-09-18T20:19:13.089Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T20:19:13.089Z"
+  },
+  "alurith/jeff": {
+    "first_seen": "2026-09-18T20:19:14.073Z",
+    "last_seen": "2026-09-18T20:19:14.073Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-02T20:19:14.073Z"
+  },
+  "fabledruns/forcefield": {
+    "first_seen": "2026-09-18T20:19:14.415Z",
+    "last_seen": "2026-09-18T20:19:14.415Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-02T20:19:14.415Z"
+  },
+  "kaarelkaarelson/lingbot-world-v2-realtime": {
+    "first_seen": "2026-09-18T20:19:14.727Z",
+    "last_seen": "2026-09-18T20:19:14.727Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-02T20:19:14.727Z"
+  },
+  "vakahnke/timeline": {
+    "first_seen": "2026-09-18T20:19:15.010Z",
+    "last_seen": "2026-09-18T20:19:15.010Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-02T20:19:15.010Z"
+  },
+  "titovdigital/kbai-skill": {
+    "first_seen": "2026-09-18T20:19:15.366Z",
+    "last_seen": "2026-09-18T20:19:15.366Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-02T20:19:15.366Z"
+  },
+  "ulrischa/semantic-skill-kit": {
+    "first_seen": "2026-09-18T20:19:15.713Z",
+    "last_seen": "2026-09-18T20:19:15.713Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-02T20:19:15.713Z"
+  },
+  "colinedwardwood/sagemcom-docsis-exporter": {
+    "first_seen": "2026-09-18T20:19:16.072Z",
+    "last_seen": "2026-09-18T20:19:16.072Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-02T20:19:16.072Z"
+  },
+  "luantak/is-malicious": {
+    "first_seen": "2026-09-18T20:19:16.444Z",
+    "last_seen": "2026-09-18T20:19:16.444Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-10-02T20:19:16.444Z"
+  },
+  "atomashevic/omabib": {
+    "first_seen": "2026-09-18T20:19:17.580Z",
+    "last_seen": "2026-09-18T20:19:17.580Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-02T20:19:17.580Z"
   }
 }
