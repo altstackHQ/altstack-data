@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-09-11T10:29:54.212Z",
-    "times_seen": 16,
+    "last_seen": "2026-09-18T15:42:10.345Z",
+    "times_seen": 17,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-18T10:29:54.194Z"
+    "cooldown_until": "2026-09-25T15:42:10.325Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -67009,5 +67009,78 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-10-02T10:27:14.414Z"
+  },
+  "theoleecj/semif": {
+    "first_seen": "2026-09-18T15:42:14.670Z",
+    "last_seen": "2026-09-18T15:42:14.670Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T15:42:14.670Z"
+  },
+  "continuum-ai-corp/orcabonsai-27b-uncensored": {
+    "first_seen": "2026-09-18T15:42:16.629Z",
+    "last_seen": "2026-09-18T15:42:16.629Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T15:42:16.629Z"
+  },
+  "dabit3/jev-experiments": {
+    "first_seen": "2026-09-18T15:42:18.578Z",
+    "last_seen": "2026-09-18T15:42:18.578Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T15:42:18.578Z"
+  },
+  "y0usaf/pi-jev": {
+    "first_seen": "2026-09-18T15:42:19.894Z",
+    "last_seen": "2026-09-18T15:42:19.894Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T15:42:19.894Z"
+  },
+  "visionably/outloud": {
+    "first_seen": "2026-09-18T15:42:20.271Z",
+    "last_seen": "2026-09-18T15:42:20.271Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-10-02T15:42:20.271Z"
+  },
+  "krackout/tuisheet": {
+    "first_seen": "2026-09-18T15:42:20.657Z",
+    "last_seen": "2026-09-18T15:42:20.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-02T15:42:20.657Z"
+  },
+  "shellroute/shellroute-cli": {
+    "first_seen": "2026-09-18T15:42:21.091Z",
+    "last_seen": "2026-09-18T15:42:21.091Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-10-02T15:42:21.091Z"
   }
 }
