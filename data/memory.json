@@ -66846,5 +66846,127 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-24T20:53:58.986Z"
+  },
+  "tamaratran/fast-jev-compaction": {
+    "first_seen": "2026-09-18T02:50:31.540Z",
+    "last_seen": "2026-09-18T02:50:31.540Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:31.522Z"
+  },
+  "planetscale/lead": {
+    "first_seen": "2026-09-18T02:50:34.200Z",
+    "last_seen": "2026-09-18T02:50:34.200Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:34.200Z"
+  },
+  "niazmorshed2007/jev-review": {
+    "first_seen": "2026-09-18T02:50:34.793Z",
+    "last_seen": "2026-09-18T02:50:34.793Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:34.793Z"
+  },
+  "anthropics/uplifting-biomolecular-modeling": {
+    "first_seen": "2026-09-18T02:50:35.290Z",
+    "last_seen": "2026-09-18T02:50:35.290Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:35.290Z"
+  },
+  "kuhnhomeuk-cell/procedural-film": {
+    "first_seen": "2026-09-18T02:50:35.793Z",
+    "last_seen": "2026-09-18T02:50:35.793Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:35.793Z"
+  },
+  "gargpratyush/jev-router": {
+    "first_seen": "2026-09-18T02:50:36.328Z",
+    "last_seen": "2026-09-18T02:50:36.328Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:36.328Z"
+  },
+  "worldbuilder013/hexis": {
+    "first_seen": "2026-09-18T02:50:36.841Z",
+    "last_seen": "2026-09-18T02:50:36.841Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:36.841Z"
+  },
+  "abdelstark/awesome-typesafe": {
+    "first_seen": "2026-09-18T02:50:37.352Z",
+    "last_seen": "2026-09-18T02:50:37.352Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:37.352Z"
+  },
+  "pengchujin/mactv": {
+    "first_seen": "2026-09-18T02:50:37.858Z",
+    "last_seen": "2026-09-18T02:50:37.858Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:37.858Z"
+  },
+  "lovablelabs/oj": {
+    "first_seen": "2026-09-18T02:50:38.371Z",
+    "last_seen": "2026-09-18T02:50:38.371Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T02:50:38.371Z"
+  },
+  "jcpsimmons/jev-model-router-demo": {
+    "first_seen": "2026-09-18T02:50:38.653Z",
+    "last_seen": "2026-09-18T02:50:38.653Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-02T02:50:38.653Z"
+  },
+  "tombert/office365_flake": {
+    "first_seen": "2026-09-18T02:50:38.944Z",
+    "last_seen": "2026-09-18T02:50:38.944Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-02T02:50:38.944Z"
   }
 }
