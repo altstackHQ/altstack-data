@@ -66968,5 +66968,46 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-02T02:50:38.944Z"
+  },
+  "tianyucodings/nanojev": {
+    "first_seen": "2026-09-18T10:27:10.947Z",
+    "last_seen": "2026-09-18T10:27:10.947Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T10:27:10.934Z"
+  },
+  "ekzhang/openjev-sglang": {
+    "first_seen": "2026-09-18T10:27:13.540Z",
+    "last_seen": "2026-09-18T10:27:13.540Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T10:27:13.540Z"
+  },
+  "jub0t/concat": {
+    "first_seen": "2026-09-18T10:27:14.081Z",
+    "last_seen": "2026-09-18T10:27:14.081Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-25T10:27:14.081Z"
+  },
+  "vikcena01/ai-continuity-plugin": {
+    "first_seen": "2026-09-18T10:27:14.414Z",
+    "last_seen": "2026-09-18T10:27:14.414Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-02T10:27:14.414Z"
   }
 }
