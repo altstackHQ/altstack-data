@@ -1912,7 +1912,8 @@
     "website": "https://www.atlassian.com/software/statuspage",
     "description": "The best way to communicate status and downtime to your customers.",
     "alternatives": [
-      "uptime-kuma"
+      "uptime-kuma",
+      "warden"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=atlassian.com",
     "avg_monthly_cost": 29,
@@ -1962,6 +1963,29 @@
       "timestamp": "2026-03-30T15:26:16.816Z"
     },
     "_request_heal": "missing_infrastructure"
+  },
+  {
+    "slug": "warden",
+    "name": "Warden",
+    "category": "Monitoring",
+    "is_open_source": true,
+    "github_repo": "projecthelena/warden",
+    "stars": 3,
+    "website": "https://projecthelena.com",
+    "description": "Self-hosted uptime monitoring that learns normal latency, reduces alert noise, and exposes a role-scoped MCP server for AI-assisted operations.",
+    "pros": [
+      "Adaptive latency baselines and built-in alert-noise controls",
+      "REST API and role-scoped MCP server for safe AI-assisted operations",
+      "Branded status pages and scoped client logins for agencies"
+    ],
+    "cons": [
+      "Fewer monitor types and notification integrations than established tools",
+      "Checks currently run from a single location"
+    ],
+    "last_commit": "2026-09-14T05:10:13Z",
+    "language": "Go",
+    "license": "AGPL-3.0",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=projecthelena.com"
   },
   {
     "slug": "datadog",
