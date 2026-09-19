@@ -67408,5 +67408,79 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-10-03T10:11:51.432Z"
+  },
+  "githubnext/localjev": {
+    "first_seen": "2026-09-19T15:14:34.609Z",
+    "last_seen": "2026-09-19T15:14:34.609Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-26T15:14:34.593Z"
+  },
+  "bespokelabsai/nimble": {
+    "first_seen": "2026-09-19T15:14:35.038Z",
+    "last_seen": "2026-09-19T15:14:35.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-26T15:14:35.038Z"
+  },
+  "sac-y/jev-cu": {
+    "first_seen": "2026-09-19T15:14:35.911Z",
+    "last_seen": "2026-09-19T15:14:35.911Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-26T15:14:35.911Z"
+  },
+  "kanakos01/gravitype": {
+    "first_seen": "2026-09-19T15:14:37.096Z",
+    "last_seen": "2026-09-19T15:14:37.096Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-03T15:14:37.096Z"
+  },
+  "fentaris/fentaris": {
+    "first_seen": "2026-09-19T15:14:37.873Z",
+    "last_seen": "2026-09-19T15:14:37.873Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-03T15:14:37.873Z"
+  },
+  "kobblestoneio/kobblestone": {
+    "first_seen": "2026-09-19T15:14:38.226Z",
+    "last_seen": "2026-09-19T15:14:38.226Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-03T15:14:38.226Z"
+  },
+  "qainsights/typesafe-java-sdk": {
+    "first_seen": "2026-09-19T15:14:38.601Z",
+    "last_seen": "2026-09-19T15:14:38.601Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-03T15:14:38.601Z"
   }
 }
