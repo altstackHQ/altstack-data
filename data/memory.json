@@ -67765,5 +67765,107 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-04T03:00:58.205Z"
+  },
+  "mizorewww/laya-mlx": {
+    "first_seen": "2026-09-20T10:30:12.699Z",
+    "last_seen": "2026-09-20T10:30:12.699Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T10:30:12.682Z"
+  },
+  "pallavi-shekhar/ai-engineering-interview-questions-company-wise": {
+    "first_seen": "2026-09-20T10:30:13.076Z",
+    "last_seen": "2026-09-20T10:30:13.076Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T10:30:13.076Z"
+  },
+  "lumid-off/aircard-windows": {
+    "first_seen": "2026-09-20T10:30:13.549Z",
+    "last_seen": "2026-09-20T10:30:13.549Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T10:30:13.549Z"
+  },
+  "jameskinner/covalent-mas": {
+    "first_seen": "2026-09-20T10:30:13.989Z",
+    "last_seen": "2026-09-20T10:30:13.989Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T10:30:13.989Z"
+  },
+  "huangbai-ai/post-production-skill": {
+    "first_seen": "2026-09-20T10:30:14.402Z",
+    "last_seen": "2026-09-20T10:30:14.402Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T10:30:14.402Z"
+  },
+  "haleclipse/cometixcode": {
+    "first_seen": "2026-09-20T10:30:14.800Z",
+    "last_seen": "2026-09-20T10:30:14.800Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T10:30:14.800Z"
+  },
+  "hajoon22/i-server": {
+    "first_seen": "2026-09-20T10:30:15.563Z",
+    "last_seen": "2026-09-20T10:30:15.563Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-04T10:30:15.563Z"
+  },
+  "skorotkiewicz/dedc3b5a857be7d0f2b378334721713c": {
+    "first_seen": "2026-09-20T10:30:15.772Z",
+    "last_seen": "2026-09-20T10:30:15.772Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "pruefsumme/widemelon": {
+    "first_seen": "2026-09-20T10:30:16.232Z",
+    "last_seen": "2026-09-20T10:30:16.232Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T10:30:16.232Z"
+  },
+  "cxgrd/cli": {
+    "first_seen": "2026-09-20T10:30:16.521Z",
+    "last_seen": "2026-09-20T10:30:16.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-04T10:30:16.521Z"
   }
 }
