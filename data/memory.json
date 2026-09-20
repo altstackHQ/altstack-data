@@ -67839,8 +67839,8 @@
   },
   "skorotkiewicz/dedc3b5a857be7d0f2b378334721713c": {
     "first_seen": "2026-09-20T10:30:15.772Z",
-    "last_seen": "2026-09-20T10:30:15.772Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-20T15:19:06.722Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
@@ -67867,5 +67867,37 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-04T10:30:16.521Z"
+  },
+  "mak5er/aircard-ios": {
+    "first_seen": "2026-09-20T15:19:05.462Z",
+    "last_seen": "2026-09-20T15:19:05.462Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T15:19:05.444Z"
+  },
+  "linusinnovator/wtf": {
+    "first_seen": "2026-09-20T15:19:06.464Z",
+    "last_seen": "2026-09-20T15:19:06.464Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-04T15:19:06.464Z"
+  },
+  "philippdubach/pi-jev-router": {
+    "first_seen": "2026-09-20T15:19:07.046Z",
+    "last_seen": "2026-09-20T15:19:07.046Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-10-04T15:19:07.046Z"
   }
 }
