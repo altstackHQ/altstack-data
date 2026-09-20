@@ -67579,5 +67579,191 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-03T19:57:24.043Z"
+  },
+  "newliver666/apk-reverse": {
+    "first_seen": "2026-09-20T03:00:46.237Z",
+    "last_seen": "2026-09-20T03:00:46.237Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:46.220Z"
+  },
+  "unicodef1wn/grokbot-field-notes": {
+    "first_seen": "2026-09-20T03:00:46.895Z",
+    "last_seen": "2026-09-20T03:00:46.895Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:46.895Z"
+  },
+  "v-modal/awesome-jev-tools": {
+    "first_seen": "2026-09-20T03:00:47.646Z",
+    "last_seen": "2026-09-20T03:00:47.646Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:47.646Z"
+  },
+  "hynetworks/opengfw": {
+    "first_seen": "2026-09-20T03:00:48.360Z",
+    "last_seen": "2026-09-20T03:00:48.360Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:48.360Z"
+  },
+  "coldteadotai/abide": {
+    "first_seen": "2026-09-20T03:00:49.092Z",
+    "last_seen": "2026-09-20T03:00:49.092Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:49.092Z"
+  },
+  "op7418/guizang-product-video-skill": {
+    "first_seen": "2026-09-20T03:00:49.815Z",
+    "last_seen": "2026-09-20T03:00:49.815Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:49.815Z"
+  },
+  "joeseesun/qiaomu-download": {
+    "first_seen": "2026-09-20T03:00:50.454Z",
+    "last_seen": "2026-09-20T03:00:50.454Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:50.454Z"
+  },
+  "sutro-sh/jev-align": {
+    "first_seen": "2026-09-20T03:00:51.828Z",
+    "last_seen": "2026-09-20T03:00:51.828Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:51.828Z"
+  },
+  "ejfkdev/ddc": {
+    "first_seen": "2026-09-20T03:00:52.521Z",
+    "last_seen": "2026-09-20T03:00:52.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:52.521Z"
+  },
+  "oldcircle/geo-sleuth": {
+    "first_seen": "2026-09-20T03:00:53.869Z",
+    "last_seen": "2026-09-20T03:00:53.869Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:53.869Z"
+  },
+  "logicrw/awesome-jev-projects": {
+    "first_seen": "2026-09-20T03:00:54.562Z",
+    "last_seen": "2026-09-20T03:00:54.562Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:54.562Z"
+  },
+  "tamaratran/jev-pruner": {
+    "first_seen": "2026-09-20T03:00:55.250Z",
+    "last_seen": "2026-09-20T03:00:55.250Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-27T03:00:55.250Z"
+  },
+  "thissayantan/frost-icon-theme": {
+    "first_seen": "2026-09-20T03:00:56.321Z",
+    "last_seen": "2026-09-20T03:00:56.321Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-04T03:00:56.321Z"
+  },
+  "zdenham/jev-lint": {
+    "first_seen": "2026-09-20T03:00:56.710Z",
+    "last_seen": "2026-09-20T03:00:56.710Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-04T03:00:56.710Z"
+  },
+  "sunnylich/openwand": {
+    "first_seen": "2026-09-20T03:00:57.069Z",
+    "last_seen": "2026-09-20T03:00:57.069Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-10-04T03:00:57.069Z"
+  },
+  "hyzyla/kibana-agent": {
+    "first_seen": "2026-09-20T03:00:57.441Z",
+    "last_seen": "2026-09-20T03:00:57.441Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-10-04T03:00:57.441Z"
+  },
+  "pjhkorea/homeostasis-ingress-firewall": {
+    "first_seen": "2026-09-20T03:00:57.830Z",
+    "last_seen": "2026-09-20T03:00:57.830Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-04T03:00:57.830Z"
+  },
+  "newtdev/blynk-deferlink": {
+    "first_seen": "2026-09-20T03:00:58.205Z",
+    "last_seen": "2026-09-20T03:00:58.205Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-04T03:00:58.205Z"
   }
 }
