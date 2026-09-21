@@ -1757,14 +1757,14 @@
   },
   "awesome-foss/awesome-sysadmin": {
     "first_seen": "2026-04-08T13:45:47.994Z",
-    "last_seen": "2026-09-14T17:30:06.455Z",
-    "times_seen": 12,
+    "last_seen": "2026-09-21T17:43:57.699Z",
+    "times_seen": 13,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-21T17:30:06.436Z"
+    "cooldown_until": "2026-09-28T17:43:57.682Z"
   },
   "dokploy/dokploy": {
     "first_seen": "2026-04-08T13:45:48.345Z",
@@ -68355,5 +68355,133 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-28T11:48:06.290Z"
+  },
+  "finderchangchang/jev-chat-jarvis": {
+    "first_seen": "2026-09-21T17:43:59.999Z",
+    "last_seen": "2026-09-21T17:43:59.999Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T17:43:59.999Z"
+  },
+  "rizzo-ai-academy/rizzo-flow": {
+    "first_seen": "2026-09-21T17:44:01.506Z",
+    "last_seen": "2026-09-21T17:44:01.506Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T17:44:01.506Z"
+  },
+  "aru-labs/lossless-memory": {
+    "first_seen": "2026-09-21T17:44:02.234Z",
+    "last_seen": "2026-09-21T17:44:02.234Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T17:44:02.234Z"
+  },
+  "naw103/foremerge": {
+    "first_seen": "2026-09-21T17:44:03.066Z",
+    "last_seen": "2026-09-21T17:44:03.066Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T17:44:03.066Z"
+  },
+  "clickin/sqlbraid": {
+    "first_seen": "2026-09-21T17:44:03.483Z",
+    "last_seen": "2026-09-21T17:44:03.483Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-10-05T17:44:03.483Z"
+  },
+  "gmarland/local-coder": {
+    "first_seen": "2026-09-21T17:44:03.848Z",
+    "last_seen": "2026-09-21T17:44:03.848Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-10-05T17:44:03.848Z"
+  },
+  "mathaix/claramap-builder": {
+    "first_seen": "2026-09-21T17:44:04.213Z",
+    "last_seen": "2026-09-21T17:44:04.213Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-05T17:44:04.213Z"
+  },
+  "modal-projects/sqlite-modal": {
+    "first_seen": "2026-09-21T17:44:04.602Z",
+    "last_seen": "2026-09-21T17:44:04.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-10-05T17:44:04.602Z"
+  },
+  "agent-chaperone/agent-chaperone": {
+    "first_seen": "2026-09-21T17:44:05.007Z",
+    "last_seen": "2026-09-21T17:44:05.007Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-05T17:44:05.007Z"
+  },
+  "pokertools-arena/pokertools-arena.github.io": {
+    "first_seen": "2026-09-21T17:44:05.436Z",
+    "last_seen": "2026-09-21T17:44:05.436Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-05T17:44:05.436Z"
+  },
+  "afshinm/laya-mps": {
+    "first_seen": "2026-09-21T17:44:05.817Z",
+    "last_seen": "2026-09-21T17:44:05.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-05T17:44:05.817Z"
+  },
+  "raahelpie/hn-for-me": {
+    "first_seen": "2026-09-21T17:44:06.201Z",
+    "last_seen": "2026-09-21T17:44:06.201Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-05T17:44:06.201Z"
   }
 }
