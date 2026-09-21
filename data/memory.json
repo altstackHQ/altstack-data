@@ -1715,14 +1715,14 @@
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "first_seen": "2026-04-08T13:45:45.518Z",
-    "last_seen": "2026-09-14T11:34:27.260Z",
-    "times_seen": 20,
+    "last_seen": "2026-09-21T11:47:57.094Z",
+    "times_seen": 21,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-21T11:34:27.240Z"
+    "cooldown_until": "2026-09-28T11:47:57.081Z"
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
@@ -68240,5 +68240,120 @@
     "reason": "low_stars",
     "stars": 8,
     "cooldown_until": "2026-10-05T02:58:27.072Z"
+  },
+  "caxete/crypto-tax-calculator": {
+    "first_seen": "2026-09-21T11:48:01.800Z",
+    "last_seen": "2026-09-21T11:48:01.800Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T11:48:01.800Z"
+  },
+  "volotat/mini-agi": {
+    "first_seen": "2026-09-21T11:48:02.413Z",
+    "last_seen": "2026-09-21T11:48:02.413Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T11:48:02.413Z"
+  },
+  "jerryjliu/docjev": {
+    "first_seen": "2026-09-21T11:48:03.003Z",
+    "last_seen": "2026-09-21T11:48:03.003Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T11:48:03.003Z"
+  },
+  "yifanzhang-pro/klpo": {
+    "first_seen": "2026-09-21T11:48:03.482Z",
+    "last_seen": "2026-09-21T11:48:03.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T11:48:03.482Z"
+  },
+  "gosuda/bitcoin-rs": {
+    "first_seen": "2026-09-21T11:48:03.809Z",
+    "last_seen": "2026-09-21T11:48:03.809Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-10-05T11:48:03.809Z"
+  },
+  "sumanmichael/jevlang": {
+    "first_seen": "2026-09-21T11:48:04.121Z",
+    "last_seen": "2026-09-21T11:48:04.121Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-05T11:48:04.121Z"
+  },
+  "lukstei/slop-grader": {
+    "first_seen": "2026-09-21T11:48:04.450Z",
+    "last_seen": "2026-09-21T11:48:04.450Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-05T11:48:04.450Z"
+  },
+  "schmayterling/hibi": {
+    "first_seen": "2026-09-21T11:48:04.986Z",
+    "last_seen": "2026-09-21T11:48:04.986Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T11:48:04.986Z"
+  },
+  "bowlofdata/maki": {
+    "first_seen": "2026-09-21T11:48:05.364Z",
+    "last_seen": "2026-09-21T11:48:05.364Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-05T11:48:05.364Z"
+  },
+  "nodemaven/proxy-benchmark": {
+    "first_seen": "2026-09-21T11:48:05.722Z",
+    "last_seen": "2026-09-21T11:48:05.722Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-10-05T11:48:05.722Z"
+  },
+  "markfulton/ai-employees": {
+    "first_seen": "2026-09-21T11:48:06.290Z",
+    "last_seen": "2026-09-21T11:48:06.290Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-28T11:48:06.290Z"
   }
 }
