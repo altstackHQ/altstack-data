@@ -5005,5 +5005,68 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
+  },
+  {
+    "slug": "datagrip",
+    "name": "DataGrip",
+    "category": "DevOps",
+    "is_open_source": false,
+    "pricing_model": "Paid",
+    "website": "https://www.jetbrains.com/datagrip/",
+    "description": "JetBrains' cross-platform IDE for SQL databases.",
+    "alternatives": [
+      "libredb-studio"
+    ],
+    "tags": [
+      "Database",
+      "SQL",
+      "Developer Tools"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=jetbrains.com",
+    "avg_monthly_cost": 10,
+    "pros": [
+      "Strong SQL editor with completion and refactoring",
+      "Reaches a wide range of engines from one client",
+      "Mature schema diff and data editing tools"
+    ],
+    "cons": [
+      "Paid subscription per user",
+      "Desktop only, so every developer keeps their own copy of the credentials",
+      "Closed source"
+    ]
+  },
+  {
+    "slug": "libredb-studio",
+    "name": "LibreDB Studio",
+    "category": "DevOps",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "github_repo": "libredb/libredb-studio",
+    "stars": 797,
+    "website": "https://libredb.org",
+    "description": "Self-hosted SQL IDE that runs in the browser, with a schema browser, query history, ER diagrams and optional AI query assistance.",
+    "alternatives": [
+      "datagrip"
+    ],
+    "tags": [
+      "Database",
+      "SQL",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=libredb.org",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Runs next to the database, so credentials stay on the server",
+      "Sixteen engines from one browser tab, SQL and NoSQL",
+      "SSO and an audit trail are in the MIT build, not a paid tier"
+    ],
+    "cons": [
+      "Needs a server, there is no desktop install",
+      "AI features need your own LLM API key"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "hosting_type": "self-hosted"
   }
 ]
