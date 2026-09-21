@@ -1251,7 +1251,8 @@
     "description": "Powerful data visualization and business intelligence platform.",
     "alternatives": [
       "metabase",
-      "superset"
+      "superset",
+      "dac"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=tableau.com",
     "pros": [
@@ -1331,6 +1332,30 @@
       "timestamp": "2026-03-30T15:26:16.816Z"
     },
     "_request_heal": "missing_infrastructure"
+  },
+  {
+    "slug": "dac",
+    "name": "DAC",
+    "category": "Analytics",
+    "is_open_source": true,
+    "github_repo": "bruin-data/dac",
+    "stars": 728,
+    "website": "https://getbruin.com/docs/dac/",
+    "description": "Dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer.",
+    "pros": [
+      "Dashboards live in git and are reviewed like code",
+      "Semantic layer defines metrics once and reuses them",
+      "Single Go binary, no external services required",
+      "Connects to Postgres, MySQL, Snowflake, BigQuery, Redshift and Databricks"
+    ],
+    "cons": [
+      "Requires writing YAML or TSX instead of a drag-and-drop editor",
+      "Younger project with a smaller ecosystem than Metabase or Superset"
+    ],
+    "last_commit": "2026-08-19T14:02:46Z",
+    "language": "Go",
+    "license": "AGPLv3",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=getbruin.com"
   },
   {
     "slug": "auth0",
