@@ -68979,5 +68979,102 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-09-29T16:19:02.005Z"
+  },
+  "miuuyy/astra-ares": {
+    "first_seen": "2026-09-22T20:48:19.585Z",
+    "last_seen": "2026-09-22T20:48:19.585Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T20:48:19.569Z"
+  },
+  "general-instinct/instinctflash": {
+    "first_seen": "2026-09-22T20:48:20.339Z",
+    "last_seen": "2026-09-22T20:48:20.339Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T20:48:20.339Z"
+  },
+  "ctxrs/graf": {
+    "first_seen": "2026-09-22T20:48:20.763Z",
+    "last_seen": "2026-09-22T20:48:20.763Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-06T20:48:20.763Z"
+  },
+  "sshah03/shrewd": {
+    "first_seen": "2026-09-22T20:48:21.162Z",
+    "last_seen": "2026-09-22T20:48:21.162Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T20:48:21.162Z"
+  },
+  "freecoffee-bio/freecoffee.bio": {
+    "first_seen": "2026-09-22T20:48:21.641Z",
+    "last_seen": "2026-09-22T20:48:21.641Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T20:48:21.641Z"
+  },
+  "statico/ttmux": {
+    "first_seen": "2026-09-22T20:48:22.090Z",
+    "last_seen": "2026-09-22T20:48:22.090Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-06T20:48:22.090Z"
+  },
+  "kvitapp/kvit-plugins": {
+    "first_seen": "2026-09-22T20:48:22.482Z",
+    "last_seen": "2026-09-22T20:48:22.482Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T20:48:22.482Z"
+  },
+  "mrsachindixit/agentixit": {
+    "first_seen": "2026-09-22T20:48:22.904Z",
+    "last_seen": "2026-09-22T20:48:22.904Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 9,
+    "cooldown_until": "2026-10-06T20:48:22.904Z"
+  },
+  "agents2agentsai/vla-edge": {
+    "first_seen": "2026-09-22T20:48:23.343Z",
+    "last_seen": "2026-09-22T20:48:23.343Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-06T20:48:23.343Z"
   }
 }
