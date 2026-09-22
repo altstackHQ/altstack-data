@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-08-18T18:30:56.145Z",
-    "times_seen": 18,
+    "last_seen": "2026-09-22T02:58:28.258Z",
+    "times_seen": 19,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-08-25T18:30:56.145Z"
+    "cooldown_until": "2026-09-29T02:58:28.242Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -68537,5 +68537,206 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-05T21:37:13.302Z"
+  },
+  "jev-chat/jev-chat-jarvis": {
+    "first_seen": "2026-09-22T02:58:28.814Z",
+    "last_seen": "2026-09-22T02:58:28.814Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:28.814Z"
+  },
+  "amitshekhariitbhu/ai-engineer-roadmap": {
+    "first_seen": "2026-09-22T02:58:29.896Z",
+    "last_seen": "2026-09-22T02:58:29.896Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:29.896Z"
+  },
+  "shhivv/arc-cua": {
+    "first_seen": "2026-09-22T02:58:30.429Z",
+    "last_seen": "2026-09-22T02:58:30.429Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:30.429Z"
+  },
+  "promethe-us/awesome-jev": {
+    "first_seen": "2026-09-22T02:58:30.984Z",
+    "last_seen": "2026-09-22T02:58:30.984Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:30.984Z"
+  },
+  "ferrycorleone/crush-monitor": {
+    "first_seen": "2026-09-22T02:58:31.510Z",
+    "last_seen": "2026-09-22T02:58:31.510Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:31.510Z"
+  },
+  "wquguru/dasheng": {
+    "first_seen": "2026-09-22T02:58:32.040Z",
+    "last_seen": "2026-09-22T02:58:32.040Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:32.040Z"
+  },
+  "maanhimself/opendlss-nr": {
+    "first_seen": "2026-09-22T02:58:32.591Z",
+    "last_seen": "2026-09-22T02:58:32.591Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:32.591Z"
+  },
+  "lightorigins/light-o1": {
+    "first_seen": "2026-09-22T02:58:33.146Z",
+    "last_seen": "2026-09-22T02:58:33.146Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:33.146Z"
+  },
+  "vobl1999/deepseek-harness-easy-setup": {
+    "first_seen": "2026-09-22T02:58:33.681Z",
+    "last_seen": "2026-09-22T02:58:33.681Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:33.681Z"
+  },
+  "garlandleonor827-sketch/northstar": {
+    "first_seen": "2026-09-22T02:58:34.261Z",
+    "last_seen": "2026-09-22T02:58:34.261Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:34.261Z"
+  },
+  "zefan-cai/open-jev": {
+    "first_seen": "2026-09-22T02:58:34.814Z",
+    "last_seen": "2026-09-22T02:58:34.814Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:34.814Z"
+  },
+  "benjiyaya/comfyui-qwen-image-2.1-prompt-enhancer": {
+    "first_seen": "2026-09-22T02:58:35.320Z",
+    "last_seen": "2026-09-22T02:58:35.320Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:35.320Z"
+  },
+  "volumeyascoop/rbxforge": {
+    "first_seen": "2026-09-22T02:58:35.839Z",
+    "last_seen": "2026-09-22T02:58:35.839Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:35.839Z"
+  },
+  "drizzleconurepassage/quickshop": {
+    "first_seen": "2026-09-22T02:58:36.425Z",
+    "last_seen": "2026-09-22T02:58:36.425Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:36.425Z"
+  },
+  "driftmireminisce/sol-for-git-club": {
+    "first_seen": "2026-09-22T02:58:36.977Z",
+    "last_seen": "2026-09-22T02:58:36.977Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:36.977Z"
+  },
+  "driftmireminisce/quickshop": {
+    "first_seen": "2026-09-22T02:58:37.509Z",
+    "last_seen": "2026-09-22T02:58:37.509Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:37.509Z"
+  },
+  "bansheelight/rbxforge": {
+    "first_seen": "2026-09-22T02:58:38.031Z",
+    "last_seen": "2026-09-22T02:58:38.031Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:38.031Z"
+  },
+  "volumeyascoop/luaustore": {
+    "first_seen": "2026-09-22T02:58:38.586Z",
+    "last_seen": "2026-09-22T02:58:38.586Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:38.586Z"
+  },
+  "tianyucodings/jevharness": {
+    "first_seen": "2026-09-22T02:58:39.120Z",
+    "last_seen": "2026-09-22T02:58:39.120Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T02:58:39.120Z"
+  },
+  "emlembow/jev-graph-search": {
+    "first_seen": "2026-09-22T02:58:39.469Z",
+    "last_seen": "2026-09-22T02:58:39.469Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T02:58:39.469Z"
   }
 }
