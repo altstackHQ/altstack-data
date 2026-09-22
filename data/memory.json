@@ -68738,5 +68738,108 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-06T02:58:39.469Z"
+  },
+  "deepopen-com/deepopen": {
+    "first_seen": "2026-09-22T10:50:31.700Z",
+    "last_seen": "2026-09-22T10:50:31.700Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T10:50:31.682Z"
+  },
+  "jev-chat/jev-chat-windows": {
+    "first_seen": "2026-09-22T10:50:32.231Z",
+    "last_seen": "2026-09-22T10:50:32.231Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T10:50:32.231Z"
+  },
+  "jev-chat/jev-chat-jarvis-mac": {
+    "first_seen": "2026-09-22T10:50:32.759Z",
+    "last_seen": "2026-09-22T10:50:32.759Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T10:50:32.759Z"
+  },
+  "446599/ccodex-rotate": {
+    "first_seen": "2026-09-22T10:50:33.243Z",
+    "last_seen": "2026-09-22T10:50:33.243Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T10:50:33.243Z"
+  },
+  "ysh1112/codex-model-watch": {
+    "first_seen": "2026-09-22T10:50:33.749Z",
+    "last_seen": "2026-09-22T10:50:33.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T10:50:33.749Z"
+  },
+  "futureppo/typesafe_register": {
+    "first_seen": "2026-09-22T10:50:34.267Z",
+    "last_seen": "2026-09-22T10:50:34.267Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T10:50:34.267Z"
+  },
+  "ctnicholas/jev-workflow-builder": {
+    "first_seen": "2026-09-22T10:50:34.815Z",
+    "last_seen": "2026-09-22T10:50:34.815Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T10:50:34.815Z"
+  },
+  "ramneet-singh/jevopt": {
+    "first_seen": "2026-09-22T10:50:35.215Z",
+    "last_seen": "2026-09-22T10:50:35.215Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-06T10:50:35.215Z"
+  },
+  "fourleafai/clover-public": {
+    "first_seen": "2026-09-22T10:50:35.542Z",
+    "last_seen": "2026-09-22T10:50:35.542Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 6,
+    "cooldown_until": "2026-10-06T10:50:35.542Z"
+  },
+  "darvid/transom": {
+    "first_seen": "2026-09-22T10:50:35.885Z",
+    "last_seen": "2026-09-22T10:50:35.885Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T10:50:35.885Z"
   }
 }
