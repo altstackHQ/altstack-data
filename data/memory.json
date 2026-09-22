@@ -68841,5 +68841,143 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-06T10:50:35.885Z"
+  },
+  "freestylefly/wechatbridge": {
+    "first_seen": "2026-09-22T16:18:56.572Z",
+    "last_seen": "2026-09-22T16:18:56.572Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T16:18:56.558Z"
+  },
+  "malevrigns/agent-jev": {
+    "first_seen": "2026-09-22T16:18:57.128Z",
+    "last_seen": "2026-09-22T16:18:57.128Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T16:18:57.128Z"
+  },
+  "tencentarc/gamehorizon": {
+    "first_seen": "2026-09-22T16:18:57.741Z",
+    "last_seen": "2026-09-22T16:18:57.741Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T16:18:57.741Z"
+  },
+  "markwylde/all-your-agents": {
+    "first_seen": "2026-09-22T16:18:58.114Z",
+    "last_seen": "2026-09-22T16:18:58.114Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-06T16:18:58.114Z"
+  },
+  "nimblegate/nimblegate": {
+    "first_seen": "2026-09-22T16:18:58.500Z",
+    "last_seen": "2026-09-22T16:18:58.500Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-06T16:18:58.500Z"
+  },
+  "heyputer/builder": {
+    "first_seen": "2026-09-22T16:18:59.070Z",
+    "last_seen": "2026-09-22T16:18:59.070Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T16:18:59.070Z"
+  },
+  "viswajith275/envseal-cli": {
+    "first_seen": "2026-09-22T16:18:59.432Z",
+    "last_seen": "2026-09-22T16:18:59.432Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-06T16:18:59.432Z"
+  },
+  "kate8382/aura": {
+    "first_seen": "2026-09-22T16:18:59.856Z",
+    "last_seen": "2026-09-22T16:18:59.856Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-06T16:18:59.856Z"
+  },
+  "anchorshell/relay": {
+    "first_seen": "2026-09-22T16:19:00.238Z",
+    "last_seen": "2026-09-22T16:19:00.238Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T16:19:00.238Z"
+  },
+  "samarthurs18/fusion-runtime": {
+    "first_seen": "2026-09-22T16:19:00.618Z",
+    "last_seen": "2026-09-22T16:19:00.618Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-06T16:19:00.618Z"
+  },
+  "enclawed/omcp": {
+    "first_seen": "2026-09-22T16:19:00.983Z",
+    "last_seen": "2026-09-22T16:19:00.983Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T16:19:00.983Z"
+  },
+  "tabith-llc/venya": {
+    "first_seen": "2026-09-22T16:19:01.376Z",
+    "last_seen": "2026-09-22T16:19:01.376Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-06T16:19:01.376Z"
+  },
+  "intelligentnode/intellichat": {
+    "first_seen": "2026-09-22T16:19:02.005Z",
+    "last_seen": "2026-09-22T16:19:02.005Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-09-29T16:19:02.005Z"
   }
 }
