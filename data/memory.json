@@ -69851,5 +69851,48 @@
     "reason": "low_stars",
     "stars": 4,
     "cooldown_until": "2026-10-08T10:59:44.417Z"
+  },
+  "glaz-boga-poisk-bot/glaz-boga": {
+    "first_seen": "2026-09-24T16:22:24.463Z",
+    "last_seen": "2026-09-24T16:22:24.463Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-01T16:22:24.446Z"
+  },
+  "robgonnella/minienv": {
+    "first_seen": "2026-09-24T16:22:24.909Z",
+    "last_seen": "2026-09-24T16:22:24.909Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-08T16:22:24.909Z"
+  },
+  "savarin/lean-agent": {
+    "first_seen": "2026-09-24T16:22:25.324Z",
+    "last_seen": "2026-09-24T16:22:25.324Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-08T16:22:25.324Z"
+  },
+  "error0702/agent-limit-retry": {
+    "first_seen": "2026-09-24T16:22:25.750Z",
+    "last_seen": "2026-09-24T16:22:25.750Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-08T16:22:25.750Z"
   }
 }
