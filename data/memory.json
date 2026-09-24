@@ -69894,5 +69894,59 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-08T16:22:25.750Z"
+  },
+  "devdotfast/whiteboard": {
+    "first_seen": "2026-09-24T21:04:57.467Z",
+    "last_seen": "2026-09-24T21:04:57.467Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-01T21:04:57.450Z"
+  },
+  "velvet-shark/timebar": {
+    "first_seen": "2026-09-24T21:04:57.830Z",
+    "last_seen": "2026-09-24T21:04:57.830Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-08T21:04:57.829Z"
+  },
+  "aprabh96/openarcade": {
+    "first_seen": "2026-09-24T21:04:58.171Z",
+    "last_seen": "2026-09-24T21:04:58.171Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-08T21:04:58.171Z"
+  },
+  "shadowwalker2014/rig": {
+    "first_seen": "2026-09-24T21:04:58.473Z",
+    "last_seen": "2026-09-24T21:04:58.473Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-08T21:04:58.473Z"
+  },
+  "brofranks/headwire": {
+    "first_seen": "2026-09-24T21:04:58.781Z",
+    "last_seen": "2026-09-24T21:04:58.781Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-08T21:04:58.781Z"
   }
 }
