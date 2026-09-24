@@ -69768,5 +69768,88 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-08T02:49:10.974Z"
+  },
+  "contrastive-lm/clm": {
+    "first_seen": "2026-09-24T10:59:41.798Z",
+    "last_seen": "2026-09-24T10:59:41.798Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-01T10:59:41.780Z"
+  },
+  "mikehasa/golive-skill": {
+    "first_seen": "2026-09-24T10:59:42.258Z",
+    "last_seen": "2026-09-24T10:59:42.258Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-01T10:59:42.258Z"
+  },
+  "dgreenheck/tidewater": {
+    "first_seen": "2026-09-24T10:59:42.657Z",
+    "last_seen": "2026-09-24T10:59:42.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-01T10:59:42.657Z"
+  },
+  "saragordic/rooms": {
+    "first_seen": "2026-09-24T10:59:43.073Z",
+    "last_seen": "2026-09-24T10:59:43.073Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-01T10:59:43.073Z"
+  },
+  "amitshekhariitbhu/ai-engineering-course": {
+    "first_seen": "2026-09-24T10:59:43.522Z",
+    "last_seen": "2026-09-24T10:59:43.522Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-01T10:59:43.522Z"
+  },
+  "karmanyaahm/budget-tools": {
+    "first_seen": "2026-09-24T10:59:43.808Z",
+    "last_seen": "2026-09-24T10:59:43.808Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-10-08T10:59:43.808Z"
+  },
+  "philipppohlmann/compaction": {
+    "first_seen": "2026-09-24T10:59:44.107Z",
+    "last_seen": "2026-09-24T10:59:44.107Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-08T10:59:44.107Z"
+  },
+  "fregie/tokenhush": {
+    "first_seen": "2026-09-24T10:59:44.417Z",
+    "last_seen": "2026-09-24T10:59:44.417Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-08T10:59:44.417Z"
   }
 }
