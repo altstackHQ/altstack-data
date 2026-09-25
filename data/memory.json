@@ -4715,14 +4715,14 @@
   },
   "stirling-tools/stirling-pdf": {
     "first_seen": "2026-05-04T02:29:53.485Z",
-    "last_seen": "2026-09-18T15:42:10.345Z",
-    "times_seen": 17,
+    "last_seen": "2026-09-25T16:22:35.954Z",
+    "times_seen": 18,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "license": "NOASSERTION",
-    "cooldown_until": "2026-09-25T15:42:10.325Z"
+    "cooldown_until": "2026-10-02T16:22:35.934Z"
   },
   "vibeforge1111/keep-codex-fast": {
     "first_seen": "2026-05-04T02:29:55.547Z",
@@ -70095,12 +70095,156 @@
   },
   "sumant1122/knowledge-signal": {
     "first_seen": "2026-09-25T11:10:20.418Z",
-    "last_seen": "2026-09-25T11:10:20.418Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-25T16:22:48.700Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
     "monologues": [],
     "status": "api_failed"
+  },
+  "luwudynamics/xgoduck_hardware": {
+    "first_seen": "2026-09-25T16:22:41.209Z",
+    "last_seen": "2026-09-25T16:22:41.209Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:41.209Z"
+  },
+  "angusdevgo/seep-reverse-lab": {
+    "first_seen": "2026-09-25T16:22:41.797Z",
+    "last_seen": "2026-09-25T16:22:41.797Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:41.797Z"
+  },
+  "ilkerzg/storycast": {
+    "first_seen": "2026-09-25T16:22:42.467Z",
+    "last_seen": "2026-09-25T16:22:42.467Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:42.467Z"
+  },
+  "liuziyu77/valen": {
+    "first_seen": "2026-09-25T16:22:43.071Z",
+    "last_seen": "2026-09-25T16:22:43.071Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:43.071Z"
+  },
+  "kaolti/phantomat": {
+    "first_seen": "2026-09-25T16:22:43.690Z",
+    "last_seen": "2026-09-25T16:22:43.690Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:43.690Z"
+  },
+  "togethercomputer/tev1": {
+    "first_seen": "2026-09-25T16:22:44.316Z",
+    "last_seen": "2026-09-25T16:22:44.316Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:44.316Z"
+  },
+  "sunkeke-ai/life-compass-obsidian-cn": {
+    "first_seen": "2026-09-25T16:22:45.056Z",
+    "last_seen": "2026-09-25T16:22:45.056Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:45.056Z"
+  },
+  "diggerhq/shipvideo": {
+    "first_seen": "2026-09-25T16:22:45.698Z",
+    "last_seen": "2026-09-25T16:22:45.698Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:45.698Z"
+  },
+  "notprotonnot/notproton": {
+    "first_seen": "2026-09-25T16:22:46.367Z",
+    "last_seen": "2026-09-25T16:22:46.367Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:46.367Z"
+  },
+  "sopersone/cabbage-trading-machine": {
+    "first_seen": "2026-09-25T16:22:46.975Z",
+    "last_seen": "2026-09-25T16:22:46.975Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T16:22:46.975Z"
+  },
+  "bertaye/agentic-cuda-optimizer": {
+    "first_seen": "2026-09-25T16:22:47.342Z",
+    "last_seen": "2026-09-25T16:22:47.342Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-10-09T16:22:47.342Z"
+  },
+  "achempion/tlx": {
+    "first_seen": "2026-09-25T16:22:47.682Z",
+    "last_seen": "2026-09-25T16:22:47.682Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-09T16:22:47.682Z"
+  },
+  "and/sand-timer": {
+    "first_seen": "2026-09-25T16:22:48.064Z",
+    "last_seen": "2026-09-25T16:22:48.064Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-09T16:22:48.064Z"
+  },
+  "xatuke/herobrine": {
+    "first_seen": "2026-09-25T16:22:48.406Z",
+    "last_seen": "2026-09-25T16:22:48.406Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-09T16:22:48.406Z"
   }
 }
