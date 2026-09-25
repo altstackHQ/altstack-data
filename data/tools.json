@@ -2494,7 +2494,8 @@
     "website": "https://sentry.io",
     "description": "Developer-first error tracking and performance monitoring.",
     "alternatives": [
-      "glitchtip"
+      "glitchtip",
+      "telemetry-tracker"
     ],
     "logo_url": "/logos/sentry.svg",
     "avg_monthly_cost": 26,
@@ -2543,6 +2544,30 @@
       "agent": "sentinel",
       "timestamp": "2026-03-30T15:26:16.816Z"
     }
+  },
+  {
+    "slug": "telemetry-tracker",
+    "name": "Telemetry Tracker",
+    "category": "Monitoring",
+    "is_open_source": true,
+    "github_repo": "Telemetry-Tracker/telemetry-tracker",
+    "stars": 31,
+    "website": "https://telemetry-tracker.com",
+    "description": "Open-source error tracker for side projects and small teams, with grouped errors, source maps, releases and alerts.",
+    "pros": [
+      "Grouped errors with source map symbolication, releases and alerts",
+      "Also records events, sessions and Web Vitals",
+      "SDKs for Next.js, React, Vue, Nuxt, React Native, Node and NestJS",
+      "Self-host with a Fastify API, Next.js dashboard and PostgreSQL, or use the free hosted plan"
+    ],
+    "cons": [
+      "JavaScript/TypeScript SDKs only (no native iOS/Android, Flutter or non-JS SDKs)",
+      "Young project with a much smaller community than Sentry or GlitchTip"
+    ],
+    "last_commit": "2026-09-25T14:40:01Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=telemetry-tracker.com"
   },
   {
     "slug": "calendly",
