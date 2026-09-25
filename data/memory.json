@@ -70071,5 +70071,36 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-10-09T03:05:59.132Z"
+  },
+  "leter/zh-tech-writing": {
+    "first_seen": "2026-09-25T11:10:19.822Z",
+    "last_seen": "2026-09-25T11:10:19.822Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T11:10:19.804Z"
+  },
+  "max-russo-com/max_authorization_sandbox": {
+    "first_seen": "2026-09-25T11:10:20.174Z",
+    "last_seen": "2026-09-25T11:10:20.174Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-09T11:10:20.174Z"
+  },
+  "sumant1122/knowledge-signal": {
+    "first_seen": "2026-09-25T11:10:20.418Z",
+    "last_seen": "2026-09-25T11:10:20.418Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
   }
 }
