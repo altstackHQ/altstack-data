@@ -69948,5 +69948,128 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-08T21:04:58.781Z"
+  },
+  "yukitorido/short-video-generator-ai": {
+    "first_seen": "2026-09-25T03:05:52.948Z",
+    "last_seen": "2026-09-25T03:05:52.948Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:52.929Z"
+  },
+  "tobi/disktree": {
+    "first_seen": "2026-09-25T03:05:53.515Z",
+    "last_seen": "2026-09-25T03:05:53.515Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:53.515Z"
+  },
+  "cosmicchibattle/zeroclaw-ui": {
+    "first_seen": "2026-09-25T03:05:54.761Z",
+    "last_seen": "2026-09-25T03:05:54.761Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:54.761Z"
+  },
+  "johnheibel/claudeanimationbase": {
+    "first_seen": "2026-09-25T03:05:55.320Z",
+    "last_seen": "2026-09-25T03:05:55.320Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:55.320Z"
+  },
+  "bridgedruidcompress/moon-fruityloops26-fileparser": {
+    "first_seen": "2026-09-25T03:05:55.874Z",
+    "last_seen": "2026-09-25T03:05:55.874Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:55.874Z"
+  },
+  "luketheneuromancer/system-design-notes-zh": {
+    "first_seen": "2026-09-25T03:05:56.436Z",
+    "last_seen": "2026-09-25T03:05:56.436Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:56.436Z"
+  },
+  "yu1745/wetype-ime-linux": {
+    "first_seen": "2026-09-25T03:05:56.991Z",
+    "last_seen": "2026-09-25T03:05:56.991Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:56.991Z"
+  },
+  "bridge-mind/bridgeclip": {
+    "first_seen": "2026-09-25T03:05:57.588Z",
+    "last_seen": "2026-09-25T03:05:57.588Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:57.588Z"
+  },
+  "jankeesvw/omarchy-meeting-recorder": {
+    "first_seen": "2026-09-25T03:05:58.178Z",
+    "last_seen": "2026-09-25T03:05:58.178Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-02T03:05:58.178Z"
+  },
+  "aurorainfra/grev": {
+    "first_seen": "2026-09-25T03:05:58.489Z",
+    "last_seen": "2026-09-25T03:05:58.489Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-09T03:05:58.489Z"
+  },
+  "inlevel9-com/vons": {
+    "first_seen": "2026-09-25T03:05:58.817Z",
+    "last_seen": "2026-09-25T03:05:58.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-09T03:05:58.817Z"
+  },
+  "akramovic1/jev-pilot": {
+    "first_seen": "2026-09-25T03:05:59.132Z",
+    "last_seen": "2026-09-25T03:05:59.132Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-09T03:05:59.132Z"
   }
 }
