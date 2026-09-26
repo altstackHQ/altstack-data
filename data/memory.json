@@ -70594,5 +70594,101 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-10-10T10:42:13.632Z"
+  },
+  "niko1221/strata": {
+    "first_seen": "2026-09-26T15:37:00.161Z",
+    "last_seen": "2026-09-26T15:37:00.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T15:37:00.139Z"
+  },
+  "mysticgsi/mysticgsi": {
+    "first_seen": "2026-09-26T15:37:00.881Z",
+    "last_seen": "2026-09-26T15:37:00.881Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T15:37:00.881Z"
+  },
+  "athemeroy/awesome-opus-5-5-videos": {
+    "first_seen": "2026-09-26T15:37:01.213Z",
+    "last_seen": "2026-09-26T15:37:01.213Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC-BY-4.0",
+    "cooldown_until": "2026-10-26T15:37:01.213Z"
+  },
+  "tugrawork-creator/saas-motion-kit": {
+    "first_seen": "2026-09-26T15:37:01.810Z",
+    "last_seen": "2026-09-26T15:37:01.810Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T15:37:01.810Z"
+  },
+  "samarkandiy/ollaya-web-ui": {
+    "first_seen": "2026-09-26T15:37:02.193Z",
+    "last_seen": "2026-09-26T15:37:02.193Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-10T15:37:02.193Z"
+  },
+  "maximilianfeix/proxy-scraper": {
+    "first_seen": "2026-09-26T15:37:02.508Z",
+    "last_seen": "2026-09-26T15:37:02.508Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-10T15:37:02.508Z"
+  },
+  "kiritbasu/causal-analyst": {
+    "first_seen": "2026-09-26T15:37:02.877Z",
+    "last_seen": "2026-09-26T15:37:02.877Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-10T15:37:02.877Z"
+  },
+  "backtrackco/tenjin-agent": {
+    "first_seen": "2026-09-26T15:37:03.217Z",
+    "last_seen": "2026-09-26T15:37:03.217Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-10-10T15:37:03.217Z"
+  },
+  "ihatemyfcklife/onionguard": {
+    "first_seen": "2026-09-26T15:37:03.566Z",
+    "last_seen": "2026-09-26T15:37:03.566Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-10T15:37:03.566Z"
   }
 }
