@@ -70490,5 +70490,109 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-10T03:09:33.551Z"
+  },
+  "supermemoryai/company-brain": {
+    "first_seen": "2026-09-26T10:42:09.602Z",
+    "last_seen": "2026-09-26T10:42:09.602Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T10:42:09.584Z"
+  },
+  "roberto02800/turnstile-token": {
+    "first_seen": "2026-09-26T10:42:10.555Z",
+    "last_seen": "2026-09-26T10:42:10.555Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T10:42:10.555Z"
+  },
+  "amirmushichge/unreal-home-wizard": {
+    "first_seen": "2026-09-26T10:42:11.038Z",
+    "last_seen": "2026-09-26T10:42:11.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T10:42:11.038Z"
+  },
+  "yuedizhibo/mhi2q-carplay-altscreen": {
+    "first_seen": "2026-09-26T10:42:11.512Z",
+    "last_seen": "2026-09-26T10:42:11.512Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T10:42:11.512Z"
+  },
+  "yuta-fywoo/jev-gui-delegate": {
+    "first_seen": "2026-09-26T10:42:11.941Z",
+    "last_seen": "2026-09-26T10:42:11.941Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T10:42:11.941Z"
+  },
+  "roywiggins/jevlang": {
+    "first_seen": "2026-09-26T10:42:12.312Z",
+    "last_seen": "2026-09-26T10:42:12.312Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-10T10:42:12.312Z"
+  },
+  "strahinjastojanovic826-code/organic_os": {
+    "first_seen": "2026-09-26T10:42:12.604Z",
+    "last_seen": "2026-09-26T10:42:12.604Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-10T10:42:12.604Z"
+  },
+  "kaifczxc-lab/pysimplicial": {
+    "first_seen": "2026-09-26T10:42:12.887Z",
+    "last_seen": "2026-09-26T10:42:12.887Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-10T10:42:12.887Z"
+  },
+  "kanryu/hike-lang": {
+    "first_seen": "2026-09-26T10:42:13.329Z",
+    "last_seen": "2026-09-26T10:42:13.329Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T10:42:13.329Z"
+  },
+  "sfmqrb/gutcheck": {
+    "first_seen": "2026-09-26T10:42:13.632Z",
+    "last_seen": "2026-09-26T10:42:13.632Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-10T10:42:13.632Z"
   }
 }
