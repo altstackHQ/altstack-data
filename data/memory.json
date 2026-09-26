@@ -64444,14 +64444,14 @@
   },
   "carlos-menezes/srvquery": {
     "first_seen": "2026-09-12T14:53:20.625Z",
-    "last_seen": "2026-09-12T14:53:20.625Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-26T20:35:06.605Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 0,
-    "cooldown_until": "2026-09-26T14:53:20.625Z"
+    "stars": 1,
+    "cooldown_until": "2026-10-10T20:35:06.605Z"
   },
   "famasya/portspan": {
     "first_seen": "2026-09-12T14:53:20.976Z",
@@ -70690,5 +70690,141 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-10-10T15:37:03.566Z"
+  },
+  "feitangyuan/onetake": {
+    "first_seen": "2026-09-26T20:35:02.521Z",
+    "last_seen": "2026-09-26T20:35:02.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T20:35:02.505Z"
+  },
+  "heyokay/halobattery": {
+    "first_seen": "2026-09-26T20:35:03.405Z",
+    "last_seen": "2026-09-26T20:35:03.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T20:35:03.405Z"
+  },
+  "rieranthony/product-film-skill": {
+    "first_seen": "2026-09-26T20:35:03.850Z",
+    "last_seen": "2026-09-26T20:35:03.850Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T20:35:03.850Z"
+  },
+  "jaydendavisnc/inkwave": {
+    "first_seen": "2026-09-26T20:35:04.284Z",
+    "last_seen": "2026-09-26T20:35:04.284Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T20:35:04.284Z"
+  },
+  "brumar/chess-postmortem-skills": {
+    "first_seen": "2026-09-26T20:35:04.709Z",
+    "last_seen": "2026-09-26T20:35:04.709Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T20:35:04.709Z"
+  },
+  "reladraw/reladraw": {
+    "first_seen": "2026-09-26T20:35:05.161Z",
+    "last_seen": "2026-09-26T20:35:05.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-03T20:35:05.161Z"
+  },
+  "xeonax/blender-copilot": {
+    "first_seen": "2026-09-26T20:35:05.489Z",
+    "last_seen": "2026-09-26T20:35:05.489Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-10T20:35:05.489Z"
+  },
+  "fireside25a-beep/cocytus": {
+    "first_seen": "2026-09-26T20:35:05.795Z",
+    "last_seen": "2026-09-26T20:35:05.795Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-10T20:35:05.795Z"
+  },
+  "nicobrenner/056a5aaff5d0119c0032ecdad5029557": {
+    "first_seen": "2026-09-26T20:35:06.004Z",
+    "last_seen": "2026-09-26T20:35:06.004Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "stormj-uh/spivak-lean": {
+    "first_seen": "2026-09-26T20:35:06.299Z",
+    "last_seen": "2026-09-26T20:35:06.299Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-10T20:35:06.299Z"
+  },
+  "marciob/waitwise": {
+    "first_seen": "2026-09-26T20:35:06.884Z",
+    "last_seen": "2026-09-26T20:35:06.884Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-10T20:35:06.884Z"
+  },
+  "partysun/jigor": {
+    "first_seen": "2026-09-26T20:35:07.174Z",
+    "last_seen": "2026-09-26T20:35:07.174Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-10T20:35:07.174Z"
+  },
+  "ltrgoddard/duckdb.mk": {
+    "first_seen": "2026-09-26T20:35:07.477Z",
+    "last_seen": "2026-09-26T20:35:07.477Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-10T20:35:07.477Z"
   }
 }
