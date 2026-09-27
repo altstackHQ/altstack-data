@@ -70775,8 +70775,8 @@
   },
   "nicobrenner/056a5aaff5d0119c0032ecdad5029557": {
     "first_seen": "2026-09-26T20:35:06.004Z",
-    "last_seen": "2026-09-27T11:15:43.550Z",
-    "times_seen": 3,
+    "last_seen": "2026-09-27T16:16:35.212Z",
+    "times_seen": 4,
     "sources": [
       "hackernews"
     ],
@@ -70982,5 +70982,46 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-11T11:15:45.382Z"
+  },
+  "yihui-dev/awesome-opus5-5-videos": {
+    "first_seen": "2026-09-27T16:16:32.783Z",
+    "last_seen": "2026-09-27T16:16:32.783Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T16:16:32.765Z"
+  },
+  "xikhar/spiderbench": {
+    "first_seen": "2026-09-27T16:16:34.139Z",
+    "last_seen": "2026-09-27T16:16:34.139Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T16:16:34.139Z"
+  },
+  "admte/orc-claude-plugin": {
+    "first_seen": "2026-09-27T16:16:35.017Z",
+    "last_seen": "2026-09-27T16:16:35.017Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T16:16:35.017Z"
+  },
+  "trahloff/aldine": {
+    "first_seen": "2026-09-27T16:16:35.534Z",
+    "last_seen": "2026-09-27T16:16:35.534Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-10-11T16:16:35.534Z"
   }
 }
