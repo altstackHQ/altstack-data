@@ -42034,14 +42034,14 @@
   },
   "embedcatalog/embedcatalog": {
     "first_seen": "2026-07-23T13:46:07.128Z",
-    "last_seen": "2026-07-23T13:46:07.128Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-27T03:16:14.796Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
-    "stars": 4,
-    "cooldown_until": "2026-08-06T13:46:07.128Z"
+    "stars": 9,
+    "cooldown_until": "2026-10-11T03:16:14.796Z"
   },
   "role1776/netmon": {
     "first_seen": "2026-07-23T19:08:07.731Z",
@@ -70775,8 +70775,8 @@
   },
   "nicobrenner/056a5aaff5d0119c0032ecdad5029557": {
     "first_seen": "2026-09-26T20:35:06.004Z",
-    "last_seen": "2026-09-26T20:35:06.004Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-27T03:16:13.734Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
@@ -70826,5 +70826,97 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-10T20:35:07.477Z"
+  },
+  "markxplorer969/profile": {
+    "first_seen": "2026-09-27T03:16:07.833Z",
+    "last_seen": "2026-09-27T03:16:07.833Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T03:16:07.817Z"
+  },
+  "dzhng/jevgrep": {
+    "first_seen": "2026-09-27T03:16:08.449Z",
+    "last_seen": "2026-09-27T03:16:08.449Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T03:16:08.449Z"
+  },
+  "lemomo-ai/lemo-opuscar": {
+    "first_seen": "2026-09-27T03:16:09.661Z",
+    "last_seen": "2026-09-27T03:16:09.661Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T03:16:09.661Z"
+  },
+  "pingwin010/tiktok-views-bot": {
+    "first_seen": "2026-09-27T03:16:10.952Z",
+    "last_seen": "2026-09-27T03:16:10.952Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T03:16:10.952Z"
+  },
+  "barty-bart/motion-graphics": {
+    "first_seen": "2026-09-27T03:16:11.694Z",
+    "last_seen": "2026-09-27T03:16:11.694Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T03:16:11.694Z"
+  },
+  "avinash201199/system-design-kit": {
+    "first_seen": "2026-09-27T03:16:12.897Z",
+    "last_seen": "2026-09-27T03:16:12.897Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T03:16:12.897Z"
+  },
+  "christianmat/jev-pokemon": {
+    "first_seen": "2026-09-27T03:16:13.490Z",
+    "last_seen": "2026-09-27T03:16:13.490Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T03:16:13.490Z"
+  },
+  "willswire/swift-newt": {
+    "first_seen": "2026-09-27T03:16:14.093Z",
+    "last_seen": "2026-09-27T03:16:14.093Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-11T03:16:14.093Z"
+  },
+  "arpwal/leftovers": {
+    "first_seen": "2026-09-27T03:16:14.442Z",
+    "last_seen": "2026-09-27T03:16:14.442Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-11T03:16:14.442Z"
   }
 }
