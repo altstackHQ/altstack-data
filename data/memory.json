@@ -70775,8 +70775,8 @@
   },
   "nicobrenner/056a5aaff5d0119c0032ecdad5029557": {
     "first_seen": "2026-09-26T20:35:06.004Z",
-    "last_seen": "2026-09-27T03:16:13.734Z",
-    "times_seen": 2,
+    "last_seen": "2026-09-27T11:15:43.550Z",
+    "times_seen": 3,
     "sources": [
       "hackernews"
     ],
@@ -70918,5 +70918,69 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-10-11T03:16:14.442Z"
+  },
+  "gulelmatthews/polymarket-perpetual-bot": {
+    "first_seen": "2026-09-27T11:15:40.730Z",
+    "last_seen": "2026-09-27T11:15:40.730Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T11:15:40.715Z"
+  },
+  "kaankiziltug/logo-design-skill": {
+    "first_seen": "2026-09-27T11:15:42.038Z",
+    "last_seen": "2026-09-27T11:15:42.038Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-04T11:15:42.038Z"
+  },
+  "vbs2004/jev-windows-agent": {
+    "first_seen": "2026-09-27T11:15:43.929Z",
+    "last_seen": "2026-09-27T11:15:43.929Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-11T11:15:43.928Z"
+  },
+  "bykof/peekaboolean": {
+    "first_seen": "2026-09-27T11:15:44.719Z",
+    "last_seen": "2026-09-27T11:15:44.719Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-11T11:15:44.719Z"
+  },
+  "ceruleane/gpusched": {
+    "first_seen": "2026-09-27T11:15:45.035Z",
+    "last_seen": "2026-09-27T11:15:45.035Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-11T11:15:45.035Z"
+  },
+  "ceedot-rock/exactodds": {
+    "first_seen": "2026-09-27T11:15:45.382Z",
+    "last_seen": "2026-09-27T11:15:45.382Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-11T11:15:45.382Z"
   }
 }
