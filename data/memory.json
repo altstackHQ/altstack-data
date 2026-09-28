@@ -71419,5 +71419,144 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-12T12:43:15.868Z"
+  },
+  "tileshoutdipper/discord-booster-server": {
+    "first_seen": "2026-09-28T22:53:46.555Z",
+    "last_seen": "2026-09-28T22:53:46.555Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T22:53:46.537Z"
+  },
+  "ucashier/ucashier-usdt-payment": {
+    "first_seen": "2026-09-28T22:53:47.033Z",
+    "last_seen": "2026-09-28T22:53:47.033Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T22:53:47.033Z"
+  },
+  "joasasantos/offensive-security-ai-models": {
+    "first_seen": "2026-09-28T22:53:47.940Z",
+    "last_seen": "2026-09-28T22:53:47.940Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T22:53:47.940Z"
+  },
+  "firelex/jeff": {
+    "first_seen": "2026-09-28T22:53:49.341Z",
+    "last_seen": "2026-09-28T22:53:49.341Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T22:53:49.340Z"
+  },
+  "geneva-render/geneva": {
+    "first_seen": "2026-09-28T22:53:49.656Z",
+    "last_seen": "2026-09-28T22:53:49.656Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-12T22:53:49.656Z"
+  },
+  "pragmatwice/jeva.cpp": {
+    "first_seen": "2026-09-28T22:53:49.932Z",
+    "last_seen": "2026-09-28T22:53:49.932Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-12T22:53:49.932Z"
+  },
+  "motif-labs/motif": {
+    "first_seen": "2026-09-28T22:53:50.246Z",
+    "last_seen": "2026-09-28T22:53:50.246Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-10-12T22:53:50.246Z"
+  },
+  "fabianboth/jevpipe": {
+    "first_seen": "2026-09-28T22:53:50.516Z",
+    "last_seen": "2026-09-28T22:53:50.516Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-12T22:53:50.516Z"
+  },
+  "pjhkorea/time-density-tension": {
+    "first_seen": "2026-09-28T22:53:50.801Z",
+    "last_seen": "2026-09-28T22:53:50.801Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-12T22:53:50.801Z"
+  },
+  "danielochoa94/libreta": {
+    "first_seen": "2026-09-28T22:53:51.105Z",
+    "last_seen": "2026-09-28T22:53:51.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-12T22:53:51.105Z"
+  },
+  "abhiraj-ku/icli": {
+    "first_seen": "2026-09-28T22:53:51.403Z",
+    "last_seen": "2026-09-28T22:53:51.403Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-12T22:53:51.403Z"
+  },
+  "noclickapp/noclick": {
+    "first_seen": "2026-09-28T22:53:51.729Z",
+    "last_seen": "2026-09-28T22:53:51.729Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-10-12T22:53:51.729Z"
+  },
+  "ankurces/mahout": {
+    "first_seen": "2026-09-28T22:53:51.999Z",
+    "last_seen": "2026-09-28T22:53:51.999Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-12T22:53:51.999Z"
   }
 }
