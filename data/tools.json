@@ -277,7 +277,8 @@
     "description": "Issue tracking and project management tool.",
     "alternatives": [
       "plane",
-      "taiga"
+      "taiga",
+      "orbit"
     ],
     "logo_url": "/logos/jira.svg",
     "pros": [
@@ -4987,5 +4988,27 @@
     "license": "Apache-2.0",
     "github_repo": "simstudioai/sim",
     "stars": 29478
+  },
+  {
+    "slug": "orbit",
+    "name": "Orbit by Noveum",
+    "category": "Project Management",
+    "is_open_source": true,
+    "github_repo": "Noveum/orbit",
+    "pricing_model": "Free Hosted / Free Self-Hosted",
+    "avg_monthly_cost": 0,
+    "website": "https://orbit.noveum.ai",
+    "description": "Realtime task management for people and AI agents, with issues, projects, sprints, collaborative docs and a hosted OAuth MCP endpoint.",
+    "license": "Apache-2.0",
+    "language": "TypeScript",
+    "pros": [
+      "Free hosted service with no per-seat fees",
+      "Open-source code and Docker self-hosting",
+      "Workspace-scoped OAuth MCP at https://orbit.noveum.ai/mcp"
+    ],
+    "cons": [
+      "Self-hosting requires PostgreSQL, Redis, object storage and separate realtime services",
+      "Some integrations require external provider credentials"
+    ]
   }
 ]
