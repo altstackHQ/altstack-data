@@ -64098,14 +64098,14 @@
   },
   "5tn1rczrs79vaefuucrb/mcpersist": {
     "first_seen": "2026-09-11T15:45:09.783Z",
-    "last_seen": "2026-09-11T15:45:09.783Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-28T03:12:54.728Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "low_stars",
     "stars": 4,
-    "cooldown_until": "2026-09-25T15:45:09.783Z"
+    "cooldown_until": "2026-10-12T03:12:54.728Z"
   },
   "arastey/lunel": {
     "first_seen": "2026-09-11T20:22:34.645Z",
@@ -71099,5 +71099,209 @@
     "reason": "low_stars",
     "stars": 7,
     "cooldown_until": "2026-10-11T20:45:33.409Z"
+  },
+  "agentsystemlabs/agent-office": {
+    "first_seen": "2026-09-28T03:12:46.804Z",
+    "last_seen": "2026-09-28T03:12:46.804Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:46.786Z"
+  },
+  "joinartisanvent/x-scraper-no-api": {
+    "first_seen": "2026-09-28T03:12:47.273Z",
+    "last_seen": "2026-09-28T03:12:47.273Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:47.273Z"
+  },
+  "sciaschi/cbfd-recompiled": {
+    "first_seen": "2026-09-28T03:12:47.765Z",
+    "last_seen": "2026-09-28T03:12:47.765Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:47.765Z"
+  },
+  "scottiefox/caustic-volume": {
+    "first_seen": "2026-09-28T03:12:48.179Z",
+    "last_seen": "2026-09-28T03:12:48.179Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:48.179Z"
+  },
+  "yasinozmeen/animasyon-stil-katalogu": {
+    "first_seen": "2026-09-28T03:12:49.090Z",
+    "last_seen": "2026-09-28T03:12:49.090Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:49.090Z"
+  },
+  "pch/rawmakase": {
+    "first_seen": "2026-09-28T03:12:49.587Z",
+    "last_seen": "2026-09-28T03:12:49.587Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:49.587Z"
+  },
+  "breakstageaxe61/genspark-claw": {
+    "first_seen": "2026-09-28T03:12:50.007Z",
+    "last_seen": "2026-09-28T03:12:50.007Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:50.007Z"
+  },
+  "appllama/liquid-glass-chat-ui": {
+    "first_seen": "2026-09-28T03:12:50.434Z",
+    "last_seen": "2026-09-28T03:12:50.434Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:50.434Z"
+  },
+  "graygnatconsole/mcp-audit-tool": {
+    "first_seen": "2026-09-28T03:12:50.817Z",
+    "last_seen": "2026-09-28T03:12:50.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:50.817Z"
+  },
+  "aaddrick/building-with-typesafe-jev": {
+    "first_seen": "2026-09-28T03:12:51.201Z",
+    "last_seen": "2026-09-28T03:12:51.201Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:51.201Z"
+  },
+  "dagowda/notrdp": {
+    "first_seen": "2026-09-28T03:12:51.644Z",
+    "last_seen": "2026-09-28T03:12:51.644Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:51.644Z"
+  },
+  "emir/claude-s40": {
+    "first_seen": "2026-09-28T03:12:52.089Z",
+    "last_seen": "2026-09-28T03:12:52.089Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:52.089Z"
+  },
+  "caomod2077/deobfuscator-luraph-v15": {
+    "first_seen": "2026-09-28T03:12:52.500Z",
+    "last_seen": "2026-09-28T03:12:52.500Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:52.500Z"
+  },
+  "leonxlnx/claude-launchvideo": {
+    "first_seen": "2026-09-28T03:12:52.919Z",
+    "last_seen": "2026-09-28T03:12:52.919Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:52.918Z"
+  },
+  "samgu-nrx/basescanner": {
+    "first_seen": "2026-09-28T03:12:53.381Z",
+    "last_seen": "2026-09-28T03:12:53.381Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:53.381Z"
+  },
+  "deejanuz/frametop": {
+    "first_seen": "2026-09-28T03:12:53.817Z",
+    "last_seen": "2026-09-28T03:12:53.817Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-05T03:12:53.817Z"
+  },
+  "colton-z/astrabox": {
+    "first_seen": "2026-09-28T03:12:54.128Z",
+    "last_seen": "2026-09-28T03:12:54.128Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-10-12T03:12:54.128Z"
+  },
+  "borisreitman/browser-session-ctl": {
+    "first_seen": "2026-09-28T03:12:54.444Z",
+    "last_seen": "2026-09-28T03:12:54.444Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-12T03:12:54.444Z"
+  },
+  "chaarangan/stepgate": {
+    "first_seen": "2026-09-28T03:12:55.014Z",
+    "last_seen": "2026-09-28T03:12:55.014Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-12T03:12:55.014Z"
+  },
+  "btahir/shotcandy": {
+    "first_seen": "2026-09-28T03:12:55.369Z",
+    "last_seen": "2026-09-28T03:12:55.369Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-10-12T03:12:55.369Z"
   }
 }
