@@ -13896,14 +13896,14 @@
   },
   "kouhxp/textsnap": {
     "first_seen": "2026-05-24T19:17:58.609Z",
-    "last_seen": "2026-05-24T19:17:58.609Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-29T17:58:03.788Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
-    "reason": "low_stars",
+    "reason": "no_docker",
     "stars": 7,
-    "cooldown_until": "2026-06-07T19:17:58.609Z"
+    "cooldown_until": "2026-10-06T17:58:03.788Z"
   },
   "aloth/cred-1": {
     "first_seen": "2026-05-24T19:17:58.870Z",
@@ -71845,12 +71845,114 @@
   },
   "impredicative/c04ede9dec6715f9a4fc6fbc0a4824f3": {
     "first_seen": "2026-09-29T12:10:35.435Z",
-    "last_seen": "2026-09-29T12:10:35.435Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-29T17:58:03.328Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
     "monologues": [],
     "status": "api_failed"
+  },
+  "posthog/jeeves": {
+    "first_seen": "2026-09-29T17:58:00.187Z",
+    "last_seen": "2026-09-29T17:58:00.187Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:00.170Z"
+  },
+  "grmchn/dopa-drill": {
+    "first_seen": "2026-09-29T17:58:00.680Z",
+    "last_seen": "2026-09-29T17:58:00.680Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:00.680Z"
+  },
+  "treapgogo/deepseek-whale-girl": {
+    "first_seen": "2026-09-29T17:58:01.128Z",
+    "last_seen": "2026-09-29T17:58:01.128Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:01.128Z"
+  },
+  "ng-native/ng-native": {
+    "first_seen": "2026-09-29T17:58:01.733Z",
+    "last_seen": "2026-09-29T17:58:01.733Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:01.733Z"
+  },
+  "ios-bundles/carriersim": {
+    "first_seen": "2026-09-29T17:58:02.206Z",
+    "last_seen": "2026-09-29T17:58:02.206Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:02.206Z"
+  },
+  "loriscomba97/publish-from-notion": {
+    "first_seen": "2026-09-29T17:58:03.057Z",
+    "last_seen": "2026-09-29T17:58:03.057Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-13T17:58:03.057Z"
+  },
+  "shamilatesoglu/actui": {
+    "first_seen": "2026-09-29T17:58:04.171Z",
+    "last_seen": "2026-09-29T17:58:04.171Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-13T17:58:04.171Z"
+  },
+  "stacklok/mecatl": {
+    "first_seen": "2026-09-29T17:58:04.747Z",
+    "last_seen": "2026-09-29T17:58:04.747Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:04.747Z"
+  },
+  "ivankovic/codediff": {
+    "first_seen": "2026-09-29T17:58:05.245Z",
+    "last_seen": "2026-09-29T17:58:05.245Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:05.245Z"
+  },
+  "nickelsec/bough": {
+    "first_seen": "2026-09-29T17:58:05.778Z",
+    "last_seen": "2026-09-29T17:58:05.778Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T17:58:05.778Z"
   }
 }
