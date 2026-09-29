@@ -41528,13 +41528,13 @@
   },
   "qbix/webserver": {
     "first_seen": "2026-07-22T08:20:24.180Z",
-    "last_seen": "2026-08-27T21:39:05.555Z",
-    "times_seen": 2,
+    "last_seen": "2026-09-29T22:02:20.206Z",
+    "times_seen": 3,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-03T21:39:05.555Z"
+    "cooldown_until": "2026-10-06T22:02:20.206Z"
   },
   "nanonets/ami": {
     "first_seen": "2026-07-22T08:20:25.460Z",
@@ -71845,8 +71845,8 @@
   },
   "impredicative/c04ede9dec6715f9a4fc6fbc0a4824f3": {
     "first_seen": "2026-09-29T12:10:35.435Z",
-    "last_seen": "2026-09-29T17:58:03.328Z",
-    "times_seen": 2,
+    "last_seen": "2026-09-29T22:02:19.320Z",
+    "times_seen": 3,
     "sources": [
       "hackernews"
     ],
@@ -71954,5 +71954,80 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-10-06T17:58:05.778Z"
+  },
+  "openai/mcp-extensions": {
+    "first_seen": "2026-09-29T22:02:16.644Z",
+    "last_seen": "2026-09-29T22:02:16.644Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T22:02:16.633Z"
+  },
+  "disler/ten-levels-of-jev": {
+    "first_seen": "2026-09-29T22:02:17.254Z",
+    "last_seen": "2026-09-29T22:02:17.254Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T22:02:17.254Z"
+  },
+  "lostmsu/turbogpt": {
+    "first_seen": "2026-09-29T22:02:18.233Z",
+    "last_seen": "2026-09-29T22:02:18.233Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 8,
+    "cooldown_until": "2026-10-13T22:02:18.233Z"
+  },
+  "yeet-src/agentcap": {
+    "first_seen": "2026-09-29T22:02:18.657Z",
+    "last_seen": "2026-09-29T22:02:18.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-13T22:02:18.657Z"
+  },
+  "1vecera/mluva": {
+    "first_seen": "2026-09-29T22:02:19.026Z",
+    "last_seen": "2026-09-29T22:02:19.026Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-13T22:02:19.026Z"
+  },
+  "csp911/routemind": {
+    "first_seen": "2026-09-29T22:02:20.637Z",
+    "last_seen": "2026-09-29T22:02:20.637Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-13T22:02:20.637Z"
+  },
+  "diggerhq/opendots": {
+    "first_seen": "2026-09-29T22:02:20.981Z",
+    "last_seen": "2026-09-29T22:02:20.981Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-13T22:02:20.981Z"
   }
 }
