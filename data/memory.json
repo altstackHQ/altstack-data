@@ -28614,13 +28614,13 @@
   },
   "lemma-work/lemma-platform": {
     "first_seen": "2026-06-25T02:48:03.301Z",
-    "last_seen": "2026-06-25T02:48:03.301Z",
-    "times_seen": 1,
+    "last_seen": "2026-09-29T12:10:34.242Z",
+    "times_seen": 2,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-07-02T02:48:03.301Z"
+    "cooldown_until": "2026-10-06T12:10:34.242Z"
   },
   "killernay/hearyourvoice": {
     "first_seen": "2026-06-25T02:48:03.739Z",
@@ -71751,5 +71751,106 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-13T03:51:05.957Z"
+  },
+  "wy51ai/floorplan-3d": {
+    "first_seen": "2026-09-29T12:10:30.249Z",
+    "last_seen": "2026-09-29T12:10:30.249Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:30.238Z"
+  },
+  "openjiuwen-ai/icode": {
+    "first_seen": "2026-09-29T12:10:30.820Z",
+    "last_seen": "2026-09-29T12:10:30.820Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:30.820Z"
+  },
+  "aicheye/supersidian": {
+    "first_seen": "2026-09-29T12:10:31.381Z",
+    "last_seen": "2026-09-29T12:10:31.381Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:31.381Z"
+  },
+  "ghentlesteve/dhis2-immunisation-audit": {
+    "first_seen": "2026-09-29T12:10:32.032Z",
+    "last_seen": "2026-09-29T12:10:32.032Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:32.032Z"
+  },
+  "ghentlesteve/wine-quality-svc-tuning": {
+    "first_seen": "2026-09-29T12:10:32.617Z",
+    "last_seen": "2026-09-29T12:10:32.617Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:32.617Z"
+  },
+  "iquestlab/iquest-q1": {
+    "first_seen": "2026-09-29T12:10:33.153Z",
+    "last_seen": "2026-09-29T12:10:33.153Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:33.153Z"
+  },
+  "shapegasenchant/delta-executor-roblox": {
+    "first_seen": "2026-09-29T12:10:33.715Z",
+    "last_seen": "2026-09-29T12:10:33.715Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:33.715Z"
+  },
+  "qualixar/jev-decision-layer": {
+    "first_seen": "2026-09-29T12:10:34.591Z",
+    "last_seen": "2026-09-29T12:10:34.591Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-13T12:10:34.591Z"
+  },
+  "supercmohq/supercmo-skills": {
+    "first_seen": "2026-09-29T12:10:35.182Z",
+    "last_seen": "2026-09-29T12:10:35.182Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T12:10:35.182Z"
+  },
+  "impredicative/c04ede9dec6715f9a4fc6fbc0a4824f3": {
+    "first_seen": "2026-09-29T12:10:35.435Z",
+    "last_seen": "2026-09-29T12:10:35.435Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
   }
 }
