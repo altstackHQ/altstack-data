@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-09-22T02:58:28.258Z",
-    "times_seen": 19,
+    "last_seen": "2026-09-29T03:50:56.798Z",
+    "times_seen": 20,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-29T02:58:28.242Z"
+    "cooldown_until": "2026-10-06T03:50:56.776Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -71558,5 +71558,198 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-12T22:53:51.999Z"
+  },
+  "fishstrap-launcher/fishstrap-roblox": {
+    "first_seen": "2026-09-29T03:50:57.692Z",
+    "last_seen": "2026-09-29T03:50:57.692Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:50:57.692Z"
+  },
+  "scarletkc/seiso": {
+    "first_seen": "2026-09-29T03:50:58.108Z",
+    "last_seen": "2026-09-29T03:50:58.108Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:50:58.108Z"
+  },
+  "secfathy/xss-specialist": {
+    "first_seen": "2026-09-29T03:50:58.554Z",
+    "last_seen": "2026-09-29T03:50:58.554Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:50:58.554Z"
+  },
+  "chasmlol/2010-rust-rewrite-mashup": {
+    "first_seen": "2026-09-29T03:50:58.955Z",
+    "last_seen": "2026-09-29T03:50:58.955Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:50:58.955Z"
+  },
+  "naiveai-labs/naive-n0.5-flash": {
+    "first_seen": "2026-09-29T03:50:59.493Z",
+    "last_seen": "2026-09-29T03:50:59.493Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:50:59.493Z"
+  },
+  "stevensnd/nfsmw-nx": {
+    "first_seen": "2026-09-29T03:50:59.867Z",
+    "last_seen": "2026-09-29T03:50:59.867Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:50:59.867Z"
+  },
+  "skylarkitchen/skills": {
+    "first_seen": "2026-09-29T03:51:00.254Z",
+    "last_seen": "2026-09-29T03:51:00.254Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:00.254Z"
+  },
+  "santtiago49/system-design-trainer": {
+    "first_seen": "2026-09-29T03:51:00.660Z",
+    "last_seen": "2026-09-29T03:51:00.660Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:00.660Z"
+  },
+  "twosevenonet/injectsetconsole": {
+    "first_seen": "2026-09-29T03:51:01.079Z",
+    "last_seen": "2026-09-29T03:51:01.079Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:01.079Z"
+  },
+  "joeseesun/opus-video-prompts": {
+    "first_seen": "2026-09-29T03:51:01.494Z",
+    "last_seen": "2026-09-29T03:51:01.494Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:01.494Z"
+  },
+  "louis-cfm/coucou": {
+    "first_seen": "2026-09-29T03:51:01.935Z",
+    "last_seen": "2026-09-29T03:51:01.935Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:01.935Z"
+  },
+  "lyuyiqi/open-jev-fast": {
+    "first_seen": "2026-09-29T03:51:03.288Z",
+    "last_seen": "2026-09-29T03:51:03.288Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:03.288Z"
+  },
+  "emmericp/d2r-3d": {
+    "first_seen": "2026-09-29T03:51:03.695Z",
+    "last_seen": "2026-09-29T03:51:03.695Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:03.695Z"
+  },
+  "echris6/motion-video-kit": {
+    "first_seen": "2026-09-29T03:51:04.161Z",
+    "last_seen": "2026-09-29T03:51:04.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:04.161Z"
+  },
+  "jtyurtwew/jtyurtwew": {
+    "first_seen": "2026-09-29T03:51:04.578Z",
+    "last_seen": "2026-09-29T03:51:04.578Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:04.578Z"
+  },
+  "maximerivest/tiny-classifiers": {
+    "first_seen": "2026-09-29T03:51:04.981Z",
+    "last_seen": "2026-09-29T03:51:04.981Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-06T03:51:04.981Z"
+  },
+  "rohanprichard/talktome": {
+    "first_seen": "2026-09-29T03:51:05.314Z",
+    "last_seen": "2026-09-29T03:51:05.314Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-13T03:51:05.314Z"
+  },
+  "reindent/jauvex": {
+    "first_seen": "2026-09-29T03:51:05.616Z",
+    "last_seen": "2026-09-29T03:51:05.616Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 4,
+    "cooldown_until": "2026-10-13T03:51:05.616Z"
+  },
+  "cardinal44/corral": {
+    "first_seen": "2026-09-29T03:51:05.957Z",
+    "last_seen": "2026-09-29T03:51:05.957Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-13T03:51:05.957Z"
   }
 }
