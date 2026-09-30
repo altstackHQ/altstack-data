@@ -72440,5 +72440,47 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-10-07T17:29:40.883Z"
+  },
+  "composio-community/open-dot": {
+    "first_seen": "2026-09-30T21:48:40.793Z",
+    "last_seen": "2026-09-30T21:48:40.793Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T21:48:40.776Z"
+  },
+  "edenfunf/reelmimic": {
+    "first_seen": "2026-09-30T21:48:41.310Z",
+    "last_seen": "2026-09-30T21:48:41.310Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T21:48:41.310Z"
+  },
+  "rulereceipt/rulereceipt": {
+    "first_seen": "2026-09-30T21:48:42.976Z",
+    "last_seen": "2026-09-30T21:48:42.976Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-14T21:48:42.975Z"
+  },
+  "zesuperaker/scratchcad": {
+    "first_seen": "2026-09-30T21:48:43.427Z",
+    "last_seen": "2026-09-30T21:48:43.427Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-14T21:48:43.427Z"
   }
 }
