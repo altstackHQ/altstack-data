@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-09-23T02:58:47.834Z",
-    "times_seen": 23,
+    "last_seen": "2026-09-30T03:39:26.666Z",
+    "times_seen": 24,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-09-30T02:58:47.815Z"
+    "cooldown_until": "2026-10-07T03:39:26.645Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -71845,8 +71845,8 @@
   },
   "impredicative/c04ede9dec6715f9a4fc6fbc0a4824f3": {
     "first_seen": "2026-09-29T12:10:35.435Z",
-    "last_seen": "2026-09-29T22:02:19.320Z",
-    "times_seen": 3,
+    "last_seen": "2026-09-30T03:39:38.608Z",
+    "times_seen": 4,
     "sources": [
       "hackernews"
     ],
@@ -72029,5 +72029,208 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-13T22:02:20.981Z"
+  },
+  "pinkoctopusdesign/discord-server-booster-nitro": {
+    "first_seen": "2026-09-30T03:39:29.987Z",
+    "last_seen": "2026-09-30T03:39:29.987Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:29.987Z"
+  },
+  "outsideglutweezers/discord-nitro-generator": {
+    "first_seen": "2026-09-30T03:39:30.440Z",
+    "last_seen": "2026-09-30T03:39:30.440Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:30.440Z"
+  },
+  "fulldiagnose/antigravity-fixer": {
+    "first_seen": "2026-09-30T03:39:30.903Z",
+    "last_seen": "2026-09-30T03:39:30.903Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:30.903Z"
+  },
+  "deepseek-ai/deepgemm-ascend": {
+    "first_seen": "2026-09-30T03:39:31.356Z",
+    "last_seen": "2026-09-30T03:39:31.356Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:31.356Z"
+  },
+  "miaai-lab/qwen3.8-flash-next-single-dgx-spark-tensorfold": {
+    "first_seen": "2026-09-30T03:39:31.801Z",
+    "last_seen": "2026-09-30T03:39:31.801Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:31.801Z"
+  },
+  "rishabhevans/twitch-aio": {
+    "first_seen": "2026-09-30T03:39:32.230Z",
+    "last_seen": "2026-09-30T03:39:32.230Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:32.230Z"
+  },
+  "milanm/aztree": {
+    "first_seen": "2026-09-30T03:39:32.649Z",
+    "last_seen": "2026-09-30T03:39:32.649Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:32.649Z"
+  },
+  "anctyenly453/abstract-algebra-promo": {
+    "first_seen": "2026-09-30T03:39:33.552Z",
+    "last_seen": "2026-09-30T03:39:33.552Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:33.552Z"
+  },
+  "kkokosa/heapspace": {
+    "first_seen": "2026-09-30T03:39:33.992Z",
+    "last_seen": "2026-09-30T03:39:33.992Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:33.992Z"
+  },
+  "deepseek-ai/deepep-ascend": {
+    "first_seen": "2026-09-30T03:39:34.394Z",
+    "last_seen": "2026-09-30T03:39:34.394Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:34.394Z"
+  },
+  "fsiaonma/elpis": {
+    "first_seen": "2026-09-30T03:39:34.802Z",
+    "last_seen": "2026-09-30T03:39:34.802Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:34.802Z"
+  },
+  "elmdodnirbrimoj9390-blip/hv": {
+    "first_seen": "2026-09-30T03:39:35.325Z",
+    "last_seen": "2026-09-30T03:39:35.325Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:35.325Z"
+  },
+  "elyosh/openxw": {
+    "first_seen": "2026-09-30T03:39:36.260Z",
+    "last_seen": "2026-09-30T03:39:36.260Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:36.260Z"
+  },
+  "tunaarikaya/magaza-mcp": {
+    "first_seen": "2026-09-30T03:39:36.683Z",
+    "last_seen": "2026-09-30T03:39:36.683Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:36.683Z"
+  },
+  "jayleaton/glm53-tensorfold-spark": {
+    "first_seen": "2026-09-30T03:39:37.058Z",
+    "last_seen": "2026-09-30T03:39:37.058Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:37.058Z"
+  },
+  "kathoc/nesterm": {
+    "first_seen": "2026-09-30T03:39:37.502Z",
+    "last_seen": "2026-09-30T03:39:37.502Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:37.502Z"
+  },
+  "spenmcke/compress": {
+    "first_seen": "2026-09-30T03:39:38.349Z",
+    "last_seen": "2026-09-30T03:39:38.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-07T03:39:38.349Z"
+  },
+  "yeet-src/omarchy-yeet-ai": {
+    "first_seen": "2026-09-30T03:39:38.905Z",
+    "last_seen": "2026-09-30T03:39:38.905Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-14T03:39:38.905Z"
+  },
+  "agodoy21/enigma-jev": {
+    "first_seen": "2026-09-30T03:39:39.207Z",
+    "last_seen": "2026-09-30T03:39:39.207Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-14T03:39:39.207Z"
+  },
+  "moching-ai-dev/moching": {
+    "first_seen": "2026-09-30T03:39:39.530Z",
+    "last_seen": "2026-09-30T03:39:39.530Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-10-14T03:39:39.530Z"
   }
 }
