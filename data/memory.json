@@ -72604,5 +72604,66 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-10-15T03:44:54.294Z"
+  },
+  "edwardxlai/easyread": {
+    "first_seen": "2026-10-01T12:18:15.142Z",
+    "last_seen": "2026-10-01T12:18:15.142Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T12:18:15.123Z"
+  },
+  "gild-org/gild-contract": {
+    "first_seen": "2026-10-01T12:18:16.215Z",
+    "last_seen": "2026-10-01T12:18:16.215Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T12:18:16.215Z"
+  },
+  "tomczhang/jinjiancheng-articles": {
+    "first_seen": "2026-10-01T12:18:17.385Z",
+    "last_seen": "2026-10-01T12:18:17.385Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T12:18:17.385Z"
+  },
+  "vectifyai/pageindex": {
+    "first_seen": "2026-10-01T12:18:18.029Z",
+    "last_seen": "2026-10-01T12:18:18.029Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T12:18:18.029Z"
+  },
+  "offlineisbetter/offlinedemo": {
+    "first_seen": "2026-10-01T12:18:18.358Z",
+    "last_seen": "2026-10-01T12:18:18.358Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-15T12:18:18.358Z"
+  },
+  "desbordante/desbordante-core": {
+    "first_seen": "2026-10-01T12:18:19.183Z",
+    "last_seen": "2026-10-01T12:18:19.183Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T12:18:19.183Z"
   }
 }
