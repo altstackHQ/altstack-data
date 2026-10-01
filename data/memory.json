@@ -72482,5 +72482,127 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-14T21:48:43.427Z"
+  },
+  "nanaism/yomiyasu": {
+    "first_seen": "2026-10-01T03:44:48.605Z",
+    "last_seen": "2026-10-01T03:44:48.605Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:48.586Z"
+  },
+  "chasmlol/skycraft": {
+    "first_seen": "2026-10-01T03:44:49.081Z",
+    "last_seen": "2026-10-01T03:44:49.081Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:49.081Z"
+  },
+  "blackbearreloaded/prosperoeden": {
+    "first_seen": "2026-10-01T03:44:49.571Z",
+    "last_seen": "2026-10-01T03:44:49.571Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:49.571Z"
+  },
+  "pengchujin/livecanvas": {
+    "first_seen": "2026-10-01T03:44:50.075Z",
+    "last_seen": "2026-10-01T03:44:50.075Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:50.075Z"
+  },
+  "chompi-club/chompi": {
+    "first_seen": "2026-10-01T03:44:51.161Z",
+    "last_seen": "2026-10-01T03:44:51.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:51.161Z"
+  },
+  "wenziai/wenzi-xhs-agent-skills": {
+    "first_seen": "2026-10-01T03:44:51.668Z",
+    "last_seen": "2026-10-01T03:44:51.668Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:51.668Z"
+  },
+  "jmedina21/deck-as-controller": {
+    "first_seen": "2026-10-01T03:44:52.161Z",
+    "last_seen": "2026-10-01T03:44:52.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:52.161Z"
+  },
+  "mlc-ai/tirx-harness": {
+    "first_seen": "2026-10-01T03:44:52.696Z",
+    "last_seen": "2026-10-01T03:44:52.696Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:52.696Z"
+  },
+  "1molchuan/edge-smart-doh": {
+    "first_seen": "2026-10-01T03:44:53.161Z",
+    "last_seen": "2026-10-01T03:44:53.161Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:53.161Z"
+  },
+  "huangbai-ai/one-prompt-video-skills": {
+    "first_seen": "2026-10-01T03:44:53.654Z",
+    "last_seen": "2026-10-01T03:44:53.654Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-08T03:44:53.654Z"
+  },
+  "sshah03/perspica": {
+    "first_seen": "2026-10-01T03:44:53.945Z",
+    "last_seen": "2026-10-01T03:44:53.945Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-10-15T03:44:53.945Z"
+  },
+  "tantrixauto/yantra": {
+    "first_seen": "2026-10-01T03:44:54.294Z",
+    "last_seen": "2026-10-01T03:44:54.294Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-15T03:44:54.294Z"
   }
 }
