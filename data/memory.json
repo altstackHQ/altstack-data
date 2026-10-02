@@ -72976,5 +72976,78 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-10-09T03:43:49.491Z"
+  },
+  "finna/project-manager-skill": {
+    "first_seen": "2026-10-02T11:46:35.140Z",
+    "last_seen": "2026-10-02T11:46:35.140Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T11:46:35.129Z"
+  },
+  "remocn/remocn-studio": {
+    "first_seen": "2026-10-02T11:46:35.793Z",
+    "last_seen": "2026-10-02T11:46:35.793Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T11:46:35.793Z"
+  },
+  "kvoltmer/audionaut": {
+    "first_seen": "2026-10-02T11:46:36.405Z",
+    "last_seen": "2026-10-02T11:46:36.405Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T11:46:36.405Z"
+  },
+  "phreshos/system": {
+    "first_seen": "2026-10-02T11:46:37.044Z",
+    "last_seen": "2026-10-02T11:46:37.044Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T11:46:37.044Z"
+  },
+  "tribgames/mixdog": {
+    "first_seen": "2026-10-02T11:46:37.364Z",
+    "last_seen": "2026-10-02T11:46:37.364Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 10,
+    "cooldown_until": "2026-10-16T11:46:37.364Z"
+  },
+  "wileai/pi-codex-connectors": {
+    "first_seen": "2026-10-02T11:46:37.735Z",
+    "last_seen": "2026-10-02T11:46:37.735Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-16T11:46:37.735Z"
+  },
+  "corruchaga/d-engine": {
+    "first_seen": "2026-10-02T11:46:38.065Z",
+    "last_seen": "2026-10-02T11:46:38.065Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-16T11:46:38.065Z"
   }
 }
