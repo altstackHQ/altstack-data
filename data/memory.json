@@ -72832,5 +72832,149 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-15T22:16:51.103Z"
+  },
+  "youcci/playport": {
+    "first_seen": "2026-10-02T03:43:42.531Z",
+    "last_seen": "2026-10-02T03:43:42.531Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:42.510Z"
+  },
+  "charlesfeng0314/jev_sees": {
+    "first_seen": "2026-10-02T03:43:43.175Z",
+    "last_seen": "2026-10-02T03:43:43.175Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:43.175Z"
+  },
+  "deepseek-ai/dsh-libreoffice-kit": {
+    "first_seen": "2026-10-02T03:43:43.749Z",
+    "last_seen": "2026-10-02T03:43:43.749Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:43.749Z"
+  },
+  "sanqianzilanyue/ai-voice-breath-kiss-water": {
+    "first_seen": "2026-10-02T03:43:44.335Z",
+    "last_seen": "2026-10-02T03:43:44.335Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:44.335Z"
+  },
+  "oil-oil/oil-ui": {
+    "first_seen": "2026-10-02T03:43:44.958Z",
+    "last_seen": "2026-10-02T03:43:44.958Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:44.958Z"
+  },
+  "bjarneo/100-themes": {
+    "first_seen": "2026-10-02T03:43:45.595Z",
+    "last_seen": "2026-10-02T03:43:45.595Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:45.595Z"
+  },
+  "minh141120/awesome-homelab": {
+    "first_seen": "2026-10-02T03:43:45.952Z",
+    "last_seen": "2026-10-02T03:43:45.952Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-11-01T03:43:45.952Z"
+  },
+  "lokutor-ai/oido": {
+    "first_seen": "2026-10-02T03:43:46.580Z",
+    "last_seen": "2026-10-02T03:43:46.580Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:46.580Z"
+  },
+  "bquantfinance/administracion-fuentes-publicas": {
+    "first_seen": "2026-10-02T03:43:46.919Z",
+    "last_seen": "2026-10-02T03:43:46.919Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-11-01T03:43:46.919Z"
+  },
+  "capcom-td-oss/redox": {
+    "first_seen": "2026-10-02T03:43:47.540Z",
+    "last_seen": "2026-10-02T03:43:47.540Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:47.540Z"
+  },
+  "kitao/pyxel": {
+    "first_seen": "2026-10-02T03:43:48.220Z",
+    "last_seen": "2026-10-02T03:43:48.220Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:48.220Z"
+  },
+  "albert-yu/visi": {
+    "first_seen": "2026-10-02T03:43:48.574Z",
+    "last_seen": "2026-10-02T03:43:48.574Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-16T03:43:48.574Z"
+  },
+  "yogthos/newsroom": {
+    "first_seen": "2026-10-02T03:43:48.931Z",
+    "last_seen": "2026-10-02T03:43:48.931Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-10-16T03:43:48.931Z"
+  },
+  "manavmishra/zeroslop": {
+    "first_seen": "2026-10-02T03:43:49.491Z",
+    "last_seen": "2026-10-02T03:43:49.491Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T03:43:49.491Z"
   }
 }
