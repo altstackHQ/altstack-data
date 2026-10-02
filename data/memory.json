@@ -73319,5 +73319,131 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-10-16T17:19:39.492Z"
+  },
+  "nuvexnetwork/nuvex-services": {
+    "first_seen": "2026-10-02T21:45:03.107Z",
+    "last_seen": "2026-10-02T21:45:03.107Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T21:45:03.090Z"
+  },
+  "bootloops-ai/bootloops": {
+    "first_seen": "2026-10-02T21:45:03.665Z",
+    "last_seen": "2026-10-02T21:45:03.665Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T21:45:03.665Z"
+  },
+  "idlerunner00/procedural-pixel-creatures": {
+    "first_seen": "2026-10-02T21:45:04.756Z",
+    "last_seen": "2026-10-02T21:45:04.756Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T21:45:04.756Z"
+  },
+  "facebookincubator/muse-gadget-sdk": {
+    "first_seen": "2026-10-02T21:45:05.271Z",
+    "last_seen": "2026-10-02T21:45:05.271Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T21:45:05.271Z"
+  },
+  "anteloc/ldraw-nova": {
+    "first_seen": "2026-10-02T21:45:05.790Z",
+    "last_seen": "2026-10-02T21:45:05.790Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T21:45:05.790Z"
+  },
+  "enkiruntime/enki": {
+    "first_seen": "2026-10-02T21:45:06.186Z",
+    "last_seen": "2026-10-02T21:45:06.186Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-16T21:45:06.186Z"
+  },
+  "jaynlabs/jaynshare": {
+    "first_seen": "2026-10-02T21:45:06.565Z",
+    "last_seen": "2026-10-02T21:45:06.565Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 14,
+    "cooldown_until": "2026-10-16T21:45:06.565Z"
+  },
+  "agenticenv/agent-sdk-go": {
+    "first_seen": "2026-10-02T21:45:07.130Z",
+    "last_seen": "2026-10-02T21:45:07.130Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-09T21:45:07.130Z"
+  },
+  "choyiny/gitorange": {
+    "first_seen": "2026-10-02T21:45:07.523Z",
+    "last_seen": "2026-10-02T21:45:07.523Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-10-16T21:45:07.523Z"
+  },
+  "dsadawq3/dynamictune": {
+    "first_seen": "2026-10-02T21:45:07.848Z",
+    "last_seen": "2026-10-02T21:45:07.848Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-16T21:45:07.848Z"
+  },
+  "titleunknown/spotlight-off": {
+    "first_seen": "2026-10-02T21:45:08.166Z",
+    "last_seen": "2026-10-02T21:45:08.166Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-10-16T21:45:08.166Z"
+  },
+  "jerichosiahaya/snip": {
+    "first_seen": "2026-10-02T21:45:08.479Z",
+    "last_seen": "2026-10-02T21:45:08.479Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-16T21:45:08.479Z"
   }
 }
