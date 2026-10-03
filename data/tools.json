@@ -4932,19 +4932,20 @@
     "is_open_source": true,
     "github_repo": "customermates/customermates",
     "website": "https://customermates.com",
-    "description": "Open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker.",
+    "description": "Open-core CRM with an AGPL-3.0-only core and separately licensed server components. Native MCP, REST, webhooks and a separate n8n community integration; self-hostable with Docker Compose.",
     "pros": [
-      "Native n8n workflow automation integration",
-      "Full Pipedrive feature parity",
-      "Self-hostable via Docker",
-      "Modern stack: TypeScript, Next.js, NestJS, PostgreSQL"
+      "MCP, REST and webhooks for CRM integrations",
+      "Separate n8n community integration",
+      "Self-hostable with Docker Compose",
+      "TypeScript, Next.js and PostgreSQL"
     ],
     "cons": [
-      "Early stage \u2014 small community",
-      "No mobile app yet"
+      "Early stage, small community",
+      "No native mobile app",
+      "Self-hosting excludes the hosted inbox and AI Assistant"
     ],
     "language": "TypeScript",
-    "license": "AGPL-3.0",
+    "license": "AGPL-3.0-only core; Customermates Commercial License for server components in ee/",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
   },
   {
