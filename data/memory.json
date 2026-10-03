@@ -73743,8 +73743,8 @@
   },
   "uos-sh/uos": {
     "first_seen": "2026-10-03T11:00:10.418Z",
-    "last_seen": "2026-10-03T11:00:10.418Z",
-    "times_seen": 1,
+    "last_seen": "2026-10-03T15:37:14.860Z",
+    "times_seen": 2,
     "sources": [
       "hackernews"
     ],
@@ -73761,5 +73761,89 @@
     "reason": "low_stars",
     "stars": 2,
     "cooldown_until": "2026-10-17T11:00:10.751Z"
+  },
+  "mizorewww/x_gift_bot": {
+    "first_seen": "2026-10-03T15:37:09.486Z",
+    "last_seen": "2026-10-03T15:37:09.486Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T15:37:09.471Z"
+  },
+  "whirlchat/whirl": {
+    "first_seen": "2026-10-03T15:37:10.137Z",
+    "last_seen": "2026-10-03T15:37:10.137Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T15:37:10.137Z"
+  },
+  "blendi-remade/agentcraft": {
+    "first_seen": "2026-10-03T15:37:12.217Z",
+    "last_seen": "2026-10-03T15:37:12.217Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T15:37:12.217Z"
+  },
+  "adityajha2005/yc-outreach": {
+    "first_seen": "2026-10-03T15:37:12.759Z",
+    "last_seen": "2026-10-03T15:37:12.759Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T15:37:12.759Z"
+  },
+  "ayenora/screen-loupe": {
+    "first_seen": "2026-10-03T15:37:13.895Z",
+    "last_seen": "2026-10-03T15:37:13.895Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-17T15:37:13.895Z"
+  },
+  "ncr/omarchy-p-bloom-theme": {
+    "first_seen": "2026-10-03T15:37:14.211Z",
+    "last_seen": "2026-10-03T15:37:14.211Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-17T15:37:14.211Z"
+  },
+  "ahmetomerv/photoc": {
+    "first_seen": "2026-10-03T15:37:14.546Z",
+    "last_seen": "2026-10-03T15:37:14.546Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-17T15:37:14.546Z"
+  },
+  "kyv-attest/kyv": {
+    "first_seen": "2026-10-03T15:37:15.179Z",
+    "last_seen": "2026-10-03T15:37:15.179Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-17T15:37:15.179Z"
   }
 }
