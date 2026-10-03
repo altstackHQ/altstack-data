@@ -73689,5 +73689,77 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-17T03:28:43.046Z"
+  },
+  "qingyuna/answer-me-with-html": {
+    "first_seen": "2026-10-03T11:00:06.978Z",
+    "last_seen": "2026-10-03T11:00:06.978Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T11:00:06.967Z"
+  },
+  "kodama-technology/chat_ui": {
+    "first_seen": "2026-10-03T11:00:07.542Z",
+    "last_seen": "2026-10-03T11:00:07.542Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T11:00:07.542Z"
+  },
+  "zoolapp/aime": {
+    "first_seen": "2026-10-03T11:00:08.676Z",
+    "last_seen": "2026-10-03T11:00:08.676Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T11:00:08.676Z"
+  },
+  "rbrown101010/bluey-by-riley": {
+    "first_seen": "2026-10-03T11:00:09.853Z",
+    "last_seen": "2026-10-03T11:00:09.853Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-10T11:00:09.853Z"
+  },
+  "hedgerow-dev/rowan": {
+    "first_seen": "2026-10-03T11:00:10.181Z",
+    "last_seen": "2026-10-03T11:00:10.181Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-17T11:00:10.181Z"
+  },
+  "uos-sh/uos": {
+    "first_seen": "2026-10-03T11:00:10.418Z",
+    "last_seen": "2026-10-03T11:00:10.418Z",
+    "times_seen": 1,
+    "sources": [
+      "hackernews"
+    ],
+    "monologues": [],
+    "status": "api_failed"
+  },
+  "aikitllc/nhtsa-edge-api": {
+    "first_seen": "2026-10-03T11:00:10.751Z",
+    "last_seen": "2026-10-03T11:00:10.751Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-17T11:00:10.751Z"
   }
 }
