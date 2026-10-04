@@ -74106,5 +74106,287 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-18T03:56:07.027Z"
+  },
+  "purpleproviderclip/windows-optimizer": {
+    "first_seen": "2026-10-04T11:42:44.059Z",
+    "last_seen": "2026-10-04T11:42:44.059Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:44.041Z"
+  },
+  "greensorcerershears/solidworks-cad": {
+    "first_seen": "2026-10-04T11:42:44.526Z",
+    "last_seen": "2026-10-04T11:42:44.526Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:44.526Z"
+  },
+  "screenevaluate/kms-pico": {
+    "first_seen": "2026-10-04T11:42:44.932Z",
+    "last_seen": "2026-10-04T11:42:44.932Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:44.932Z"
+  },
+  "ceilingmoreminisce/discord-server-raider": {
+    "first_seen": "2026-10-04T11:42:45.349Z",
+    "last_seen": "2026-10-04T11:42:45.349Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:45.349Z"
+  },
+  "bladesmansound/dvd-creator": {
+    "first_seen": "2026-10-04T11:42:45.712Z",
+    "last_seen": "2026-10-04T11:42:45.712Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:45.712Z"
+  },
+  "colonybiomancercall/startall-back": {
+    "first_seen": "2026-10-04T11:42:46.141Z",
+    "last_seen": "2026-10-04T11:42:46.141Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:46.141Z"
+  },
+  "sheikhsurvive/ads-blocker": {
+    "first_seen": "2026-10-04T11:42:46.512Z",
+    "last_seen": "2026-10-04T11:42:46.512Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:46.512Z"
+  },
+  "gatemultiply/adobe-after-effects": {
+    "first_seen": "2026-10-04T11:42:46.914Z",
+    "last_seen": "2026-10-04T11:42:46.914Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:46.914Z"
+  },
+  "laserlyagather/actual-multiplie-monitors": {
+    "first_seen": "2026-10-04T11:42:47.337Z",
+    "last_seen": "2026-10-04T11:42:47.337Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:47.337Z"
+  },
+  "meshtredominate/wondshare-recoverit": {
+    "first_seen": "2026-10-04T11:42:47.743Z",
+    "last_seen": "2026-10-04T11:42:47.743Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:47.743Z"
+  },
+  "caverndeckhand50/total-commander": {
+    "first_seen": "2026-10-04T11:42:48.203Z",
+    "last_seen": "2026-10-04T11:42:48.203Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:48.203Z"
+  },
+  "axeeradicate/fps-booster-for-windows": {
+    "first_seen": "2026-10-04T11:42:48.627Z",
+    "last_seen": "2026-10-04T11:42:48.627Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:48.627Z"
+  },
+  "consciousnessgrub/serato-dj-pro": {
+    "first_seen": "2026-10-04T11:42:49.028Z",
+    "last_seen": "2026-10-04T11:42:49.028Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:49.028Z"
+  },
+  "starassemblycutter/display-fusion": {
+    "first_seen": "2026-10-04T11:42:49.521Z",
+    "last_seen": "2026-10-04T11:42:49.521Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:49.521Z"
+  },
+  "inneruiarbor/iobit-driver-booster": {
+    "first_seen": "2026-10-04T11:42:49.906Z",
+    "last_seen": "2026-10-04T11:42:49.906Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:49.906Z"
+  },
+  "testingblast/cubase": {
+    "first_seen": "2026-10-04T11:42:50.305Z",
+    "last_seen": "2026-10-04T11:42:50.305Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:50.305Z"
+  },
+  "nadiraccountantflash/discord-server-cloner": {
+    "first_seen": "2026-10-04T11:42:50.740Z",
+    "last_seen": "2026-10-04T11:42:50.740Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:50.740Z"
+  },
+  "chaosjellyfish98/autodesk-inventor": {
+    "first_seen": "2026-10-04T11:42:51.214Z",
+    "last_seen": "2026-10-04T11:42:51.214Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:51.214Z"
+  },
+  "rivetwaycalculate/exitlag": {
+    "first_seen": "2026-10-04T11:42:51.636Z",
+    "last_seen": "2026-10-04T11:42:51.636Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:51.636Z"
+  },
+  "systemruminate86/better-discord": {
+    "first_seen": "2026-10-04T11:42:52.130Z",
+    "last_seen": "2026-10-04T11:42:52.130Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:52.130Z"
+  },
+  "diamondturkey66/discord-quest-completer": {
+    "first_seen": "2026-10-04T11:42:52.600Z",
+    "last_seen": "2026-10-04T11:42:52.600Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:52.600Z"
+  },
+  "apexpythonhost/canva-pro": {
+    "first_seen": "2026-10-04T11:42:53.082Z",
+    "last_seen": "2026-10-04T11:42:53.082Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:53.082Z"
+  },
+  "commanderwar/adobe-audition": {
+    "first_seen": "2026-10-04T11:42:53.503Z",
+    "last_seen": "2026-10-04T11:42:53.503Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:53.503Z"
+  },
+  "pegasusashcable/adobe-substance-3d": {
+    "first_seen": "2026-10-04T11:42:53.959Z",
+    "last_seen": "2026-10-04T11:42:53.959Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:53.959Z"
+  },
+  "oilbureaucrat94/adobe-indesign": {
+    "first_seen": "2026-10-04T11:42:54.374Z",
+    "last_seen": "2026-10-04T11:42:54.374Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:54.374Z"
+  },
+  "heartfledisplay/adobe-acrobat-pro": {
+    "first_seen": "2026-10-04T11:42:54.745Z",
+    "last_seen": "2026-10-04T11:42:54.745Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-11T11:42:54.745Z"
+  },
+  "allenv0/scm": {
+    "first_seen": "2026-10-04T11:42:55.065Z",
+    "last_seen": "2026-10-04T11:42:55.065Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 7,
+    "cooldown_until": "2026-10-18T11:42:55.065Z"
+  },
+  "solvi-ai/solvi": {
+    "first_seen": "2026-10-04T11:42:55.368Z",
+    "last_seen": "2026-10-04T11:42:55.368Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-18T11:42:55.368Z"
   }
 }
