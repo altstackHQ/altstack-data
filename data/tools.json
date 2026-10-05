@@ -277,8 +277,7 @@
     "description": "Issue tracking and project management tool.",
     "alternatives": [
       "plane",
-      "taiga",
-      "orbit"
+      "taiga"
     ],
     "logo_url": "/logos/jira.svg",
     "pros": [
@@ -2495,8 +2494,7 @@
     "website": "https://sentry.io",
     "description": "Developer-first error tracking and performance monitoring.",
     "alternatives": [
-      "glitchtip",
-      "telemetry-tracker"
+      "glitchtip"
     ],
     "logo_url": "/logos/sentry.svg",
     "avg_monthly_cost": 26,
@@ -2545,30 +2543,6 @@
       "agent": "sentinel",
       "timestamp": "2026-03-30T15:26:16.816Z"
     }
-  },
-  {
-    "slug": "telemetry-tracker",
-    "name": "Telemetry Tracker",
-    "category": "Monitoring",
-    "is_open_source": true,
-    "github_repo": "Telemetry-Tracker/telemetry-tracker",
-    "stars": 31,
-    "website": "https://telemetry-tracker.com",
-    "description": "Open-source error tracker for side projects and small teams, with grouped errors, source maps, releases and alerts.",
-    "pros": [
-      "Grouped errors with source map symbolication, releases and alerts",
-      "Also records events, sessions and Web Vitals",
-      "SDKs for Next.js, React, Vue, Nuxt, React Native, Node and NestJS",
-      "Self-host with a Fastify API, Next.js dashboard and PostgreSQL, or use the free hosted plan"
-    ],
-    "cons": [
-      "JavaScript/TypeScript SDKs only (no native iOS/Android, Flutter or non-JS SDKs)",
-      "Young project with a much smaller community than Sentry or GlitchTip"
-    ],
-    "last_commit": "2026-09-25T14:40:01Z",
-    "language": "TypeScript",
-    "license": "MIT",
-    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=telemetry-tracker.com"
   },
   {
     "slug": "calendly",
@@ -4958,20 +4932,19 @@
     "is_open_source": true,
     "github_repo": "customermates/customermates",
     "website": "https://customermates.com",
-    "description": "Open-core CRM with an AGPL-3.0-only core and separately licensed server components. Native MCP, REST, webhooks and a separate n8n community integration; self-hostable with Docker Compose.",
+    "description": "Open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker.",
     "pros": [
-      "MCP, REST and webhooks for CRM integrations",
-      "Separate n8n community integration",
-      "Self-hostable with Docker Compose",
-      "TypeScript, Next.js and PostgreSQL"
+      "Native n8n workflow automation integration",
+      "Full Pipedrive feature parity",
+      "Self-hostable via Docker",
+      "Modern stack: TypeScript, Next.js, NestJS, PostgreSQL"
     ],
     "cons": [
-      "Early stage, small community",
-      "No native mobile app",
-      "Self-hosting excludes the hosted inbox and AI Assistant"
+      "Early stage \u2014 small community",
+      "No mobile app yet"
     ],
     "language": "TypeScript",
-    "license": "AGPL-3.0-only core; Customermates Commercial License for server components in ee/",
+    "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
   },
   {
@@ -5014,27 +4987,5 @@
     "license": "Apache-2.0",
     "github_repo": "simstudioai/sim",
     "stars": 29478
-  },
-  {
-    "slug": "orbit",
-    "name": "Orbit by Noveum",
-    "category": "Project Management",
-    "is_open_source": true,
-    "github_repo": "Noveum/orbit",
-    "pricing_model": "Free Hosted / Free Self-Hosted",
-    "avg_monthly_cost": 0,
-    "website": "https://orbit.noveum.ai",
-    "description": "Realtime task management for people and AI agents, with issues, projects, sprints, collaborative docs and a hosted OAuth MCP endpoint.",
-    "license": "Apache-2.0",
-    "language": "TypeScript",
-    "pros": [
-      "Free hosted service with no per-seat fees",
-      "Open-source code and Docker self-hosting",
-      "Workspace-scoped OAuth MCP at https://orbit.noveum.ai/mcp"
-    ],
-    "cons": [
-      "Self-hosting requires PostgreSQL, Redis, object storage and separate realtime services",
-      "Some integrations require external provider credentials"
-    ]
   }
 ]
