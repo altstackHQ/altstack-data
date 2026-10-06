@@ -1790,13 +1790,13 @@
   },
   "community-scripts/proxmoxve": {
     "first_seen": "2026-04-08T13:45:49.244Z",
-    "last_seen": "2026-09-29T03:50:56.798Z",
-    "times_seen": 20,
+    "last_seen": "2026-10-06T04:29:18.864Z",
+    "times_seen": 21,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-10-06T03:50:56.776Z"
+    "cooldown_until": "2026-10-13T04:29:18.847Z"
   },
   "onyx-dot-app/onyx": {
     "first_seen": "2026-04-08T13:45:49.596Z",
@@ -75152,5 +75152,76 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-19T23:38:26.717Z"
+  },
+  "agentmemoryrepo/agentmemoryrepo": {
+    "first_seen": "2026-10-06T04:29:19.300Z",
+    "last_seen": "2026-10-06T04:29:19.300Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T04:29:19.300Z"
+  },
+  "destroyerlast28/instagram-liker-bot": {
+    "first_seen": "2026-10-06T04:29:19.684Z",
+    "last_seen": "2026-10-06T04:29:19.684Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T04:29:19.684Z"
+  },
+  "spiritunderfringe/microsoft-office": {
+    "first_seen": "2026-10-06T04:29:20.102Z",
+    "last_seen": "2026-10-06T04:29:20.102Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T04:29:20.102Z"
+  },
+  "rainfoderrick/microsoft-visio": {
+    "first_seen": "2026-10-06T04:29:20.507Z",
+    "last_seen": "2026-10-06T04:29:20.507Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T04:29:20.507Z"
+  },
+  "crownscreendescribe/slideshow-video-maker": {
+    "first_seen": "2026-10-06T04:29:20.925Z",
+    "last_seen": "2026-10-06T04:29:20.925Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T04:29:20.925Z"
+  },
+  "pyramidqueenyell/anyunlock": {
+    "first_seen": "2026-10-06T04:29:21.350Z",
+    "last_seen": "2026-10-06T04:29:21.350Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T04:29:21.350Z"
+  },
+  "tradertanmay/ai-agents-zero-to-hero": {
+    "first_seen": "2026-10-06T04:29:22.066Z",
+    "last_seen": "2026-10-06T04:29:22.066Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 12,
+    "cooldown_until": "2026-10-20T04:29:22.066Z"
   }
 }
