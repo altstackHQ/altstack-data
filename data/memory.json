@@ -54650,8 +54650,8 @@
   },
   "marketplace/actions": {
     "first_seen": "2026-08-20T18:41:45.194Z",
-    "last_seen": "2026-09-10T02:45:28.604Z",
-    "times_seen": 8,
+    "last_seen": "2026-10-06T12:39:02.965Z",
+    "times_seen": 9,
     "sources": [
       "hackernews"
     ],
@@ -75223,5 +75223,78 @@
     "reason": "low_stars",
     "stars": 12,
     "cooldown_until": "2026-10-20T04:29:22.066Z"
+  },
+  "alchaincyf/huashu-art-motion": {
+    "first_seen": "2026-10-06T12:38:57.948Z",
+    "last_seen": "2026-10-06T12:38:57.948Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T12:38:57.932Z"
+  },
+  "capturepantherfeel/dvd-creator": {
+    "first_seen": "2026-10-06T12:38:58.777Z",
+    "last_seen": "2026-10-06T12:38:58.777Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T12:38:58.777Z"
+  },
+  "zombiethrashercalm11/adobe-after-effects": {
+    "first_seen": "2026-10-06T12:38:59.590Z",
+    "last_seen": "2026-10-06T12:38:59.590Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T12:38:59.590Z"
+  },
+  "cicadashanty/display-fusion": {
+    "first_seen": "2026-10-06T12:39:00.666Z",
+    "last_seen": "2026-10-06T12:39:00.666Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-13T12:39:00.666Z"
+  },
+  "hivepaas/hivepaas": {
+    "first_seen": "2026-10-06T12:39:01.758Z",
+    "last_seen": "2026-10-06T12:39:01.758Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-20T12:39:01.758Z"
+  },
+  "obsolescence/agent-pdp1": {
+    "first_seen": "2026-10-06T12:39:02.252Z",
+    "last_seen": "2026-10-06T12:39:02.252Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-20T12:39:02.252Z"
+  },
+  "flowcomputeclient/flowcompute": {
+    "first_seen": "2026-10-06T12:39:02.709Z",
+    "last_seen": "2026-10-06T12:39:02.709Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-20T12:39:02.709Z"
   }
 }
