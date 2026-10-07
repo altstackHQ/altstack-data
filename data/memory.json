@@ -1726,13 +1726,13 @@
   },
   "unslothai/unsloth": {
     "first_seen": "2026-04-08T13:45:46.124Z",
-    "last_seen": "2026-09-30T03:39:26.666Z",
-    "times_seen": 24,
+    "last_seen": "2026-10-07T03:54:39.584Z",
+    "times_seen": 25,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-10-07T03:39:26.645Z"
+    "cooldown_until": "2026-10-14T03:54:39.571Z"
   },
   "usememos/memos": {
     "first_seen": "2026-04-08T13:45:46.660Z",
@@ -51984,13 +51984,13 @@
   },
   "karakeep-app/karakeep": {
     "first_seen": "2026-08-14T07:17:56.244Z",
-    "last_seen": "2026-09-24T02:49:05.219Z",
-    "times_seen": 2,
+    "last_seen": "2026-10-07T03:54:42.625Z",
+    "times_seen": 3,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
-    "cooldown_until": "2026-10-01T02:49:05.201Z"
+    "cooldown_until": "2026-10-14T03:54:42.625Z"
   },
   "alchaincyf/deepseek-harness-orange-book": {
     "first_seen": "2026-08-14T07:17:56.818Z",
@@ -75523,5 +75523,167 @@
     "reason": "low_stars",
     "stars": 3,
     "cooldown_until": "2026-10-20T22:12:50.480Z"
+  },
+  "openai/math": {
+    "first_seen": "2026-10-07T03:54:43.133Z",
+    "last_seen": "2026-10-07T03:54:43.133Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:43.133Z"
+  },
+  "gtkottman/mortiflix-oss": {
+    "first_seen": "2026-10-07T03:54:43.591Z",
+    "last_seen": "2026-10-07T03:54:43.591Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:43.591Z"
+  },
+  "nanocle/charakuru": {
+    "first_seen": "2026-10-07T03:54:44.702Z",
+    "last_seen": "2026-10-07T03:54:44.702Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:44.702Z"
+  },
+  "recordslayeridentify/shotcut-download": {
+    "first_seen": "2026-10-07T03:54:45.271Z",
+    "last_seen": "2026-10-07T03:54:45.271Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:45.271Z"
+  },
+  "saidi-walid-architecte/saidi-walid-architecte.github.io": {
+    "first_seen": "2026-10-07T03:54:45.800Z",
+    "last_seen": "2026-10-07T03:54:45.800Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:45.800Z"
+  },
+  "theblazehen/awesome-tern": {
+    "first_seen": "2026-10-07T03:54:46.130Z",
+    "last_seen": "2026-10-07T03:54:46.130Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-11-06T03:54:46.130Z"
+  },
+  "zer0days-op/opengoldhen": {
+    "first_seen": "2026-10-07T03:54:47.652Z",
+    "last_seen": "2026-10-07T03:54:47.652Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:47.652Z"
+  },
+  "lonewolf0622/helixsr": {
+    "first_seen": "2026-10-07T03:54:48.105Z",
+    "last_seen": "2026-10-07T03:54:48.105Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:48.105Z"
+  },
+  "kamil9966/capev2-sandbox-plugin-procmon-events-v1": {
+    "first_seen": "2026-10-07T03:54:48.667Z",
+    "last_seen": "2026-10-07T03:54:48.667Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:48.667Z"
+  },
+  "sp9nky/unofficial-stremio-ps5-port": {
+    "first_seen": "2026-10-07T03:54:49.187Z",
+    "last_seen": "2026-10-07T03:54:49.187Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:49.187Z"
+  },
+  "dualface/ste-zh": {
+    "first_seen": "2026-10-07T03:54:49.667Z",
+    "last_seen": "2026-10-07T03:54:49.667Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:49.667Z"
+  },
+  "nickvasilescu/bops": {
+    "first_seen": "2026-10-07T03:54:50.152Z",
+    "last_seen": "2026-10-07T03:54:50.152Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:50.152Z"
+  },
+  "tekrantgaming/king-kong-recompiled": {
+    "first_seen": "2026-10-07T03:54:50.657Z",
+    "last_seen": "2026-10-07T03:54:50.657Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:50.657Z"
+  },
+  "kjgx66f/free-proxy-airport-cf": {
+    "first_seen": "2026-10-07T03:54:51.187Z",
+    "last_seen": "2026-10-07T03:54:51.187Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:51.186Z"
+  },
+  "deity6/softlab": {
+    "first_seen": "2026-10-07T03:54:51.720Z",
+    "last_seen": "2026-10-07T03:54:51.720Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T03:54:51.720Z"
+  },
+  "interpoll1/decentralised": {
+    "first_seen": "2026-10-07T03:54:52.066Z",
+    "last_seen": "2026-10-07T03:54:52.066Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 13,
+    "cooldown_until": "2026-10-21T03:54:52.066Z"
   }
 }
