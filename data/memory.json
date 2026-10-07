@@ -14463,14 +14463,14 @@
   },
   "arcademakersources/arcademaker": {
     "first_seen": "2026-05-25T14:52:27.897Z",
-    "last_seen": "2026-09-23T15:59:09.730Z",
-    "times_seen": 4,
+    "last_seen": "2026-10-07T12:31:51.026Z",
+    "times_seen": 5,
     "sources": [],
     "monologues": [],
     "status": "rejected",
     "reason": "no_docker",
     "stars": 19,
-    "cooldown_until": "2026-09-30T15:59:09.730Z"
+    "cooldown_until": "2026-10-14T12:31:51.026Z"
   },
   "dominikhei/cardamon": {
     "first_seen": "2026-05-25T14:52:28.309Z",
@@ -75685,5 +75685,109 @@
     "reason": "low_stars",
     "stars": 13,
     "cooldown_until": "2026-10-21T03:54:52.066Z"
+  },
+  "alejandrobujan/tendedero": {
+    "first_seen": "2026-10-07T12:31:43.537Z",
+    "last_seen": "2026-10-07T12:31:43.537Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T12:31:43.524Z"
+  },
+  "szabadkai/c64-keyboard-font": {
+    "first_seen": "2026-10-07T12:31:44.236Z",
+    "last_seen": "2026-10-07T12:31:44.236Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T12:31:44.236Z"
+  },
+  "pingdotgg/ts-rust": {
+    "first_seen": "2026-10-07T12:31:46.184Z",
+    "last_seen": "2026-10-07T12:31:46.184Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T12:31:46.184Z"
+  },
+  "nullmoth/nvidia-macos-driver": {
+    "first_seen": "2026-10-07T12:31:46.727Z",
+    "last_seen": "2026-10-07T12:31:46.727Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T12:31:46.727Z"
+  },
+  "kenkorasu/seed-phrase-generator": {
+    "first_seen": "2026-10-07T12:31:47.345Z",
+    "last_seen": "2026-10-07T12:31:47.345Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T12:31:47.345Z"
+  },
+  "atmirrr/persian-motion-director": {
+    "first_seen": "2026-10-07T12:31:47.880Z",
+    "last_seen": "2026-10-07T12:31:47.880Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-14T12:31:47.880Z"
+  },
+  "ymcrcat/rgpu": {
+    "first_seen": "2026-10-07T12:31:49.760Z",
+    "last_seen": "2026-10-07T12:31:49.760Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 11,
+    "cooldown_until": "2026-10-21T12:31:49.760Z"
+  },
+  "shman4ik/pgnimbus": {
+    "first_seen": "2026-10-07T12:31:50.132Z",
+    "last_seen": "2026-10-07T12:31:50.132Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 23,
+    "cooldown_until": "2026-10-21T12:31:50.132Z"
+  },
+  "zevem/neptune": {
+    "first_seen": "2026-10-07T12:31:50.511Z",
+    "last_seen": "2026-10-07T12:31:50.511Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-21T12:31:50.511Z"
+  },
+  "zizq-labs/zizq": {
+    "first_seen": "2026-10-07T12:31:51.371Z",
+    "last_seen": "2026-10-07T12:31:51.371Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 21,
+    "cooldown_until": "2026-10-21T12:31:51.371Z"
   }
 }
