@@ -76481,5 +76481,129 @@
     "reason": "low_stars",
     "stars": 1,
     "cooldown_until": "2026-10-22T22:47:26.770Z"
+  },
+  "thariqs/ai-newtab": {
+    "first_seen": "2026-10-09T04:13:50.240Z",
+    "last_seen": "2026-10-09T04:13:50.240Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:50.220Z"
+  },
+  "nullmoth/1401": {
+    "first_seen": "2026-10-09T04:13:50.878Z",
+    "last_seen": "2026-10-09T04:13:50.878Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:50.878Z"
+  },
+  "thesysdev/open-intelligent-ui": {
+    "first_seen": "2026-10-09T04:13:51.513Z",
+    "last_seen": "2026-10-09T04:13:51.513Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:51.513Z"
+  },
+  "jakeschincariol/founder-skill": {
+    "first_seen": "2026-10-09T04:13:52.132Z",
+    "last_seen": "2026-10-09T04:13:52.132Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:52.132Z"
+  },
+  "manpisetsu/wp2shell": {
+    "first_seen": "2026-10-09T04:13:52.770Z",
+    "last_seen": "2026-10-09T04:13:52.770Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:52.770Z"
+  },
+  "pama-lee/macminimode": {
+    "first_seen": "2026-10-09T04:13:54.784Z",
+    "last_seen": "2026-10-09T04:13:54.784Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:54.784Z"
+  },
+  "stellar-sentinel/sentinel-contracts": {
+    "first_seen": "2026-10-09T04:13:55.375Z",
+    "last_seen": "2026-10-09T04:13:55.375Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:55.375Z"
+  },
+  "stellar-sentinel/sentinel-backend": {
+    "first_seen": "2026-10-09T04:13:56.042Z",
+    "last_seen": "2026-10-09T04:13:56.042Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T04:13:56.042Z"
+  },
+  "podraven/titan-engine": {
+    "first_seen": "2026-10-09T04:13:57.066Z",
+    "last_seen": "2026-10-09T04:13:57.066Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 22,
+    "cooldown_until": "2026-10-23T04:13:57.066Z"
+  },
+  "ace7-coder/aws-finops-auditor-lite": {
+    "first_seen": "2026-10-09T04:13:57.988Z",
+    "last_seen": "2026-10-09T04:13:57.988Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-23T04:13:57.988Z"
+  },
+  "elicjonas/auro": {
+    "first_seen": "2026-10-09T04:13:58.339Z",
+    "last_seen": "2026-10-09T04:13:58.339Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-23T04:13:58.339Z"
+  },
+  "microsoft/brewlet": {
+    "first_seen": "2026-10-09T04:13:58.750Z",
+    "last_seen": "2026-10-09T04:13:58.750Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 18,
+    "cooldown_until": "2026-10-23T04:13:58.750Z"
   }
 }
