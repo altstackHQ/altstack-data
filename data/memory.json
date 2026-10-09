@@ -76605,5 +76605,77 @@
     "reason": "low_stars",
     "stars": 18,
     "cooldown_until": "2026-10-23T04:13:58.750Z"
+  },
+  "toicf/cf-workers-tgproxy": {
+    "first_seen": "2026-10-09T12:28:23.703Z",
+    "last_seen": "2026-10-09T12:28:23.703Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T12:28:23.690Z"
+  },
+  "bincequ/roboharness": {
+    "first_seen": "2026-10-09T12:28:24.989Z",
+    "last_seen": "2026-10-09T12:28:24.989Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T12:28:24.989Z"
+  },
+  "anthropics/oss-scanner": {
+    "first_seen": "2026-10-09T12:28:25.627Z",
+    "last_seen": "2026-10-09T12:28:25.627Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T12:28:25.627Z"
+  },
+  "nachisama/ai-data-extractor": {
+    "first_seen": "2026-10-09T12:28:26.869Z",
+    "last_seen": "2026-10-09T12:28:26.869Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T12:28:26.869Z"
+  },
+  "finnvoor/pidurablekit": {
+    "first_seen": "2026-10-09T12:28:27.413Z",
+    "last_seen": "2026-10-09T12:28:27.413Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_license",
+    "license": "CC0-1.0",
+    "cooldown_until": "2026-11-08T12:28:27.413Z"
+  },
+  "yibie/excali-mode": {
+    "first_seen": "2026-10-09T12:28:29.665Z",
+    "last_seen": "2026-10-09T12:28:29.665Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-16T12:28:29.665Z"
+  },
+  "007stan/hodge-complex-standard-model-hcsm-": {
+    "first_seen": "2026-10-09T12:28:30.041Z",
+    "last_seen": "2026-10-09T12:28:30.041Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-23T12:28:30.041Z"
   }
 }
