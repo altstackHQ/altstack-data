@@ -77101,5 +77101,80 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-24T11:47:59.614Z"
+  },
+  "n1tr00-10/tiktok-web-signature": {
+    "first_seen": "2026-10-10T16:50:56.798Z",
+    "last_seen": "2026-10-10T16:50:56.798Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T16:50:56.782Z"
+  },
+  "tcchen2026/vibeoffice": {
+    "first_seen": "2026-10-10T16:50:57.773Z",
+    "last_seen": "2026-10-10T16:50:57.773Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T16:50:57.773Z"
+  },
+  "asobeast/asobeast": {
+    "first_seen": "2026-10-10T16:50:58.141Z",
+    "last_seen": "2026-10-10T16:50:58.141Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 24,
+    "cooldown_until": "2026-10-24T16:50:58.141Z"
+  },
+  "insanai/sibuna": {
+    "first_seen": "2026-10-10T16:50:59.029Z",
+    "last_seen": "2026-10-10T16:50:59.029Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-24T16:50:59.029Z"
+  },
+  "iljah/p2pim": {
+    "first_seen": "2026-10-10T16:50:59.357Z",
+    "last_seen": "2026-10-10T16:50:59.357Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-24T16:50:59.357Z"
+  },
+  "nickyreinert/itermsysmon": {
+    "first_seen": "2026-10-10T16:50:59.738Z",
+    "last_seen": "2026-10-10T16:50:59.738Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-24T16:50:59.738Z"
+  },
+  "christian-gennari/nostos": {
+    "first_seen": "2026-10-10T16:51:00.088Z",
+    "last_seen": "2026-10-10T16:51:00.088Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 5,
+    "cooldown_until": "2026-10-24T16:51:00.088Z"
   }
 }
