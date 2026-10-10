@@ -77176,5 +77176,57 @@
     "reason": "low_stars",
     "stars": 5,
     "cooldown_until": "2026-10-24T16:51:00.088Z"
+  },
+  "marclou/mailcheap": {
+    "first_seen": "2026-10-10T21:04:04.505Z",
+    "last_seen": "2026-10-10T21:04:04.505Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T21:04:04.487Z"
+  },
+  "storytold/craft-launcher": {
+    "first_seen": "2026-10-10T21:04:05.148Z",
+    "last_seen": "2026-10-10T21:04:05.148Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T21:04:05.148Z"
+  },
+  "littlegreenviper/lgv_tz_lookup": {
+    "first_seen": "2026-10-10T21:04:06.511Z",
+    "last_seen": "2026-10-10T21:04:06.511Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T21:04:06.511Z"
+  },
+  "vigiloss/vigil": {
+    "first_seen": "2026-10-10T21:04:06.859Z",
+    "last_seen": "2026-10-10T21:04:06.859Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 3,
+    "cooldown_until": "2026-10-24T21:04:06.859Z"
+  },
+  "dragon-lady/twin-update": {
+    "first_seen": "2026-10-10T21:04:07.193Z",
+    "last_seen": "2026-10-10T21:04:07.193Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-24T21:04:07.193Z"
   }
 }
