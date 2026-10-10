@@ -77057,5 +77057,49 @@
     "reason": "low_stars",
     "stars": 0,
     "cooldown_until": "2026-10-24T03:59:24.478Z"
+  },
+  "aindeev/agent-chrome-relay": {
+    "first_seen": "2026-10-10T11:47:57.903Z",
+    "last_seen": "2026-10-10T11:47:57.903Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-24T11:47:57.886Z"
+  },
+  "bytefish/sqlflow": {
+    "first_seen": "2026-10-10T11:47:58.873Z",
+    "last_seen": "2026-10-10T11:47:58.873Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-24T11:47:58.873Z"
+  },
+  "yanglongyun/iimos": {
+    "first_seen": "2026-10-10T11:47:59.236Z",
+    "last_seen": "2026-10-10T11:47:59.236Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-24T11:47:59.236Z"
+  },
+  "hpdkhoa/poselab-mcp": {
+    "first_seen": "2026-10-10T11:47:59.615Z",
+    "last_seen": "2026-10-10T11:47:59.615Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-24T11:47:59.614Z"
   }
 }
