@@ -76903,5 +76903,159 @@
     "status": "rejected",
     "reason": "no_docker",
     "cooldown_until": "2026-10-16T22:10:26.317Z"
+  },
+  "wesbos/photo-frame-dashboard": {
+    "first_seen": "2026-10-10T03:59:15.990Z",
+    "last_seen": "2026-10-10T03:59:15.990Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:15.957Z"
+  },
+  "attowarriorbond/solidworks-cad": {
+    "first_seen": "2026-10-10T03:59:16.555Z",
+    "last_seen": "2026-10-10T03:59:16.555Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:16.555Z"
+  },
+  "hoopoeconnector/microsoft-project": {
+    "first_seen": "2026-10-10T03:59:17.164Z",
+    "last_seen": "2026-10-10T03:59:17.164Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:17.164Z"
+  },
+  "parrotstaple/microsoft-office": {
+    "first_seen": "2026-10-10T03:59:17.710Z",
+    "last_seen": "2026-10-10T03:59:17.710Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:17.710Z"
+  },
+  "paceclomooring/adobe-substance-3d": {
+    "first_seen": "2026-10-10T03:59:18.261Z",
+    "last_seen": "2026-10-10T03:59:18.261Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:18.261Z"
+  },
+  "goliathcuttlefish/adobe-substance-3d": {
+    "first_seen": "2026-10-10T03:59:18.903Z",
+    "last_seen": "2026-10-10T03:59:18.903Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:18.903Z"
+  },
+  "zeusinsight/findersearch": {
+    "first_seen": "2026-10-10T03:59:19.710Z",
+    "last_seen": "2026-10-10T03:59:19.710Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:19.710Z"
+  },
+  "cashierfurnace/wondshare-recoverit": {
+    "first_seen": "2026-10-10T03:59:20.328Z",
+    "last_seen": "2026-10-10T03:59:20.328Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:20.328Z"
+  },
+  "blendtrabulwark/discord-server-cloner": {
+    "first_seen": "2026-10-10T03:59:21.123Z",
+    "last_seen": "2026-10-10T03:59:21.123Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:21.123Z"
+  },
+  "coastfiscaldeflate/ultra-iso": {
+    "first_seen": "2026-10-10T03:59:21.693Z",
+    "last_seen": "2026-10-10T03:59:21.693Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:21.693Z"
+  },
+  "deepkiwiraid/canva-pro": {
+    "first_seen": "2026-10-10T03:59:22.248Z",
+    "last_seen": "2026-10-10T03:59:22.248Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "no_docker",
+    "cooldown_until": "2026-10-17T03:59:22.248Z"
+  },
+  "kkrausse/faplex": {
+    "first_seen": "2026-10-10T03:59:22.594Z",
+    "last_seen": "2026-10-10T03:59:22.594Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-24T03:59:22.594Z"
+  },
+  "brianlzhou/arc-browser-use": {
+    "first_seen": "2026-10-10T03:59:23.737Z",
+    "last_seen": "2026-10-10T03:59:23.737Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 2,
+    "cooldown_until": "2026-10-24T03:59:23.737Z"
+  },
+  "chrchr/clanking": {
+    "first_seen": "2026-10-10T03:59:24.124Z",
+    "last_seen": "2026-10-10T03:59:24.124Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 1,
+    "cooldown_until": "2026-10-24T03:59:24.124Z"
+  },
+  "samcolson4/podcastdelay": {
+    "first_seen": "2026-10-10T03:59:24.478Z",
+    "last_seen": "2026-10-10T03:59:24.478Z",
+    "times_seen": 1,
+    "sources": [],
+    "monologues": [],
+    "status": "rejected",
+    "reason": "low_stars",
+    "stars": 0,
+    "cooldown_until": "2026-10-24T03:59:24.478Z"
   }
 }
