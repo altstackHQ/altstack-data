@@ -1251,7 +1251,8 @@
     "description": "Powerful data visualization and business intelligence platform.",
     "alternatives": [
       "metabase",
-      "superset"
+      "superset",
+      "dac"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=tableau.com",
     "pros": [
@@ -1331,6 +1332,30 @@
       "timestamp": "2026-03-30T15:26:16.816Z"
     },
     "_request_heal": "missing_infrastructure"
+  },
+  {
+    "slug": "dac",
+    "name": "DAC",
+    "category": "Analytics",
+    "is_open_source": true,
+    "github_repo": "bruin-data/dac",
+    "stars": 728,
+    "website": "https://getbruin.com/docs/dac/",
+    "description": "Dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer.",
+    "pros": [
+      "Dashboards live in git and are reviewed like code",
+      "Semantic layer defines metrics once and reuses them",
+      "Single Go binary, no external services required",
+      "Connects to Postgres, MySQL, Snowflake, BigQuery, Redshift and Databricks"
+    ],
+    "cons": [
+      "Requires writing YAML or TSX instead of a drag-and-drop editor",
+      "Younger project with a smaller ecosystem than Metabase or Superset"
+    ],
+    "last_commit": "2026-08-19T14:02:46Z",
+    "language": "Go",
+    "license": "AGPLv3",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=getbruin.com"
   },
   {
     "slug": "auth0",
@@ -1752,6 +1777,38 @@
     }
   },
   {
+    "slug": "posnic",
+    "name": "Posnic",
+    "category": "E-commerce",
+    "is_open_source": true,
+    "github_repo": "Posnic/POS",
+    "stars": 3,
+    "website": "https://www.posnic.com/",
+    "description": "Free offline-first open source POS and billing software for retail shops and restaurants, with local checkout and online/offline workflows.",
+    "tags": [
+      "POS",
+      "Billing Software",
+      "Offline POS",
+      "Online/Offline POS",
+      "retail",
+      "restaurant",
+      "inventory"
+    ],
+    "pros": [
+      "Desktop and self-hosted server options keep checkout data on shop-controlled infrastructure",
+      "Retail and restaurant billing workflows include inventory, tax invoices, returns, held bills, and kitchen order tickets",
+      "Windows, macOS, and Linux packages are published with a stable v1.6.1 release"
+    ],
+    "cons": [
+      "Young open-source project with a small public GitHub community",
+      "Release packages bundle separately licensed components that need package-level license review"
+    ],
+    "last_commit": "2026-09-08T12:24:11Z",
+    "language": "JavaScript",
+    "license": "AGPL-3.0",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.posnic.com"
+  },
+  {
     "slug": "docusign",
     "name": "DocuSign",
     "category": "Legal",
@@ -1912,7 +1969,8 @@
     "website": "https://www.atlassian.com/software/statuspage",
     "description": "The best way to communicate status and downtime to your customers.",
     "alternatives": [
-      "uptime-kuma"
+      "uptime-kuma",
+      "warden"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=atlassian.com",
     "avg_monthly_cost": 29,
@@ -1962,6 +2020,29 @@
       "timestamp": "2026-03-30T15:26:16.816Z"
     },
     "_request_heal": "missing_infrastructure"
+  },
+  {
+    "slug": "warden",
+    "name": "Warden",
+    "category": "Monitoring",
+    "is_open_source": true,
+    "github_repo": "projecthelena/warden",
+    "stars": 3,
+    "website": "https://projecthelena.com",
+    "description": "Self-hosted uptime monitoring that learns normal latency, reduces alert noise, and exposes a role-scoped MCP server for AI-assisted operations.",
+    "pros": [
+      "Adaptive latency baselines and built-in alert-noise controls",
+      "REST API and role-scoped MCP server for safe AI-assisted operations",
+      "Branded status pages and scoped client logins for agencies"
+    ],
+    "cons": [
+      "Fewer monitor types and notification integrations than established tools",
+      "Checks currently run from a single location"
+    ],
+    "last_commit": "2026-09-14T05:10:13Z",
+    "language": "Go",
+    "license": "AGPL-3.0",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=projecthelena.com"
   },
   {
     "slug": "datadog",
@@ -2780,6 +2861,72 @@
     }
   },
   {
+    "slug": "jasper",
+    "name": "Jasper",
+    "category": "Marketing",
+    "is_open_source": false,
+    "pricing_model": "Paid",
+    "website": "https://www.jasper.ai",
+    "description": "AI content platform for marketing teams, with brand voice controls and SEO templates.",
+    "alternatives": [
+      "altorank"
+    ],
+    "tags": [
+      "AI",
+      "Content",
+      "Marketing",
+      "SEO"
+    ],
+    "logo_url": "https://unavatar.io/jasper.ai?fallback=https://www.google.com/s2/favicons?sz=128%26domain=jasper.ai",
+    "avg_monthly_cost": 69,
+    "pros": [
+      "Mature brand voice and style controls",
+      "Large template library for marketing copy",
+      "Team collaboration and brand guidelines built in"
+    ],
+    "cons": [
+      "No self-hosting; content and brand data live with the vendor",
+      "Priced per seat, so team costs scale quickly",
+      "Writing-first: no keyword research, rank tracking or CMS publishing"
+    ],
+    "has_deployable_alternative": true
+  },
+  {
+    "slug": "altorank",
+    "name": "AltoRank",
+    "category": "Marketing",
+    "is_open_source": true,
+    "github_repo": "AltoRank/altorank",
+    "stars": 1,
+    "website": "https://altorank.co",
+    "description": "AI SEO content engine: keyword research, domain audit, drafting with scoring and fact-checking, rank tracking, AI-answer visibility, and publishing to 13 destinations across 10 CMS platforms. A person approves every article; no API or MCP call can publish a draft.",
+    "pros": [
+      "Whole product is open source under AGPL-3.0, with no feature-gated tier",
+      "Runs the full loop from keyword to published article, not one step of it",
+      "Self-hostable against your own Supabase and your own API keys",
+      "Ships an MCP server, so an AI assistant can drive it"
+    ],
+    "cons": [
+      "Pre-launch: no paying customers and no case studies yet",
+      "Needs your own Anthropic and DataForSEO keys to be useful",
+      "No packaged CLI yet"
+    ],
+    "last_commit": "2026-09-07T00:00:00Z",
+    "language": "TypeScript",
+    "license": "GNU Affero General Public License v3.0",
+    "tags": [
+      "SEO",
+      "AI",
+      "Content",
+      "Marketing",
+      "GEO"
+    ],
+    "logo_url": "https://unavatar.io/altorank.co?fallback=https://www.google.com/s2/favicons?sz=128%26domain=altorank.co",
+    "alternatives": [],
+    "hosting_type": "self-hosted",
+    "avg_monthly_cost": 0
+  },
+  {
     "slug": "dokku",
     "name": "Dokku",
     "category": "DevOps",
@@ -3251,7 +3398,8 @@
     "description": "AI pair programmer by GitHub/OpenAI. Integrates into VS Code and JetBrains.",
     "alternatives": [
       "continue-dev",
-      "tabby"
+      "tabby",
+      "atomic-agent"
     ],
     "tags": [
       "AI",
@@ -3353,6 +3501,39 @@
       "agent": "sentinel",
       "timestamp": "2026-03-30T15:26:16.816Z"
     }
+  },
+  {
+    "slug": "atomic-agent",
+    "name": "Atomic Agent",
+    "category": "AI Coding",
+    "is_open_source": true,
+    "github_repo": "AtomicBot-ai/atomic-agent",
+    "website": "https://atomicagent.io",
+    "description": "Local-first CLI and TUI coding agent. Runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system.",
+    "pros": [
+      "Runs open-weight models entirely on your machine, no account or API key required",
+      "56 built-in tools for browser, filesystem, git, memory, and vision work",
+      "Supports MCP, so external tool servers plug straight in",
+      "Five-layer local memory keeps context across sessions",
+      "Single-command install on macOS, Linux, and Windows"
+    ],
+    "cons": [
+      "Developer preview: APIs, commands, config, and behavior are still moving",
+      "Terminal only, there is no web UI",
+      "Quality depends on the local model and the hardware you run it on"
+    ],
+    "stars": 2024,
+    "language": "TypeScript",
+    "license": "MIT License",
+    "tags": [
+      "AI",
+      "Coding",
+      "CLI",
+      "Local"
+    ],
+    "hardware_req": "8GB+ RAM",
+    "hosting_type": "self-hosted",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=atomicagent.io"
   },
   {
     "slug": "ollama",
@@ -3469,6 +3650,33 @@
       "agent": "sentinel",
       "timestamp": "2026-03-30T15:26:16.816Z"
     }
+  },
+  {
+    "slug": "orkas",
+    "name": "Orkas",
+    "category": "AI Interfaces",
+    "is_open_source": true,
+    "github_repo": "Orkas-AI/Orkas",
+    "website": "https://orkas.ai/?source=gh_altstack",
+    "description": "Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.",
+    "pros": [
+      "Multi-agent orchestration through one conversation",
+      "Local-first desktop workspace",
+      "MIT-licensed open source"
+    ],
+    "cons": [
+      "Remote model providers require network access"
+    ],
+    "stars": 725,
+    "language": "TypeScript",
+    "license": "MIT License",
+    "tags": [
+      "AI",
+      "Desktop",
+      "Multi-Agent"
+    ],
+    "hosting_type": "self-hosted",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=orkas.ai"
   },
   {
     "slug": "lm-studio",
@@ -4946,6 +5154,69 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com"
+  },
+  {
+    "slug": "datagrip",
+    "name": "DataGrip",
+    "category": "DevOps",
+    "is_open_source": false,
+    "pricing_model": "Paid",
+    "website": "https://www.jetbrains.com/datagrip/",
+    "description": "JetBrains' cross-platform IDE for SQL databases.",
+    "alternatives": [
+      "libredb-studio"
+    ],
+    "tags": [
+      "Database",
+      "SQL",
+      "Developer Tools"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=jetbrains.com",
+    "avg_monthly_cost": 10,
+    "pros": [
+      "Strong SQL editor with completion and refactoring",
+      "Reaches a wide range of engines from one client",
+      "Mature schema diff and data editing tools"
+    ],
+    "cons": [
+      "Paid subscription per user",
+      "Desktop only, so every developer keeps their own copy of the credentials",
+      "Closed source"
+    ]
+  },
+  {
+    "slug": "libredb-studio",
+    "name": "LibreDB Studio",
+    "category": "DevOps",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "github_repo": "libredb/libredb-studio",
+    "stars": 797,
+    "website": "https://libredb.org",
+    "description": "Self-hosted SQL IDE that runs in the browser, with a schema browser, query history, ER diagrams and optional AI query assistance.",
+    "alternatives": [
+      "datagrip"
+    ],
+    "tags": [
+      "Database",
+      "SQL",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=libredb.org",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Runs next to the database, so credentials stay on the server",
+      "Sixteen engines from one browser tab, SQL and NoSQL",
+      "SSO and an audit trail are in the MIT build, not a paid tier"
+    ],
+    "cons": [
+      "Needs a server, there is no desktop install",
+      "AI features need your own LLM API key"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "hosting_type": "self-hosted"
   },
   {
     "slug": "sim",
