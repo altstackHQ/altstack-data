@@ -49,7 +49,7 @@ jobs:
           cd target-repo
           git checkout main
 
-      - name: '🛡️ Sentinel: Guard — never overwrite reviewed community data'
+      - name: '🛡️ Sentinel: Guard — never overwrite unreviewed content in either direction'
         run: |
           set -euo pipefail
           FORCE="${{ github.event.inputs.force_mirror || 'false' }}"
@@ -64,29 +64,64 @@ jobs:
             exit 1
           fi
 
-          SRC_BLOB=$(git -C source-repo rev-parse 'HEAD:data/tools.json')
-          TGT_BLOB=$(git -C target-repo rev-parse 'HEAD:data/tools.json')
-          echo "   source blob: ${SRC_BLOB}"
-          echo "   target blob: ${TGT_BLOB}"
+          echo "🔎 Sentinel Guard: comparing every copied path (data/, docker-deploy/)..."
+          SRC_DATA=$(git -C source-repo rev-parse 'HEAD:data' 2>/dev/null || echo 'ABSENT')
+          TGT_DATA=$(git -C target-repo rev-parse 'HEAD:data' 2>/dev/null || echo 'ABSENT')
+          SRC_DD=$(git -C source-repo rev-parse 'HEAD:docker-deploy' 2>/dev/null || echo 'ABSENT')
+          TGT_DD=$(git -C target-repo rev-parse 'HEAD:docker-deploy' 2>/dev/null || echo 'ABSENT')
+          echo "   data/ trees:          source=${SRC_DATA} target=${TGT_DATA}"
+          echo "   docker-deploy/ trees: source=${SRC_DD} target=${TGT_DD}"
 
-          if [ "$SRC_BLOB" = "$TGT_BLOB" ]; then
-            echo "✅ Sentinel Guard: tool catalog already identical — overwriting cannot lose anything."
+          if [ "$SRC_DATA" = "$TGT_DATA" ] && [ "$SRC_DD" = "$TGT_DD" ]; then
+            echo "✅ Sentinel Guard: all copied paths already identical — overwriting cannot lose anything."
             exit 0
           fi
 
-          echo "🔎 Sentinel Guard: catalogs differ — verifying the target catalog matches a historical revision of the source (target simply behind, not divergent)..."
-          SAFE=false
-          for sha in $(git -C source-repo rev-list HEAD -- data/tools.json); do
-            blob=$(git -C source-repo rev-parse "${sha}:data/tools.json" 2>/dev/null) || continue
-            if [ "$blob" = "$TGT_BLOB" ]; then
-              SAFE=true
-              echo "   ✅ target catalog matches source revision ${sha} — target is strictly behind."
-              break
-            fi
-          done
+          SRC_BLOB=$(git -C source-repo rev-parse 'HEAD:data/tools.json')
+          TGT_BLOB=$(git -C target-repo rev-parse 'HEAD:data/tools.json')
+          echo "   source tools.json blob: ${SRC_BLOB}"
+          echo "   target tools.json blob: ${TGT_BLOB}"
 
-          if [ "$SAFE" != "true" ]; then
-            echo "⛔ ABORT: the target repo holds tool-catalog content that never existed in the source history."
+          echo "🔎 Sentinel Guard: verifying no destination-side file would be deleted or silently overwritten..."
+          if ! git -C target-repo ls-tree -r --name-only HEAD -- data docker-deploy >/dev/null; then
+            echo "⛔ ABORT: could not enumerate target files under data/ and docker-deploy/."
+            exit 1
+          fi
+          DELETIONS=""
+          OVERWRITES=""
+          while IFS= read -r -d '' tpath; do
+            tgt_blob=$(git -C target-repo rev-parse "HEAD:${tpath}")
+            if src_blob=$(git -C source-repo rev-parse "HEAD:${tpath}" 2>/dev/null); then
+              if [ "$src_blob" = "$tgt_blob" ]; then
+                continue
+              fi
+              SAFE_FILE=false
+              for sha in $(git -C source-repo rev-list HEAD -- "$tpath"); do
+                blob=$(git -C source-repo rev-parse "${sha}:${tpath}" 2>/dev/null) || continue
+                if [ "$blob" = "$tgt_blob" ]; then
+                  SAFE_FILE=true
+                  echo "   ✅ ${tpath} matches source revision ${sha} — target is strictly behind."
+                  break
+                fi
+              done
+              if [ "$SAFE_FILE" != "true" ]; then
+                OVERWRITES="${OVERWRITES}${tpath}"$'\n'
+              fi
+            else
+              DELETIONS="${DELETIONS}${tpath}"$'\n'
+            fi
+          done < <(git -C target-repo ls-tree -r -z --name-only HEAD -- data docker-deploy)
+
+          if [ -n "$DELETIONS" ]; then
+            echo "⛔ ABORT: this sync would delete files that exist in the target but not in the source:"
+            printf '%s' "$DELETIONS" | sed 's/^/   - /'
+            echo "   If these deletions are intentional, re-run via workflow_dispatch with force_mirror=true (or have a maintainer update this guard)."
+            exit 1
+          fi
+
+          if [ -n "$OVERWRITES" ]; then
+            echo "⛔ ABORT: the target repo holds content that never existed in the source history:"
+            printf '%s' "$OVERWRITES" | sed 's/^/   - /'
             echo "   Overwriting it would silently discard reviewed changes. Manual review required."
             exit 1
           fi
@@ -100,7 +135,8 @@ jobs:
             exit 1
           fi
 
-          echo "✅ Sentinel Guard: passed — source is a reviewed advance of the target and deletes no entries. Proceeding."
+          echo "✅ Sentinel Guard: passed — source is a reviewed advance of the target and deletes nothing. Proceeding."
+
 
       - name: 🔄 Copy data and docker-deploy
         run: |
