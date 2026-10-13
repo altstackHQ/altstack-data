@@ -237,7 +237,13 @@ This repo is kept up-to-date by an automated pipeline called the **Sentinel Engi
 | `check-docs.yml` | Builds the Nextra docs site | PR to `docs/**` |
 | `redeploy-site.yml` | Triggers Vercel deploy hook | Push to `main` |
 
-The pipeline opens PRs automatically so everything gets reviewed before merging.
+The Sentinel patrol now works on a `sentinel/*` branch and opens a pull request,
+so every automated change is reviewed before it merges.
+
+Two incidents in 2026 (2026-09-21 and 2026-10-05) deleted community contributions
+through an unguarded automated mirror. Everything affected has been restored, and
+the causes, the safeguards that replaced it, and what is still limited today are
+documented honestly in [INCIDENTS.md](INCIDENTS.md).
 
 ---
 
