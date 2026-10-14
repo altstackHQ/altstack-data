@@ -904,7 +904,8 @@
     "description": "Platform as a service.",
     "alternatives": [
       "coolify",
-      "dokku"
+      "dokku",
+      "peon"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=heroku.com",
     "pros": [
@@ -5335,5 +5336,96 @@
     ],
     "stars": 65,
     "last_commit": "2026-10-13T17:10:07Z"
+  },
+  {
+    "slug": "planswift",
+    "name": "PlanSwift",
+    "category": "Construction",
+    "is_open_source": false,
+    "pricing_model": "Paid (Annual Subscription)",
+    "website": "https://www.planswift.com",
+    "description": "Windows desktop takeoff and estimating software for contractors.",
+    "alternatives": [
+      "bidwright"
+    ],
+    "tags": [
+      "Construction",
+      "Estimating",
+      "Takeoff"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=planswift.com",
+    "avg_monthly_cost": 167,
+    "pros": [
+      "Established point-and-click takeoff on PDF plans",
+      "Assemblies turn takeoff quantities into material and labor",
+      "14-day free trial"
+    ],
+    "cons": [
+      "Starts at $2,000 per seat per year (Essential); Auto Takeoff needs the $3,000 Core plan",
+      "Windows only",
+      "Trade packs cost extra"
+    ]
+  },
+  {
+    "slug": "bidwright",
+    "name": "BidWright",
+    "category": "Construction",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "github_repo": "braedonsaunders/bidwright",
+    "stars": 63,
+    "website": "https://demo.bidwright.app",
+    "description": "Self-hosted construction estimating platform: PDF and 3D model takeoff linked to worksheet line items, parameterized assemblies, labour rates and burdens, and branded quotes, with an optional AI agent.",
+    "alternatives": [
+      "planswift"
+    ],
+    "tags": [
+      "Construction",
+      "Estimating",
+      "Takeoff",
+      "Open Source"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=bidwright.app",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "2D PDF and 3D model takeoff, both linked to the line items they drive",
+      "Assemblies with typed parameters and nested sub-assemblies",
+      "Pricing engine with rate schedules, labour cost tables, burdens and travel policies"
+    ],
+    "cons": [
+      "Young project, first desktop release was May 2026",
+      "AI features need your own model provider key or a local model",
+      "Needs Docker, including under the desktop installer"
+    ],
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "peon",
+    "name": "Peon",
+    "category": "DevOps",
+    "is_open_source": true,
+    "github_repo": "Peon-sh/Peon",
+    "website": "https://peon.sh",
+    "description": "Open-source, self-hostable deployment platform. Deploy Git apps, Docker Compose, databases, and static sites to your own servers — an open alternative to Vercel/Heroku with project RBAC, audit logs, and MCP.",
+    "pros": [
+      "Self-hosted Docker PaaS with first-class project RBAC and audit logs",
+      "Deploy Git apps, Compose stacks, databases, and static sites on your own servers",
+      "Built-in MCP server for AI-agent deploys without handing over root"
+    ],
+    "cons": [
+      "Younger project with a smaller community than Coolify/Dokku"
+    ],
+    "stars": 97,
+    "language": "TypeScript",
+    "license": "MIT",
+    "tags": [
+      "DevOps",
+      "PaaS",
+      "Self-Hosted",
+      "Docker"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=peon.sh"
   }
 ]
