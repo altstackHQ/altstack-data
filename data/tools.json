@@ -904,7 +904,8 @@
     "description": "Platform as a service.",
     "alternatives": [
       "coolify",
-      "dokku"
+      "dokku",
+      "peon"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=heroku.com",
     "pros": [
@@ -5371,5 +5372,32 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "peon",
+    "name": "Peon",
+    "category": "DevOps",
+    "is_open_source": true,
+    "github_repo": "Peon-sh/Peon",
+    "website": "https://peon.sh",
+    "description": "Open-source, self-hostable deployment platform. Deploy Git apps, Docker Compose, databases, and static sites to your own servers — an open alternative to Vercel/Heroku with project RBAC, audit logs, and MCP.",
+    "pros": [
+      "Self-hosted Docker PaaS with first-class project RBAC and audit logs",
+      "Deploy Git apps, Compose stacks, databases, and static sites on your own servers",
+      "Built-in MCP server for AI-agent deploys without handing over root"
+    ],
+    "cons": [
+      "Younger project with a smaller community than Coolify/Dokku"
+    ],
+    "stars": 97,
+    "language": "TypeScript",
+    "license": "MIT",
+    "tags": [
+      "DevOps",
+      "PaaS",
+      "Self-Hosted",
+      "Docker"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=peon.sh"
   }
 ]
