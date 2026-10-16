@@ -3573,6 +3573,33 @@
     "last_commit": "2026-10-13T20:16:41Z"
   },
   {
+    "slug": "kodus",
+    "name": "Kodus",
+    "category": "AI Coding",
+    "is_open_source": true,
+    "github_repo": "kodustech/kodus-ai",
+    "website": "https://kodus.io",
+    "description": "AI code review platform with self-hosting and bring-your-own-model support, for GitHub, GitLab, Bitbucket, and Azure DevOps.",
+    "pros": [
+      "AGPL-3.0 core, self-hostable without an Enterprise plan",
+      "Bring your own LLM in both cloud and self-hosted deployments",
+      "Supports GitHub, GitLab, Bitbucket, Azure DevOps, and Forgejo"
+    ],
+    "cons": [
+      "Self-hosted Community plan caps custom rules and active plugins"
+    ],
+    "stars": 1488,
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "tags": [
+      "AI",
+      "Code Review",
+      "Self-Hosted"
+    ],
+    "hosting_type": "both",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=kodus.io"
+  },
+  {
     "slug": "ollama",
     "name": "Ollama",
     "category": "AI Runners",
