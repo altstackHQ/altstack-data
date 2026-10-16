@@ -430,7 +430,8 @@
     "description": "Industry standard image editing software.",
     "alternatives": [
       "gimp",
-      "krita"
+      "krita",
+      "artcraft-suite"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.adobe.com",
     "pros": [
@@ -522,7 +523,8 @@
     "website": "https://www.figma.com",
     "description": "Collaborative interface design tool.",
     "alternatives": [
-      "penpot"
+      "penpot",
+      "artcraft-suite"
     ],
     "logo_url": "/logos/figma.svg",
     "avg_monthly_cost": 15,
@@ -5427,5 +5429,34 @@
       "Docker"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=peon.sh"
+  },
+  {
+    "slug": "artcraft-suite",
+    "name": "ArtCraft Suite",
+    "category": "Design",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "website": "https://artcraftsuite.org",
+    "description": "Open-source suite of creative apps in pure Rust: PhotoCraft (image editing), VectorCraft (vector graphics), FilmCraft (video), PdfCraft and more, all running in the browser.",
+    "alternatives": [],
+    "tags": [
+      "Rust",
+      "Open Source",
+      "Browser-based",
+      "Photo Editing",
+      "Vector Graphics"
+    ],
+    "logo_url": "/logos/artcraft-suite.svg",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Fully open source (free)",
+      "Pure Rust - fast and lightweight",
+      "Runs in the browser, no installation",
+      "Covers photo, vector, video and PDF in one suite"
+    ],
+    "cons": [
+      "Newer project, smaller community than GIMP/Krita",
+      "Feature set lighter than Adobe suite"
+    ]
   }
 ]
