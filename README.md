@@ -350,3 +350,5 @@ Thanks to everyone who has contributed to this project:
 Stop paying for SaaS you can self-host.
 
 </div>
+
+- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
