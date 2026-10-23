@@ -1,352 +1,241 @@
-<div align="center">
+# The AltStack Data
 
-# The AltStack — Data HQ
+**The open dataset behind [The AltStack](https://thealtstack.com): 162 curated records that map proprietary SaaS products to self-hostable open-source alternatives, plus 143 Docker Compose deployment configs.**
 
-### The open dataset behind [thealtstack.com](https://thealtstack.com)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![JSON syntax](https://img.shields.io/github/actions/workflow/status/altstackHQ/altstack-data/validate-data.yml?label=JSON%20syntax)](https://github.com/altstackHQ/altstack-data/actions/workflows/validate-data.yml)
 
-**148 open-source tools · 32 categories · 143 Docker deploy configs · 20 blog posts · 5 curated stacks**
+Finding an open-source alternative is the easy part. Knowing which projects actually replace the tool you use, whether they are still maintained, and how to run them is the work. This repository keeps that work in plain JSON and Compose files — no build step between you and the data.
 
-[![Live Directory](https://img.shields.io/badge/Browse-thealtstack.com-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://thealtstack.com)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-22c55e?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/altstackHQ/altstack-data?style=for-the-badge&logo=github)](https://github.com/altstackHQ/altstack-data/stargazers)
-[![Forks](https://img.shields.io/github/forks/altstackHQ/altstack-data?style=for-the-badge&logo=github)](https://github.com/altstackHQ/altstack-data/network/members)
+**Use it:** [raw JSON](#use-the-data) · **Deploy it:** [one Compose file](#deploy-a-tool) · **Improve it:** [CONTRIBUTING.md](CONTRIBUTING.md)
 
-> **Note:** Website v2 is currently in progress. The data layer is fully active and accepting contributions.
+## What this is
 
-</div>
+The AltStack Data is a two-sided catalog:
 
----
+- **48 proprietary products** (Slack, Jira, Notion, Figma, Salesforce, ...) with pricing context and, where applicable, the open-source projects that replace them.
+- **114 open-source projects** (Supabase, Appwrite, PocketBase, Mattermost, Rocket.Chat, ...) with upstream repo, stars, language, license, a last-commit timestamp where available, and — where available — a deployment config.
 
-## What is this repo?
+Records live in [`data/tools.json`](data/tools.json). The website is one consumer; the data is not locked to it. Use it to build a directory, a comparison page, a self-hosting guide, or an internal approved-software list — or simply to check whether a project is still maintained before you adopt it. A shared, structured dataset means one correction can reach every consumer.
 
-This is the **data layer** for [The AltStack](https://thealtstack.com) — a curated directory of open-source alternatives to popular SaaS products. Everything the website displays comes from the files in this repo:
+What this is **not**: a hosting service, a security audit, or a promise that a project is production-ready. Inclusion is an editorial judgment. [CRITERIA.md](CRITERIA.md) describes the bar; [Data quality and limits](#data-quality-and-limits) describes the caveats.
 
-- The full tool database (`tools.json`)
-- Docker Compose deployment configs for 143 tools
-- Blog content and editorial copy (20 articles)
-- Category descriptions and SEO metadata
-- Curated "Stack" bundles (5 pre-built tool combos)
-- Full documentation site (Nextra)
+## At a glance
 
-If you want to add a tool, fix a description, or contribute a Docker config — this is where you do it.
+*Current `main` snapshot (October 2026). [`data/tools.json`](data/tools.json) is the source of truth; counts drift as records are added.*
 
----
+| Artifact | Contents |
+| --- | --- |
+| `data/tools.json` | 162 curated records — 114 open-source projects + 48 proprietary products |
+| Categories | 32 named categories, plus an `Uncategorized` bucket |
+| `docker-deploy/` | 143 Docker Compose configs; 68 include an `install.sh` |
+| `deployments/` | Generated deployment bundles for those 68 installer-ready tools |
+| `docs/` | Nextra docs source: 65 deployment guides (91 MDX pages total) |
+| `data/category_editorial.json` | Editorial and SEO copy for 30 categories |
+| `data/blog-posts.ts` | 18 long-form posts |
+| `data/stacks.ts` | 5 curated stacks |
 
-## Repository Structure
+## Use the data
 
-```
-├── data/
-│   ├── tools.json                    # Master database — 148 tools, every field
-│   ├── tools-min.json                # Minified version (client-side, faster loads)
-│   ├── tools_expanded.json           # Expanded version with enriched metadata
-│   ├── tools_expanded-min.json       # Minified expanded version
-│   ├── blog-posts.ts                 # Blog post content (20 articles)
-│   ├── stacks.ts                     # Curated stack definitions (5 bundles)
-│   ├── category_editorial.json       # Category descriptions, SEO copy, editorial
-│   ├── seo.ts                        # VS pair generation (proprietary vs open-source)
-│   ├── memory.json                   # Sentinel pipeline state & run history
-│   ├── memory-min.json               # Minified pipeline state
-│   ├── cortex-memory.json            # Sentinel memory & context
-│   ├── bundled-docker-templates.json # Pre-built Docker templates
-│   └── bundled-docker-templates-min.json
-├── docker-deploy/                    # 143 Docker Compose configs + install scripts
-│   ├── supabase/
-│   │   ├── docker-compose.yml
-│   │   └── install.sh
-│   ├── n8n/
-│   ├── plausible/
-│   ├── mattermost/
-│   └── ... (143 tools total)
-├── deployments/                      # Deployment metadata & generated configs (68 entries)
-├── docs/                             # Documentation site source (Nextra)
-│   ├── app/
-│   │   ├── concepts/                 # Self-hosting concepts
-│   │   │   ├── backups/
-│   │   │   ├── docker-basics/
-│   │   │   ├── env-secrets/
-│   │   │   ├── hardware/
-│   │   │   ├── monitoring/
-│   │   │   ├── networking/
-│   │   │   ├── reverse-proxies/
-│   │   │   ├── ssl-tls/
-│   │   │   └── updates/
-│   │   ├── deploy/                   # 68 tool-specific deployment guides
-│   │   ├── quick-start/              # Getting started guides
-│   │   │   ├── choosing-a-server/
-│   │   │   ├── first-deployment/
-│   │   │   ├── reverse-proxy/
-│   │   │   ├── starter-kit/
-│   │   │   └── what-is-self-hosting/
-│   │   ├── stacks/                   # Stack pages
-│   │   │   ├── ai-first/
-│   │   │   ├── bootstrapper/
-│   │   │   ├── designer/
-│   │   │   ├── devops/
-│   │   │   └── privacy/
-│   │   ├── why/                      # Why self-host
-│   │   └── contact/                  # Contact page
-│   ├── components/                   # Shared components
-│   │   ├── AIChatLinks.tsx
-│   │   └── ContactForm.tsx
-│   └── public/                       # Static files
-│       ├── llms.txt
-│       ├── llms-full.txt
-│       ├── robots.txt
-│       └── _pagefind/
-├── scraper/                          # Python scraper for data enrichment
-│   ├── scraper.py
-│   └── requirements.txt
-├── scripts/
-│   └── fetch-github-metadata.js      # GitHub stars/activity enrichment
-├── assets/                           # Logos and static assets
-│   ├── logo.png
-│   └── logos/
-├── .github/
-│   ├── CODEOWNERS                    # Code ownership
-│   ├── ISSUE_TEMPLATE/               # Issue templates
-│   │   ├── add-guide.yml
-│   │   ├── add-tool.yml
-│   │   ├── fix-data.yml
-│   │   └── tool-submission.yml
-│   ├── pull_request_template.md      # PR template with checklist
-│   └── workflows/                    # CI/CD automation
-│       ├── validate-data.yml         # JSON validation on push/PR
-│       ├── scrape-data.yml           # Nightly GitHub data enrichment
-│       ├── sync-to-main-app.yml      # Sync to thealtstack repo
-│       ├── check-docs.yml            # Docs build check
-│       └── redeploy-site.yml         # Vercel deploy trigger
-├── CONTRIBUTING.md                   # How to contribute
-├── CRITERIA.md                       # Tool vetting standards
-├── CODE_OF_CONDUCT.md                # Community guidelines
-├── SECURITY.md                       # Security policy
-└── LICENSE                           # CC BY 4.0
+The canonical file is [`data/tools.json`](data/tools.json). Fetch it from `main`:
+
+```bash
+curl -O https://raw.githubusercontent.com/altstackHQ/altstack-data/main/data/tools.json
 ```
 
----
+`main` moves when the nightly metadata job runs. For reproducible builds, pin a commit SHA or tag instead of `main`.
 
-## The Data: `tools.json`
+The data is a graph, not a flat list: a proprietary record points to open-source records by `slug`.
 
-The core of this repo. Each tool entry looks like this:
+```js
+const SOURCE = 'https://raw.githubusercontent.com/altstackHQ/altstack-data/main/data/tools.json';
+const tools = await fetch(SOURCE).then((response) => response.json());
 
-```json
-{
-  "slug": "plausible",
-  "name": "Plausible Analytics",
-  "category": "Analytics",
-  "is_open_source": true,
-  "pricing_model": "Free Self-Hosted / Paid Cloud",
-  "website": "https://plausible.io",
-  "description": "Lightweight and privacy-friendly Google Analytics alternative.",
-  "alternatives": ["Google Analytics", "Mixpanel"],
-  "tags": ["analytics", "privacy", "self-hosted"],
-  "logo_url": "https://...",
-  "avg_monthly_cost": 0,
-  "pros": ["Privacy-first", "Lightweight script", "Easy to self-host"],
-  "cons": ["Fewer advanced features than GA4"],
-  "stars": 29314,
-  "language": "Elixir",
-  "license": "AGPL-3.0",
-  "last_commit": "2026-10-04T18:42:06Z"
-}
+// Resolve a proprietary product to the open-source tools that replace it.
+const slack = tools.find((tool) => tool.slug === 'slack');
+const alternatives = slack.alternatives
+  .map((slug) => tools.find((tool) => tool.slug === slug))
+  .filter(Boolean)
+  .map((tool) => ({
+    name: tool.name,
+    category: tool.category,
+    deploy: tool.deployment?.type ?? null,
+  }));
+
+console.log(alternatives);
+// [
+//   { name: 'Mattermost', category: 'Communication', deploy: 'docker-compose' },
+//   { name: 'Rocket.Chat', category: 'Communication', deploy: 'docker-compose' }
+// ]
+
+// Filtering is plain array work.
+// 9 Analytics records and 94 open-source tools with a deploy config in this snapshot.
+const analytics = tools.filter((tool) => tool.category === 'Analytics');
+const deployable = tools.filter((tool) => tool.is_open_source && tool.deployment);
+console.log({ analytics: analytics.length, deployable: deployable.length });
+// { analytics: 9, deployable: 94 }
 ```
 
-### Categories (32)
+### Field reference
 
-| Category | Tools | Category | Tools |
-|---|---|---|---|
-| Productivity | 16 | Security | 9 |
-| DevOps | 9 | Marketing | 9 |
-| AI Models | 9 | Analytics | 8 |
-| Uncategorized | 8 | Monitoring | 7 |
-| Communication | 5 | Design | 5 |
-| Automation | 5 | Cloud Infrastructure | 5 |
-| Backend as a Service | 4 | CRM | 4 |
-| Project Management | 4 | Support | 4 |
-| AI Runners | 4 | ERP | 3 |
-| CAD | 3 | AI Image Generation | 3 |
-| AI Coding | 3 | HR | 2 |
-| E-commerce | 2 | Legal | 2 |
-| Financial | 2 | Creative | 2 |
-| AI Video Generation | 2 | AI Interfaces | 2 |
-| AI Tools | 2 | API Development | 2 |
-| Email | 2 | Photos | 1 |
+All records share `slug`, `name`, `category`, `is_open_source`, `description`, `pros`, and `cons`; every other field is present where it applies. Counts are for the current 162-record snapshot.
 
----
+| Field | Type | Present | Meaning |
+| --- | --- | --- | --- |
+| `slug` | string | 162 | Stable identifier used by cross-links |
+| `name` | string | 162 | Display name |
+| `category` | string | 162 | One of 32 named categories or `Uncategorized` |
+| `is_open_source` | boolean | 162 | `false` marks the proprietary reference product |
+| `website` | string | 160 | Canonical site |
+| `description` | string | 162 | Short description |
+| `pros` / `cons` | string[] | 162 | Editorial notes |
+| `logo_url` | string | 160 | Path under `assets/` or a remote URL |
+| `tags` | string[] | 56 | Free-form tags |
+| `alternatives` | string[] | 66 | Open-source slugs that replace this record, where applicable |
+| `pricing_model` | string | 54 | Pricing summary for proprietary records |
+| `avg_monthly_cost` | number | 73 | Reference monthly cost, USD |
+| `github_repo` | string | 114 | Upstream `owner/repo` for open-source records |
+| `stars` | number | 114 | GitHub stars at last refresh |
+| `last_commit` | ISO date | 107 | Upstream last-commit timestamp at last refresh |
+| `language` | string | 114 | Upstream primary language |
+| `license` | string | 114 | Upstream project license (not this repository's license) |
+| `deployment` | object | 94 | `{ type, local_path }`; `type` is `docker-compose` |
+| `referral_url` | string | 73 | Optional partner/referral link; safe to ignore |
+| `sentinel_verdict` | object | 100 | Automation provenance for the record |
 
-## Docker Deploy Configs
+Related datasets:
 
-Every config in `docker-deploy/` is a ready-to-use `docker-compose.yml` with an accompanying `install.sh` script. Just clone and run:
+- [`data/tools-min.json`](data/tools-min.json) is a **separate 488-record client-side index** (minified). It is not a minified copy of `tools.json`.
+- [`data/tools_expanded.json`](data/tools_expanded.json) is a **separate 199-record AI-model dataset** with richer fields (`hardware_req`, `ai_metadata`, ...). It shares no slugs with `tools.json`.
+
+Do not treat these three files as interchangeable formats of one dataset.
+
+## Deploy a tool
+
+Configs target a single server, not Kubernetes. You need Docker with the Compose plugin.
 
 ```bash
 cd docker-deploy/plausible
-chmod +x install.sh
-./install.sh
-```
-
-Or copy the `docker-compose.yml` directly:
-
-```bash
-cd docker-deploy/n8n
+cat docker-compose.yml          # inspect, then change any default credentials
 docker compose up -d
 ```
 
-Currently covering **143 tools** including: Supabase, Mattermost, Plausible, PostHog, Keycloak, N8N, Immich, Authentik, Metabase, Plane, Coolify, Dokku, and many more.
+68 of the 143 configs also ship an installer:
 
-Each tool also has a dedicated deployment guide in `docs/app/deploy/<tool-slug>/`.
+```bash
+cd docker-deploy/plausible
+less install.sh                  # read it before running it
+./install.sh
+```
 
-> **Want to add a config?** See [CONTRIBUTING.md](CONTRIBUTING.md). We test every config before merging.
+Before you run any config:
 
----
+- **Read it first.** Several compose files ship with placeholder or default credentials (for example `replace-me-with-a-secure-random-string` and `POSTGRES_PASSWORD=plausible`). Set your own secrets before exposing a service.
+- **Some installers change your machine.** The scripts install Docker system-wide via `get.docker.com` if Docker is missing.
+- **CI does not execute these configs.** JSON syntax is checked; the Compose files are not started in CI. Review is on you.
+- **Check the guide.** Where available, `docs/app/deploy/<slug>/page.mdx` documents the specific setup.
 
-## Curated Stacks
+## Repository map
 
-Pre-built tool bundles for common use cases, defined in `data/stacks.ts`:
+```
+data/tools.json                 # canonical catalog (162 records)
+data/tools-min.json             # separate 488-record client index
+data/tools_expanded*.json       # separate 199-record AI-model dataset
+data/category_editorial.json    # editorial + SEO copy (30 categories)
+data/blog-posts.ts              # 18 posts
+data/stacks.ts                  # 5 curated stacks
+data/guides.ts                  # 10 how-to guides
+data/seo.ts                     # VS-pair generation helpers
+data/memory*.json               # Sentinel agent memory (per-repo audit trail)
+data/cortex-memory.json         # agent episodes, strategies, failure patterns
+data/bundled-docker-templates*.json  # 143 templates keyed by tool slug
+docker-deploy/<slug>/           # 143 Compose configs; 68 with install.sh
+deployments/<slug>/             # generated bundles for the 68 installer-ready tools
+docs/                           # Nextra docs source (run locally; see below)
+scraper/                        # Python metadata scraper
+scripts/                        # GitHub metadata fetch helper
+assets/logos/                   # 59 tool logos (third-party trademarks)
+.github/                        # issue templates, PR template, workflows
+```
 
-| Stack | Tagline | What it's for | Monthly Savings |
-|---|---|---|---|
-| 🚀 **The Bootstrapper** | Launch for $0/mo | Full SaaS toolkit for solo founders | ~$310/mo |
-| 🎨 **The Designer** | Ditch Creative Cloud | Adobe Creative Cloud replacement | ~$110/mo |
-| 🤖 **The AI-First** | Own your AI | Self-hosted LLMs, image gen, code completion | ~$69/mo |
-| ⚙️ **The DevOps** | Self-host everything | Full infrastructure on your own terms | ~$375/mo |
-| 🔒 **The Privacy** | Zero data leaks | 100% self-hostable, no third-party servers | ~$185/mo |
+The docs site is source-only in this repository. Run it locally:
 
----
+```bash
+cd docs
+npm install
+npm run dev   # http://localhost:3001
+```
 
-## Documentation Site
+## How it is maintained
 
-The full documentation site is built with [Nextra](https://nextra.site/) and lives in `docs/`. It includes:
-
-- **Concepts** — Self-hosting fundamentals: backups, Docker basics, env secrets, hardware, monitoring, networking, reverse proxies, SSL/TLS, updates
-- **Deploy Guides** — 68 tool-specific deployment walkthroughs
-- **Quick Start** — Choosing a server, first deployment, reverse proxy setup, starter kit, what is self-hosting
-- **Stacks** — Detailed pages for each curated stack
-- **Why** — Why self-host
-- **Contact** — Contact form
-
----
-
-## Automation: The Sentinel Engine
-
-This repo is kept up-to-date by an automated pipeline called the **Sentinel Engine**, running via GitHub Actions:
+Five GitHub Actions workflows keep the repository moving:
 
 | Workflow | What it does | Trigger |
-|---|---|---|
-| `validate-data.yml` | Validates all JSON in `data/` | Push/PR to `data/**` |
-| `scrape-data.yml` | Nightly GitHub metadata enrichment (stars, commits, language, license) | Cron: daily at midnight UTC |
-| `sync-to-main-app.yml` | Syncs `data/` and `docker-deploy/` to the main thealtstack repo | Push to `main` |
-| `check-docs.yml` | Builds the Nextra docs site | PR to `docs/**` |
-| `redeploy-site.yml` | Triggers Vercel deploy hook | Push to `main` |
+| --- | --- | --- |
+| `validate-data.yml` | Checks that every JSON file under `data/` parses (`jq empty`) | Push/PR touching `data/**/*.json` |
+| `scrape-data.yml` | Refreshes upstream stars, language, license, and last commit; opens a PR on `chore/nightly-enrichment` | Daily at 00:00 UTC |
+| `sync-to-main-app.yml` | Mirrors `data/` and `docker-deploy/` to the AltStack application repository after a guard | Push to `main` touching those paths |
+| `check-docs.yml` | Builds the Nextra docs | PR touching `docs/**` |
+| `redeploy-site.yml` | Calls a Vercel deploy hook when the secret is configured | Push to `main` touching `data/**` or `deployments/**` |
 
-The Sentinel patrol now works on a `sentinel/*` branch and opens a pull request,
-so every automated change is reviewed before it merges.
+The Sentinel pipeline's per-repo memory and audit trail live in [`data/memory.json`](data/memory.json), [`data/memory-min.json`](data/memory-min.json), and [`data/cortex-memory.json`](data/cortex-memory.json).
 
-Two incidents in 2026 (2026-09-21 and 2026-10-05) deleted community contributions
-through an unguarded automated mirror. Everything affected has been restored, and
-the causes, the safeguards that replaced it, and what is still limited today are
-documented honestly in [INCIDENTS.md](INCIDENTS.md).
+Automation has damaged this dataset before. In September and October 2026, two sync incidents deleted community contributions; every affected entry was restored, and the causes and safeguards are documented in [INCIDENTS.md](INCIDENTS.md). Pull requests in this repository are now the authoritative way to change the catalog.
 
----
+## Data quality and limits
+
+- **Community-maintained.** Metadata refreshes nightly; prose, categories, and deploy configs change when someone contributes a fix.
+- **Syntax validation, not schema validation.** CI proves the JSON parses. No automated schema or semantic check exists yet.
+- **Not a security audit.** Inclusion does not mean a project is secure, complete, or production-ready. [CRITERIA.md](CRITERIA.md) lists the editorial bar — and what is not vetted.
+- **Upstream facts drift.** `stars`, `last_commit`, `language`, and `license` are snapshots from the last refresh. Verify licenses and maintenance status at the source before relying on them.
+- **Deployment configs are not tested in CI.** Treat them as reviewed starting points, not guarantees. Change default credentials.
+- **Some links are partner links.** 73 records include an optional `referral_url`; it does not affect inclusion and can be removed.
+- **Trademarks belong to their owners.** Names and logos in [`assets/logos/`](assets/logos) identify third-party projects and are not licensed with this repository.
+- **Coverage is curated, not exhaustive.** 162 records is a selected catalog, not every open-source project.
+
+Found an error? Open an issue or send a one-record pull request. Small, targeted fixes are the fastest to review.
 
 ## Contributing
 
-We welcome contributions! The most impactful ways to help:
+Three useful paths, in order of size:
 
-### Add a new tool
-1. Fork this repo
-2. Add a new entry to `data/tools.json` following the schema above
-3. Make sure it meets our [vetting criteria](CRITERIA.md)
-4. Open a PR
+**Fix a record.** Correct a URL, price, description, or stale field in [`data/tools.json`](data/tools.json). Use an existing record as the template. Keep the PR to one record where possible.
 
-### Add a Docker config
-1. Create a new folder in `docker-deploy/` named after the tool's slug
-2. Add a `docker-compose.yml` and an `install.sh`
-3. Test it locally — it should produce a working deployment
-4. Open a PR
+**Add a tool.** Check [CRITERIA.md](CRITERIA.md) first. A proprietary record needs `slug`, `name`, `category`, `is_open_source: false`, pricing context, and an `alternatives` array of open-source slugs. An open-source record needs the core fields plus `github_repo` and, when available, `deployment`. There is no machine-readable JSON Schema yet; the field reference above is the contract.
 
-### Add a deployment guide
-1. Create a new folder in `docs/app/deploy/<tool-slug>/`
-2. Write an `.mdx` guide
-3. Add it to `docs/app/deploy/_meta.ts`
-4. Open a PR
+**Add a deployment config.** Create `docker-deploy/<slug>/docker-compose.yml`; add `install.sh` only if you can support it. Never commit real secrets. A docs guide goes in `docs/app/deploy/<slug>/page.mdx`, registered in the adjacent `_meta.ts`.
 
-### Fix data
-Found a broken link, wrong pricing, or outdated description? Edit `data/tools.json` and open a PR. Small, targeted fixes are the fastest to merge.
+Before opening a PR:
 
-### Write a blog post
-1. Add a new entry to `data/blog-posts.ts`
-2. Follow the existing format
-3. Open a PR
+1. Keep the change focused and explain why the data is wrong or incomplete.
+2. Validate JSON locally the same way CI does: `jq empty data/*.json`.
+3. Do not mix a data change with unrelated docs or config changes.
+4. Read the full guide in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
+A good first contribution is a broken link or an outdated price in a single record. You do not need to add a tool to help.
 
----
+## Contributors and thanks
 
-## Using the Data
+The catalog is one maintainer plus everyone who sent a fix. The repository is maintained by [Aditya](https://github.com/aa-humaaan); the changes below belong to the people named.
 
-The data in this repo is licensed under [CC BY 4.0](LICENSE). You're free to use it in your own projects — just give attribution.
+Four contributors sent more than one change: [Braedon Saunders](https://github.com/braedonsaunders), [Mike Cecconello](https://github.com/mikececco), [Vlad Nadymov](https://github.com/nadyyym), [Benjamin Wagner](https://github.com/benjiwagner).
 
-### Fetch the raw JSON
+Single-fix contributors: [shashank agarwal](https://github.com/imshashank), [Mohammed Ali Chherawalla](https://github.com/alichherawalla), [Sridhar Bala](https://github.com/sridharkalaibala), [Sanja Malovic](https://github.com/unjica), [QY](https://github.com/1146345502), [@PrinceAdvant](https://github.com/PrinceAdvant), [Mehmet Cevheri BOZOGLAN](https://github.com/cevheri), [Jesus Paz](https://github.com/JesusPaz), [Edvaldo Freitas](https://github.com/edvaldofreitas), [Dudka](https://github.com/sosidudku1), [@BlueSkyID666](https://github.com/BlueSkyID666), [Ayush Agarwal](https://github.com/aagarwal1012), [Arsalan](https://github.com/arsalann).
 
-```bash
-# Full database
-curl -O https://raw.githubusercontent.com/altstackHQ/altstack-data/main/data/tools.json
+Several of these contributions were deleted — twice — by the synchronization incidents documented in [INCIDENTS.md](INCIDENTS.md), and restored by hand. Nobody who sent a fix after the first wipe owed this repository a second one. Thank you for sending it anyway.
 
-# Minified (smaller, for client-side use)
-curl -O https://raw.githubusercontent.com/altstackHQ/altstack-data/main/data/tools-min.json
+Automation is credited as pipeline, not authorship: nightly metadata refreshes run under `github-actions[bot]` (the Sentinel pipeline) and appear in the commit history without being counted above. Separately, thanks to the maintainers of the 114 open-source projects catalogued here — this repository exists to point at their work. Land a fix and you belong in this list; add yourself in the same pull request if you like.
 
-# Expanded (with enriched metadata)
-curl -O https://raw.githubusercontent.com/altstackHQ/altstack-data/main/data/tools_expanded.json
-```
+## License and attribution
 
-### Use in JavaScript/TypeScript
+The repository's [LICENSE](LICENSE) is the **Apache License 2.0**. [CONTRIBUTING.md](CONTRIBUTING.md) separately states that data and documentation contributions are accepted under **CC BY 4.0**; the repository does not yet include a NOTICE reconciling the two. If you need a definitive answer for redistributing the data, open an issue before relying on either. Third-party names and logos remain the property of their respective projects.
 
-```ts
-const response = await fetch(
-  'https://raw.githubusercontent.com/altstackHQ/altstack-data/main/data/tools.json'
-);
-const tools = await response.json();
+## Explore
 
-// Filter by category
-const analytics = tools.filter(t => t.category === 'Analytics');
+- [The AltStack](https://thealtstack.com) — the live directory
+- [Documentation source](docs/) — Nextra site, run locally
+- [Contributing guide](CONTRIBUTING.md) · [Tool criteria](CRITERIA.md) · [Incident register](INCIDENTS.md)
+- [Issues](https://github.com/altstackHQ/altstack-data/issues) · [Contributors](https://github.com/altstackHQ/altstack-data/graphs/contributors)
+- [Machine-readable docs index](docs/public/llms.txt) for agents and LLM tooling
 
-// Find alternatives to a specific SaaS
-const slackAlts = tools.filter(t =>
-  t.alternatives?.includes('Slack')
-);
-```
-
----
-
-## Contributors
-
-Thanks to everyone who has contributed to this project:
-
-| Contributor | Commits | Contributor | Commits |
-|---|---|---|---|
-| [@aa-humaaan](https://github.com/aa-humaaan) | 44 | [@nadyyym](https://github.com/nadyyym) | 2 |
-| [@benjiwagner](https://github.com/benjiwagner) | 2 | [@arsalann](https://github.com/arsalann) | 1 |
-| [@aagarwal1012](https://github.com/aagarwal1012) | 1 | [@BlueSkyID666](https://github.com/BlueSkyID666) | 1 |
-| [@sosidudku1](https://github.com/sosidudku1) | 1 | [@JesusPaz](https://github.com/JesusPaz) | 1 |
-| [@cevheri](https://github.com/cevheri) | 1 | [@mikececco](https://github.com/mikececco) | 1 |
-| [@1146345502](https://github.com/1146345502) | 1 | [@unjica](https://github.com/unjica) | 1 |
-| [@sridharkalaibala](https://github.com/sridharkalaibala) | 1 | [@alichherawalla](https://github.com/alichherawalla) | 1 |
-| [@imshashank](https://github.com/imshashank) | 1 | | |
-
----
-
-## Links
-
-- 🌐 **Website**: [thealtstack.com](https://thealtstack.com)
-- 📖 **Documentation**: [docs/](./docs/)
-- 🐛 **Report an issue**: [Open an issue](https://github.com/altstackHQ/altstack-data/issues)
-- 📬 **Request a tool**: [Open an issue](https://github.com/altstackHQ/altstack-data/issues/new)
-
----
-
-<div align="center">
-
-**Built by [@altstackHQ](https://github.com/altstackHQ)**
-
-Stop paying for SaaS you can self-host.
-
-</div>
+The dataset is the source of truth. If something here is wrong, the fix belongs in a pull request.
