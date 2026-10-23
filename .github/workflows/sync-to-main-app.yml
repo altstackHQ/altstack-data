@@ -148,8 +148,23 @@ jobs:
       - name: '📤 Sentinel: Push updates to thealtstack'
         run: |
           cd target-repo
-          git config user.name "Sovereign Sentinel (AI)"
-          git config user.email "sentinel@thealtstack.com"
+          # Vercel refuses to deploy a commit whose author email is not linked to a
+          # GitHub account. sentinel@thealtstack.com was not, so every synced change
+          # silently left production serving the previous build (42210cad and
+          # ef2c26ee both report "Vercel: failure Deployment was blocked"). The
+          # github-actions[bot] noreply address was verified accepted on 2026-10-14
+          # by pushing a commit under exactly this identity and watching the
+          # deployment complete. The display name still says Sentinel, because it is.
+          SYNC_AUTHOR_NAME="${SYNC_AUTHOR_NAME:-Sovereign Sentinel (AI)}"
+          SYNC_AUTHOR_EMAIL="${SYNC_AUTHOR_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+          case "$SYNC_AUTHOR_EMAIL" in
+            *@users.noreply.github.com|*@noreply.github.com) ;;
+            *)
+              echo "::error::author email $SYNC_AUTHOR_EMAIL is not linked to a GitHub account - syncing with it would leave the site on the previous build"
+              exit 1;;
+          esac
+          git config user.name "$SYNC_AUTHOR_NAME"
+          git config user.email "$SYNC_AUTHOR_EMAIL"
           git add data/ docker-deploy/
           
           if git diff --staged --quiet; then
