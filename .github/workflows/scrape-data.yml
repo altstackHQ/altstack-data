@@ -11,7 +11,6 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -27,10 +26,64 @@ jobs:
             pip install -r scraper/requirements.txt
           fi
 
+      - name: 🛡️ Sentinel: Snapshot tags/alternatives before enrichment
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+import json, os
+data = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'tools.json'), encoding='utf-8'))
+snapshot = {}
+for r in data.get('tools') or []:
+    snap = {}
+    if r.get('tags'): snap['tags'] = r['tags']
+    if r.get('alternatives'): snap['alternatives'] = r['alternatives']
+    if snap:
+        slug = r['slug']
+        if slug not in snapshot: snapshot[slug] = {}
+        snapshot[slug].update(snap)
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.github', 'workflows', 'tags-alt-snapshot.json'), 'w') as f:
+    json.dump(snapshot, f, indent=2)
+PY
+
       - name: Run scraper
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scraper/scraper.py
+
+      - name: 🛡️ Sentinel: Restore tags/alternatives if enrichment lost them
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+import json, os, sys, subprocess
+snapshot_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.github', 'workflows', 'tags-alt-snapshot.json')
+if not os.path.exists(snapshot_path):
+    print('⚠️ No snapshot found — skipping restore (first run).')
+    sys.exit(0)
+with open(snapshot_path) as f: snapshot = json.load(f)
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'tools.json'), encoding='utf-8') as f: data = json.load(f)
+restored = []
+for r in data.get('tools') or []:
+    slug = r['slug']
+    if slug not in snapshot: continue
+    before = snapshot[slug]
+    after_tags = r.get('tags')
+    after_alts = r.get('alternatives')
+    if not after_tags and before.get('tags'): restored.append(f'{slug}: tags lost')
+    if not after_alts and before.get('alternatives'): restored.append(f'{slug}: alternatives lost')
+    if before.get('tags'): r['tags'] = before['tags']
+    if before.get('alternatives'): r['alternatives'] = before['alternatives']
+if restored:
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'tools.json'), 'w') as f:
+        json.dump(data, f, indent=2)
+    # open PR to restore
+    subprocess.run([
+        'gh', 'pr', 'create', '--repo', 'altstackHQ/altstack-data',
+        '--title', '🛡️ Sentinel: restore tags/alternatives lost during nightly enrichment',
+        '--body', '## What' + '\n\nThe nightly metadata enrichment (`scrape-data.yml`) lost `tags` and/or `alternatives` for ' + str(len(restored)) + ' records.' + '\n\nThese fields have been restored from the pre-enrichment snapshot.' + '\n\n## Restored' + '\n\n' + '\n'.join('- **' + s + '**' for s in restored) + '''\n\n## Guard' + '\n\nTo prevent this from happening again, consider adding a guard to `scrape-data.yml` that preserves non-empty `tags` and `alternatives` before overwriting. See [CRITERIA.md](https://github.com/altstackHQ/altstack-data/blob/main/CRITERIA.md#data-drift-warning) for the documented risk.''',
+        '--label', 'automated',
+        '--commit-message', 'chore: sentinel restore tags/alternatives lost during enrichment'
+    ], capture_output=True, text=True)
+PY
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
