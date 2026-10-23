@@ -2340,7 +2340,8 @@
     "description": "Smart, simple online accounting software for small businesses.",
     "alternatives": [
       "akaunting",
-      "erpnext"
+      "erpnext",
+      "openbooks"
     ],
     "logo_url": "/logos/quickbooks.svg",
     "avg_monthly_cost": 25,
@@ -5429,5 +5430,41 @@
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=peon.sh",
     "last_commit": "2026-10-19T10:31:28Z"
+  },
+  {
+    "slug": "openbooks",
+    "name": "OpenBooks",
+    "category": "Financial",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "github_repo": "braedonsaunders/openbooks",
+    "stars": 17,
+    "website": "https://openbooks-site.vercel.app",
+    "description": "Self-hosted open-source business and accounting suite: double-entry books with period locks and an append-only audit trail, invoicing, bills, bank reconciliation, and optional inventory, payroll, HR, and multi-entity consolidation.",
+    "alternatives": [
+      "quickbooks"
+    ],
+    "tags": [
+      "Accounting",
+      "Bookkeeping",
+      "ERP",
+      "Open Source",
+      "Self-Hosted"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openbooks-site.vercel.app",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Double-entry ledger with period locks and an append-only audit trail",
+      "Start with invoicing and statements; enable inventory, payroll, HR, or multi-entity later without migrating",
+      "Self-hosted AGPL with Docker Compose; no per-seat licensing"
+    ],
+    "cons": [
+      "Alpha software (first public repo August 2026)",
+      "Smaller community than Akaunting or ERPNext",
+      "Needs Docker for the recommended self-hosted deploy"
+    ],
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "hosting_type": "self-hosted"
   }
 ]
