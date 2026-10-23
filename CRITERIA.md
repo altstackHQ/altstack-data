@@ -30,6 +30,9 @@ Every tool listed on The AltStack is manually reviewed against the criteria belo
 - Evidence includes: GitHub stars, active Discord/forum, third-party blog posts, or package download counts
 - Solo hobby projects with no users are excluded
 
+> **⚠️ Data drift warning.** The nightly metadata enrichment (`scrape-data.yml`) refreshes `stars`, `language`, `last_commit`, and also resets `tags` and `alternatives` to empty arrays. Records that previously had those fields populated can lose them after a refresh. If you need to preserve `tags` or `alternatives`, pin the record's values in a separate override file or add a safeguard to the workflow before the next run. This is the same failure mode that caused the sync incidents documented in [INCIDENTS.md](INCIDENTS.md).
+- `data/tools.json` is the canonical source; always verify field values before relying on them for downstream consumers.
+
 ## Docker Deployment Configs
 
 The 56+ tools with Docker Compose configurations have additional requirements:
