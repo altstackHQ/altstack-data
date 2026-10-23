@@ -2926,10 +2926,10 @@
     "github_repo": "AltoRank/altorank",
     "stars": 3,
     "website": "https://altorank.co",
-    "description": "AI SEO content engine: keyword research, domain audit, drafting with scoring and fact-checking, rank tracking, AI-answer visibility, and publishing to 13 destinations across 10 CMS platforms. A person approves every article; no API or MCP call can publish a draft.",
+    "description": "Open-source SEO content software: site readiness checks for search engines and AI crawlers, keyword research from what a site's buyers search for, and drafts in the site's voice with sources attached and a fact check. Every publish is attributed to a named person, by click or by a rule they set with a 24-hour hold; no API or MCP call can approve or publish a draft. Drafts export as Markdown or HTML; CMS connectors are set up with you rather than self-serve.",
     "pros": [
       "Whole product is open source under AGPL-3.0, with no feature-gated tier",
-      "Runs the full loop from keyword to published article, not one step of it",
+      "Covers the loop from keyword research to a sourced draft, not one step of it",
       "Self-hostable against your own Supabase and your own API keys",
       "Ships an MCP server, so an AI assistant can drive it"
     ],
