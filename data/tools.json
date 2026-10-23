@@ -5494,5 +5494,110 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "eventbrite",
+    "name": "Eventbrite",
+    "category": "Events",
+    "is_open_source": false,
+    "pricing_model": "Freemium / per-ticket fees",
+    "website": "https://www.eventbrite.com",
+    "description": "Hosted event management and ticketing platform for publishing events and selling tickets.",
+    "alternatives": [
+      "pretix",
+      "hi-events",
+      "revel"
+    ],
+    "tags": [
+      "Events",
+      "Ticketing"
+    ],
+    "pros": [
+      "Event discovery, event pages, registration, and ticketing in one hosted platform",
+      "Organizer tools for publishing and managing events"
+    ],
+    "cons": [
+      "Paid ticketing can incur service and payment-processing fees",
+      "Hosted service; not self-hostable"
+    ],
+    "has_deployable_alternative": true
+  },
+  {
+    "slug": "pretix",
+    "name": "pretix",
+    "category": "Events",
+    "is_open_source": true,
+    "github_repo": "pretix/pretix",
+    "stars": 2548,
+    "website": "https://pretix.eu",
+    "description": "Self-hostable event registration and ticketing software for conferences, festivals, concerts, and other events.",
+    "pros": [
+      "Supports event registration, ticket sales, and check-in",
+      "Self-hosting is documented"
+    ],
+    "cons": [
+      "Retain the required attribution notice and follow pretix's additional AGPL terms",
+      "Self-hosting requires operating the application stack"
+    ],
+    "last_commit": "2026-10-23T14:05:54Z",
+    "language": "Python",
+    "license": "AGPL-3.0 with pretix Additional Terms",
+    "tags": [
+      "Events",
+      "Ticketing",
+      "Self-Hosted"
+    ]
+  },
+  {
+    "slug": "hi-events",
+    "name": "Hi.Events",
+    "category": "Events",
+    "is_open_source": true,
+    "github_repo": "HiEventsDev/Hi.Events",
+    "stars": 4075,
+    "website": "https://hi.events",
+    "description": "Self-hostable event management and ticket-selling platform for concerts, conferences, nightlife events, workshops, and festivals.",
+    "pros": [
+      "Event management and ticketing with self-hosted and cloud options",
+      "Supports a broad range of event types"
+    ],
+    "cons": [
+      "The community edition requires a visible Powered by Hi.Events attribution unless commercially licensed",
+      "Some enterprise directories use a separate license"
+    ],
+    "last_commit": "2026-10-23T20:10:51Z",
+    "language": "PHP",
+    "license": "AGPL-3.0 with additional attribution terms",
+    "tags": [
+      "Events",
+      "Ticketing",
+      "Self-Hosted"
+    ]
+  },
+  {
+    "slug": "revel",
+    "name": "Revel",
+    "category": "Events",
+    "is_open_source": true,
+    "github_repo": "letsrevel/revel-backend",
+    "stars": 116,
+    "website": "https://letsrevel.io",
+    "description": "Open-source event management, ticketing, and membership platform for communities, clubs, venues, and independent artists; self-hosting is documented.",
+    "pros": [
+      "Combines ticketing, RSVPs, memberships, and event series",
+      "MIT licensed with a documented self-hosting path"
+    ],
+    "cons": [
+      "Smaller community than the larger ticketing projects (116 GitHub stars at review)"
+    ],
+    "last_commit": "2026-10-23T11:48:48Z",
+    "language": "Python",
+    "license": "MIT",
+    "tags": [
+      "Events",
+      "Ticketing",
+      "Memberships",
+      "Self-Hosted"
+    ]
   }
 ]
