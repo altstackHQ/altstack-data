@@ -124,6 +124,9 @@ const meta: MetaRecord = {
   "mochi-1": {
     "title": "Mochi-1"
   },
+  "monomap": {
+    "title": "MonoMap"
+  },
   "n8n": {
     "title": "n8n"
   },

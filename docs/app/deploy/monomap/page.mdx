@@ -1,0 +1,130 @@
+---
+title: "Deploy MonoMap Self-Hosted (Docker)"
+description: "Step-by-step guide to self-hosting MonoMap, the keyboard-first, local-first mind map and kanban board, with Docker Compose."
+---
+
+# Deploy MonoMap
+
+A keyboard-first, local-first mind map **and** kanban board that runs entirely in the browser. Maps and boards are stored on the device (IndexedDB), so the app works offline and needs no account.
+
+<div className="deploy-hero">
+  <span className="deploy-hero-item">📜 MIT</span>
+  <span className="deploy-hero-item">🔒 Local-first</span>
+  <span className="deploy-hero-item">🟢 Beginner</span>
+  <span className="deploy-hero-item">⏱ ~5 minutes</span>
+</div>
+
+<div className="mt-8 mb-4">
+  <a
+    href="https://m.do.co/c/2ed27757a361"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center justify-center w-full px-6 py-4 text-lg font-bold text-white transition-all bg-blue-600 rounded-xl hover:bg-blue-700 hover:scale-[1.02] shadow-lg shadow-blue-500/30"
+  >
+    🚀 Deploy on DigitalOcean ($200 Free Credit)
+  </a>
+</div>
+
+## What You'll Get
+
+A single nginx container serving the static MonoMap build. There is no database and no uploads: each visitor's maps and boards stay in their own browser, and the container itself is stateless.
+
+This deployment runs in **local-only mode** — no accounts, no cloud sync, no analytics. That is the full free product, not a crippled demo. Cloud sync, version history, and shared read-only board links are optional and covered below.
+
+## Prerequisites
+
+- A server with Docker and Docker Compose installed ([setup guide](/quick-start/choosing-a-server))
+- A domain name pointed at your server (optional but recommended)
+- Basic terminal access (SSH)
+
+## The Config
+
+Create a directory for MonoMap and add this `docker-compose.yml`:
+
+```yaml
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 BUILT & MAINTAINED BY THE ALTSTACK
+# 🌍 https://thealtstack.com
+# 💡 Open-source deployment templates for modern self-hosting.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+version: '3.8'
+
+services:
+  monomap:
+    image: ghcr.io/tehnika-mk/monomap:latest
+    container_name: monomap
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q -O /dev/null http://127.0.0.1/ || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+```
+
+## Let's Ship It
+
+```bash
+# Create a directory
+mkdir -p /opt/monomap && cd /opt/monomap
+
+# Create the docker-compose.yml (paste the config above)
+nano docker-compose.yml
+
+# Pull the image and start
+docker compose up -d
+
+# Watch the logs
+docker compose logs -f
+```
+
+Open `http://<your-server>:8080` — you should land on the MonoMap home page, and `/workspace` opens the app. Everything you create is saved in that browser.
+
+To upgrade later:
+
+```bash
+docker compose pull && docker compose up -d
+```
+
+## Optional: Accounts, Sync, and Shared Boards
+
+The published image is built with **placeholder** Supabase credentials. A SvelteKit static export bakes its public environment variables in at build time, so there is no runtime switch — enabling sync means building your own image:
+
+1. Create a Supabase project and deploy MonoMap's migrations and Edge Functions (the repo's `deploy/README.md` documents `npm run deploy:supabase`).
+2. Build from the [MonoMap repository](https://github.com/tehnika-mk/monomap) with your project's values:
+
+```bash
+docker build \
+  --build-arg PUBLIC_SUPABASE_URL="https://<project-ref>.supabase.co" \
+  --build-arg PUBLIC_SUPABASE_ANON_KEY="<anon-key>" \
+  -t monomap:local .
+```
+
+Then point the `image:` line in your Compose file at `monomap:local`. Only the public **anon** key is needed in the build; never bake in the service-role key.
+
+Analytics is off unless you also pass `PUBLIC_GA_ID`. The hosted MonoMap service is a separate paid product — self-hosting the app does not unlock its sync backend.
+
+## Post-Deployment Checklist
+
+- [ ] Service is accessible on the configured port
+- [ ] Reverse proxy configured ([Caddy guide](/concepts/reverse-proxies))
+- [ ] SSL/HTTPS working
+- [ ] Backups decided — the container holds no user data, so back up browsers/profiles instead
+- [ ] Uptime monitor added ([Uptime Kuma](/deploy/uptime-kuma))
+
+## The "I Broke It" Section
+
+**Container won't start?**
+
+```bash
+docker compose logs monomap | tail -50
+```
+
+**Blank page or 404 on a deep link?** The image's nginx config falls back to `200.html` for client-side routes. If you replaced it with your own reverse proxy, make sure unknown paths are forwarded to the container instead of returning 404.
+
+**Healthcheck stuck "unhealthy"?** The check runs `wget http://127.0.0.1/` inside the container. A proxy that rewrites Host headers can break it; verify with `docker compose exec monomap wget -q -O /dev/null http://127.0.0.1/`.
+
+**Can't pull the image?** `ghcr.io/tehnika-mk/monomap` must be public. If the pull asks for credentials, log in with a GitHub token that has `read:packages`.

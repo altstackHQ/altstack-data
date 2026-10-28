@@ -5494,5 +5494,43 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "monomap",
+    "name": "MonoMap",
+    "category": "Productivity",
+    "is_open_source": true,
+    "pricing_model": "Free Self-Hosted / Paid Cloud",
+    "github_repo": "tehnika-mk/monomap",
+    "stars": 1,
+    "website": "https://monomap.app",
+    "description": "Keyboard-first, local-first mind map and kanban board that runs entirely in the browser and stores workspaces in IndexedDB, with optional Supabase-backed sync, version history, and read-only board links.",
+    "pros": [
+      "Works fully offline with no account — maps and boards live in IndexedDB",
+      "MIT-licensed SvelteKit app that builds to static files and deploys as a single nginx container",
+      "Keyboard-driven editing with a mind map ↔ kanban bridge, so branches become board cards without re-entry"
+    ],
+    "cons": [
+      "Cloud sync, version history, and shared board links need the hosted paid plan or your own Supabase project plus Edge Functions",
+      "Early-stage project with a very small community",
+      "No realtime collaboration, comments, or multi-user cursors"
+    ],
+    "tags": [
+      "Mind Map",
+      "Kanban",
+      "Local-First",
+      "Self-Hosted",
+      "Productivity"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=monomap.app",
+    "avg_monthly_cost": 0,
+    "last_commit": "2026-09-29T13:13:34Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "hosting_type": "both",
+    "deployment": {
+      "type": "docker-compose",
+      "local_path": "./docker-deploy/monomap"
+    }
   }
 ]
