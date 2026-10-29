@@ -3601,6 +3601,37 @@
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=kodus.io"
   },
   {
+    "slug": "aixle-flow",
+    "name": "Aixle Flow",
+    "category": "AI Coding",
+    "is_open_source": true,
+    "github_repo": "AixleHQ/flow",
+    "website": "https://aixle.com/labs/flow",
+    "description": "Self-hosted Kanban board for running CLI coding agents as a team. Moving a card starts a durable Temporal workflow whose steps run Claude Code, Codex, Gemini CLI, Cursor CLI or other agents in their own containers, with approval gates and per-session token and cost tracking.",
+    "pros": [
+      "Apache-2.0, self-hosted: code, credentials and orchestration stay on your infrastructure",
+      "Runs seven agent CLIs (Claude Code, Codex, Cursor CLI, Gemini CLI, Antigravity CLI, Grok CLI, Kiro CLI), swappable per workflow step",
+      "Durable workflows with parallel steps, retries and human approval gates, backed by Temporal",
+      "Records tokens and cost per session, workflow and person"
+    ],
+    "cons": [
+      "First setup builds the agent container images locally, which takes a while",
+      "Needs PostgreSQL, Redis and Temporal (bundled in the Docker Compose setup)",
+      "Model calls go to the vendors behind each CLI; you bring your own keys"
+    ],
+    "stars": 29,
+    "language": "Ruby",
+    "license": "Apache-2.0",
+    "tags": [
+      "AI",
+      "Coding",
+      "Self-Hosted"
+    ],
+    "hosting_type": "self-hosted",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=aixle.com",
+    "last_commit": "2026-10-29T18:02:24Z"
+  },
+  {
     "slug": "ollama",
     "name": "Ollama",
     "category": "AI Runners",
