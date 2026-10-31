@@ -157,7 +157,8 @@
     "alternatives": [
       "odoo",
       "erpnext",
-      "customermates"
+      "customermates",
+      "relaticle"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=salesforce.com",
     "pros": [
@@ -2519,7 +2520,8 @@
     "description": "Sales CRM & pipeline management software that helps you get more organized.",
     "alternatives": [
       "twenty",
-      "customermates"
+      "customermates",
+      "relaticle"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=pipedrive.com",
     "avg_monthly_cost": 15,
@@ -5234,6 +5236,31 @@
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=customermates.com",
     "stars": 230,
     "last_commit": "2026-10-20T18:52:22Z"
+  },
+  {
+    "slug": "relaticle",
+    "name": "Relaticle",
+    "category": "CRM",
+    "is_open_source": true,
+    "github_repo": "relaticle/relaticle",
+    "stars": 1799,
+    "website": "https://relaticle.com",
+    "description": "Open-source CRM with a built-in AI assistant and an MCP server, so Claude and ChatGPT can read and update companies, people, opportunities, tasks and notes.",
+    "pros": [
+      "Built-in AI assistant that proposes changes and waits for approval",
+      "First-party MCP server and REST API for agents and integrations",
+      "Custom fields on every record type",
+      "Self-hostable with Docker Compose; cloud plans have unlimited users"
+    ],
+    "cons": [
+      "Smaller community than Twenty or EspoCRM",
+      "No native mobile app",
+      "The AI assistant needs your own OpenAI or Anthropic key when self-hosted"
+    ],
+    "language": "PHP",
+    "license": "AGPL-3.0",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=relaticle.com",
+    "last_commit": "2026-10-31T23:31:11Z"
   },
   {
     "slug": "datagrip",
