@@ -582,7 +582,8 @@
     "description": "All-in-one workspace.",
     "alternatives": [
       "appflowy",
-      "affine"
+      "affine",
+      "worktable"
     ],
     "logo_url": "/logos/notion.svg",
     "avg_monthly_cost": 10,
@@ -5494,5 +5495,15 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "worktable",
+    "name": "Worktable",
+    "category": "Productivity",
+    "is_open_source": true,
+    "github_repo": "worktable/worktable-dev",
+    "website": "https://www.worktable.cloud",
+    "description": "Workspace for people and agents to create and revise docs, interactive HTML, drawings, records, and threads.",
+    "license": "AGPL-3.0"
   }
 ]
