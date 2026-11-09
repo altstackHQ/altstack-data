@@ -2519,7 +2519,8 @@
     "description": "Sales CRM & pipeline management software that helps you get more organized.",
     "alternatives": [
       "twenty",
-      "customermates"
+      "customermates",
+      "looot-crm"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=pipedrive.com",
     "avg_monthly_cost": 15,
@@ -5493,6 +5494,42 @@
     ],
     "language": "TypeScript",
     "license": "AGPL-3.0",
+    "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "looot-crm",
+    "name": "looot CRM",
+    "category": "CRM",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "github_repo": "loootai/looot-crm",
+    "stars": 4,
+    "website": "https://github.com/loootai/looot-crm",
+    "description": "Open-source CRM for small sales teams with companies, people, a pipeline board and an Intent tab per account. Next.js and Supabase. Buying signals come from the paid looot API, and the price of each refresh is shown before it runs.",
+    "alternatives": [
+      "pipedrive"
+    ],
+    "tags": [
+      "CRM",
+      "Sales",
+      "Pipeline",
+      "Open Source",
+      "Self-Hosted"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=looot.ai",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Pipeline board, companies, people and an activity timeline",
+      "Intent tab per account with hiring, funding, tech stack, news and site-change signals",
+      "Demo mode runs with no account or token"
+    ],
+    "cons": [
+      "Live signals need a looot account with a prepaid balance (the CRM itself is MIT)",
+      "No email sequences, dialer, custom objects or reports",
+      "New project (first public repo October 2026)"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
     "hosting_type": "self-hosted"
   }
 ]
