@@ -1728,7 +1728,8 @@
     "website": "https://www.shopify.com",
     "description": "Commerical platform that allows anyone to set up an online store.",
     "alternatives": [
-      "medusa"
+      "medusa",
+      "gocommerce"
     ],
     "logo_url": "/logos/shopify.svg",
     "avg_monthly_cost": 39,
@@ -1777,6 +1778,29 @@
       "agent": "sentinel",
       "timestamp": "2026-03-30T15:26:16.816Z"
     }
+  },
+  {
+    "slug": "gocommerce",
+    "name": "GoCommerce",
+    "category": "E-commerce",
+    "is_open_source": true,
+    "github_repo": "misiki-in/gocommerce",
+    "stars": 12,
+    "website": "https://kitcommerce.store/gocommerce/",
+    "description": "Composable commerce engine for Go: catalog, carts, checkout, orders, payments and inventory as a library over PostgreSQL, with an embedded admin panel.",
+    "pros": [
+      "Single Go binary with one production dependency",
+      "Embedded admin panel, REST API and OpenAPI spec",
+      "Built-in MCP server for AI agents, with an audit trail"
+    ],
+    "cons": [
+      "Requires Go knowledge to assemble a store",
+      "Young project with a small community"
+    ],
+    "last_commit": "2026-11-17T01:03:27Z",
+    "language": "Go",
+    "license": "MIT",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=kitcommerce.store"
   },
   {
     "slug": "posnic",
