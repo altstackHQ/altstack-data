@@ -5494,5 +5494,37 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "trina-ax",
+    "name": "Trina AX",
+    "category": "AI Interfaces",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "github_repo": "trina-app/trina-ax",
+    "stars": 92,
+    "website": "https://ax.trina.app",
+    "description": "Self-hosted team AI workspace: one shared drive, team chat and shared AI sessions, with each person's AI limited to the files that person may open. Runs Claude Code and Codex on your own server.",
+    "tags": [
+      "AI",
+      "Team",
+      "Self-Hosted",
+      "Open Source"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=ax.trina.app",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Every file request from a person or their AI goes through one permission check",
+      "No seat limit when self-hosted",
+      "Reads Korean HWP and HWPX documents"
+    ],
+    "cons": [
+      "Needs a Linux server (Debian 12/13 or Ubuntu 24.04 with systemd) or Docker",
+      "Needs a Claude or OpenAI API key, or an account whose terms allow it",
+      "Young project with a small community"
+    ],
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "hosting_type": "self-hosted"
   }
 ]
