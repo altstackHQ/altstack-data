@@ -3748,6 +3748,33 @@
     "last_commit": "2026-10-21T01:12:28Z"
   },
   {
+    "slug": "next-vibe",
+    "name": "next-vibe",
+    "category": "AI Interfaces",
+    "is_open_source": true,
+    "github_repo": "techfreaque/next-vibe",
+    "website": "https://unbottled.ai",
+    "description": "Self-hostable AI chat and media platform (the code behind unbottled.ai): chat with OpenRouter models or Claude Code, generate images, video, music and speech, and use every feature from the web UI, the CLI or as an MCP tool.",
+    "pros": [
+      "Many models through one OpenRouter key, plus Claude Code",
+      "Image, video, music, speech and transcription in the same app",
+      "Each feature is one definition served as web UI, CLI command and MCP tool"
+    ],
+    "cons": [
+      "Officially supports Linux only for now",
+      "Small community so far"
+    ],
+    "language": "TypeScript",
+    "license": "MIT (app) + GPL-3.0 (framework core)",
+    "tags": [
+      "AI",
+      "Chat",
+      "Self-Hosted"
+    ],
+    "hosting_type": "both",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=unbottled.ai"
+  },
+  {
     "slug": "lm-studio",
     "name": "LM Studio",
     "category": "AI Runners",
