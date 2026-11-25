@@ -157,7 +157,8 @@
     "alternatives": [
       "odoo",
       "erpnext",
-      "customermates"
+      "customermates",
+      "reloop"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=salesforce.com",
     "pros": [
@@ -2519,7 +2520,8 @@
     "description": "Sales CRM & pipeline management software that helps you get more organized.",
     "alternatives": [
       "twenty",
-      "customermates"
+      "customermates",
+      "reloop"
     ],
     "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=pipedrive.com",
     "avg_monthly_cost": 15,
@@ -5490,6 +5492,43 @@
       "Alpha software (first public repo August 2026)",
       "Smaller community than Akaunting or ERPNext",
       "Needs Docker for the recommended self-hosted deploy"
+    ],
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "hosting_type": "self-hosted"
+  },
+  {
+    "slug": "reloop",
+    "name": "Reloop",
+    "category": "CRM",
+    "is_open_source": true,
+    "pricing_model": "Free/Open Source",
+    "github_repo": "reloopcrm/reloop",
+    "website": "https://reloopcrm.com",
+    "description": "Open source CRM that reads your email history and tells you which past customers are worth winning back. It connects your mailbox, finds customers who went quiet and writes a personal win-back draft in your own voice. Self-hostable with Docker.",
+    "alternatives": [
+      "salesforce",
+      "pipedrive"
+    ],
+    "tags": [
+      "CRM",
+      "Sales",
+      "Email",
+      "MCP",
+      "Open Source",
+      "Self-Hosted"
+    ],
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=reloopcrm.com",
+    "avg_monthly_cost": 0,
+    "pros": [
+      "Connects IMAP, Google Workspace or Microsoft 365 and reads the full mail history",
+      "Ranks former customers worth winning back and drafts a follow-up in your own voice",
+      "Read-only MCP server for Claude, ChatGPT and other AI clients",
+      "Bring your own AI key; the CRM works without one"
+    ],
+    "cons": [
+      "New project (public since October 2026)",
+      "AI features need your own OpenRouter, OpenAI or Anthropic key"
     ],
     "language": "TypeScript",
     "license": "AGPL-3.0",
