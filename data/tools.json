@@ -2721,7 +2721,8 @@
     "website": "https://www.intercom.com",
     "description": "The business messenger that builds real-time connections.",
     "alternatives": [
-      "chaskiq"
+      "chaskiq",
+      "feedlog"
     ],
     "logo_url": "/logos/intercom.svg",
     "avg_monthly_cost": 39,
@@ -5494,5 +5495,22 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "hosting_type": "self-hosted"
+  }，     
+    {
+    "slug": "feedlog",
+    "name": "FeedLog",
+    "category": "Support",
+    "is_open_source": true,
+    "github_repo": "linkcraftstudio/feedlog",
+    "website": "https://feedlog.ai/",
+    "description": "Self-hostable AI customer support and product feedback platform for SaaS teams, with an in-app chat widget, knowledge base, and shared inbox.",
+    "pros": [
+      "Answers questions from help articles and hands off unresolved chats to a shared inbox",
+      "Captures feature requests from support chats and organizes them on feedback boards"
+    ],
+    "cons": [
+      "Self-hosted AI features require configuring a model provider"
+    ],
+    "license": "MIT"
   }
 ]
